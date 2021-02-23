@@ -2,7 +2,7 @@
 
 $stylesAndSuch = "
     <meta charset='UTF-8'> 
-    <link rel='stylesheet' type='text/css' href='https://www.roxorsoxor.com/bootstrap/css/bootstrap.min.css'>
+    <link rel='stylesheet' type='text/css' href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'>
     <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
     <script src='https://code.jquery.com/ui/1.12.1/jquery-ui.js'></script>
     <link rel='stylesheet' href='https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css'>
