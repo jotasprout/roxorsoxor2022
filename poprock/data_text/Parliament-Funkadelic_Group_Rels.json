@@ -1,0 +1,111 @@
+{
+    "name": "Parliament-Funkadelic",
+    "mbid": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "e573395a-4dbc-4300-958f-c2352de214eb",
+            "name": "Belita Woods",
+            "attributes": [
+                "background vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "65cc5a76-871f-47e5-9ef1-dda0954fb5cb",
+            "name": "Danny Bedrosian",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e00c2fe3-72b2-47de-8617-e1069bb4fcf6",
+            "name": "Steve Boyd",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "84683370-5eae-418b-acd8-883ac028a8a0",
+            "name": "George Clinton",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "b0ca0d85-24a8-4a00-860d-357ff688b69c",
+            "name": "Bootsy Collins",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "802f4d3c-a7b6-42b5-a254-55f7f39bb044",
+            "name": "Gary \"Mudbone\" Cooper",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "04b84229-a7e5-4df7-a856-5d526717553e",
+            "name": "Lige Curry",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e78768be-5288-41cb-988f-4aa644fbbe06",
+            "name": "Ron Ford",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6976475c-aa91-4483-9e45-fbc78772f16d",
+            "name": "Mallia Franklin",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "ed7af4d2-575f-4336-933a-258841f83f9f",
+            "name": "Michael Hampton",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "98f3e150-95c3-4fa3-8f76-0f6cba4431aa",
+            "name": "Eddie Hazel",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "f48e4420-d2bd-47c6-a322-e2577d06453a",
+            "name": "DeWayne \"Blackbyrd\" McKnight",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7ec0b91d-c6ad-417e-934c-decfdc45bada",
+            "name": "Maceo Parker",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "90931f81-0866-49dd-89cf-76f3ae13cc1a",
+            "name": "Clip Payne",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "66611c93-eece-44c8-91b3-3792a1a6cd64",
+            "name": "Garry Shider",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e3b7aba7-584d-4de5-bce6-4b883373e0f7",
+            "name": "David Spradley",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5f7342e9-e1b2-4a8b-a622-c973838789cf",
+            "name": "Fred Wesley",
+            "attributes": []
+        }
+    ]
+}

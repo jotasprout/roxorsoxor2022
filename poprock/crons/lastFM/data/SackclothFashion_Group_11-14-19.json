@@ -1,0 +1,248 @@
+{
+    "genres": [
+        "Hip-Hop", 
+        "rap", 
+        "1", 
+        "christian", 
+        "Christian hip hop"
+    ], 
+    "taskDuration": {
+        "Task Duration": 9.144613981246948, 
+        "Task End": 1573710596.365844, 
+        "Task Start": 1573710587.22123
+    }, 
+    "stats": {
+        "listeners": "2046", 
+        "playcount": "22935"
+    }, 
+    "name": "Sackcloth Fashion", 
+    "mbid": "2cfdf494-bf0f-4140-8022-9a0ba36183ac", 
+    "birthday": null, 
+    "date": "2019-11-14", 
+    "albums": [
+        {
+            "mbid": "59349617-1f94-44f8-87ae-c7c6fa92a540", 
+            "releases": [], 
+            "title": "Something for Everyone to Hate"
+        }, 
+        {
+            "mbid": "9bd5f9a4-586d-3fb1-a822-8c0623f1964a", 
+            "releases": [
+                {
+                    "name": "The Lone Flower", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "306"
+                            }, 
+                            "title": "The Lone Flower", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "7d1d7d0e-a083-456c-8e04-33fa4a40fbf3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "287"
+                            }, 
+                            "title": "Strange Chemistry", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "0c445dd5-c231-46b8-855e-fa9f52545eec", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "464", 
+                                "playcount": "1497"
+                            }, 
+                            "title": "Direction", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "ff6d1a7c-48ff-4caa-b3db-1f9c5306d10b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "82", 
+                                "playcount": "227"
+                            }, 
+                            "title": "Touch the Sky", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "58c96939-fc8e-4b80-9266-da4968fc9eb4", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "80", 
+                                "playcount": "242"
+                            }, 
+                            "title": "Summit of Angels", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "7673730b-a768-45f0-9af5-5935c1556644", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "167"
+                            }, 
+                            "title": "Infectious", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "fefedc00-73b2-46b7-8411-eb4dee18faef", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "121"
+                            }, 
+                            "title": "Open Road", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "31af79ac-88f2-46ea-a496-002d148b8bf6", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "164"
+                            }, 
+                            "title": "Ride On", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "764525cd-182a-4ce0-b16a-d93c20e19216", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "135"
+                            }, 
+                            "title": "Something Else", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "e9d49359-530b-48cb-a005-a6ed4cfc9a36", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "29"
+                            }, 
+                            "title": "Take My Sin (feat. Tonex)", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "45d1f021-adf4-4d91-9a2c-a5ab17af9911", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "122"
+                            }, 
+                            "title": "Give", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "fe48ed90-818c-436c-a50e-4ba74903fbcd", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Brain Freeze", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "aff54cf3-cd32-4512-9d7f-2daafa45c5e1", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "104"
+                            }, 
+                            "title": "Cowboy", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "75a16e8b-a7e3-487f-8b42-f1fd03bbf425", 
+                            "trackNumber": "13", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "145"
+                            }, 
+                            "title": "Smile in the Dark", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "4aaf45c1-7b82-419e-9f0b-27e828cbe587", 
+                            "trackNumber": "14", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "117"
+                            }, 
+                            "title": "What Is", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "a70925f9-0b5c-4ca8-af8a-03b7704c668f", 
+                            "trackNumber": "15", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Leaning (feat. Marcos Curiel from P.O.D.)", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "19b12a14-0aaf-4bc3-be51-b37d373d1a47", 
+                            "trackNumber": "16", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "148"
+                            }, 
+                            "title": "Grains of Sand", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "c7d730bd-ef33-40df-ab29-baa0dd179805", 
+                            "trackNumber": "17", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "161", 
+                                "playcount": "534"
+                            }, 
+                            "title": "I Sigh", 
+                            "artistName": "Sackcloth Fashion", 
+                            "mbid": "b32956c2-acf8-4a25-97bd-15c0bc555ebb", 
+                            "trackNumber": "18", 
+                            "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9f6e3e27-ff17-412c-953c-f05798365bc3", 
+                    "packaging": null, 
+                    "listeners": "679", 
+                    "date": "2003", 
+                    "artistName": "Sackcloth Fashion", 
+                    "playcount": "4144", 
+                    "artistMBID": "2cfdf494-bf0f-4140-8022-9a0ba36183ac"
+                }
+            ], 
+            "title": "The Lone Flower"
+        }
+    ], 
+    "type": "Group"
+}

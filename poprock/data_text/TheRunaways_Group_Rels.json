@@ -1,0 +1,47 @@
+{
+    "name": "The Runaways",
+    "mbid": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "9edfc312-9934-4860-8c6f-46549844a142",
+            "name": "Vicki Blue",
+            "attributes": [
+                "additional"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "38df6694-ae8e-4078-a7f1-81e4d8b88cbc",
+            "name": "Cherie Currie",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "f20ba447-269a-445a-9347-c1ec8632c455",
+            "name": "Lita Ford",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6df3b38d-8b01-4cb1-b54b-2435fb9531ed",
+            "name": "Jackie Fox",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f376828a-b438-4fda-bb2e-dcd5fbe81f83",
+            "name": "Joan Jett",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "649ba2df-7d69-4041-82f5-2907ed868f8d",
+            "name": "Sandy West",
+            "attributes": []
+        }
+    ]
+}

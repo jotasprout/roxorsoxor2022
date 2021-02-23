@@ -1,0 +1,33 @@
+{
+    "name": "Joan Jett",
+    "mbid": "f376828a-b438-4fda-bb2e-dcd5fbe81f83",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "66bf7876-3898-47fa-8bdd-dc200f946cec",
+            "name": "Evil Stig",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "1d868b72-603c-40c7-9ef1-441ed2948695",
+            "name": "The Hunzz",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e",
+            "name": "The Runaways",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "46e63d3b-d91b-4791-bb73-e9f638a45ea0",
+            "name": "Joan Jett and the Blackhearts",
+            "attributes": [
+                "eponymous"
+            ]
+        }
+    ]
+}

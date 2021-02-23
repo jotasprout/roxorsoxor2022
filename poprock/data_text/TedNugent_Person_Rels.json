@@ -1,0 +1,19 @@
+{
+    "name": "Ted Nugent",
+    "mbid": "e491fae8-3a5a-438e-8368-925753fb41a1",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5",
+            "name": "The Amboy Dukes",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5c585e27-c9f2-4441-8f6c-60e3edeacd0b",
+            "name": "Damn Yankees",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,294 @@
+{
+    "genres": [
+        "rock", 
+        "christian", 
+        "alternative", 
+        "indie", 
+        "christian alternative"
+    ], 
+    "taskDuration": {
+        "Task Duration": 12.716305017471313, 
+        "Task End": 1577685902.940704, 
+        "Task Start": 1577685890.224399
+    }, 
+    "stats": {
+        "listeners": "4820", 
+        "playcount": "40646"
+    }, 
+    "name": "Chagall Guevara", 
+    "mbid": "77f31531-c0aa-49aa-bb51-0905641c73f7", 
+    "birthday": "1989", 
+    "date": "2019-12-30", 
+    "albums": [
+        {
+            "mbid": "2f33d6a3-a421-3990-b9cc-6bedd1449c7d", 
+            "releases": [
+                {
+                    "name": "Chagall Guevara", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "721", 
+                                "playcount": "2739"
+                            }, 
+                            "title": "Murder in the Big House", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "f89d7fc4-3ff5-4975-ae26-c0eb0fa8556a", 
+                            "trackNumber": "1", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "755", 
+                                "playcount": "3136"
+                            }, 
+                            "title": "Escher\u2019s World", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "8454f1dd-cda5-4c5a-b121-be5c95b630d2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "541", 
+                                "playcount": "2142"
+                            }, 
+                            "title": "Play God", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "72a57641-3fc4-4ca3-b5bb-8888f263df09", 
+                            "trackNumber": "3", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "544", 
+                                "playcount": "1900"
+                            }, 
+                            "title": "Monkey Grinder", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "286862c4-5dca-498b-9a08-3080e3d0095a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "432", 
+                                "playcount": "1802"
+                            }, 
+                            "title": "Can\u2019t You Feel the Chains?", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "d725de32-7da2-462b-a2b5-834ae8133f68", 
+                            "trackNumber": "5", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "783", 
+                                "playcount": "3200"
+                            }, 
+                            "title": "Violent Blue", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "8a0169f2-5f3d-441f-b3db-d5a8fff22ce8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "497", 
+                                "playcount": "1806"
+                            }, 
+                            "title": "Love Is a Dead Language", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "74ca8c5a-e497-438e-bbb7-1c92aa863986", 
+                            "trackNumber": "7", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "418", 
+                                "playcount": "1553"
+                            }, 
+                            "title": "Take Me Back to Love Canal", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "97a8d380-d476-4bc0-aa84-295254b2d5aa", 
+                            "trackNumber": "8", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "368", 
+                                "playcount": "1360"
+                            }, 
+                            "title": "The Wrong George", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "53eb34b1-d534-4f09-8a83-f260119ea693", 
+                            "trackNumber": "9", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "448", 
+                                "playcount": "1710"
+                            }, 
+                            "title": "Candy Guru", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "217f339d-b4ad-49f5-805d-205b51b3fd1c", 
+                            "trackNumber": "10", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "565", 
+                                "playcount": "2123"
+                            }, 
+                            "title": "I Need Somebody", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "fdbdd570-867e-4321-a869-46b4969ed4fb", 
+                            "trackNumber": "11", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "499", 
+                                "playcount": "1830"
+                            }, 
+                            "title": "The Rub of Love", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "47f9fddb-0222-4fda-aa85-6e5db57be871", 
+                            "trackNumber": "12", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "584", 
+                                "playcount": "2534"
+                            }, 
+                            "title": "If It All Comes True", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "96c5c7c5-d8ae-4acf-b855-3572820167b7", 
+                            "trackNumber": "13", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5461a119-f942-4a9d-8952-330c27988eed", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "1723", 
+                    "date": "1991-01-22", 
+                    "artistName": "Chagall Guevara", 
+                    "playcount": "24654", 
+                    "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                }
+            ], 
+            "title": "Chagall Guevara"
+        }, 
+        {
+            "mbid": "d0284590-ef02-3bdb-9d51-53c222daf2ae", 
+            "releases": [
+                {
+                    "name": "Violent Blue", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "783", 
+                                "playcount": "3200"
+                            }, 
+                            "title": "Violent Blue", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "8a0169f2-5f3d-441f-b3db-d5a8fff22ce8", 
+                            "trackNumber": "1", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "513"
+                            }, 
+                            "title": "Still Know Your Number by Heart", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "3635f008-24dd-4cb8-9a85-d8ef6fb92a7f", 
+                            "trackNumber": "2", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "721", 
+                                "playcount": "2739"
+                            }, 
+                            "title": "Murder in the Big House", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "f89d7fc4-3ff5-4975-ae26-c0eb0fa8556a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "355aaf78-7da2-4737-8fa9-1c9db24a5c82", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "19", 
+                    "date": "1992", 
+                    "artistName": "Chagall Guevara", 
+                    "playcount": "76", 
+                    "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                }
+            ], 
+            "title": "Violent Blue"
+        }, 
+        {
+            "mbid": "77cc6e98-62e0-4509-a9cc-cb3191bdb011", 
+            "releases": [
+                {
+                    "name": "If It All Comes True", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "584", 
+                                "playcount": "2534"
+                            }, 
+                            "title": "If It All Comes True", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "96c5c7c5-d8ae-4acf-b855-3572820167b7", 
+                            "trackNumber": "1", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "565", 
+                                "playcount": "2123"
+                            }, 
+                            "title": "I Need Somebody", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "fdbdd570-867e-4321-a869-46b4969ed4fb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "783", 
+                                "playcount": "3200"
+                            }, 
+                            "title": "Violent Blue", 
+                            "artistName": "Chagall Guevara", 
+                            "mbid": "8a0169f2-5f3d-441f-b3db-d5a8fff22ce8", 
+                            "trackNumber": "3", 
+                            "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "69a3a452-24bb-4f78-bd23-a3c99263578d", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "1", 
+                    "date": "1992", 
+                    "artistName": "Chagall Guevara", 
+                    "playcount": "16", 
+                    "artistMBID": "77f31531-c0aa-49aa-bb51-0905641c73f7"
+                }
+            ], 
+            "title": "If It All Comes True"
+        }
+    ], 
+    "type": "Group"
+}

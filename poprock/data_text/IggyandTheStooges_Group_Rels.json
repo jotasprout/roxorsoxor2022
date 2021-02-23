@@ -1,0 +1,33 @@
+{
+    "name": "Iggy and The Stooges",
+    "mbid": "1253e5e9-eaa7-4ce6-81b8-09725e8cee43",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7",
+            "name": "Iggy Pop",
+            "attributes": [
+                "eponymous"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a10c8616-cdc3-4fd1-a0fa-bc35a6514168",
+            "name": "Ron Asheton",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "8ff201f8-3b3f-40dd-a7f7-8d0a2184c62e",
+            "name": "Scott Asheton",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "ce433190-9ca1-467c-b5fd-c57ae7f4768c",
+            "name": "James Williamson",
+            "attributes": []
+        }
+    ]
+}

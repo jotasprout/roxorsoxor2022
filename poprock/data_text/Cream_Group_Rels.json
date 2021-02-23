@@ -1,0 +1,25 @@
+{
+    "name": "Cream",
+    "mbid": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "e01d1aff-9cc2-4606-83d7-56445515c6e6",
+            "name": "Ginger Baker",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "94a24504-3548-4bde-a89b-273d277d194e",
+            "name": "Jack Bruce",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+            "name": "Eric Clapton",
+            "attributes": []
+        }
+    ]
+}

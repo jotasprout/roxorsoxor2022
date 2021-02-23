@@ -1,0 +1,798 @@
+{
+    "genres": [
+        "thrash metal", 
+        "doom metal", 
+        "christian metal", 
+        "Christian Thrash Metal", 
+        "british"
+    ], 
+    "taskDuration": {
+        "Task Duration": 34.64523220062256, 
+        "Task End": 1565240143.721043, 
+        "Task Start": 1565240109.075811
+    }, 
+    "stats": {
+        "listeners": "4248", 
+        "playcount": "62003"
+    }, 
+    "name": "Seventh Angel", 
+    "mbid": "b49efb71-3cb2-4770-a028-2422a69b3d2b", 
+    "birthday": "1987", 
+    "date": "2019-08-08", 
+    "albums": [
+        {
+            "mbid": "31ea3c0d-e893-4ce5-8615-dfcb649054f9", 
+            "releases": [
+                {
+                    "name": "The Dust of Years", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "956", 
+                                "playcount": "2389"
+                            }, 
+                            "title": "Chaos of Dreams", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "9bbe1f54-a7e2-47c2-bee9-11c8204e7648", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "853", 
+                                "playcount": "2183"
+                            }, 
+                            "title": "The Turning Tide", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "13f8d0a5-fecf-42d3-a8ea-175a55e91561", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "775", 
+                                "playcount": "2029"
+                            }, 
+                            "title": "Exordium", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "73c4b919-0f90-45b1-8ce1-f4a9f9c3b553", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "714", 
+                                "playcount": "1785"
+                            }, 
+                            "title": "Weep Not for Us", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "36292f19-e661-4a4b-b242-d9426853f519", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "626", 
+                                "playcount": "1630"
+                            }, 
+                            "title": "Abelard and Heloise", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "3ba2b788-b1b2-457f-81ce-dde5452691d5", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "603", 
+                                "playcount": "1585"
+                            }, 
+                            "title": "In Ruins", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "c05337a0-bedf-40e8-9475-5395f2e587ce", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "590", 
+                                "playcount": "1509"
+                            }, 
+                            "title": "Lamentations", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "4b6950ca-ab93-4cc8-8082-0f7da777257f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "536", 
+                                "playcount": "1288"
+                            }, 
+                            "title": "The Raven Sky", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "646d7a35-525e-4643-86e4-0be8c650bb87", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "430", 
+                                "playcount": "973"
+                            }, 
+                            "title": "Oswiecim", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "74336590-7f6f-4d8a-b3d3-70797874fc7c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "3d447b8b-eca9-429e-9276-6322c3a82c60", 
+                    "packaging": null, 
+                    "listeners": "1645", 
+                    "date": "2009-06-24", 
+                    "artistName": "Seventh Angel", 
+                    "playcount": "14873", 
+                    "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                }
+            ], 
+            "title": "The Dust of Years"
+        }, 
+        {
+            "mbid": "724322ee-e216-3b66-a3bd-8afd3bbca967", 
+            "releases": [
+                {
+                    "name": "The Torment", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "815", 
+                                "playcount": "2342"
+                            }, 
+                            "title": "Tormented Forever", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "4a83c94c-b299-47bd-81c8-55061275ea3d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "730", 
+                                "playcount": "1915"
+                            }, 
+                            "title": "The Charmer", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "246dd297-5948-44b0-ada3-8165ac1bc825", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1412", 
+                                "playcount": "3400"
+                            }, 
+                            "title": "Forbidden Desires", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "daa1c2d6-34e3-46cd-b681-8a815a721c78", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1241", 
+                                "playcount": "2920"
+                            }, 
+                            "title": "I of the Needle", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "e7d09341-238d-44d7-9ee0-5cc6a0fa47ce", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "665", 
+                                "playcount": "1773"
+                            }, 
+                            "title": "Expletive Deleted", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "1a58a233-1c84-4613-b2ac-b6f73b79991b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "613", 
+                                "playcount": "1619"
+                            }, 
+                            "title": "Dr. Hatchet", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "b110e427-825c-4154-8a8b-3a141eb45c49", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "638", 
+                                "playcount": "1591"
+                            }, 
+                            "title": "Locked Up in Chains", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "c7ab4c65-3e21-4c22-9c65-66491e3b6e8a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "591", 
+                                "playcount": "1450"
+                            }, 
+                            "title": "Acoustic Interlude", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "93bfa94b-f418-4347-8fa0-9d5bbae0e42f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "579", 
+                                "playcount": "1522"
+                            }, 
+                            "title": "Katie", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "6b3f39f2-7b17-41dd-8290-682b01577df5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "527", 
+                                "playcount": "1510"
+                            }, 
+                            "title": "Epilogue", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "c7c126d4-c827-4880-bb27-d46f5662e886", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "6ca1d3b4-7cb1-475b-979e-ff001de2645e", 
+                    "packaging": null, 
+                    "listeners": "1837", 
+                    "date": "1990", 
+                    "artistName": "Seventh Angel", 
+                    "playcount": "17232", 
+                    "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                }, 
+                {
+                    "name": "The Torment", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "815", 
+                                "playcount": "2342"
+                            }, 
+                            "title": "Tormented Forever", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "4a83c94c-b299-47bd-81c8-55061275ea3d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "730", 
+                                "playcount": "1915"
+                            }, 
+                            "title": "The Charmer", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "246dd297-5948-44b0-ada3-8165ac1bc825", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1412", 
+                                "playcount": "3400"
+                            }, 
+                            "title": "Forbidden Desires", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "daa1c2d6-34e3-46cd-b681-8a815a721c78", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1241", 
+                                "playcount": "2920"
+                            }, 
+                            "title": "I of the Needle", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "e7d09341-238d-44d7-9ee0-5cc6a0fa47ce", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "665", 
+                                "playcount": "1773"
+                            }, 
+                            "title": "Expletive Deleted", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "1a58a233-1c84-4613-b2ac-b6f73b79991b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "613", 
+                                "playcount": "1619"
+                            }, 
+                            "title": "Dr. Hatchet", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "b110e427-825c-4154-8a8b-3a141eb45c49", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "638", 
+                                "playcount": "1591"
+                            }, 
+                            "title": "Locked Up in Chains", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "c7ab4c65-3e21-4c22-9c65-66491e3b6e8a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "591", 
+                                "playcount": "1450"
+                            }, 
+                            "title": "Acoustic Interlude", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "93bfa94b-f418-4347-8fa0-9d5bbae0e42f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "579", 
+                                "playcount": "1522"
+                            }, 
+                            "title": "Katie", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "6b3f39f2-7b17-41dd-8290-682b01577df5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "527", 
+                                "playcount": "1510"
+                            }, 
+                            "title": "Epilogue", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "c7c126d4-c827-4880-bb27-d46f5662e886", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "6ca1d3b4-7cb1-475b-979e-ff001de2645e", 
+                    "packaging": null, 
+                    "listeners": "1837", 
+                    "date": "2008-11-10", 
+                    "artistName": "Seventh Angel", 
+                    "playcount": "17232", 
+                    "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                }, 
+                {
+                    "name": "The Torment", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "815", 
+                                "playcount": "2342"
+                            }, 
+                            "title": "Tormented Forever", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "4a83c94c-b299-47bd-81c8-55061275ea3d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "730", 
+                                "playcount": "1915"
+                            }, 
+                            "title": "The Charmer", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "246dd297-5948-44b0-ada3-8165ac1bc825", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1412", 
+                                "playcount": "3400"
+                            }, 
+                            "title": "Forbidden Desires", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "daa1c2d6-34e3-46cd-b681-8a815a721c78", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1241", 
+                                "playcount": "2920"
+                            }, 
+                            "title": "I of the Needle", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "e7d09341-238d-44d7-9ee0-5cc6a0fa47ce", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "665", 
+                                "playcount": "1773"
+                            }, 
+                            "title": "Expletive Deleted", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "1a58a233-1c84-4613-b2ac-b6f73b79991b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "613", 
+                                "playcount": "1619"
+                            }, 
+                            "title": "Dr. Hatchet", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "b110e427-825c-4154-8a8b-3a141eb45c49", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "638", 
+                                "playcount": "1591"
+                            }, 
+                            "title": "Locked Up in Chains", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "c7ab4c65-3e21-4c22-9c65-66491e3b6e8a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "591", 
+                                "playcount": "1450"
+                            }, 
+                            "title": "Acoustic Interlude", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "93bfa94b-f418-4347-8fa0-9d5bbae0e42f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "579", 
+                                "playcount": "1522"
+                            }, 
+                            "title": "Katie", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "6b3f39f2-7b17-41dd-8290-682b01577df5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "527", 
+                                "playcount": "1510"
+                            }, 
+                            "title": "Epilogue", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "c7c126d4-c827-4880-bb27-d46f5662e886", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "6ca1d3b4-7cb1-475b-979e-ff001de2645e", 
+                    "packaging": null, 
+                    "listeners": "1837", 
+                    "date": "2008-11-25", 
+                    "artistName": "Seventh Angel", 
+                    "playcount": "17232", 
+                    "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                }
+            ], 
+            "title": "The Torment"
+        }, 
+        {
+            "mbid": "e6280e61-f8cc-3703-847c-07cbd393d673", 
+            "releases": [
+                {
+                    "name": "Lament For The Weary", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "769", 
+                                "playcount": "2391"
+                            }, 
+                            "title": "Recollections of a Life Once Lived", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "00833cff-c1bf-4d3f-85d7-5e7d565039b4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "771", 
+                                "playcount": "2357"
+                            }, 
+                            "title": "Life in All Its Emptiness", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "05427459-6860-46e8-91c9-ed56a63e126b", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "718", 
+                                "playcount": "2415"
+                            }, 
+                            "title": "No Longer a Child", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "e5f88560-1117-452f-9ba2-fedf06bf9031", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "740", 
+                                "playcount": "2188"
+                            }, 
+                            "title": "Full of Blackness", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "5f088589-79e4-4119-bdd3-9dd712efc4b2", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "649", 
+                                "playcount": "2047"
+                            }, 
+                            "title": "Lament for the Weary", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "4fb23865-f422-4ccc-afbe-8bd99cbf62af", 
+                            "trackNumber": "A5", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "667", 
+                                "playcount": "1958"
+                            }, 
+                            "title": "Woken by Silence", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "71e277e2-bdc3-42e7-ba74-46b562b2cd58", 
+                            "trackNumber": "A6", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "626", 
+                                "playcount": "1933"
+                            }, 
+                            "title": "Falling Away From Reality", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "78ec90e4-d6e2-4ae9-b120-dce8eb389e83", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "622", 
+                                "playcount": "1783"
+                            }, 
+                            "title": "Dark Shadows", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "910f750e-ff8e-4ac2-a1ce-ed28cea3d830", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "617", 
+                                "playcount": "1693"
+                            }, 
+                            "title": "Passing of Years", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "7f758a0d-fd85-4e77-a83e-ef1c8c147a1c", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "585", 
+                                "playcount": "1610"
+                            }, 
+                            "title": "Secure in Eternity", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "265ef5b5-7a4c-4155-8031-46268c978718", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "585", 
+                                "playcount": "1784"
+                            }, 
+                            "title": "Farewell to Human Cries", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "fca051bc-7b4d-4501-bc7d-38c2f95dc159", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "bae0171e-6b2c-4e14-8270-0926cde1d642", 
+                    "packaging": null, 
+                    "listeners": "1159", 
+                    "date": "1992-03-13", 
+                    "artistName": "Seventh Angel", 
+                    "playcount": "20593", 
+                    "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                }, 
+                {
+                    "name": "Lament For The Weary", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "769", 
+                                "playcount": "2391"
+                            }, 
+                            "title": "Recollections of a Life Once Lived", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "00833cff-c1bf-4d3f-85d7-5e7d565039b4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "771", 
+                                "playcount": "2357"
+                            }, 
+                            "title": "Life in All Its Emptiness", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "05427459-6860-46e8-91c9-ed56a63e126b", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "718", 
+                                "playcount": "2415"
+                            }, 
+                            "title": "No Longer a Child", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "e5f88560-1117-452f-9ba2-fedf06bf9031", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "740", 
+                                "playcount": "2188"
+                            }, 
+                            "title": "Full of Blackness", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "5f088589-79e4-4119-bdd3-9dd712efc4b2", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "649", 
+                                "playcount": "2047"
+                            }, 
+                            "title": "Lament for the Weary", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "4fb23865-f422-4ccc-afbe-8bd99cbf62af", 
+                            "trackNumber": "A5", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "667", 
+                                "playcount": "1958"
+                            }, 
+                            "title": "Woken by Silence", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "71e277e2-bdc3-42e7-ba74-46b562b2cd58", 
+                            "trackNumber": "A6", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "626", 
+                                "playcount": "1933"
+                            }, 
+                            "title": "Falling Away From Reality", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "78ec90e4-d6e2-4ae9-b120-dce8eb389e83", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "622", 
+                                "playcount": "1783"
+                            }, 
+                            "title": "Dark Shadows", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "910f750e-ff8e-4ac2-a1ce-ed28cea3d830", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "617", 
+                                "playcount": "1693"
+                            }, 
+                            "title": "Passing of Years", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "7f758a0d-fd85-4e77-a83e-ef1c8c147a1c", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "585", 
+                                "playcount": "1610"
+                            }, 
+                            "title": "Secure in Eternity", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "265ef5b5-7a4c-4155-8031-46268c978718", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "585", 
+                                "playcount": "1784"
+                            }, 
+                            "title": "Farewell to Human Cries", 
+                            "artistName": "Seventh Angel", 
+                            "mbid": "fca051bc-7b4d-4501-bc7d-38c2f95dc159", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "bae0171e-6b2c-4e14-8270-0926cde1d642", 
+                    "packaging": null, 
+                    "listeners": "1159", 
+                    "date": "1992", 
+                    "artistName": "Seventh Angel", 
+                    "playcount": "20593", 
+                    "artistMBID": "b49efb71-3cb2-4770-a028-2422a69b3d2b"
+                }
+            ], 
+            "title": "Lament for the Weary"
+        }
+    ], 
+    "type": "Group"
+}

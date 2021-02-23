@@ -1,0 +1,1685 @@
+{
+    "genres": [
+        "classic rock", 
+        "Hip-Hop", 
+        "rock", 
+        "hard rock", 
+        "rap"
+    ], 
+    "taskDuration": {
+        "Task Duration": 52.129066944122314, 
+        "Task End": 1581485037.230169, 
+        "Task Start": 1581484985.101102
+    }, 
+    "stats": {
+        "listeners": "89538", 
+        "playcount": "597931"
+    }, 
+    "name": "The Firm", 
+    "mbid": "c08ced1f-d248-4368-90e5-bf579b3bf5de", 
+    "birthday": "1984", 
+    "date": "2020-02-12", 
+    "albums": [
+        {
+            "mbid": "4d6ab9ff-eed5-35eb-b45e-e1b2116c34e8", 
+            "releases": [
+                {
+                    "name": "The Firm", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6725", 
+                                "playcount": "15548"
+                            }, 
+                            "title": "Closer", 
+                            "artistName": "The Firm", 
+                            "mbid": "a41ae702-b3d7-474d-b4e4-4736ff68aa59", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5117", 
+                                "playcount": "11603"
+                            }, 
+                            "title": "Make or Break", 
+                            "artistName": "The Firm", 
+                            "mbid": "369092ac-6ddc-4410-bfb1-6cd963581f7d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5405", 
+                                "playcount": "12767"
+                            }, 
+                            "title": "Someone to Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "5f07b858-36d1-449b-8d46-1de141d90825", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4724", 
+                                "playcount": "10088"
+                            }, 
+                            "title": "Together", 
+                            "artistName": "The Firm", 
+                            "mbid": "133ac5e5-1d3c-4076-b0ca-4b076da28b82", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "7dce6e22-3f20-4df2-8f20-76a89e9d2fc0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2701", 
+                                "playcount": "8341"
+                            }, 
+                            "title": "You've Lost That Lovin' Feeling", 
+                            "artistName": "The Firm", 
+                            "mbid": "1dd7ff44-3180-4165-aa2c-c2759c5a8343", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "772e2cd2-01f6-4088-a346-eee60f7703c0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9130", 
+                                "playcount": "25607"
+                            }, 
+                            "title": "Satisfaction Guaranteed", 
+                            "artistName": "The Firm", 
+                            "mbid": "ff9b0123-240c-4d7b-9ea0-70c72999e5ea", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "df5d01eb-174e-4da5-b55a-71fe7098c852", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "17a218d1-3d00-4fb5-8a23-88d82e6e1b66", 
+                    "packaging": null, 
+                    "listeners": "32055", 
+                    "date": "1985-03-02", 
+                    "artistName": "The Firm", 
+                    "playcount": "153151", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }, 
+                {
+                    "name": "The Firm", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6725", 
+                                "playcount": "15548"
+                            }, 
+                            "title": "Closer", 
+                            "artistName": "The Firm", 
+                            "mbid": "a41ae702-b3d7-474d-b4e4-4736ff68aa59", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5117", 
+                                "playcount": "11603"
+                            }, 
+                            "title": "Make or Break", 
+                            "artistName": "The Firm", 
+                            "mbid": "369092ac-6ddc-4410-bfb1-6cd963581f7d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5405", 
+                                "playcount": "12767"
+                            }, 
+                            "title": "Someone to Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "5f07b858-36d1-449b-8d46-1de141d90825", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4724", 
+                                "playcount": "10088"
+                            }, 
+                            "title": "Together", 
+                            "artistName": "The Firm", 
+                            "mbid": "133ac5e5-1d3c-4076-b0ca-4b076da28b82", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "7dce6e22-3f20-4df2-8f20-76a89e9d2fc0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2701", 
+                                "playcount": "8341"
+                            }, 
+                            "title": "You've Lost That Lovin' Feeling", 
+                            "artistName": "The Firm", 
+                            "mbid": "1dd7ff44-3180-4165-aa2c-c2759c5a8343", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "772e2cd2-01f6-4088-a346-eee60f7703c0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9130", 
+                                "playcount": "25607"
+                            }, 
+                            "title": "Satisfaction Guaranteed", 
+                            "artistName": "The Firm", 
+                            "mbid": "ff9b0123-240c-4d7b-9ea0-70c72999e5ea", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "df5d01eb-174e-4da5-b55a-71fe7098c852", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "17a218d1-3d00-4fb5-8a23-88d82e6e1b66", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "32055", 
+                    "date": "1985", 
+                    "artistName": "The Firm", 
+                    "playcount": "153151", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }, 
+                {
+                    "name": "The Firm", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6725", 
+                                "playcount": "15548"
+                            }, 
+                            "title": "Closer", 
+                            "artistName": "The Firm", 
+                            "mbid": "a41ae702-b3d7-474d-b4e4-4736ff68aa59", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5117", 
+                                "playcount": "11603"
+                            }, 
+                            "title": "Make or Break", 
+                            "artistName": "The Firm", 
+                            "mbid": "369092ac-6ddc-4410-bfb1-6cd963581f7d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5405", 
+                                "playcount": "12767"
+                            }, 
+                            "title": "Someone to Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "5f07b858-36d1-449b-8d46-1de141d90825", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4724", 
+                                "playcount": "10088"
+                            }, 
+                            "title": "Together", 
+                            "artistName": "The Firm", 
+                            "mbid": "133ac5e5-1d3c-4076-b0ca-4b076da28b82", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "7dce6e22-3f20-4df2-8f20-76a89e9d2fc0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2701", 
+                                "playcount": "8341"
+                            }, 
+                            "title": "You've Lost That Lovin' Feeling", 
+                            "artistName": "The Firm", 
+                            "mbid": "1dd7ff44-3180-4165-aa2c-c2759c5a8343", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "772e2cd2-01f6-4088-a346-eee60f7703c0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9130", 
+                                "playcount": "25607"
+                            }, 
+                            "title": "Satisfaction Guaranteed", 
+                            "artistName": "The Firm", 
+                            "mbid": "ff9b0123-240c-4d7b-9ea0-70c72999e5ea", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "df5d01eb-174e-4da5-b55a-71fe7098c852", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "made in West Germany", 
+                    "mbid": "17a218d1-3d00-4fb5-8a23-88d82e6e1b66", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "32055", 
+                    "date": "1985", 
+                    "artistName": "The Firm", 
+                    "playcount": "153151", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }, 
+                {
+                    "name": "The Firm", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6725", 
+                                "playcount": "15548"
+                            }, 
+                            "title": "Closer", 
+                            "artistName": "The Firm", 
+                            "mbid": "a41ae702-b3d7-474d-b4e4-4736ff68aa59", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5117", 
+                                "playcount": "11603"
+                            }, 
+                            "title": "Make or Break", 
+                            "artistName": "The Firm", 
+                            "mbid": "369092ac-6ddc-4410-bfb1-6cd963581f7d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5405", 
+                                "playcount": "12767"
+                            }, 
+                            "title": "Someone to Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "5f07b858-36d1-449b-8d46-1de141d90825", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4724", 
+                                "playcount": "10088"
+                            }, 
+                            "title": "Together", 
+                            "artistName": "The Firm", 
+                            "mbid": "133ac5e5-1d3c-4076-b0ca-4b076da28b82", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "7dce6e22-3f20-4df2-8f20-76a89e9d2fc0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2701", 
+                                "playcount": "8341"
+                            }, 
+                            "title": "You've Lost That Lovin' Feeling", 
+                            "artistName": "The Firm", 
+                            "mbid": "1dd7ff44-3180-4165-aa2c-c2759c5a8343", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "772e2cd2-01f6-4088-a346-eee60f7703c0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9130", 
+                                "playcount": "25607"
+                            }, 
+                            "title": "Satisfaction Guaranteed", 
+                            "artistName": "The Firm", 
+                            "mbid": "ff9b0123-240c-4d7b-9ea0-70c72999e5ea", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "df5d01eb-174e-4da5-b55a-71fe7098c852", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "17a218d1-3d00-4fb5-8a23-88d82e6e1b66", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "32055", 
+                    "date": "1985", 
+                    "artistName": "The Firm", 
+                    "playcount": "153151", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }
+            ], 
+            "title": "The Firm"
+        }, 
+        {
+            "mbid": "6af68d2d-745a-37b0-8370-131113122686", 
+            "releases": [
+                {
+                    "name": "Mean Business", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1566", 
+                                "playcount": "4517"
+                            }, 
+                            "title": "Fortune Hunter", 
+                            "artistName": "The Firm", 
+                            "mbid": "c805a9e2-0378-4da6-93b8-e203f0753235", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1467", 
+                                "playcount": "3967"
+                            }, 
+                            "title": "Cadillac", 
+                            "artistName": "The Firm", 
+                            "mbid": "3ae1bf3b-92d4-4149-ac70-fd990788787a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2060", 
+                                "playcount": "6872"
+                            }, 
+                            "title": "All the King's Horses", 
+                            "artistName": "The Firm", 
+                            "mbid": "8d65c99c-a8a2-4f7c-84ad-d57dc0f105fb", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1636", 
+                                "playcount": "5514"
+                            }, 
+                            "title": "Live in Peace", 
+                            "artistName": "The Firm", 
+                            "mbid": "83c2c75a-9b18-4e92-a4e6-0bce318edd97", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1499", 
+                                "playcount": "4235"
+                            }, 
+                            "title": "Tear Down the Walls", 
+                            "artistName": "The Firm", 
+                            "mbid": "fa964a2a-e15d-470d-9a29-64571f672c92", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1246", 
+                                "playcount": "4049"
+                            }, 
+                            "title": "Dreaming", 
+                            "artistName": "The Firm", 
+                            "mbid": "da6d05a6-2578-4564-b105-fb04e75a52b9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1302", 
+                                "playcount": "3665"
+                            }, 
+                            "title": "Free to Live", 
+                            "artistName": "The Firm", 
+                            "mbid": "e14d8c62-0355-4b6b-bfb5-3b73095e0825", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1247", 
+                                "playcount": "4214"
+                            }, 
+                            "title": "Spirit of Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "90194246-41c9-4a1f-a245-7ceb43f813a6", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "276ea55b-cf8c-4cc2-9f7b-b24f483cb1ed", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "2744", 
+                    "date": "1986-02-03", 
+                    "artistName": "The Firm", 
+                    "playcount": "33578", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }, 
+                {
+                    "name": "Mean Business", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1566", 
+                                "playcount": "4517"
+                            }, 
+                            "title": "Fortune Hunter", 
+                            "artistName": "The Firm", 
+                            "mbid": "c805a9e2-0378-4da6-93b8-e203f0753235", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1467", 
+                                "playcount": "3967"
+                            }, 
+                            "title": "Cadillac", 
+                            "artistName": "The Firm", 
+                            "mbid": "3ae1bf3b-92d4-4149-ac70-fd990788787a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2060", 
+                                "playcount": "6872"
+                            }, 
+                            "title": "All the King's Horses", 
+                            "artistName": "The Firm", 
+                            "mbid": "8d65c99c-a8a2-4f7c-84ad-d57dc0f105fb", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1636", 
+                                "playcount": "5514"
+                            }, 
+                            "title": "Live in Peace", 
+                            "artistName": "The Firm", 
+                            "mbid": "83c2c75a-9b18-4e92-a4e6-0bce318edd97", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1499", 
+                                "playcount": "4235"
+                            }, 
+                            "title": "Tear Down the Walls", 
+                            "artistName": "The Firm", 
+                            "mbid": "fa964a2a-e15d-470d-9a29-64571f672c92", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1246", 
+                                "playcount": "4049"
+                            }, 
+                            "title": "Dreaming", 
+                            "artistName": "The Firm", 
+                            "mbid": "da6d05a6-2578-4564-b105-fb04e75a52b9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1302", 
+                                "playcount": "3665"
+                            }, 
+                            "title": "Free to Live", 
+                            "artistName": "The Firm", 
+                            "mbid": "e14d8c62-0355-4b6b-bfb5-3b73095e0825", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1247", 
+                                "playcount": "4214"
+                            }, 
+                            "title": "Spirit of Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "90194246-41c9-4a1f-a245-7ceb43f813a6", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "276ea55b-cf8c-4cc2-9f7b-b24f483cb1ed", 
+                    "packaging": null, 
+                    "listeners": "2744", 
+                    "date": "1986-04-02", 
+                    "artistName": "The Firm", 
+                    "playcount": "33578", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }, 
+                {
+                    "name": "Mean Business", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1566", 
+                                "playcount": "4517"
+                            }, 
+                            "title": "Fortune Hunter", 
+                            "artistName": "The Firm", 
+                            "mbid": "c805a9e2-0378-4da6-93b8-e203f0753235", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1467", 
+                                "playcount": "3967"
+                            }, 
+                            "title": "Cadillac", 
+                            "artistName": "The Firm", 
+                            "mbid": "3ae1bf3b-92d4-4149-ac70-fd990788787a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2060", 
+                                "playcount": "6872"
+                            }, 
+                            "title": "All the King's Horses", 
+                            "artistName": "The Firm", 
+                            "mbid": "8d65c99c-a8a2-4f7c-84ad-d57dc0f105fb", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1636", 
+                                "playcount": "5514"
+                            }, 
+                            "title": "Live in Peace", 
+                            "artistName": "The Firm", 
+                            "mbid": "83c2c75a-9b18-4e92-a4e6-0bce318edd97", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1499", 
+                                "playcount": "4235"
+                            }, 
+                            "title": "Tear Down the Walls", 
+                            "artistName": "The Firm", 
+                            "mbid": "fa964a2a-e15d-470d-9a29-64571f672c92", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1246", 
+                                "playcount": "4049"
+                            }, 
+                            "title": "Dreaming", 
+                            "artistName": "The Firm", 
+                            "mbid": "da6d05a6-2578-4564-b105-fb04e75a52b9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1302", 
+                                "playcount": "3665"
+                            }, 
+                            "title": "Free to Live", 
+                            "artistName": "The Firm", 
+                            "mbid": "e14d8c62-0355-4b6b-bfb5-3b73095e0825", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1247", 
+                                "playcount": "4214"
+                            }, 
+                            "title": "Spirit of Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "90194246-41c9-4a1f-a245-7ceb43f813a6", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "made in Japan", 
+                    "mbid": "276ea55b-cf8c-4cc2-9f7b-b24f483cb1ed", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "2744", 
+                    "date": "1986", 
+                    "artistName": "The Firm", 
+                    "playcount": "33578", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }
+            ], 
+            "title": "Mean Business"
+        }, 
+        {
+            "mbid": "240d2609-89f1-3b40-9b98-68404c5630cb", 
+            "releases": [
+                {
+                    "name": "Jimmy Page's Firm", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6725", 
+                                "playcount": "15548"
+                            }, 
+                            "title": "Closer", 
+                            "artistName": "The Firm", 
+                            "mbid": "c6212cda-0d58-4119-8a39-175d8a9a29ab", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "468"
+                            }, 
+                            "title": "City Sirens", 
+                            "artistName": "The Firm", 
+                            "mbid": "c6a0f302-86f0-4999-9771-f7b19db14a7e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "248"
+                            }, 
+                            "title": "Make Up Or Break Up", 
+                            "artistName": "The Firm", 
+                            "mbid": "95b7b0c0-4857-4668-ad21-559880f84940", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "104"
+                            }, 
+                            "title": "Morning After", 
+                            "artistName": "The Firm", 
+                            "mbid": "ed6a1c69-a008-4625-868f-a101d821c524", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4724", 
+                                "playcount": "10088"
+                            }, 
+                            "title": "Together", 
+                            "artistName": "The Firm", 
+                            "mbid": "169b909a-b52e-4326-bd1e-4c84efadd90a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "151"
+                            }, 
+                            "title": "Long Black Cadillac", 
+                            "artistName": "The Firm", 
+                            "mbid": "483cd8de-e013-43ca-b41c-d706cef7fb4d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "110", 
+                                "playcount": "430"
+                            }, 
+                            "title": "Prelude", 
+                            "artistName": "The Firm", 
+                            "mbid": "82d8aa8f-e583-430d-935e-d42f39610ab0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "78a617a4-f45d-4711-8f51-72b6e2739856", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "b20a11cd-8d96-4823-8364-c2807a63c116", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1636", 
+                                "playcount": "5514"
+                            }, 
+                            "title": "Live In Peace", 
+                            "artistName": "The Firm", 
+                            "mbid": "71cafdcf-ee80-44dc-ab04-599c6b5adaaf", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "a0f395ab-19f3-4070-9371-36617ab1877b", 
+                            "trackNumber": "11", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "89"
+                            }, 
+                            "title": "Lovin' Feelin'", 
+                            "artistName": "The Firm", 
+                            "mbid": "5c66620b-9cdf-469b-a3d3-9f93d8a96562", 
+                            "trackNumber": "12", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "150"
+                            }, 
+                            "title": "Full Circle", 
+                            "artistName": "The Firm", 
+                            "mbid": "d965d1ea-d8f2-4a60-9037-569f21529e83", 
+                            "trackNumber": "13", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Boogie Mama", 
+                            "artistName": "The Firm", 
+                            "mbid": "eea8b7b9-da0e-4e75-8824-c4f95aad9cc3", 
+                            "trackNumber": "14", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "114"
+                            }, 
+                            "title": "Everybody Needs Somebody To Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "fef92541-6f87-4b90-9b5c-6ac9791686c9", 
+                            "trackNumber": "15", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "2ce214e8-dc91-4e3c-a1e5-1f980d3b854e", 
+                    "packaging": null, 
+                    "listeners": "99", 
+                    "date": "", 
+                    "artistName": "The Firm", 
+                    "playcount": "805", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }
+            ], 
+            "title": "Jimmy Page's Firm"
+        }, 
+        {
+            "mbid": "7c305bd4-b925-4120-a50e-724c235456b6", 
+            "releases": [
+                {
+                    "name": "1984-12-08: Midas Touch: Live at Hammersmith Odeon, London, UK", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6725", 
+                                "playcount": "15548"
+                            }, 
+                            "title": "Closer", 
+                            "artistName": "The Firm", 
+                            "mbid": "135f4107-0d8c-48d5-b5c6-6b961eaee612", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "468"
+                            }, 
+                            "title": "City Sirens", 
+                            "artistName": "The Firm", 
+                            "mbid": "198259b7-625e-4464-a366-9958571773bc", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "248"
+                            }, 
+                            "title": "Make Up or Break Up", 
+                            "artistName": "The Firm", 
+                            "mbid": "a728d68b-2975-44cb-b6ed-fe9faf0ff4f6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "104"
+                            }, 
+                            "title": "Morning After", 
+                            "artistName": "The Firm", 
+                            "mbid": "9f603d1e-d8fa-47f1-bd1e-178c0bff300a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4724", 
+                                "playcount": "10088"
+                            }, 
+                            "title": "Together", 
+                            "artistName": "The Firm", 
+                            "mbid": "70659517-87cd-467e-9527-5a62095f04c0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "151"
+                            }, 
+                            "title": "Long Black Cadillac", 
+                            "artistName": "The Firm", 
+                            "mbid": "0768befb-859a-452a-a604-4dc34362691e", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "110", 
+                                "playcount": "430"
+                            }, 
+                            "title": "Prelude", 
+                            "artistName": "The Firm", 
+                            "mbid": "62a01119-e53c-48ed-a752-554d6e738584", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "ddf9f49d-0dd4-4981-a9dd-5456d72bf6b4", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "34190af1-235b-4cdb-8bf5-7e00ac54227d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1636", 
+                                "playcount": "5514"
+                            }, 
+                            "title": "Live in Peace", 
+                            "artistName": "The Firm", 
+                            "mbid": "e7050d49-2162-4b38-90a0-742c849cd234", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "4eacc9c2-68b4-4577-b7f0-5df240ee4e23", 
+                            "trackNumber": "11", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "89"
+                            }, 
+                            "title": "Lovin' Feelin'", 
+                            "artistName": "The Firm", 
+                            "mbid": "dae59723-f431-470a-8151-50e6bd1a0d49", 
+                            "trackNumber": "12", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "150"
+                            }, 
+                            "title": "Full Circle", 
+                            "artistName": "The Firm", 
+                            "mbid": "55f5cd48-8302-406f-9275-43d00634b738", 
+                            "trackNumber": "13", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Boogie Mama", 
+                            "artistName": "The Firm", 
+                            "mbid": "05ce4d0d-279d-4d80-a877-44eac60a525f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "114"
+                            }, 
+                            "title": "Everybody Needs Somebody to Love", 
+                            "artistName": "The Firm", 
+                            "mbid": "77465a61-5107-417c-ab04-20eefb276087", 
+                            "trackNumber": "15", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "19ba7329-8f16-4e5a-8275-8aefc768ed37", 
+                    "packaging": null, 
+                    "listeners": "5", 
+                    "date": "1985", 
+                    "artistName": "The Firm", 
+                    "playcount": "6", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }
+            ], 
+            "title": "1984-12-08: Midas Touch: Live at Hammersmith Odeon, London, UK"
+        }, 
+        {
+            "mbid": "c6c65874-f9e9-3cfe-8c4e-dc2237f3a28c", 
+            "releases": [
+                {
+                    "name": "1986-05-11: Live USA: Richfield Coliseum, Cleveland, OH, USA", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1566", 
+                                "playcount": "4517"
+                            }, 
+                            "title": "Fortune Hunter", 
+                            "artistName": "The Firm", 
+                            "mbid": "e016868c-87cc-40ab-8cf7-48d58be6d877", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5117", 
+                                "playcount": "11603"
+                            }, 
+                            "title": "Make or Break", 
+                            "artistName": "The Firm", 
+                            "mbid": "e2928d6c-db6a-4c2a-92aa-6d176586c55d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "110", 
+                                "playcount": "430"
+                            }, 
+                            "title": "Prelude", 
+                            "artistName": "The Firm", 
+                            "mbid": "ff9145af-8dea-4a6c-8707-fb5b9cf3b072", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "b4f11eb8-28ff-4e42-a3c3-b3297b60b393", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9130", 
+                                "playcount": "25607"
+                            }, 
+                            "title": "Satisfaction Guaranteed", 
+                            "artistName": "The Firm", 
+                            "mbid": "b83117a1-c8ff-42cd-9516-51ce2c173308", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "5fdc6f11-9e38-4d6b-85cc-b8ead11f4bdf", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2060", 
+                                "playcount": "6872"
+                            }, 
+                            "title": "All the King's Horses", 
+                            "artistName": "The Firm", 
+                            "mbid": "c8e62b47-1308-474b-a7d7-b3667ccac4ba", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1467", 
+                                "playcount": "3967"
+                            }, 
+                            "title": "Cadillac", 
+                            "artistName": "The Firm", 
+                            "mbid": "2440fa19-1b3a-453a-879e-99f185ea3e20", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "556"
+                            }, 
+                            "title": "You've Lost That Loving Feeling", 
+                            "artistName": "The Firm", 
+                            "mbid": "dafc5db8-f324-47f4-b03a-56506f0bd88e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "549114eb-0229-479a-bc75-68a589bc3152", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1499", 
+                                "playcount": "4235"
+                            }, 
+                            "title": "Tear Down the Walls", 
+                            "artistName": "The Firm", 
+                            "mbid": "ef543b8c-c57d-4d14-89a9-cf5227eb0a03", 
+                            "trackNumber": "11", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "f16c7771-ddc9-4bb6-8a56-ce94b9559d9a", 
+                    "packaging": null, 
+                    "listeners": "2", 
+                    "date": "", 
+                    "artistName": "The Firm", 
+                    "playcount": "21", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }
+            ], 
+            "title": "1986-05-11: Live USA: Richfield Coliseum, Cleveland, OH, USA"
+        }, 
+        {
+            "mbid": "475ec8e9-46aa-432b-957b-788d3bdeb600", 
+            "releases": [
+                {
+                    "name": "1986-05-11: Royal Darkness: Cleveland, OH, USA", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "20884", 
+                                "playcount": "35103"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "The Firm", 
+                            "mbid": "adce6c37-3d43-465f-81e3-c0804367c3fc", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1566", 
+                                "playcount": "4517"
+                            }, 
+                            "title": "Fortune Hunter", 
+                            "artistName": "The Firm", 
+                            "mbid": "9e39c4e5-6edb-41de-9782-7c836832d7a0", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "84"
+                            }, 
+                            "title": "Found Somebody", 
+                            "artistName": "The Firm", 
+                            "mbid": "ea5624e9-7185-4878-9ad5-94d9a0481ec3", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "248"
+                            }, 
+                            "title": "Make Up or Break Up", 
+                            "artistName": "The Firm", 
+                            "mbid": "ff0b31ba-d660-43d0-bb93-e881666fb29d", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "110", 
+                                "playcount": "430"
+                            }, 
+                            "title": "Prelude", 
+                            "artistName": "The Firm", 
+                            "mbid": "a2a4c466-f48b-43f6-86ed-73c6065e25c7", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "0accf5a8-9c93-4ea4-8652-4713706f16cb", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Satisfaction Guaranted", 
+                            "artistName": "The Firm", 
+                            "mbid": "ffd6988f-02ac-4647-a064-8c425905d7b9", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "2bec37e8-7746-4e99-ba1c-8902426903bd", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Kings Horses", 
+                            "artistName": "The Firm", 
+                            "mbid": "e0a58fdd-e3b1-425b-8482-8a940547273b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "151"
+                            }, 
+                            "title": "Long Black Cadillac", 
+                            "artistName": "The Firm", 
+                            "mbid": "306c7345-ad12-45f8-969c-664049225a9a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2701", 
+                                "playcount": "8341"
+                            }, 
+                            "title": "You've Lost That Lovin' Feeling", 
+                            "artistName": "The Firm", 
+                            "mbid": "71cf7d74-df9a-440e-8ea0-0f7b096faf2a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "cc1311df-a199-4f01-8ba7-aba6f4535d82", 
+                            "trackNumber": "12", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1499", 
+                                "playcount": "4235"
+                            }, 
+                            "title": "Tear Down the Walls", 
+                            "artistName": "The Firm", 
+                            "mbid": "c448d7f2-4995-48ea-a208-a18ab84a2a6d", 
+                            "trackNumber": "13", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1636", 
+                                "playcount": "5514"
+                            }, 
+                            "title": "Live in Peace", 
+                            "artistName": "The Firm", 
+                            "mbid": "70892036-a0f9-4b18-b3e0-90bc14ea0c79", 
+                            "trackNumber": "14", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "0f9dbd0a-ccf2-42ce-8c93-d257d5a468f5", 
+                    "packaging": null, 
+                    "listeners": "8", 
+                    "date": "", 
+                    "artistName": "The Firm", 
+                    "playcount": "27", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }
+            ], 
+            "title": "1986-05-11: Royal Darkness: Cleveland, OH, USA"
+        }, 
+        {
+            "mbid": "30b7eff8-e5bc-3f6e-a3c0-604ccf60f42e", 
+            "releases": [
+                {
+                    "name": "Radioactive Live", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1566", 
+                                "playcount": "4517"
+                            }, 
+                            "title": "Fortune Hunter", 
+                            "artistName": "The Firm", 
+                            "mbid": "7b9a3da3-37ac-4ce4-9b72-31d5fb3eacd3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "84"
+                            }, 
+                            "title": "Found Somebody", 
+                            "artistName": "The Firm", 
+                            "mbid": "22bcece8-9c54-4090-8796-d04141476d1f", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5117", 
+                                "playcount": "11603"
+                            }, 
+                            "title": "Make or Break", 
+                            "artistName": "The Firm", 
+                            "mbid": "612dd079-0281-4db6-b3e6-7b7d8b85895b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "17"
+                            }, 
+                            "title": "Prelude Band Introduction", 
+                            "artistName": "The Firm", 
+                            "mbid": "9ec09174-3cd8-4ff7-9d3c-688e40908eda", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5491", 
+                                "playcount": "11796"
+                            }, 
+                            "title": "Money Can't Buy", 
+                            "artistName": "The Firm", 
+                            "mbid": "4d46d014-63a4-4809-8a83-9e3adefb6f5d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9130", 
+                                "playcount": "25607"
+                            }, 
+                            "title": "Satisfaction Guaranteed", 
+                            "artistName": "The Firm", 
+                            "mbid": "2c7b518e-16aa-4f61-9ed9-d020db010d80", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "8b6a456e-2013-468f-b1fa-481ef077363a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "70"
+                            }, 
+                            "title": "King's Horses", 
+                            "artistName": "The Firm", 
+                            "mbid": "cadb5c6a-2d09-4f3e-b2fa-ef82c4c487b9", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Cadullac", 
+                            "artistName": "The Firm", 
+                            "mbid": "744f4b76-526c-4202-b5e2-aa66fdb008d8", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "5"
+                            }, 
+                            "title": "You've Lost That Lovin Feeling", 
+                            "artistName": "The Firm", 
+                            "mbid": "9bdc175e-a80c-4956-80b5-def5c3b374a0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5596", 
+                                "playcount": "13392"
+                            }, 
+                            "title": "Midnight Moonlight", 
+                            "artistName": "The Firm", 
+                            "mbid": "55a84f45-7455-4bac-a178-f97c4646a2e2", 
+                            "trackNumber": "11", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1499", 
+                                "playcount": "4235"
+                            }, 
+                            "title": "Tear Down the Walls", 
+                            "artistName": "The Firm", 
+                            "mbid": "a640c357-4327-4484-8288-8188fc90529d", 
+                            "trackNumber": "12", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1636", 
+                                "playcount": "5514"
+                            }, 
+                            "title": "Live in Peace", 
+                            "artistName": "The Firm", 
+                            "mbid": "966f81e8-ea7d-4cd7-bda4-d96cb4165bb6", 
+                            "trackNumber": "13", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "48499c4c-8605-441a-b5b2-6d0551a7e9d2", 
+                    "packaging": null, 
+                    "listeners": "8", 
+                    "date": "", 
+                    "artistName": "The Firm", 
+                    "playcount": "96", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }
+            ], 
+            "title": "Radioactive Live"
+        }, 
+        {
+            "mbid": "14758f95-23b1-4d29-ba8c-604e31c68750", 
+            "releases": [
+                {
+                    "name": "Radioactive", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "23481", 
+                                "playcount": "71550"
+                            }, 
+                            "title": "Radioactive", 
+                            "artistName": "The Firm", 
+                            "mbid": "996a7c4c-dde7-4c85-a077-cf26d3ab5e5d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4724", 
+                                "playcount": "10088"
+                            }, 
+                            "title": "Together", 
+                            "artistName": "The Firm", 
+                            "mbid": "b48d346c-e7e6-4032-bdb9-000042ff606a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "01b6b006-3893-4d01-9ba3-4dcc5a889d7a", 
+                    "packaging": null, 
+                    "listeners": "45", 
+                    "date": "1985", 
+                    "artistName": "The Firm", 
+                    "playcount": "275", 
+                    "artistMBID": "c08ced1f-d248-4368-90e5-bf579b3bf5de"
+                }
+            ], 
+            "title": "Radioactive"
+        }
+    ], 
+    "type": "Group"
+}

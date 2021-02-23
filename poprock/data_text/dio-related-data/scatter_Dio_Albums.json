@@ -1,0 +1,219 @@
+[
+    {
+        "title": "Live at Dominos",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/prophets_dominos.jpg", 
+        "albumMBID": "5f88bd5a-9067-4c76-a768-9d6618ed4b47", 
+        "year": "1963", 
+        "plays": "15622", 
+        "artistName": "Ronnie Dio and the Prophets", 
+        "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+    },
+    {
+        "title": "Hey Look Me Over/It Pays to Advertise",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/electricElves_hey_look_me_over.jpg", 
+        "albumMBID": "8e8be463-06fc-44e0-975a-542fa73f6894", 
+        "year": "1967", 
+        "plays": "117", 
+        "artistName": "Electric Elves", 
+        "artistMBID": "30f9591a-778b-40dd-be8f-105589f9c998"
+    },    
+    {
+        "title": "Elf",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/Elf_elf.jpg", 
+        "albumMBID": "8a6c01db-1af6-35dc-b839-2e8948388b6b", 
+        "year": "1972", 
+        "plays": "444456", 
+        "artistName": "Elf", 
+        "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+    },
+    {
+        "title": "Carolina County Ball",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/Elf_carolina-county-ball.jpg", 
+        "albumMBID": "3d1e280f-3051-4868-bf05-78d2825cf430", 
+        "year": "1974", 
+        "plays": "75125", 
+        "artistName": "Elf", 
+        "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+    },
+    {
+        "title": "The Butterfly Ball and the Grasshopper's Feast",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/rogerGlover_butterfly-ball-and-the-grasshoppers-feast.jpg", 
+        "albumMBID": "559348c5-e0c3-44f2-ba33-53c90bc88b64", 
+        "year": "1974", 
+        "plays": "63992", 
+        "artistName": "Roger Glover and Friends", 
+        "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+    },    
+    {
+        "title": "Trying to Burn the Sun",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/elf_trying-to-burn-the-sun.jpg", 
+        "albumMBID": "d8d00679-48bc-42a3-9b0d-0830d1bdbbd1", 
+        "year": "1975", 
+        "plays": "70818", 
+        "artistName": "Elf", 
+        "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+    },
+    {
+        "title": "Ritchie Blackmore's Rainbow",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/Rainbow_ritchie-blackmores-rainbow.jpg", 
+        "albumMBID": "45f09921-1f1a-4fe5-b4bb-b9dcfc9b0737", 
+        "year": "1975", 
+        "plays": "2295720", 
+        "artistName": "Rainbow", 
+        "artistMBID": "e3cb4543-210f-499a-b0d1-3882c312dfb9"
+    },    
+    {
+        "title": "Rising",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/Rainbow_rising.jpg", 
+        "albumMBID": "c2889cf0-a7ca-3ac4-9f85-dd24157930e0", 
+        "year": "1976", 
+        "plays": "1638244", 
+        "artistName": "Rainbow", 
+        "artistMBID": "e3cb4543-210f-499a-b0d1-3882c312dfb9"
+    },
+    {
+        "title": "Long Live Rock \u2019n\u2019 Roll",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/Rainbow_long-live-rock-n-roll.jpg", 
+        "albumMBID": "0f98f81c-866c-3d54-9e27-6618970f30b1", 
+        "year": "1978", 
+        "plays": "3058", 
+        "artistName": "Rainbow", 
+        "artistMBID": "e3cb4543-210f-499a-b0d1-3882c312dfb9"
+    },    
+    {
+        "title": "Seeds of Change",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/kerryLivgren_seeds-of-change.jpg", 
+        "albumMBID": "6bbaa887-ea23-484a-972f-e1d432859390", 
+        "year": "1980", 
+        "plays": "8787", 
+        "artistName": "Kerry Livgren", 
+        "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+    },  
+    {
+        "title": "Heaven and Hell",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_heaven-and-hell.jpg", 
+        "albumMBID": "8bbe2647-0945-4581-bc33-576e487bd60b", 
+        "year": "1980", 
+        "plays": "4307669", 
+        "artistName": "Black Sabbath", 
+        "artistMBID": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8"
+    },
+    {
+        "title": "Mob Rules",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_mob-rules.jpg", 
+        "albumMBID": "e0eff36e-d609-49b1-9719-dc0b884991f6", 
+        "year": "1981", 
+        "plays": "2042785", 
+        "artistName": "Black Sabbath", 
+        "artistMBID": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8"
+    },       
+    {
+        "title": "Holy Diver", 
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_holy-diver.jpg",
+        "albumMBID": "b35ae348-33a6-3cad-9407-3b48caafcd43", 
+        "year": "1983", 
+        "plays": "6738876", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    },  
+    {
+        "title": "The Last In Line",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_last-in-line.jpg", 
+        "albumMBID": "60e151f7-105f-45e1-b767-12d72e3cba50", 
+        "year": "1984", 
+        "plays": "1925430", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    },      
+    {
+        "title": "Sacred Heart",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_sacred-heart.jpg", 
+        "albumMBID": "50ef0583-cdce-4a07-8920-16f212047c63", 
+        "year": "1985", 
+        "plays": "845145", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    },    
+    {
+        "title": "Dream Evil",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_dream-evil.jpg", 
+        "albumMBID": "5c7a4d3d-6bfc-419d-98db-ddf2f132f865", 
+        "year": "1987", 
+        "plays": "1209502", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    },
+    {
+        "title": "Lock Up The Wolves",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_lock-up-the-wolves.jpg", 
+        "albumMBID": "6cb8ed90-e823-4701-92e4-6b6b5b46f102", 
+        "year": "1990", 
+        "plays": "809737", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    }, 
+    {
+        "title": "Dehumanizer",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_dehumanizer.jpg", 
+        "albumMBID": "080d8e28-9861-4b6c-a6b6-52c7b0d84118", 
+        "year": "1992", 
+        "plays": "1700681", 
+        "artistName": "Black Sabbath", 
+        "artistMBID": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8"
+    },     
+    {
+        "title": "Strange Highways",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_strange-highways.jpg", 
+        "albumMBID": "5567d9cd-ecff-3768-98ee-6540cafa7685", 
+        "year": "1994", 
+        "plays": "575771", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    },   
+    {
+        "title": "Angry Machines",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_angry-machines.jpg", 
+        "albumMBID": "24dd0fcc-31c4-42d2-97b9-674dfa99f09d", 
+        "year": "1996", 
+        "plays": "493400", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    },
+    {
+        "title": "Magica",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_magica.jpg", 
+        "albumMBID": "5ebc49b6-50f2-3fea-84df-7df81e932a19", 
+        "year": "2000", 
+        "plays": "811090", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    },  
+    {
+        "title": "Killing the Dragon",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_killing-the-dragon.jpg", 
+        "albumMBID": "d0e08311-5dea-3850-b1c8-c63ae4c3ae6a", 
+        "year": "2002", 
+        "plays": "675188", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    },     
+    {
+        "title": "Master of the Moon",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/dio_master-of-the-moon.jpg", 
+        "mbid": "bac527e0-bf13-4c96-a990-b9c19fe206db", 
+        "albumMBID": "", 
+        "year": "2004", 
+        "plays": "713032", 
+        "artistName": "Dio", 
+        "artistMBID": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    }, 
+    {
+        "title": "The Devil You Know",
+        "art": "https://www.roxorsoxor.com/poprock/cover-art/heavenHell_devil-you-know.jpg", 
+        "albumMBID": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3", 
+        "year": "2009", 
+        "plays": "1493918", 
+        "artistName": "Heaven & Hell", 
+        "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+    }                                                     
+]

@@ -1,0 +1,35 @@
+.line {
+    fill: none;
+    stroke: #00BFFF;
+    stroke-width: 2;
+}
+
+#title {
+    font-size: 24px;
+    font-weight: bold;
+    fill: white;
+}
+
+.legend {
+    font-size: 12px;
+}
+
+.artistName {
+    font-size: 14px;
+}
+
+.axis {
+    font-size: 14px;
+}
+
+.axis line {
+    stroke: yellow;
+}
+
+.axis path {
+    stroke: yellow;
+}
+
+.axis text {
+    fill: yellow;
+}

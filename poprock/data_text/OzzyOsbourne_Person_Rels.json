@@ -1,0 +1,24 @@
+{
+    "name": "Ozzy Osbourne",
+    "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+            "name": "Black Sabbath",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+            "name": "Black Sabbath",
+            "attributes": [
+                "lead vocals"
+            ]
+        }
+    ]
+}

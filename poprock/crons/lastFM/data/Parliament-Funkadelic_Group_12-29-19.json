@@ -1,0 +1,1001 @@
+{
+    "genres": [
+        "funk", 
+        "p-funk", 
+        "soul", 
+        "psychedelic", 
+        "seenlive"
+    ], 
+    "taskDuration": {
+        "Task Duration": 46.180339097976685, 
+        "Task End": 1577597491.826138, 
+        "Task Start": 1577597445.645799
+    }, 
+    "stats": {
+        "listeners": "1558", 
+        "playcount": "16509"
+    }, 
+    "name": "Parliament-Funkadelic", 
+    "mbid": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d", 
+    "birthday": "1968", 
+    "date": "2019-12-29", 
+    "albums": [
+        {
+            "mbid": "0d69bd47-3b85-3722-a556-7523d596000a", 
+            "releases": [
+                {
+                    "name": "Urban Dancefloor Guerillas", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "3389", 
+                                "playcount": "6553"
+                            }, 
+                            "title": "Acupuncture", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "f0aeae94-ce09-463e-b103-31da3f038861", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3891", 
+                                "playcount": "6705"
+                            }, 
+                            "title": "One of Those Summers", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "6288e17e-8e06-4546-aa33-9af75eb5da22", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4441", 
+                                "playcount": "8386"
+                            }, 
+                            "title": "Catch a Keeper", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "1b93d880-b884-46d6-8ee9-36d942616622", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6670", 
+                                "playcount": "13344"
+                            }, 
+                            "title": "Pumpin' It Up", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "09d4d3b8-4ce1-4234-8f66-33dcd8043345", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4374", 
+                                "playcount": "8881"
+                            }, 
+                            "title": "Copy Cat", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "72e01e49-74ea-456e-ba09-fb2204e7951b", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8244", 
+                                "playcount": "17303"
+                            }, 
+                            "title": "Hydraulic Pump", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "c35bcabd-c460-4ad9-9791-34afd6a78cc8", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Pumpin' It Up (reprise)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "0f2c3178-c024-456f-aa41-26d8815adc7d", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d290724a-9648-4b06-b683-67181c75f0fa", 
+                    "packaging": null, 
+                    "listeners": "11171", 
+                    "date": "1983", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "36345", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }, 
+                {
+                    "name": "Urban Dancefloor Guerillas", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "3389", 
+                                "playcount": "6553"
+                            }, 
+                            "title": "Acupuncture", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "f0aeae94-ce09-463e-b103-31da3f038861", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3891", 
+                                "playcount": "6705"
+                            }, 
+                            "title": "One of Those Summers", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "6288e17e-8e06-4546-aa33-9af75eb5da22", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4441", 
+                                "playcount": "8386"
+                            }, 
+                            "title": "Catch a Keeper", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "1b93d880-b884-46d6-8ee9-36d942616622", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6670", 
+                                "playcount": "13344"
+                            }, 
+                            "title": "Pumpin' It Up", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "09d4d3b8-4ce1-4234-8f66-33dcd8043345", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4374", 
+                                "playcount": "8881"
+                            }, 
+                            "title": "Copy Cat", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "72e01e49-74ea-456e-ba09-fb2204e7951b", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8244", 
+                                "playcount": "17303"
+                            }, 
+                            "title": "Hydraulic Pump", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "c35bcabd-c460-4ad9-9791-34afd6a78cc8", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Pumpin' It Up (reprise)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "0f2c3178-c024-456f-aa41-26d8815adc7d", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "bonus track version", 
+                    "mbid": "d290724a-9648-4b06-b683-67181c75f0fa", 
+                    "packaging": "None", 
+                    "listeners": "11171", 
+                    "date": "2014-01-10", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "36345", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }
+            ], 
+            "title": "Urban Dancefloor Guerillas"
+        }, 
+        {
+            "mbid": "5340dba5-b583-3b36-aaf8-8ebcfd9fec72", 
+            "releases": [
+                {
+                    "name": "Hydraulic Funk", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "24"
+                            }, 
+                            "title": "Pump Up & Down", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "be3ee516-25ac-43e4-a162-820f19a5fc9b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6670", 
+                                "playcount": "13344"
+                            }, 
+                            "title": "Pumpin' It Up", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "8e30a384-d00d-44d0-80ac-0fb746c3c785", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4374", 
+                                "playcount": "8881"
+                            }, 
+                            "title": "Copy Cat", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "cfe79c00-c2fc-4c56-86a1-697e2e5fee68", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8244", 
+                                "playcount": "17303"
+                            }, 
+                            "title": "Hydraulic Pump", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b4ca33e8-8ea5-4f16-bfe4-6daac70e804e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Throw Your Hands Up in the Air", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "95de5d3b-01ba-4f33-9638-8b18e471dbfa", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3389", 
+                                "playcount": "6553"
+                            }, 
+                            "title": "Acupuncture", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b979a4d1-2dfa-49da-a0eb-b89b327f0bba", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3891", 
+                                "playcount": "6705"
+                            }, 
+                            "title": "One of Those Summers", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "6288e17e-8e06-4546-aa33-9af75eb5da22", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4441", 
+                                "playcount": "8386"
+                            }, 
+                            "title": "Catch a Keeper", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "46167bba-a379-431b-91f0-d92762709d4b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "22"
+                            }, 
+                            "title": "Pumpin' You Is So Easy", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b0e81f46-d0a2-472d-ae4c-f5460c4155f1", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "116", 
+                                "playcount": "305"
+                            }, 
+                            "title": "Generator Pop (12\" mix)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "64d6f592-cc60-4eb4-9ccb-1a834b3ee6c8", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Hydraulic Pump, Parts I & II (12\" mix)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "c6267cec-c073-42f1-a4e0-59c7abdf8949", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "822d0388-1864-41fe-ba6e-5daa49b2f1ed", 
+                    "packaging": null, 
+                    "listeners": "2617", 
+                    "date": "1995", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "12058", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }
+            ], 
+            "title": "Hydraulic Funk"
+        }, 
+        {
+            "mbid": "4b1cc57b-8ff5-3901-85f1-7fe97980b2cb", 
+            "releases": [], 
+            "title": "How Late Do U Have 2BB4UR Absent?"
+        }, 
+        {
+            "mbid": "efcfed6e-7e8c-356b-8968-ccb7f72c7d8e", 
+            "releases": [
+                {
+                    "name": "Live: \"The Funkadelic Collection\" Greatest Hits 1972 - 1993", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "20"
+                            }, 
+                            "title": "Funk Gettin' Ready to Roll / I Got a Thing", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b4dc9641-d230-4dad-9175-155449953563", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "339", 
+                                "playcount": "836"
+                            }, 
+                            "title": "Cosmic Slop", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "37ccf0af-b229-442f-af07-acb78cf29b59", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "13"
+                            }, 
+                            "title": "Give Up the Funk / May We Funk You", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "24a2d793-968a-4f63-8f1f-dc4a63b0ce2b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "113", 
+                                "playcount": "308"
+                            }, 
+                            "title": "Red Hot Mama", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "8d0269d7-997d-408c-9c94-c0bb1f59e75a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "76", 
+                                "playcount": "168"
+                            }, 
+                            "title": "Into You", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "7afbabdc-1a35-4aba-82b3-8692be9525a5", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Standing on the Verge / Headstrong", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "76d2c15b-0187-4d1b-8eaa-7468ebf0ea19", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "569", 
+                                "playcount": "2086"
+                            }, 
+                            "title": "Atomic Dog", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "2414b4c6-53c8-4ff7-8e9a-edfc5df4b56e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8b78cd0b-55d2-432f-bf8d-6f5fee29389d", 
+                    "packaging": "Fatbox", 
+                    "listeners": "16", 
+                    "date": "1993", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "132", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }
+            ], 
+            "title": "Live: \"The Funkadelic Collection\" Greatest Hits 1972 - 1993"
+        }, 
+        {
+            "mbid": "1fabd484-2fe7-336e-a6eb-2f0cc500089c", 
+            "releases": [
+                {
+                    "name": "Live At Montreux 2004", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "331"
+                            }, 
+                            "title": "(Not Just) Knee Deep", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "23a09cf3-d662-4806-9aab-57758ebc6bb8", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "f532a465-b55a-4aee-8c0e-e64b77645371", 
+                    "packaging": null, 
+                    "listeners": "2438", 
+                    "date": "2005", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "7492", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }
+            ], 
+            "title": "Live at Montreux 2004"
+        }, 
+        {
+            "mbid": "ec836c43-48b7-3b51-a124-9878837bbd06", 
+            "releases": [
+                {
+                    "name": "Live at the Beverly Theater", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "169", 
+                                "playcount": "390"
+                            }, 
+                            "title": "P. Funk (Wants to Get Funked Up)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "151f8d8d-2c4a-4d48-8de6-5178ea6588d7", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "209", 
+                                "playcount": "462"
+                            }, 
+                            "title": "Do That Stuff", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "141ee22a-6652-48cd-8dc0-7be5c7c45e32", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "267", 
+                                "playcount": "721"
+                            }, 
+                            "title": "Cosmic Slop", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "da659c23-e899-4293-9159-bb273a874ea1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "10"
+                            }, 
+                            "title": "Let's Take It to the Stage / Mothership Connection (Star Child) / I Call My Baby Pussycat", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "21f247ab-5a29-44a2-bec8-a58d3ee024ee", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "166", 
+                                "playcount": "388"
+                            }, 
+                            "title": "Give Up the Funk (Tear the Roof Off the Sucker)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "4922d206-2bf9-4148-9611-83531ebe660b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "298", 
+                                "playcount": "610"
+                            }, 
+                            "title": "(Not Just) Knee Deep", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "0bc95190-efe4-4769-9175-11754438d7d4", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "c358b68d-4603-4ac6-829a-77e204e9785e", 
+                    "packaging": null, 
+                    "listeners": "204", 
+                    "date": "", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "2011", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }
+            ], 
+            "title": "Live at the Beverly Theater"
+        }, 
+        {
+            "mbid": "306a34a5-5e4a-4f29-99e2-3618b2a575a4", 
+            "releases": [], 
+            "title": "Generator Pop / Hydraulic Pump"
+        }, 
+        {
+            "mbid": "83c56324-4a06-4af0-9dc6-f34125b0c581", 
+            "releases": [], 
+            "title": "Bubble Gum Gangster"
+        }, 
+        {
+            "mbid": "e4f0923e-ed41-315f-884c-3dc10b15940b", 
+            "releases": [
+                {
+                    "name": "Mothership Reconnection", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "23008", 
+                                "playcount": "78291"
+                            }, 
+                            "title": "Mothership Reconnection (Daft Punk remix)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b19a48d3-b913-4a1c-9316-374cffc0507a", 
+                            "trackNumber": "AA1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "FR", 
+                    "disambiguation": "", 
+                    "mbid": "2239427f-bfa7-4774-b132-e5c8dc25105d", 
+                    "packaging": null, 
+                    "listeners": "4732", 
+                    "date": "1998-11-16", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "12091", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }, 
+                {
+                    "name": "Mothership Reconnection", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "23008", 
+                                "playcount": "78291"
+                            }, 
+                            "title": "Mothership Reconnection (Daft Punk remix)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b19a48d3-b913-4a1c-9316-374cffc0507a", 
+                            "trackNumber": "AA1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "2239427f-bfa7-4774-b132-e5c8dc25105d", 
+                    "packaging": null, 
+                    "listeners": "4732", 
+                    "date": "1998-11-16", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "12091", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }, 
+                {
+                    "name": "Mothership Reconnection", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "23008", 
+                                "playcount": "78291"
+                            }, 
+                            "title": "Mothership Reconnection (Daft Punk remix)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b19a48d3-b913-4a1c-9316-374cffc0507a", 
+                            "trackNumber": "AA1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "FR", 
+                    "disambiguation": "", 
+                    "mbid": "2239427f-bfa7-4774-b132-e5c8dc25105d", 
+                    "packaging": null, 
+                    "listeners": "4732", 
+                    "date": "1998", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "12091", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }
+            ], 
+            "title": "Mothership Reconnection"
+        }, 
+        {
+            "mbid": "113b5e4c-f393-4e17-99c4-aa473348c1e5", 
+            "releases": [
+                {
+                    "name": "1977-xx-xx: Houston, TX, USA", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "[introduction]", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "6f086224-03d0-40b7-b226-1e4ed43970f0", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "110", 
+                                "playcount": "304"
+                            }, 
+                            "title": "Cosmic Slop", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "51836cf6-534b-4f3e-966c-5c2028f961bc", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "132"
+                            }, 
+                            "title": "Let's Take It to the Stage", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b5ef82a1-07c5-435e-a044-471af94b0bdc", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "163", 
+                                "playcount": "351"
+                            }, 
+                            "title": "Do That Stuff", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "be40c57f-0721-45ed-8d3c-d3094038e10c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Gamin' at Ya", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "2754c1ae-a16c-4225-8090-531aa982e762", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28", 
+                                "playcount": "95"
+                            }, 
+                            "title": "Standing on the Verge of Getting It On", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "444f09e4-5372-4d53-a6a8-4113ae324bd9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "6"
+                            }, 
+                            "title": "The Undisco Kidd", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "8cf708c1-f561-4dbe-9407-b650c4a093f3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "126"
+                            }, 
+                            "title": "Children of Production", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "ef3d1e1e-908c-4f33-afc8-587b1f33e8a0", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4964", 
+                                "playcount": "15639"
+                            }, 
+                            "title": "Mothership Connection", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "d66c3353-f54d-4eea-a183-490a25446a92", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "22"
+                            }, 
+                            "title": "Swing Down, Sweet Chariot", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "b3508c88-ac5c-44c8-8b1d-43c5db0a9326", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Dr.Funkenstein", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "e4a09c17-1c27-499b-b486-09b679899ef1", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Coming 'round the Mountain", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "111faeeb-02d8-463e-b643-c62813ab697f", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "58"
+                            }, 
+                            "title": "P-Funk (Wants to Get Funked Up)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "c0edd776-369f-4907-9f27-5aef2b375c63", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8858", 
+                                "playcount": "31824"
+                            }, 
+                            "title": "Give Up the Funk", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "5fae899d-bdcb-4c62-a63a-87d295aa52fc", 
+                            "trackNumber": "14", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Night of the Thumpasaurus People", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "4b842e03-c5b3-4e54-acd6-f60182e2b7fb", 
+                            "trackNumber": "15", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "17"
+                            }, 
+                            "title": "Funkin' For Fun", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "5b1388ca-974f-4e83-a9b0-1799f32d174e", 
+                            "trackNumber": "16", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "8f33c044-ebfb-421d-9052-136a50778bd7", 
+                    "packaging": null, 
+                    "listeners": "5", 
+                    "date": "", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "24", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }
+            ], 
+            "title": "1977-xx-xx: Houston, TX, USA"
+        }, 
+        {
+            "mbid": "8eaa885d-8613-45f5-8840-b362cfbb61ec", 
+            "releases": [
+                {
+                    "name": "2011-11-17: The Georgia Theatre, Athens, GA, USA", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "How\u2019s Your Funk?", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "92e02809-077c-4dda-8412-2755daf0a406", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Promentalshitbackwashpsychosisenemasquad", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "8d1449ef-a102-4805-9a3e-0eca4bf5a7e3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "212", 
+                                "playcount": "602"
+                            }, 
+                            "title": "Cosmic Slop", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "d67b412b-4f12-4009-819b-302e08c42f93", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Flashlight (Something Stank)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "1b39a571-f123-493b-a9bd-dcde658af733", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "331"
+                            }, 
+                            "title": "(Not Just) Knee Deep", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "05c735bb-d7de-4e64-9f15-36fe2862bc0c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "255", 
+                                "playcount": "399"
+                            }, 
+                            "title": "Sentimental Journey", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "42306686-c958-47ed-91d0-06d061807b5f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "288", 
+                                "playcount": "1001"
+                            }, 
+                            "title": "Maggot Brain", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "ca171922-d443-4207-a3ea-92cdb7fc79c2", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "709", 
+                                "playcount": "3039"
+                            }, 
+                            "title": "One Nation Under a Groove", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "9f1f1729-6674-4fd3-b32e-10747b1988df", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "47"
+                            }, 
+                            "title": "Red Hot Mama", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "7eebcdbc-5714-433a-963c-99d9627f7c60", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "21"
+                            }, 
+                            "title": "P Funk (Wants to Get Funked Up)", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "e167b458-59a5-4b75-b295-42f52b48b9f5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1546", 
+                                "playcount": "5579"
+                            }, 
+                            "title": "We Want the Funk", 
+                            "artistName": "Parliament-Funkadelic", 
+                            "mbid": "66a1f4ac-a3aa-443c-849e-2c86386078c7", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "83c05796-d7fb-471f-90fa-f83d7c8dc307", 
+                    "packaging": null, 
+                    "listeners": "3", 
+                    "date": "", 
+                    "artistName": "Parliament-Funkadelic", 
+                    "playcount": "3", 
+                    "artistMBID": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+                }
+            ], 
+            "title": "2011-11-17: The Georgia Theatre, Athens, GA, USA"
+        }
+    ], 
+    "type": "Group"
+}

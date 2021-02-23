@@ -1,0 +1,59 @@
+{
+    "name": "Buffalo Springfield",
+    "mbid": "22dc19af-d085-4c9b-adfb-22ec256251f1",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "e90f9815-221d-4e10-8675-e75c07988113",
+            "name": "David Crosby",
+            "attributes": [
+                "additional"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b109cae4-cd02-4a69-9a45-809bb330f5e6",
+            "name": "Richie Furay",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "92910f9f-241a-4430-85fb-a78ef97b9161",
+            "name": "Doug Hastings",
+            "attributes": [
+                "additional"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d1724504-5e93-45ec-8fbf-5394d8c2824c",
+            "name": "Dewey Martin",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a04d3ca8-78e2-4f71-825c-c5c1e9d8b77b",
+            "name": "Jim Messina",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "8320161b-a8aa-4b40-9e6d-72700c2d31b5",
+            "name": "Bruce Palmer",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5642774a-72c0-4099-8da4-7c1ab36378a8",
+            "name": "Stephen Stills",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+            "name": "Neil Young",
+            "attributes": []
+        }
+    ]
+}

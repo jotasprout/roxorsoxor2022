@@ -1,0 +1,60 @@
+{
+    "genres": [
+        "Dio", 
+        "rock", 
+        "60s", 
+        "classic rock", 
+        "hard rock"
+    ], 
+    "stats": {
+        "listeners": "282", 
+        "playcount": "1667"
+    }, 
+    "name": "The Electric Elves", 
+    "mbid": "30f9591a-778b-40dd-be8f-105589f9c998", 
+    "birthday": "1967", 
+    "date": "2019-05-06", 
+    "albums": [
+        {
+            "mbid": "b655f6d6-b440-3032-b0a7-82da7f905b52", 
+            "releases": [
+                {
+                    "name": "Hey, Look Me Over", 
+                    "tracks": [
+                        {
+                            "artistMBID": "30f9591a-778b-40dd-be8f-105589f9c998", 
+                            "mbid": "eef211e2-ef78-4b25-939e-25ba3c144259", 
+                            "stats": {
+                                "listeners": "224", 
+                                "playcount": "917"
+                            }, 
+                            "artistName": "The Electric Elves", 
+                            "title": "Hey, Look Me Over"
+                        }, 
+                        {
+                            "artistMBID": "30f9591a-778b-40dd-be8f-105589f9c998", 
+                            "mbid": "5a16e135-29c1-4522-882f-4b03159f02db", 
+                            "stats": {
+                                "listeners": "155", 
+                                "playcount": "493"
+                            }, 
+                            "artistName": "The Electric Elves", 
+                            "title": "It Pays to Advertise"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8e8be463-06fc-44e0-975a-542fa73f6894", 
+                    "packaging": null, 
+                    "listeners": "37", 
+                    "date": "1967", 
+                    "artistName": "The Electric Elves", 
+                    "playcount": "115", 
+                    "artistMBID": "30f9591a-778b-40dd-be8f-105589f9c998"
+                }
+            ], 
+            "title": "Hey, Look Me Over"
+        }
+    ], 
+    "type": "Group"
+}

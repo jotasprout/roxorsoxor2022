@@ -1,0 +1,1164 @@
+{
+    "genres": [
+        "christian", 
+        "rock", 
+        "hardcore", 
+        "new wave", 
+        "christian rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 39.37810492515564, 
+        "Task End": 1590035910.937811, 
+        "Task Start": 1590035871.559706
+    }, 
+    "stats": {
+        "listeners": "1511", 
+        "playcount": "28792"
+    }, 
+    "name": "Mad at the World", 
+    "mbid": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b", 
+    "birthday": "1987", 
+    "date": "2020-05-21", 
+    "albums": [
+        {
+            "mbid": "0a43ab93-4af8-30e2-ad05-74faa173b8e0", 
+            "releases": [
+                {
+                    "name": "Mad At The World", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "297", 
+                                "playcount": "987"
+                            }, 
+                            "title": "Living Dead", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "2970e78d-8d6f-4a36-bb8e-2a207af9b1e7", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173", 
+                                "playcount": "606"
+                            }, 
+                            "title": "All the Lonely Sheep", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "8ed7ddbc-fc31-4df2-a674-0c742068569e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "202", 
+                                "playcount": "614"
+                            }, 
+                            "title": "I Want to See Heaven", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "3a1c7832-32a5-4c47-b6e5-87bd1614daa1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "164", 
+                                "playcount": "547"
+                            }, 
+                            "title": "No Room Left", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "58c59b5f-b136-4c60-a547-9f57858e18d2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Easy Way Out", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "15eb9aa7-5ac9-42ca-bde3-e07550fe83ce", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "146", 
+                                "playcount": "511"
+                            }, 
+                            "title": "Bad Motives", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "479a8476-5434-4127-bcb6-550e09097178", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "165", 
+                                "playcount": "746"
+                            }, 
+                            "title": "No More Innocence", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "1d691f7b-7e34-4653-a3e9-124693961f6b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "128", 
+                                "playcount": "485"
+                            }, 
+                            "title": "It Can't Rain Forever", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "5e3740bd-8c9a-4157-850c-9e649f7dd6a1", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "142", 
+                                "playcount": "596"
+                            }, 
+                            "title": "Here We Go Again", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "271c9883-50cb-4910-b9b4-8eff6534a571", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "515"
+                            }, 
+                            "title": "Dry Your Tears", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "708beaa1-0bfc-4ee7-83c6-d39c58982c77", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "203", 
+                                "playcount": "763"
+                            }, 
+                            "title": "Mad at the World", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "8cc8fd90-2cce-4fa9-a606-9dfcd9db477f", 
+                            "trackNumber": "11", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "118", 
+                                "playcount": "526"
+                            }, 
+                            "title": "Change of Luck", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "cdbb7b3a-7bf7-4a71-996c-6707a9ae9911", 
+                            "trackNumber": "12", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "589cdc75-4025-4043-aee6-c20d0d5b7b39", 
+                    "packaging": null, 
+                    "listeners": "453", 
+                    "date": "1987", 
+                    "artistName": "Mad at the World", 
+                    "playcount": "5318", 
+                    "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                }
+            ], 
+            "title": "Mad at the World"
+        }, 
+        {
+            "mbid": "289ec113-fb83-3e8e-a37e-aead3f707558", 
+            "releases": [
+                {
+                    "name": "Flowers In The Rain", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "203", 
+                                "playcount": "690"
+                            }, 
+                            "title": "Fearfully and Wonderfully", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "ee3dd5a0-5533-4f87-bdab-57e571852640", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "199", 
+                                "playcount": "588"
+                            }, 
+                            "title": "Flowers in the Rain", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "230bc3dd-79a9-4e85-82be-677711b721f1", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "125", 
+                                "playcount": "389"
+                            }, 
+                            "title": "Why", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "b6c0eff2-d4d5-4e9a-a8af-3dc9f40f4343", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "113", 
+                                "playcount": "407"
+                            }, 
+                            "title": "Puppet Strings", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "7d24ad03-f5b9-438e-9d27-bd7f8fea8e10", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "129", 
+                                "playcount": "474"
+                            }, 
+                            "title": "No Mistakes", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "77408d60-2759-4069-b111-ee583e1e610d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "114", 
+                                "playcount": "378"
+                            }, 
+                            "title": "Wait", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "5c39a8df-bd21-4735-8948-32d14193db1d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "406"
+                            }, 
+                            "title": "I Don't Wanna Go There", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "ecb75cc6-9d5e-4625-a5a7-05c05a4543fe", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "118", 
+                                "playcount": "487"
+                            }, 
+                            "title": "Faith Is a Perfect Road", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "a9f8e358-6eae-4e0f-91d8-dd64b8fc5bc0", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "426"
+                            }, 
+                            "title": "In My Dream", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "b575a38a-6da7-4787-a09e-c0e87f939dae", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "326"
+                            }, 
+                            "title": "Lovelight in the Midnight", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "12f2983d-18e0-4e35-a9a4-6fd2b48b5e12", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "127", 
+                                "playcount": "491"
+                            }, 
+                            "title": "This Lie", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "4cbb65d4-bc35-4a45-bebb-febae4d45777", 
+                            "trackNumber": "11", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "366"
+                            }, 
+                            "title": "Dancing on Your Grave", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "6340b2c2-6e76-4a1d-9be4-6f3ae820099f", 
+                            "trackNumber": "12", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "53ebc44f-c8b9-4a40-9ae5-eaa57446c62a", 
+                    "packaging": null, 
+                    "listeners": "334", 
+                    "date": "1988", 
+                    "artistName": "Mad at the World", 
+                    "playcount": "4816", 
+                    "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                }
+            ], 
+            "title": "Flowers in the Rain"
+        }, 
+        {
+            "mbid": "e1feafa7-5804-3188-b560-369e459e921a", 
+            "releases": [
+                {
+                    "name": "Seasons Of Love", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "124", 
+                                "playcount": "384"
+                            }, 
+                            "title": "The Narrow Road", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "6d2a0f2d-30fe-446c-bb3a-d524d747eac6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "110", 
+                                "playcount": "304"
+                            }, 
+                            "title": "Seasons of Love", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "184315aa-5501-42b7-be81-5935fee4543d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105", 
+                                "playcount": "324"
+                            }, 
+                            "title": "City of Anger", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "cf7fe5c6-d72c-495c-9bff-df89e96a1b4a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "116", 
+                                "playcount": "327"
+                            }, 
+                            "title": "When the Wind Blows", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "0d42e0d3-59cd-47a8-b344-edcf85202b8a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "366"
+                            }, 
+                            "title": "Marshmallow Land", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "386df9fa-6b3a-482d-8238-b6a323027a5b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "92", 
+                                "playcount": "250"
+                            }, 
+                            "title": "Summer's Gone", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "2ab3ee0e-2713-4bea-a464-0c31c5b91f53", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "123"
+                            }, 
+                            "title": "Promised Land (The Deception of Drugs)", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "99d18652-c9f8-4d79-b852-aac9597fcaa4", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "232"
+                            }, 
+                            "title": "So Insane", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "fe93ed8c-780f-47d3-a53c-b2647ce66f93", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "404"
+                            }, 
+                            "title": "It's Not a Joke", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "26afde3a-4351-46a9-ba61-6c8bd9049c5d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "194"
+                            }, 
+                            "title": "The Love That Never Fades", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "543a895f-3f30-4030-8d52-98f6a8680253", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "242"
+                            }, 
+                            "title": "Seasons of Love (reprise)", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "225acb74-11af-40c3-884c-8bf2d03a772a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "7df8b4c5-03e4-4342-97a9-831f4272d4e8", 
+                    "packaging": null, 
+                    "listeners": "212", 
+                    "date": "1990", 
+                    "artistName": "Mad at the World", 
+                    "playcount": "2624", 
+                    "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                }
+            ], 
+            "title": "Seasons of Love"
+        }, 
+        {
+            "mbid": "90dcc015-f41f-37f8-8b6f-bb4fa7bddc52", 
+            "releases": [
+                {
+                    "name": "Boomerang", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "126", 
+                                "playcount": "378"
+                            }, 
+                            "title": "House of Sin", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "618c3772-e6fe-4977-b7f7-7e5f57bf0e4f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "355"
+                            }, 
+                            "title": "If You Listen", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "8e062492-7aec-466a-99f8-412f4c95ed2e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "134", 
+                                "playcount": "337"
+                            }, 
+                            "title": "Back to You", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "e3c8427a-ad10-493b-b0c7-b8361efcfa07", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100", 
+                                "playcount": "231"
+                            }, 
+                            "title": "Don't Give Up", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "4bf84079-830f-45c3-9c35-0d217ec62422", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "124", 
+                                "playcount": "287"
+                            }, 
+                            "title": "Ballad of Adam and Eve", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "754c24d6-eefc-4718-94a2-7873aa50a6c2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "237"
+                            }, 
+                            "title": "Sunday", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "154f96ed-8f1c-4a0a-8931-968bcd456d73", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "159"
+                            }, 
+                            "title": "Draggin the Chains", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "1a2d6655-3367-4750-bee2-d0d763284591", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "225"
+                            }, 
+                            "title": "All These Questions", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "64f71661-254a-4748-9fcb-c8617f8a7ba0", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "174"
+                            }, 
+                            "title": "Isn't Sex a Wonderful Thing", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "aeda66a8-287d-4416-b68c-6b8de793aefd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "136", 
+                                "playcount": "292"
+                            }, 
+                            "title": "No More Innocence (reprise)", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "0255844f-0869-4955-ae7d-ae8cde0bd3d5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c9dab1eb-2ab9-4952-8e02-481a21bd85d7", 
+                    "packaging": null, 
+                    "listeners": "304", 
+                    "date": "1991", 
+                    "artistName": "Mad at the World", 
+                    "playcount": "2588", 
+                    "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                }
+            ], 
+            "title": "Boomerang"
+        }, 
+        {
+            "mbid": "2db0ee74-7726-3031-b9c2-68d8497c6d94", 
+            "releases": [
+                {
+                    "name": "Through The Forest", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "501"
+                            }, 
+                            "title": "That Lonesome Road", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "30a07cf9-7aa5-4491-ac6b-272d98908d70", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "118", 
+                                "playcount": "400"
+                            }, 
+                            "title": "Trapped", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "a9c6bc88-090b-416a-87bb-02adfff8013c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105", 
+                                "playcount": "355"
+                            }, 
+                            "title": "Lost in the Forest", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "21239b1c-6afd-4206-9473-8f49968fa05c", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105", 
+                                "playcount": "339"
+                            }, 
+                            "title": "If I Lose My Way", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "cf884533-d308-441b-8d51-dd74a0ef58bf", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "191"
+                            }, 
+                            "title": "Always Be My Love", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "609c0f1f-bb42-44a4-85ef-5c049213e468", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "89", 
+                                "playcount": "215"
+                            }, 
+                            "title": "M.A.T.W. (reprise)", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "5969c1cc-c35d-45de-9e2f-002674ad23a3", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "291"
+                            }, 
+                            "title": "Alone", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "aa7e5546-7f17-4242-8dda-d5ace5724660", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "358"
+                            }, 
+                            "title": "I've Got a Heaven", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "e08a2c32-fdd7-48cb-bd10-1772cf00b9c6", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "271"
+                            }, 
+                            "title": "I'll Never Go Back There", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "79df253f-885c-4b9a-92b8-b1cddaf2457b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "240"
+                            }, 
+                            "title": "If I Can Dream", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "964bd85c-69fb-434f-bf05-f1e4d1127387", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "639c1c27-d41e-4dca-8efb-48cae19b896b", 
+                    "packaging": null, 
+                    "listeners": "249", 
+                    "date": "1992", 
+                    "artistName": "Mad at the World", 
+                    "playcount": "2657", 
+                    "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                }
+            ], 
+            "title": "Through The Forest"
+        }, 
+        {
+            "mbid": "9559259d-fdd0-3265-b771-2e774bab681c", 
+            "releases": [
+                {
+                    "name": "The Ferris Wheel", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "114", 
+                                "playcount": "290"
+                            }, 
+                            "title": "Not The Same", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "a29b3fb0-8c0d-41fe-9f65-cbdb4198f323", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "244"
+                            }, 
+                            "title": "Eyes Of Heaven", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "c8190454-748a-4b07-9ab5-3fb6fd724a5c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "167"
+                            }, 
+                            "title": "Jesus Lead Me", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "3b0a3771-3db7-470e-81be-fc388399f458", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "182"
+                            }, 
+                            "title": "No Secrets", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "c3cf7865-3e24-4359-af0f-01076425ce98", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "200"
+                            }, 
+                            "title": "When Life Has A Plan", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "a4e178b2-6c38-4917-86f0-4919414ee7c8", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "56", 
+                                "playcount": "162"
+                            }, 
+                            "title": "Going Nowhere Again", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "74f33df9-1496-44b4-87be-f7aeef901f32", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "172"
+                            }, 
+                            "title": "Losing Game", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "e852aba4-32d4-41bc-813d-567105d9305e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "56", 
+                                "playcount": "121"
+                            }, 
+                            "title": "All My Life", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "f95c7478-cd3a-44e2-bbdc-889a87143eb5", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "138"
+                            }, 
+                            "title": "The Love", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "b2693f2e-0ad4-4615-b552-59334d82cb30", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "144"
+                            }, 
+                            "title": "Inside of Heaven's Gate", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "db66547e-81f5-4632-b53c-2a4d26b8c473", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "3d9238b3-8d3b-41c3-838a-6e00a3ae5a7c", 
+                    "packaging": null, 
+                    "listeners": "99", 
+                    "date": "1993", 
+                    "artistName": "Mad at the World", 
+                    "playcount": "1222", 
+                    "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                }
+            ], 
+            "title": "The Ferris Wheel"
+        }, 
+        {
+            "mbid": "8dec226f-dfb8-3595-865d-e0b577774b3c", 
+            "releases": [
+                {
+                    "name": "The Dreamland Cafe", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "80", 
+                                "playcount": "164"
+                            }, 
+                            "title": "On the Stage", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "8b3648ec-ee81-424c-88f3-0d31ebe6115a", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "156"
+                            }, 
+                            "title": "The Dreamland Cafe", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "d875f53d-b755-4093-8b7c-097dbfda6f83", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "76", 
+                                "playcount": "136"
+                            }, 
+                            "title": "Floating Down a River", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "d20b3557-91bf-47c3-bb7a-8c6c38ccbb43", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "132"
+                            }, 
+                            "title": "I Need You", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "dd2df6a8-3023-45e4-b724-125a0858c100", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "113"
+                            }, 
+                            "title": "Still a Way to Heal", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "08c91889-ccdc-4817-8a39-538933d0d190", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "115"
+                            }, 
+                            "title": "Another One Is Fooled Again", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "e0c3ed67-e63e-4020-962b-58d2b72e7da5", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "56", 
+                                "playcount": "116"
+                            }, 
+                            "title": "Living in the Shadows", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "8d5441e3-6773-4e47-a24a-e542014a08e0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "130"
+                            }, 
+                            "title": "This Is How We Get to Heaven", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "08918a7a-a2bf-4f50-8545-05abce9ee780", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "110"
+                            }, 
+                            "title": "Don't End Your Dreams", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "52e99e94-28fb-4b38-936c-7428c3f0b313", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "123"
+                            }, 
+                            "title": "If It Were the Last Day", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "170ffa0e-69cf-4b4c-9b3e-68193c20c69e", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "003dcf2d-06ac-4b2a-a3a7-68d56eba2894", 
+                    "packaging": null, 
+                    "listeners": "71", 
+                    "date": "1995", 
+                    "artistName": "Mad at the World", 
+                    "playcount": "594", 
+                    "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                }
+            ], 
+            "title": "The Dreamland Cafe"
+        }, 
+        {
+            "mbid": "5db90db1-fa97-3a9a-98df-abf330c27df5", 
+            "releases": [
+                {
+                    "name": "World History", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "501"
+                            }, 
+                            "title": "That Lonesome Road", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "f0297b75-da4e-49b6-a0da-01a82beebc19", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "404"
+                            }, 
+                            "title": "It's Not a Joke", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "21e063f8-3f6c-415a-8964-856e94abf78d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "203", 
+                                "playcount": "690"
+                            }, 
+                            "title": "Fearfully and Wonderfully", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "a970f7ea-25b9-46ce-97ed-ee8733b943a6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "515"
+                            }, 
+                            "title": "Dry Your Tears", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "4d601d6d-7b04-432d-846d-656c232496b6", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "114", 
+                                "playcount": "290"
+                            }, 
+                            "title": "Not the Same", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "50e8a72d-a951-4e66-8312-1962d064409b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "134", 
+                                "playcount": "337"
+                            }, 
+                            "title": "Back to You", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "ad664a25-ea39-4f63-8098-abaa37f24678", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "127", 
+                                "playcount": "491"
+                            }, 
+                            "title": "This Lie", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "ece120ef-b8c6-46c9-9599-75d671ee06e1", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "297", 
+                                "playcount": "987"
+                            }, 
+                            "title": "Living Dead", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "2534c05f-912f-4ef3-87a6-a8fb48ec3b75", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "366"
+                            }, 
+                            "title": "Marshmallow Land", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "cbd5052a-d31b-4a97-a09f-fbc8b3c714ae", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "358"
+                            }, 
+                            "title": "I've Got a Heaven", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "bf7e3be6-2964-485c-933e-d75f01617bb6", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "165", 
+                                "playcount": "746"
+                            }, 
+                            "title": "No More Innocence", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "8c5f256b-d6db-4c01-bc68-0330f3d5ea62", 
+                            "trackNumber": "11", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "244"
+                            }, 
+                            "title": "Eyes of Heaven", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "8bfbda53-0f08-4a51-97c2-0370a5053ea1", 
+                            "trackNumber": "12", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "124", 
+                                "playcount": "287"
+                            }, 
+                            "title": "Ballad of Adam and Eve", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "9c46669e-a90c-4b6d-9e1c-2a19812de310", 
+                            "trackNumber": "13", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "426"
+                            }, 
+                            "title": "In My Dream", 
+                            "artistName": "Mad at the World", 
+                            "mbid": "e6622d6f-b4e9-4f88-90aa-6787af3ebfb8", 
+                            "trackNumber": "14", 
+                            "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "eadfa356-5a2c-4377-afa4-28ca5efdc372", 
+                    "packaging": null, 
+                    "listeners": "87", 
+                    "date": "1998", 
+                    "artistName": "Mad at the World", 
+                    "playcount": "896", 
+                    "artistMBID": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b"
+                }
+            ], 
+            "title": "World History"
+        }
+    ], 
+    "type": "Group"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "T. Rex",
+    "mbid": "c842d29f-a297-48cd-bb71-4f77fd672b16",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "ce0630f0-3f89-49c1-b5f0-acd88dfc9353",
+            "name": "Marc Bolan",
+            "attributes": [
+                "guitar",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "3c0ac1f8-1fea-49e4-bdb0-b42c4327b4d0",
+            "name": "Steve Currie",
+            "attributes": [
+                "bass"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0c866d96-a3a0-45dc-8280-5b9f071ddd7e",
+            "name": "Bill Legend",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ada2b416-890a-4c12-a4a9-b47447dec780",
+            "name": "Jack Green",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "3a1d04c2-961a-44b4-a4aa-b8c59e8f4bc8",
+            "name": "Mickey Finn",
+            "attributes": [
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1fb910ff-917b-409e-a787-6143fd7b1387",
+            "name": "Gloria Jones",
+            "attributes": [
+                "background vocals",
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "97449164-8c41-4c73-981c-0fcec5da2350",
+            "name": "Steve Peregrine Took",
+            "attributes": [
+                "background vocals",
+                "bass",
+                "membranophone",
+                "percussion"
+            ]
+        }
+    ]
+}

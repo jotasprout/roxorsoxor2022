@@ -1,0 +1,19 @@
+{
+    "name": "Mad at the World",
+    "mbid": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "6b50f217-9486-47a7-b061-3e92876d7a7c",
+            "name": "Randy Rose",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "3f6ece53-0687-412c-bbcf-fd61d0b0c40e",
+            "name": "Roger Rose",
+            "attributes": []
+        }
+    ]
+}

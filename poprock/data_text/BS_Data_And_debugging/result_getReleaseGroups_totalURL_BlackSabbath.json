@@ -1,0 +1,265 @@
+{
+    "ipis": [],
+    "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "disambiguation": "",
+        "iso-3166-1-codes": ["GB"]
+    },
+    "life-span": {
+        "end": "2017-02-04",
+        "ended": true,
+        "begin": "1969"
+    },
+    "gender": null,
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "begin_area": {
+        "name": "Birmingham",
+        "iso-3166-2-codes": ["GB-BIR"],
+        "id": "226c4dca-ef2a-4d4b-ba25-4118d116557a",
+        "sort-name": "Birmingham",
+        "disambiguation": ""
+    },
+    "sort-name": "Black Sabbath",
+    "country": "GB",
+    "name": "Black Sabbath",
+    "release-groups": [{
+        "first-release-date": "1990-06",
+        "title": "ᛏᛉᚱ",
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "secondary-types": [],
+        "id": "00f64d57-aeaf-3925-ac5e-072fdcb7c3f6",
+        "secondary-type-ids": [],
+        "primary-type": "Album"
+    }, {
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "id": "0a321887-9d3d-3600-90d1-67540a409177",
+        "primary-type": "Album",
+        "first-release-date": "1994-01-26",
+        "title": "Cross Purposes"
+    }, {
+        "primary-type": "Album",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "id": "0db80cc3-becc-3ee7-8abe-de42d368ca54",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "title": "Dehumanizer",
+        "first-release-date": "1992-06-22"
+    }, {
+        "title": "Headless Cross",
+        "first-release-date": "1989-06-07",
+        "secondary-type-ids": [],
+        "secondary-types": [],
+        "id": "230fa643-0fdf-34a4-b6e4-3cf8563dcf11",
+        "primary-type": "Album",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": ""
+    }, {
+        "id": "2387c0f2-4c49-47c3-9aa1-f37c299e0138",
+        "secondary-types": ["Compilation"],
+        "secondary-type-ids": ["dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"],
+        "primary-type": "Album",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "title": "The Original",
+        "first-release-date": "1976"
+    }, {
+        "id": "35cb9c0a-3cce-3efd-ac19-014f4811620d",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "primary-type": "Album",
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Mob Rules",
+        "first-release-date": "1981-11-04"
+    }, {
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "secondary-types": [],
+        "id": "3d824358-16fa-4716-8cf3-ef7d1a4641d7",
+        "secondary-type-ids": [],
+        "primary-type": "Album",
+        "first-release-date": "1975-06-08",
+        "title": "Gr'ndlepol"
+    }, {
+        "primary-type": "Album",
+        "secondary-type-ids": [],
+        "secondary-types": [],
+        "id": "43ac82b5-eceb-3909-a153-3c00ea9c7b9a",
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Heaven and Hell",
+        "first-release-date": "1980-04-25"
+    }, {
+        "secondary-type-ids": ["dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"],
+        "secondary-types": ["Compilation"],
+        "id": "5597aa22-9cf0-4508-929b-f0bf53c71748",
+        "primary-type": "Album",
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Hand of Doom",
+        "first-release-date": "1984"
+    }, {
+        "title": "13",
+        "first-release-date": "2013-06-07",
+        "secondary-type-ids": [],
+        "secondary-types": [],
+        "id": "5cbae3a0-6d55-497b-97b3-6c30a3264313",
+        "primary-type": "Album",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": ""
+    }, {
+        "title": "Black Sabbath",
+        "first-release-date": "1970-02-13",
+        "primary-type": "Album",
+        "id": "826c9743-a3f0-3479-bf06-8df2e140ef1d",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }, {
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "primary-type": "Album",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "id": "8c292627-3459-3852-8ebc-226c12db175d",
+        "first-release-date": "1972-09-25",
+        "title": "Vol 4"
+    }, {
+        "first-release-date": "1975-07-28",
+        "title": "Sabotage",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "primary-type": "Album",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "id": "8ef6fc58-d87a-46cf-ab9d-077291784ada"
+    }, {
+        "first-release-date": "1986-01-28",
+        "title": "Seventh Star",
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type": "Album",
+        "secondary-type-ids": [],
+        "secondary-types": [],
+        "id": "9ff01b54-79d5-343b-9a52-242e5627d652"
+    }, {
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "primary-type": "Album",
+        "id": "a0a6e8e0-71dc-39d3-9f1f-066ae17e869b",
+        "secondary-types": ["Compilation"],
+        "secondary-type-ids": ["dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"],
+        "first-release-date": "1977",
+        "title": "Greatest Hits"
+    }, {
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "id": "cc053745-c447-3566-8f27-bed5438c9133",
+        "primary-type": "Album",
+        "first-release-date": "1970-09-18",
+        "title": "Paranoid"
+    }, {
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "primary-type": "Album",
+        "secondary-types": ["Compilation"],
+        "secondary-type-ids": ["dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"],
+        "id": "d4c34b6a-ce19-41f8-953d-11648c0194ef",
+        "first-release-date": "1984",
+        "title": "Heavy Metal Vol. 1"
+    }, {
+        "id": "dcb2536b-a011-33d3-b364-a4e724e5a7a8",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "primary-type": "Album",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "title": "Forbidden",
+        "first-release-date": "1995-06-07"
+    }, {
+        "title": "Sabbath Bloody Sabbath",
+        "first-release-date": "1973",
+        "primary-type": "Album",
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "id": "dd9bd473-0232-3a12-b51e-742de1aca5ca",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": ""
+    }, {
+        "title": "Technical Ecstasy",
+        "first-release-date": "1976-09-25",
+        "primary-type": "Album",
+        "secondary-type-ids": [],
+        "id": "de117377-2f09-3502-8959-e1eca1b583a8",
+        "secondary-types": [],
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }, {
+        "secondary-types": [],
+        "id": "de7de788-0f31-338a-9d82-8a09108e429f",
+        "secondary-type-ids": [],
+        "primary-type": "Album",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "title": "Born Again",
+        "first-release-date": "1983-08-07"
+    }, {
+        "secondary-types": [],
+        "secondary-type-ids": [],
+        "id": "e51e9779-2edc-3b39-959c-299fdb5ed940",
+        "primary-type": "Album",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": "",
+        "title": "Master of Reality",
+        "first-release-date": "1971-07-21"
+    }, {
+        "title": "Never Say Die!",
+        "first-release-date": "1978-09-28",
+        "primary-type": "Album",
+        "secondary-types": [],
+        "id": "eb8c8e6c-b554-31d3-bae0-1c4ea64336d0",
+        "secondary-type-ids": [],
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "disambiguation": ""
+    }, {
+        "title": "The Eternal Idol",
+        "first-release-date": "1987-11-01",
+        "secondary-type-ids": [],
+        "id": "fb123ba6-4a78-3ed3-bee3-cf939fac6411",
+        "secondary-types": [],
+        "primary-type": "Album",
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }, {
+        "title": "We Sold Our Soul for Rock ’n’ Roll",
+        "first-release-date": "1975-12-01",
+        "primary-type": "Album",
+        "id": "fc3ddbd9-6e1b-3777-99f2-6ef324f2ad23",
+        "secondary-types": ["Compilation"],
+        "secondary-type-ids": ["dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"],
+        "disambiguation": "",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }],
+    "id": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+    "end_area": {
+        "sort-name": "Birmingham",
+        "disambiguation": "",
+        "id": "226c4dca-ef2a-4d4b-ba25-4118d116557a",
+        "name": "Birmingham",
+        "iso-3166-2-codes": ["GB-BIR"]
+    },
+    "gender-id": null,
+    "isnis": ["0000000123694269"],
+    "disambiguation": "",
+    "type": "Group"
+}

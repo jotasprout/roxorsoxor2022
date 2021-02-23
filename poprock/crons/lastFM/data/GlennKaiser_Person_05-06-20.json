@@ -1,0 +1,1198 @@
+{
+    "genres": [
+        "rock", 
+        "blues", 
+        "seen live", 
+        "blues rock", 
+        "hard-n-blues"
+    ], 
+    "taskDuration": {
+        "Task Duration": 42.24885606765747, 
+        "Task End": 1588739694.839389, 
+        "Task Start": 1588739652.590533
+    }, 
+    "stats": {
+        "listeners": "1366", 
+        "playcount": "29813"
+    }, 
+    "name": "Glenn Kaiser", 
+    "mbid": "7a6817e4-c0ca-4021-bb40-accd80181461", 
+    "birthday": "1953-01-21", 
+    "date": "2020-05-06", 
+    "albums": [
+        {
+            "mbid": "3928286b-3f5e-3a79-8ecb-85688176420c", 
+            "releases": [
+                {
+                    "name": "All My Days", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "43"
+                            }, 
+                            "title": "All My Days", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "0f7f0431-31ef-402a-8817-ccb290527663", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "10"
+                            }, 
+                            "title": "You Are The Source", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "c36e720a-6afc-4e3b-87e3-3b3e644d2436", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Tapestry", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "a699b624-38b3-40b0-922e-3d70c7fd19bb", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Ever Closer", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "608acea3-13d6-4c41-baaf-01d175728770", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Surrender", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "d6c133e8-c5dd-492b-82d0-f512108d5d28", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "In The Ocean Of His Love", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "d88963ac-aa1c-45a6-8a68-dd044b103885", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "57"
+                            }, 
+                            "title": "Most Of All", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "9d8aaa7c-adab-4026-afe1-dd6c970f90e2", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Lord Of All", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "b9b4e0f4-1c83-42d6-9585-007857136201", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Behold The Lamb Of God", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "0d7dd708-23bc-4c1b-99e9-af02a735720c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Reveal Yourself To Me", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "8bf1a266-44bc-456e-a307-f99bf53cafa3", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Blessed Are The People", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "08e2ba3b-db9a-4285-b046-b355abdd6858", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Like A Little Child", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "7d5cd28b-f844-403f-9c26-667a910e1a1f", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Wedding Prayer", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "1456a3a9-e4d1-44f2-9720-1733cef455de", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Here We Are Gathered", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "c2cd8efe-6629-4a6b-aaa2-9ee66dc84a99", 
+                            "trackNumber": "14", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "For Thee I Wait", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "8e2cb766-b309-4414-842a-ddbcd05738b3", 
+                            "trackNumber": "15", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4ce28868-aadf-4bfd-bbb0-518d426e7dad", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "6", 
+                    "date": "1993-01-06", 
+                    "artistName": "Glenn Kaiser", 
+                    "playcount": "55", 
+                    "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                }
+            ], 
+            "title": "All My Days"
+        }, 
+        {
+            "mbid": "9af6ec9f-e34c-33b8-a8a4-2e1156aafd32", 
+            "releases": [
+                {
+                    "name": "Throw Down Your Crowns", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Wings of the Wind", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "468f1811-df31-46dd-b4ff-3a77796d2c4e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Throw Down Your Crowns", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "0e7728fc-cec0-43be-88da-58fa6dd916ea", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Let Us Glorify", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "ece04be9-ab3c-4dad-a7e3-f4363f2783bf", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "I Surrender All to Thee", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "80ae7aad-f3c6-4195-86f0-0b5ee57b489d", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Light of Dawn", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "a9a802dc-94cd-4da0-8c63-2c8b909504d7", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "You Are All to Me", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "3bea1079-3171-487c-aefe-efd8f69c0705", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Sanctuary", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "419e8bd9-490e-4a16-9bbd-3595e3b1ab06", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Blessed Rest", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "38f00ad8-106e-467a-bb1c-8c8e039e839c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Never Can Repay", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "9cea7b13-bf41-4001-830b-cd93ed8ee026", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Immanuel", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "e413c135-ef1a-4986-aac4-4aa2c008b1e6", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Fearfully, Wondrously Made", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "52661c70-85f9-421e-8d67-d16cf5bff544", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Holy Fire", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "12a77314-2bc9-4558-b235-e81d1af93f7a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Acceptable", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "cd0d19f6-0f0c-43c2-bede-5cd6b4e6769f", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Cause My Heart", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "d44f45ab-2618-49f7-9668-f24c8f23d728", 
+                            "trackNumber": "14", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "854bcab3-2dc8-48e7-a844-c1e7cabca8ac", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "0", 
+                    "date": "1997-01-01", 
+                    "artistName": "Glenn Kaiser", 
+                    "playcount": "0", 
+                    "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                }
+            ], 
+            "title": "Throw Down Your Crowns"
+        }, 
+        {
+            "mbid": "7ddd815a-d516-36c9-9e52-89b6c1fa78d2", 
+            "releases": [
+                {
+                    "name": "You Made The Difference In Me", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "More and More", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "ea7ca7f0-61e4-4ce1-a41a-9e86175bbe97", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Diggin' My Own Grave", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "1b1bc274-c86d-4a54-a3d3-2d6c16bf5db3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Evidence", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "f05ec5b8-3c75-41ce-b51e-acff4a1d7da2", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Faith, Hope, and Love", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "31c06370-9dd3-49c5-bd2d-fb8123434368", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Troubled World", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "8f89e275-32bb-4be1-9149-ae1e32051413", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Self-Control", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "28b5989e-ce3c-46be-978d-c4ac1aa89c35", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Wind Me Up", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "15303953-71c5-486a-8844-998d8d0ea8aa", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Marry Me", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "fdd11100-bf55-4143-986f-d82f92e55d1e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Nothin' but Love", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "2e0ff9b3-7c38-44c4-8dcd-0c506dbe239b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "I Would Choose You", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "c69ee56f-ff08-4d3c-a11a-6999e8c9eef6", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "You Make Me Happy", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "e627c776-59cd-459c-92e7-5468704cfdba", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "It's a Beautiful Thing", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "b14fe862-abb4-4058-8c9b-4f74cd61532a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "1a2af9a4-a2f8-483f-bbae-b6658137b873", 
+                    "packaging": null, 
+                    "listeners": "0", 
+                    "date": "1998", 
+                    "artistName": "Glenn Kaiser", 
+                    "playcount": "0", 
+                    "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                }
+            ], 
+            "title": "You Made The Difference In Me"
+        }, 
+        {
+            "mbid": "43576800-c841-3da3-8c1b-1ee917a8e42b", 
+            "releases": [
+                {
+                    "name": "Time Will Tell", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Memory", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "5426a6b9-1249-4f29-bf65-b1c04afee7f4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Postmodern, Existenial, Ivy League Blues", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "863ed7ec-5ea6-46a1-8979-27752f6e0de5", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Ya Don't Say", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "341a71ec-5510-4ca9-aa29-e8ae6042b3c1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Contact", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "8d3c2836-c8dd-4f38-9545-1398a323425f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Good Hope & New Philadelphia", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "bccf7bd6-2cae-4183-92b1-6f59138117f8", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Drive Me Down to Shonkin", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "5912bb21-35d8-4acb-8a16-cf72de100e74", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Walking on Serpents", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "7949ea86-06df-4c69-aae9-7447e249b339", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Deliver", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "975b9915-f627-4bb3-8a62-c8656d1b7b6c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Clear Blue Sky", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "e818775b-6875-44fa-b453-c3f273602af4", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Follywood Green", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "49086999-3ebd-4408-81fe-73f45d3cfbee", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Plant the Seed Again", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "56d7076a-e713-4e2e-960a-1e0ab01ba64e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "One More Step", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "196e343b-f388-493a-995a-019e6c83c404", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "3"
+                            }, 
+                            "title": "My Strength, My Song", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "e816be54-2297-4bdb-95c5-4fa9e39de1ab", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ce052d85-85d4-495b-8edf-47ab460c208b", 
+                    "packaging": null, 
+                    "listeners": "2", 
+                    "date": "1999", 
+                    "artistName": "Glenn Kaiser", 
+                    "playcount": "19", 
+                    "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                }
+            ], 
+            "title": "Time Will Tell"
+        }, 
+        {
+            "mbid": "1eefac89-0f85-3dc6-9db9-33ab2fd27785", 
+            "releases": [
+                {
+                    "name": "Bound for Glory", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "18"
+                            }, 
+                            "title": "God's Not Dead", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "0bb38914-5f85-4583-8928-d6a51ba43bfd", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "11"
+                            }, 
+                            "title": "I've Been Redeemed", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "122a3aef-86f2-484f-aa2e-c9dce3fbeab3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "39"
+                            }, 
+                            "title": "Since I Laid My Burdens Down", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "633aab17-9bfc-453a-bc6c-d7b714720320", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Softly and Tenderly", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "2fa3e7fd-c5d7-4e8c-9424-1d4e031a7e53", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "7"
+                            }, 
+                            "title": "This Train", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "b3875763-3d65-4fab-9646-d30f926bcdee", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "11"
+                            }, 
+                            "title": "At the Cross", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "a1c8bb22-f177-4ad6-a09f-c70ebdb2e62f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "11"
+                            }, 
+                            "title": "Go Tell It on the Mountain", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "1fb0e993-ed32-45cc-b32e-7ecf6ee2bf45", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "11"
+                            }, 
+                            "title": "There is No One", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "7d6c5749-590e-4640-9c57-f470afc1959b", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "6"
+                            }, 
+                            "title": "I've Got That Joy", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "b8bce658-6d61-4912-b192-c6a348e09bac", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "7"
+                            }, 
+                            "title": "All Hail the Power", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "173cfe3c-59da-4fd1-8af6-c282a600a04d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "57"
+                            }, 
+                            "title": "I'll Fly Away", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "e54dbaa2-e07e-4511-8d5d-4ad8d02910ee", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Doxology", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "7e0ba78c-fa60-47dc-8240-bbad62b0c5dd", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4c8ea551-2164-4519-9a4c-d638be40835e", 
+                    "packaging": null, 
+                    "listeners": "6", 
+                    "date": "2006", 
+                    "artistName": "Glenn Kaiser", 
+                    "playcount": "66", 
+                    "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                }
+            ], 
+            "title": "Bound for Glory"
+        }, 
+        {
+            "mbid": "8bd39ac9-ac5f-47a8-a6f7-0ecb433ead51", 
+            "releases": [], 
+            "title": "Cardboard Box"
+        }, 
+        {
+            "mbid": "f7100e9c-58d3-3f71-b5ab-b8e5eed3b43e", 
+            "releases": [
+                {
+                    "name": "Blues Heaven: The Best of Glenn Kaiser's Blues", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Ain't Much Difference", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "350c2e56-dc82-4555-b4b3-db6483c2c5c2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "The Return", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "eb1769df-6cfb-4888-a4f5-b2ef2abe26b5", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Raindance", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "08579626-76aa-4593-adf2-e82187d3637f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Slow Burn", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "bde9ff96-708b-4852-bfb3-8884c0761702", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Everybody Understands the Blues", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "b3fdb4e7-48f7-4604-9518-d68ad0e9d740", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Where Roses Grow", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "8be70723-4bf0-4124-9cad-8bab0c351aaf", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Spontaneous Combustion", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "29ade8b1-7ab3-46b0-91e8-4c27f7d7f083", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "13"
+                            }, 
+                            "title": "Great Change", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "2ebfdf44-8459-415f-8898-af6b33919563", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "The Crossing", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "a4dea69a-9408-45d0-bf58-0802a16752fe", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "2"
+                            }, 
+                            "title": "My Jesus Is All", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "95821eb4-8e64-40ef-bcf4-d44183363ebf", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Shaky Ground", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "fc41d931-b26b-42ca-b74e-e0009f567ccd", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Players", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "80d54d2a-3f90-4376-9eaa-16201743f789", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Souls for Hire", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "3d8141d1-e052-451d-b1a5-4b04d3fd3752", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "274"
+                            }, 
+                            "title": "If I Leave This World Tomorrow", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "09f2df55-b699-4f32-80e6-ecd4470ca3a7", 
+                            "trackNumber": "14", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Long Way from Home", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "1eee472f-7c67-4fa1-b423-a37b11c8ad71", 
+                            "trackNumber": "15", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "218f3105-39e0-492e-b1aa-a97000c16a81", 
+                    "packaging": null, 
+                    "listeners": "0", 
+                    "date": "1999", 
+                    "artistName": "Glenn Kaiser", 
+                    "playcount": "0", 
+                    "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                }
+            ], 
+            "title": "Blues Heaven: The Best of Glenn Kaiser's Blues"
+        }, 
+        {
+            "mbid": "b34378be-a2ef-4fb8-9d43-9372862b793f", 
+            "releases": [], 
+            "title": "Blues Heaven II"
+        }, 
+        {
+            "mbid": "903fbddb-9361-309c-b5f1-10eefbb971e4", 
+            "releases": [
+                {
+                    "name": "Spontaneous Combustion", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Everybody Understands the Blues", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "5ea0c1b4-c7bb-4dc7-8bfe-8e213c409c2c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Trouble", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "2821fc01-6ad8-4d38-8e64-db92ed1fe154", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Through the Night", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "2cadc017-35b0-42a7-b8c6-24337ff8aa68", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Queen Bee", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "684b29c8-9b35-4ec3-ab51-d2454a360eec", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Shufflin' the Deck", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "4d292354-5c44-4f9f-b865-3b8d82bc90f9", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "274"
+                            }, 
+                            "title": "If I Leave This World Tomorrow", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "d88d46fd-ff38-4833-9e20-e2049ff68a55", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Ain't Much Difference", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "b4f83b01-aa4c-4c8e-a797-a39d4cdd373d", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Got a Hold on You", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "9a15dd76-6deb-4c9b-8c8c-36674bf50d31", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Where Would I Be", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "41eca67b-077e-4f92-824f-7c725830e1db", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Jump Start", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "5c0ac0a3-b1d8-4511-bf24-081c70fa1e32", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Satellite Dish", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "42f4e23a-fd8b-4845-9378-142d9f39a43a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Spontaneous Combustion", 
+                            "artistName": "Glenn Kaiser", 
+                            "mbid": "ccfdd949-6212-41db-9138-819a40b507fe", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "63383c22-40af-4e8f-a2a7-908a0069f25e", 
+                    "packaging": null, 
+                    "listeners": "3", 
+                    "date": "", 
+                    "artistName": "Glenn Kaiser", 
+                    "playcount": "15", 
+                    "artistMBID": "7a6817e4-c0ca-4021-bb40-accd80181461"
+                }
+            ], 
+            "title": "Spontaneous Combustion"
+        }
+    ], 
+    "type": "Person"
+}

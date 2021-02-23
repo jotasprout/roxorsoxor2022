@@ -1,0 +1,45 @@
+{
+    "name": "Steve Taylor",
+    "mbid": "50809635-76df-4433-b324-b3c5258fb0a3",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "77f31531-c0aa-49aa-bb51-0905641c73f7",
+            "name": "Chagall Guevara",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7264743e-7ece-496c-8ad5-75747ce2e7d7",
+            "name": "Steve Taylor & The Perfect Foil",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7264743e-7ece-496c-8ad5-75747ce2e7d7",
+            "name": "Steve Taylor & The Perfect Foil",
+            "attributes": [
+                "original",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7cc917cf-11e4-4f74-b602-3754316c4fbb",
+            "name": "The Beaufort Twins",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "46ce776c-c15e-4454-9bc3-32454e1fa513",
+            "name": "Steve Taylor & The Danielson Foil",
+            "attributes": []
+        }
+    ]
+}

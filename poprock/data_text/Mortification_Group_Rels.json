@@ -1,0 +1,13 @@
+{
+    "name": "Mortification",
+    "mbid": "59183a0a-0404-4391-9284-f2f43b5ea373",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "ad07a0a4-1657-4167-9ac4-7da966ae16d6",
+            "name": "Steve Rowe",
+            "attributes": []
+        }
+    ]
+}

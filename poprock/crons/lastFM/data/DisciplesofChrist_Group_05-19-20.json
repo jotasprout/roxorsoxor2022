@@ -1,0 +1,710 @@
+{
+    "genres": [
+        "grindcore", 
+        "powerviolence", 
+        "hardcore", 
+        "seen live", 
+        "DC"
+    ], 
+    "taskDuration": {
+        "Task Duration": 24.315205097198486, 
+        "Task End": 1589862620.882244, 
+        "Task Start": 1589862596.567039
+    }, 
+    "stats": {
+        "listeners": "1300", 
+        "playcount": "26525"
+    }, 
+    "name": "Disciples of Christ", 
+    "mbid": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115", 
+    "birthday": null, 
+    "date": "2020-05-19", 
+    "albums": [
+        {
+            "mbid": "32b36eea-b022-3b03-bbf8-eaa762fc2767", 
+            "releases": [
+                {
+                    "name": "So How Ya Livin'?", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "14"
+                            }, 
+                            "title": "Get Annointed", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "9d28f26c-4876-41a2-8c2b-e098bbc2daa6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "43"
+                            }, 
+                            "title": "Step 2 My Daddy", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "c418e61f-a1ce-418b-ace6-3701d6a120dc", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "51"
+                            }, 
+                            "title": "Spirit Keep Movin'", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "61e8c2d6-4347-4cd0-85af-89f5f5911b6d", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "35"
+                            }, 
+                            "title": "Satan's Madness", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "ed986ca5-8693-41a1-8519-d711495d55e3", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "42"
+                            }, 
+                            "title": "Little Bit Further", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "0b6a16fd-622e-4858-a2b3-4af800d0c120", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "50"
+                            }, 
+                            "title": "Desire", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "21627c4f-4e0b-4de5-88fe-e00d3b63982f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "47"
+                            }, 
+                            "title": "Thank You, Lord", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "68f4429e-5802-44c5-88b9-e2f83751ca68", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "25"
+                            }, 
+                            "title": "Lies for the Darkside", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "5fcbb38a-53e6-4e7a-bb6b-3a9996f8333d", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "79"
+                            }, 
+                            "title": "Deeper", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "018c1d3c-4681-46b4-a03c-1969ddc33f56", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "40"
+                            }, 
+                            "title": "Final Hour", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "20cef440-1701-4374-958d-759642388c43", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8fce12cc-bcfe-47f1-a0df-20f4f5207f86", 
+                    "packaging": null, 
+                    "listeners": "65", 
+                    "date": "1991", 
+                    "artistName": "Disciples of Christ", 
+                    "playcount": "450", 
+                    "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                }
+            ], 
+            "title": "So How Ya Livin'?"
+        }, 
+        {
+            "mbid": "48da309d-e02c-32dc-9f41-e15de73390e4", 
+            "releases": [
+                {
+                    "name": "Pullin' No Punches", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "125"
+                            }, 
+                            "title": "We Got It", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "b2912da1-7bb3-4dcc-9e34-6b598e12b030", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "69"
+                            }, 
+                            "title": "The Hip Hop Body Slam Hard Rock Holy Spirit Jam / God Gave Rock and Roll to You", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "40c828dc-d91f-4bc9-aa8f-6c0262499889", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "80"
+                            }, 
+                            "title": "Old Tyme Way", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "a57681f7-85a2-4e85-aeea-3113f6165e8f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "102"
+                            }, 
+                            "title": "Tic Toc", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "99ca1490-a899-4f22-966c-29e82c1e6552", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "44"
+                            }, 
+                            "title": "Why You Won't Serve the Lord", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "466b28f4-4f43-4ad6-9c43-8e93cd5d0cfb", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "58"
+                            }, 
+                            "title": "Keep on Lookin' Up", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "0b11864d-deb1-4c79-a95d-2e66b0b1ca82", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "30"
+                            }, 
+                            "title": "We Got It (Hype mix)", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "218fa129-fb3f-4321-b5df-1a1cf15876bf", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "43"
+                            }, 
+                            "title": "How Dat Sound?", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "c02f3ab3-1aa8-4ecf-82dd-87e3d8e21025", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "30"
+                            }, 
+                            "title": "Can We Fall in Love Again", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "713dd468-b797-487c-84a2-7cfcffd56057", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "52"
+                            }, 
+                            "title": "Love Can Bring You Back", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "83934488-f208-4b66-a1c1-5d995a579696", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "48"
+                            }, 
+                            "title": "Innocent Love", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "fc21a8a9-bc66-415c-a1a9-4494be872fb0", 
+                            "trackNumber": "11", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "98"
+                            }, 
+                            "title": "Pullin' No Punches", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "b114e142-959e-4039-bde9-f2caac89fd69", 
+                            "trackNumber": "12", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0345f18c-cef1-4acd-a41d-309b3e861bf3", 
+                    "packaging": null, 
+                    "listeners": "148", 
+                    "date": "1993-02-24", 
+                    "artistName": "Disciples of Christ", 
+                    "playcount": "1090", 
+                    "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                }
+            ], 
+            "title": "Pullin' No Punches"
+        }, 
+        {
+            "mbid": "8040d884-165d-36ae-89e6-381a95fbdbd5", 
+            "releases": [
+                {
+                    "name": "Righteous Funk", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "130"
+                            }, 
+                            "title": "My Melody", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "1ec6b391-abaf-408c-bc51-5dcb2612d10f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "48", 
+                                "playcount": "109"
+                            }, 
+                            "title": "Do Your Part", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "b0a576ea-6c79-4a7e-9192-f9c8b8a13f8c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "71"
+                            }, 
+                            "title": "K.I.S.S.", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "adac21ff-47af-40c8-8265-aeef76d7e918", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "104"
+                            }, 
+                            "title": "Come 2 Gether", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "66479ac1-d08c-498b-9e0a-dacedf95f310", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "121"
+                            }, 
+                            "title": "Wrapped Up", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "7136c671-3bad-4087-a24d-6fcd4987d016", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "31", 
+                                "playcount": "77"
+                            }, 
+                            "title": "Me 4 U", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "d2782e81-1c71-45b0-bb11-6e7da7827053", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "186"
+                            }, 
+                            "title": "To Da Dome", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "6a3288bf-e1bb-43be-b0fd-a896b2b93c21", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "36", 
+                                "playcount": "96"
+                            }, 
+                            "title": "Wind Me Up", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "993ed1fc-09e4-4da4-8d08-8e955e3afde6", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "33", 
+                                "playcount": "82"
+                            }, 
+                            "title": "Stay", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "55311139-8052-4834-9f4a-689332f5b7b6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "36", 
+                                "playcount": "77"
+                            }, 
+                            "title": "HollyWood", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "ea6ca7eb-2d30-417a-a5e7-82e452dc68a9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "53"
+                            }, 
+                            "title": "Right Way", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "e0f40ca9-bb32-44f3-b80b-98921aa14f0c", 
+                            "trackNumber": "11", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "38"
+                            }, 
+                            "title": "Wind Me Up (reprise)", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "1718cf42-f006-49db-98dd-4d6957c14827", 
+                            "trackNumber": "12", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "98ce6fe0-a3de-473e-b695-bf145d9ed77d", 
+                    "packaging": null, 
+                    "listeners": "171", 
+                    "date": "1995-02-07", 
+                    "artistName": "Disciples of Christ", 
+                    "playcount": "1327", 
+                    "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                }
+            ], 
+            "title": "Righteous Funk"
+        }, 
+        {
+            "mbid": "9115c673-9d48-34f2-8379-94fcc938bbcd", 
+            "releases": [
+                {
+                    "name": "The Antidote", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "260", 
+                                "playcount": "754"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "f5669bfb-5650-4abf-af98-9a57f3a0dc88", 
+                            "trackNumber": "1", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Flow", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "c02548b4-97b0-4bf0-a22e-d3e310f0a4f8", 
+                            "trackNumber": "2", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Mama & Nem", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "044fbc81-f646-4458-8d0b-3a6b8534a00e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Jesus Shakes", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "a9ae35f3-2ffb-4886-be2c-590c4dc1cfad", 
+                            "trackNumber": "4", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Antidote (Injection mix)", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "5824cd75-c065-4d3f-a5f8-214d58c24469", 
+                            "trackNumber": "5", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Laugh", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "26e35d32-3ac9-420b-afaf-5ee10ed5399f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Holy Rock Cafe", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "d4d4b6f5-de13-4980-a890-0a564b45f518", 
+                            "trackNumber": "7", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "A Father", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "78d44a7d-bbfc-467a-bd84-bddc21dc12f5", 
+                            "trackNumber": "8", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "A Friend", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "cc8ae516-2d52-4b9a-9e9c-5ba7eec4a962", 
+                            "trackNumber": "9", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Skool Dude", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "3d5df6e1-fd79-4267-aa8c-236cd03d0a08", 
+                            "trackNumber": "10", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Dream Stealer", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "5e34c685-2d17-4de5-835a-d4c440ea9249", 
+                            "trackNumber": "11", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "The Way", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "18f3ad47-5beb-41c6-8bec-7c932e8d39e5", 
+                            "trackNumber": "12", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Holy Place", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "aa6ca1c6-1680-4600-b982-9d1a4128a462", 
+                            "trackNumber": "13", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Warm Embrace", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "4603f5b9-6ebf-42bd-a6db-849e860bc527", 
+                            "trackNumber": "14", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Latter Rain", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "f052b6b2-78b3-4bd4-98e8-0f516714f12e", 
+                            "trackNumber": "15", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Spirit Is", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "18c04c1c-c884-4064-a2b6-f6b0279af542", 
+                            "trackNumber": "16", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Go Sow Reap", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "15c3d016-b032-46c2-96d3-0886ebf04010", 
+                            "trackNumber": "17", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Here I Am", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "1d8f14e2-f6cc-4cb0-9555-15fdf8fe7d65", 
+                            "trackNumber": "18", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Antidote (Livng Water mix)", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "20398b39-4871-4500-9cb4-3d94756b3cb0", 
+                            "trackNumber": "19", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Johnny's Eyes (The Rapusical Track)", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "de9c63d4-f499-4fce-965d-25392b1e5d2d", 
+                            "trackNumber": "20", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Antidote (Baby Bootsy mix)", 
+                            "artistName": "Disciples of Christ", 
+                            "mbid": "f1ce5d0f-091c-441e-bfed-7da6378525f1", 
+                            "trackNumber": "21", 
+                            "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9e0c1f12-ff90-419f-a1de-8de9fb21f735", 
+                    "packaging": null, 
+                    "listeners": "5", 
+                    "date": "2004", 
+                    "artistName": "Disciples of Christ", 
+                    "playcount": "6", 
+                    "artistMBID": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115"
+                }
+            ], 
+            "title": "The Antidote"
+        }
+    ], 
+    "type": "Group"
+}

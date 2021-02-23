@@ -1,0 +1,1295 @@
+{
+    "genres": [
+        "industrial", 
+        "electronic", 
+        "electro", 
+        "techno", 
+        "ebm"
+    ], 
+    "taskDuration": {
+        "Task Duration": 41.39951705932617, 
+        "Task End": 1584334965.076733, 
+        "Task Start": 1584334923.677216
+    }, 
+    "stats": {
+        "listeners": "618", 
+        "playcount": "19436"
+    }, 
+    "name": "Deitiphobia", 
+    "mbid": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89", 
+    "birthday": null, 
+    "date": "2020-03-16", 
+    "albums": [
+        {
+            "mbid": "aa8aec0a-1564-30c4-ae3f-1fb712434d31", 
+            "releases": [
+                {
+                    "name": "Fear of God", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "87", 
+                                "playcount": "331"
+                            }, 
+                            "title": "Crucifixion of Will", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "10b9e783-680b-4f54-9c78-21c7e95e0f29", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "My Sins Are Gone", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "66024df3-2109-41ec-9e08-c8ebbaef734a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "229"
+                            }, 
+                            "title": "Tripizoidal", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "9af027cc-ba46-4e13-ae8b-09dbe9b5e473", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "239"
+                            }, 
+                            "title": "Spill!", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "b198424f-2fc3-485b-89b0-65d444dc9641", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "221"
+                            }, 
+                            "title": "Dancing Messiah", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "4c206bf2-9b20-43d6-82e3-0b587cc47982", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "228"
+                            }, 
+                            "title": "Communion", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "71d81942-f74f-4bdf-82ce-337ce7088a8f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "204"
+                            }, 
+                            "title": "Ethereal Worship Sequence", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "dd4aac20-c87e-4b44-ba3e-6be45115c75c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "296"
+                            }, 
+                            "title": "A.O.G.", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "feb937a4-c4b9-4041-8629-bffcaec5d7f0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Lost in Light", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7c435806-25da-448d-876a-e0be84c456c7", 
+                            "trackNumber": "14", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "271"
+                            }, 
+                            "title": "I Tore the Sky", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7d9eee8a-9c95-486e-9e28-4a3b6bb81115", 
+                            "trackNumber": "15", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "202"
+                            }, 
+                            "title": "Liars and Fools", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7e74081a-9a4f-4737-b0b5-24b2126d9f24", 
+                            "trackNumber": "16", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "162"
+                            }, 
+                            "title": "A.O.G.L.X.E.M.I.X.", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "b10e10d7-d855-4d62-ab95-5b7ae05f93e1", 
+                            "trackNumber": "17", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a22559c4-1205-4a26-a693-48ab41ad3dce", 
+                    "packaging": null, 
+                    "listeners": "129", 
+                    "date": "1991", 
+                    "artistName": "Deitiphobia", 
+                    "playcount": "2712", 
+                    "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                }, 
+                {
+                    "name": "Fear of God", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "87", 
+                                "playcount": "331"
+                            }, 
+                            "title": "Crucifixion of Will", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "10b9e783-680b-4f54-9c78-21c7e95e0f29", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "My Sins Are Gone", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "66024df3-2109-41ec-9e08-c8ebbaef734a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "229"
+                            }, 
+                            "title": "Tripizoidal", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "9af027cc-ba46-4e13-ae8b-09dbe9b5e473", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "239"
+                            }, 
+                            "title": "Spill!", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "b198424f-2fc3-485b-89b0-65d444dc9641", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "221"
+                            }, 
+                            "title": "Dancing Messiah", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "4c206bf2-9b20-43d6-82e3-0b587cc47982", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "228"
+                            }, 
+                            "title": "Communion", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "71d81942-f74f-4bdf-82ce-337ce7088a8f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "204"
+                            }, 
+                            "title": "Ethereal Worship Sequence", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "dd4aac20-c87e-4b44-ba3e-6be45115c75c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "296"
+                            }, 
+                            "title": "A.O.G.", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "feb937a4-c4b9-4041-8629-bffcaec5d7f0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Lost in Light", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7c435806-25da-448d-876a-e0be84c456c7", 
+                            "trackNumber": "14", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "271"
+                            }, 
+                            "title": "I Tore the Sky", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7d9eee8a-9c95-486e-9e28-4a3b6bb81115", 
+                            "trackNumber": "15", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "202"
+                            }, 
+                            "title": "Liars and Fools", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7e74081a-9a4f-4737-b0b5-24b2126d9f24", 
+                            "trackNumber": "16", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "162"
+                            }, 
+                            "title": "A.O.G.L.X.E.M.I.X.", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "b10e10d7-d855-4d62-ab95-5b7ae05f93e1", 
+                            "trackNumber": "17", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }
+                    ], 
+                    "country": "CA", 
+                    "disambiguation": "", 
+                    "mbid": "a22559c4-1205-4a26-a693-48ab41ad3dce", 
+                    "packaging": null, 
+                    "listeners": "129", 
+                    "date": "1998", 
+                    "artistName": "Deitiphobia", 
+                    "playcount": "2712", 
+                    "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                }
+            ], 
+            "title": "Fear of God"
+        }, 
+        {
+            "mbid": "4102e981-53ea-4f7b-96e6-b8844275b5f3", 
+            "releases": [
+                {
+                    "name": "Digital Priests - The Remixes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "93", 
+                                "playcount": "357"
+                            }, 
+                            "title": "Red Society", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "73f809f6-b5a8-40db-9c6e-42295488bbe4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "312"
+                            }, 
+                            "title": "The World From an Altar", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "2f5e5108-5125-41d5-94d1-c7f24deceb1e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Dance on My Creation", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "bd7762a7-147b-4ff9-a89e-8b3fed866e15", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "306"
+                            }, 
+                            "title": "Graveyards", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "8c28f6e8-7ea3-4549-b3d5-584c28a9dd46", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "164"
+                            }, 
+                            "title": "Mystic Voices", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "b8e2bbea-9eda-4187-b91d-4c683c7a5724", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "73", 
+                                "playcount": "297"
+                            }, 
+                            "title": "Have Mercy", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "a8d71a61-4492-49fa-8ddc-b95c09bd4437", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "274"
+                            }, 
+                            "title": "Attack the City Walls", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "cdb8db39-398a-467c-a370-48db85f0b5b7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "190"
+                            }, 
+                            "title": "What Faith?", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "8e05db21-7042-4303-aacd-bac7994a8ecb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "162"
+                            }, 
+                            "title": "Bow to the Cross", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "ce30df4a-ee26-49e8-9a48-bee983e2113d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "194"
+                            }, 
+                            "title": "Forgiven", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "3d5cb904-eb96-4ffe-bfe6-2a9eb1e171f5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "216"
+                            }, 
+                            "title": "Battleground", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "361865ad-1a2f-4dba-a5ea-1068a56af6f9", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "173"
+                            }, 
+                            "title": "Almost Gone (I.V.)", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "6ee885c5-83a2-4882-83bf-27f3d7e18e58", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "38", 
+                                "playcount": "160"
+                            }, 
+                            "title": "Attack the City Walls (Mastermix)", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "31aabe43-cc9f-41e8-91f4-2f5bad5d2f7c", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "da4ea707-205c-418f-a78e-a75210f8f87f", 
+                    "packaging": null, 
+                    "listeners": "51", 
+                    "date": "1992", 
+                    "artistName": "Deitiphobia", 
+                    "playcount": "605", 
+                    "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                }, 
+                {
+                    "name": "Digital Priests - The Remixes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "93", 
+                                "playcount": "357"
+                            }, 
+                            "title": "Red Society", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "73f809f6-b5a8-40db-9c6e-42295488bbe4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "312"
+                            }, 
+                            "title": "The World From an Altar", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "2f5e5108-5125-41d5-94d1-c7f24deceb1e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Dance on My Creation", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "bd7762a7-147b-4ff9-a89e-8b3fed866e15", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "306"
+                            }, 
+                            "title": "Graveyards", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "8c28f6e8-7ea3-4549-b3d5-584c28a9dd46", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "164"
+                            }, 
+                            "title": "Mystic Voices", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "b8e2bbea-9eda-4187-b91d-4c683c7a5724", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "73", 
+                                "playcount": "297"
+                            }, 
+                            "title": "Have Mercy", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "a8d71a61-4492-49fa-8ddc-b95c09bd4437", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "274"
+                            }, 
+                            "title": "Attack the City Walls", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "cdb8db39-398a-467c-a370-48db85f0b5b7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "190"
+                            }, 
+                            "title": "What Faith?", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "8e05db21-7042-4303-aacd-bac7994a8ecb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "162"
+                            }, 
+                            "title": "Bow to the Cross", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "ce30df4a-ee26-49e8-9a48-bee983e2113d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "194"
+                            }, 
+                            "title": "Forgiven", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "3d5cb904-eb96-4ffe-bfe6-2a9eb1e171f5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "216"
+                            }, 
+                            "title": "Battleground", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "361865ad-1a2f-4dba-a5ea-1068a56af6f9", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "173"
+                            }, 
+                            "title": "Almost Gone (I.V.)", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "6ee885c5-83a2-4882-83bf-27f3d7e18e58", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "38", 
+                                "playcount": "160"
+                            }, 
+                            "title": "Attack the City Walls (Mastermix)", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "31aabe43-cc9f-41e8-91f4-2f5bad5d2f7c", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }
+                    ], 
+                    "country": "CA", 
+                    "disambiguation": "", 
+                    "mbid": "da4ea707-205c-418f-a78e-a75210f8f87f", 
+                    "packaging": null, 
+                    "listeners": "51", 
+                    "date": "1998", 
+                    "artistName": "Deitiphobia", 
+                    "playcount": "605", 
+                    "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                }
+            ], 
+            "title": "Digital Priests - The Remixes"
+        }, 
+        {
+            "mbid": "b5f83124-0d0c-3827-a8e3-20fdd34daa15", 
+            "releases": [
+                {
+                    "name": "Clean", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "11"
+                            }, 
+                            "title": "The Shake (Part I: Body)", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "9a7f761a-9a9a-4c12-b5ab-8b29a7e25e65", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "325"
+                            }, 
+                            "title": "Take the Sin", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "3ec584a2-2406-4c83-b93a-28871f37efa4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "243"
+                            }, 
+                            "title": "Hypnotique", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "0f3219d2-d5f2-4d08-82e0-ccb080bb7276", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "322"
+                            }, 
+                            "title": "Ancient", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "b9754934-5d85-4684-b73a-5b97cf1f4362", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "251"
+                            }, 
+                            "title": "Redemption Draweth Nigh", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "168635d5-532e-434e-b220-5fa99c6a7201", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "248"
+                            }, 
+                            "title": "Vivid", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "f5a41f7e-4b54-40b7-b797-9870db1cb462", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "283"
+                            }, 
+                            "title": "Clean", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "f991ef06-5f02-4221-b29a-c47412c6841d", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "214"
+                            }, 
+                            "title": "Go Prone", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "463a762e-4bcc-47a7-a2d6-e71fc74a53e1", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "6"
+                            }, 
+                            "title": "The Shake (Part II: Brother)", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "443154e1-77d6-48af-b53e-ec0e36704be3", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "349"
+                            }, 
+                            "title": "Enraptured", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "1ccc88a4-885d-4a71-9955-ab6a7496014c", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "232"
+                            }, 
+                            "title": "Perfect Eyes", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "48514d47-e284-4f77-9394-18fb9f3ed226", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "218"
+                            }, 
+                            "title": "Redemption (K-Otic mix)", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "4aa21244-8aa0-4016-9abe-5a51e169bb6a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "21"
+                            }, 
+                            "title": "Perfect Eyes (20-20 mix)", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "ad4bb74d-12c9-4c8a-b0b5-6d10b9c6aa8b", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a522e2ce-bfbc-492b-a885-085ed2ebfa14", 
+                    "packaging": null, 
+                    "listeners": "133", 
+                    "date": "1994-05-03", 
+                    "artistName": "Deitiphobia", 
+                    "playcount": "3468", 
+                    "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                }
+            ], 
+            "title": "Clean"
+        }, 
+        {
+            "mbid": "349aa7fc-3177-3914-af30-471be69b4753", 
+            "releases": [
+                {
+                    "name": "lo:fi vs. sci:fi", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "123", 
+                                "playcount": "441"
+                            }, 
+                            "title": "Humanifesto", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "c9bd20b0-c991-4333-8493-811be6ad00c2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "349"
+                            }, 
+                            "title": "Hurler Avec les Loups", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "dc2bc1cc-b459-4df8-a592-3128ce9c10a4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "104", 
+                                "playcount": "474"
+                            }, 
+                            "title": "Spit Static", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "30f2c8f9-b855-4452-a8e2-013bf8140586", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "87", 
+                                "playcount": "313"
+                            }, 
+                            "title": "Disembarking", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "0993d04f-914b-481e-a779-c56a5b01a512", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "87", 
+                                "playcount": "361"
+                            }, 
+                            "title": "Episinner", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "5f7d72d9-0552-452c-939e-dac039cccf47", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "83", 
+                                "playcount": "342"
+                            }, 
+                            "title": "Electronomicon", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "6d8624ee-91a1-48fe-90a1-225b6fa3c04d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "540"
+                            }, 
+                            "title": "Tripwire", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "77104029-0330-4ddb-9ebe-8f6c2be3dd86", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "[unknown]", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "f04ca4ce-3179-4ef2-ad96-a4542f88642c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "73", 
+                                "playcount": "268"
+                            }, 
+                            "title": "Soldier Soul", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "549e4bc9-0d3c-48b7-a138-fd91ae368626", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "302"
+                            }, 
+                            "title": "Transmission", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "e93d25f6-0203-4d64-9a61-46346ede3c1c", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "75", 
+                                "playcount": "313"
+                            }, 
+                            "title": "Publick!", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "4194cf5f-c088-4e0b-8aa9-b54e061b646d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "234"
+                            }, 
+                            "title": "Savior Self", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "d391d126-ff10-4b0f-905a-71d2d5938e86", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "81", 
+                                "playcount": "347"
+                            }, 
+                            "title": "Magnesium Blue", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "e69bb461-4763-4ac6-8d3c-585b48d913af", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "255"
+                            }, 
+                            "title": "EBN", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "44573d04-9058-427e-9a1d-6d74bd9bc523", 
+                            "trackNumber": "14", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "268"
+                            }, 
+                            "title": "Persist:Resist", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "2be48eac-b1a1-41cf-9bca-e7da4e33bb9b", 
+                            "trackNumber": "15", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "73", 
+                                "playcount": "283"
+                            }, 
+                            "title": "Coelocanthe", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "39af12a7-dfbc-4b45-9679-5abe5da96c89", 
+                            "trackNumber": "16", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "69", 
+                                "playcount": "280"
+                            }, 
+                            "title": "Charyatid", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "42ae76a7-d318-4fa1-a500-3d73c8d66d3a", 
+                            "trackNumber": "17", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "228"
+                            }, 
+                            "title": "Retrofit", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "02e1ee69-48de-4363-bfe1-d40a14545a10", 
+                            "trackNumber": "18", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "765f837e-372c-431c-a2e4-1d3d395ca554", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "140", 
+                    "date": "1999-12-09", 
+                    "artistName": "Deitiphobia", 
+                    "playcount": "3749", 
+                    "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                }
+            ], 
+            "title": "lo:fi vs. sci:fi"
+        }, 
+        {
+            "mbid": "16380044-f538-3435-90b5-7740f4ffc649", 
+            "releases": [
+                {
+                    "name": "Donderfliegen (Digital Priests/1990)", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "93", 
+                                "playcount": "357"
+                            }, 
+                            "title": "Red Society", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "1b643782-9f86-41d1-8760-295bd985f779", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "312"
+                            }, 
+                            "title": "The World From an Altar", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "6c91dec6-815d-40eb-ae9a-5248d375dcaa", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Dance on My Creation", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "698fc1ec-d3fc-4a5d-8be4-0ca91fc6fd66", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "306"
+                            }, 
+                            "title": "Graveyards", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "cc8f5916-4f33-44d6-97d4-8a484ed2fea1", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "274"
+                            }, 
+                            "title": "Attack the City Walls", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "4a233e47-fa99-41be-87ca-0b8316ef5743", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "73", 
+                                "playcount": "297"
+                            }, 
+                            "title": "Have Mercy", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "95d02049-f7f4-468a-8f37-976f205f0abd", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "117"
+                            }, 
+                            "title": "Love Among Thieves", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7c8a8112-1920-41f0-9134-a0513cb88ae1", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "87"
+                            }, 
+                            "title": "...And There Were Mystic Voices...", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "38fdc0dc-48fb-4204-a0d7-d135c92de881", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "190"
+                            }, 
+                            "title": "What Faith?", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "390ff268-f95b-42d4-9362-b63c4d540c98", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "80"
+                            }, 
+                            "title": "Almost Gone", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "27d5a401-635c-4675-8125-d382c583e0e3", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "3f2965e5-b383-480a-a1ec-9d954b884008", 
+                    "packaging": null, 
+                    "listeners": "14", 
+                    "date": "2000", 
+                    "artistName": "Deitiphobia", 
+                    "playcount": "235", 
+                    "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                }
+            ], 
+            "title": "Donderfliegen (Digital Priests/1990)"
+        }, 
+        {
+            "mbid": "71b14f17-e10f-318b-82fa-5f0787034c6e", 
+            "releases": [
+                {
+                    "name": "Fear Of The Digital Remix", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "104"
+                            }, 
+                            "title": "TV", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7665e4e7-7d5e-4ba2-82eb-77ace9b7dd16", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "210"
+                            }, 
+                            "title": "Blind Hate", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "bd7c7a0d-3eea-4e28-9268-73d82bd89fda", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "153"
+                            }, 
+                            "title": "Exorcist", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "59c1956f-5838-46a1-81c6-52bd166c8ef6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "147"
+                            }, 
+                            "title": "Need", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "8b4b99b3-8d4c-41fe-a421-67fc7561d966", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "133"
+                            }, 
+                            "title": "Religious Fanatic", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "a532c7c5-42ae-452f-a7ee-7f4e761ae6f4", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "174"
+                            }, 
+                            "title": "Mastermind", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "ed08c00f-a689-433f-88e1-c41d5b8765fe", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "75"
+                            }, 
+                            "title": "Wilbur", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "3bae6e68-ff68-4ad9-a12e-923e3dd10bbe", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "110"
+                            }, 
+                            "title": "The Late Pastor Harry Dean", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "7f8a70dd-0487-4e93-8724-72fdc2054d69", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "154"
+                            }, 
+                            "title": "Arc", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "4457200f-0113-4d68-9792-017f2b503d06", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "121"
+                            }, 
+                            "title": "B-Movie", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "65172aa0-0274-41ef-9cc3-83417069e04f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "136"
+                            }, 
+                            "title": "Vamp Jesus", 
+                            "artistName": "Deitiphobia", 
+                            "mbid": "0976431f-7870-425f-92c7-363e7f37c2c7", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c51d99a3-5a79-41ca-8660-618b98159bc2", 
+                    "packaging": null, 
+                    "listeners": "111", 
+                    "date": "1995", 
+                    "artistName": "Deitiphobia", 
+                    "playcount": "1596", 
+                    "artistMBID": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89"
+                }
+            ], 
+            "title": "Fear of the Digital Remix"
+        }
+    ], 
+    "type": "Group"
+}

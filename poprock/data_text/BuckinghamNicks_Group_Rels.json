@@ -1,0 +1,19 @@
+{
+    "name": "Buckingham Nicks",
+    "mbid": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "5d12875c-a197-43b2-8f29-41dc0ad895c3",
+            "name": "Lindsey Buckingham",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7",
+            "name": "Stevie Nicks",
+            "attributes": []
+        }
+    ]
+}

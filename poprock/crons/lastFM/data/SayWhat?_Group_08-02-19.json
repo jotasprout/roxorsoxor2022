@@ -1,0 +1,281 @@
+{
+    "genres": [
+        "puredemo"
+    ], 
+    "taskDuration": {
+        "Task Duration": 10.051905870437622, 
+        "Task End": 1564764921.177441, 
+        "Task Start": 1564764911.125535
+    }, 
+    "stats": {
+        "listeners": "106", 
+        "playcount": "848"
+    }, 
+    "name": "Say What?", 
+    "mbid": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7", 
+    "birthday": null, 
+    "date": "2019-08-02", 
+    "albums": [
+        {
+            "mbid": "246cac8e-0f71-4315-b14a-399b15d03b7b", 
+            "releases": [
+                {
+                    "name": "Fresh Fish", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Fresh Fish", 
+                            "artistName": "Say What?", 
+                            "mbid": "d6c137f3-7bb7-484a-94c7-553bdec42ec2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "25"
+                            }, 
+                            "title": "Back in a Big Way", 
+                            "artistName": "Say What?", 
+                            "mbid": "10cd5fba-7c9d-4b26-bc39-6d83fc9b2c09", 
+                            "trackNumber": "2", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "22"
+                            }, 
+                            "title": "Step Off (The Stage)", 
+                            "artistName": "Say What?", 
+                            "mbid": "1df68959-c206-497d-8ed9-c33f57dd8268", 
+                            "trackNumber": "3", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Say What", 
+                            "artistName": "Say What?", 
+                            "mbid": "6df985e5-6f70-4f17-8ee1-5b4f7bf5b50b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Brother, Brother", 
+                            "artistName": "Say What?", 
+                            "mbid": "71ab8f75-5d45-49cf-9b86-72c0dc9b657d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "19"
+                            }, 
+                            "title": "I Can Sing Higher", 
+                            "artistName": "Say What?", 
+                            "mbid": "0b80f2fb-0bcc-448c-8f8f-1bfbf17a0ff9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "22"
+                            }, 
+                            "title": "VG Veggies", 
+                            "artistName": "Say What?", 
+                            "mbid": "c207c141-d2e9-474b-ab6d-f7ab1b455415", 
+                            "trackNumber": "7", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "27"
+                            }, 
+                            "title": "We're Stupid", 
+                            "artistName": "Say What?", 
+                            "mbid": "79ef82db-999d-4662-ae41-5aacc2d31938", 
+                            "trackNumber": "8", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "28"
+                            }, 
+                            "title": "Johnny Fencerider", 
+                            "artistName": "Say What?", 
+                            "mbid": "74e15f64-c596-42cc-9f18-ae02f4c03d11", 
+                            "trackNumber": "9", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f8bcd91c-2649-4681-9157-d83514f81e31", 
+                    "packaging": null, 
+                    "listeners": "61", 
+                    "date": "1990", 
+                    "artistName": "Say What?", 
+                    "playcount": "476", 
+                    "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                }
+            ], 
+            "title": "Fresh Fish"
+        }, 
+        {
+            "mbid": "bc16f0b6-f395-3635-9c7f-ae2b891e89fe", 
+            "releases": [
+                {
+                    "name": "NUCLEAR FISHIN'", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Invitation", 
+                            "artistName": "Say What?", 
+                            "mbid": "80e4f3e6-22c6-42d5-998f-ed8a046c2207", 
+                            "trackNumber": "1", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "10"
+                            }, 
+                            "title": "Keep on Dancin'", 
+                            "artistName": "Say What?", 
+                            "mbid": "e734eb1c-1e65-41da-9ed4-9eafee2174a8", 
+                            "trackNumber": "2", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Information", 
+                            "artistName": "Say What?", 
+                            "mbid": "1be81dc5-1b07-4d0a-824e-e717a17e5582", 
+                            "trackNumber": "3", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "The Wrong Place", 
+                            "artistName": "Say What?", 
+                            "mbid": "b3c2f566-3192-43e9-99a8-a332b4b34f2b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Whachagonnado", 
+                            "artistName": "Say What?", 
+                            "mbid": "a85cee81-c91f-4aec-98e0-3ddc612af437", 
+                            "trackNumber": "5", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "20"
+                            }, 
+                            "title": "Say What? II", 
+                            "artistName": "Say What?", 
+                            "mbid": "d85052e6-f99c-4803-a034-afe8bbb1de9d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Put Out the Fire", 
+                            "artistName": "Say What?", 
+                            "mbid": "e2430669-963a-4515-978c-8764ef50de3f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Star Spangled Sundae", 
+                            "artistName": "Say What?", 
+                            "mbid": "fdb4b094-f98a-4b2d-a626-f75adf6b0721", 
+                            "trackNumber": "8", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "All Good Wox", 
+                            "artistName": "Say What?", 
+                            "mbid": "f83dc1ab-4a6a-4077-af30-8b18ca6af1cf", 
+                            "trackNumber": "9", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Video Babe", 
+                            "artistName": "Say What?", 
+                            "mbid": "bee76dc8-6bd3-4ed9-80ad-bfdfc833b84b", 
+                            "trackNumber": "10", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Swingin' Richard", 
+                            "artistName": "Say What?", 
+                            "mbid": "64a87cb3-471d-4854-8169-63c578723cb4", 
+                            "trackNumber": "11", 
+                            "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "78439696-d06b-4193-92a5-0a32acad919f", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "44", 
+                    "date": "1992", 
+                    "artistName": "Say What?", 
+                    "playcount": "258", 
+                    "artistMBID": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7"
+                }
+            ], 
+            "title": "Nuclear Fishin'"
+        }
+    ], 
+    "type": "Group"
+}

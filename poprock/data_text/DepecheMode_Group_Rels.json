@@ -1,0 +1,53 @@
+{
+    "name": "Depeche Mode",
+    "mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "6ef12fc1-40f4-41ea-ac52-f487840255bd",
+            "name": "Vince Clarke",
+            "attributes": [
+                "keyboard",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0042aa4d-a972-4a2a-b7cf-8044d09bbc67",
+            "name": "Andrew Fletcher",
+            "attributes": [
+                "keyboard",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d547b148-cf1f-421b-9464-ce7411ba44b8",
+            "name": "Dave Gahan",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e08ac443-f1d2-4666-abd1-fa5859592981",
+            "name": "Martin L. Gore",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9785d4c6-0922-408b-9ca7-bf46c0548f71",
+            "name": "Alan Wilder",
+            "attributes": [
+                "keyboard",
+                "membranophone"
+            ]
+        }
+    ]
+}

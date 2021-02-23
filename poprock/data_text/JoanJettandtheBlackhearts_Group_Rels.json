@@ -1,0 +1,35 @@
+{
+    "name": "Joan Jett and the Blackhearts",
+    "mbid": "46e63d3b-d91b-4791-bb73-e9f638a45ea0",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "13e2e9f4-b18f-474e-a5b7-a053d12981ca",
+            "name": "Sami Yaffa",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "f376828a-b438-4fda-bb2e-dcd5fbe81f83",
+            "name": "Joan Jett",
+            "attributes": [
+                "eponymous"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a6670547-a7bd-4e21-b651-8397ea1cc055",
+            "name": "Thommy Price",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "05fcb8b5-7570-4baf-9a76-6a1c3614db35",
+            "name": "Kasim Sulton",
+            "attributes": [
+                "additional"
+            ]
+        }
+    ]
+}

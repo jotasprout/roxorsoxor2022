@@ -1,0 +1,27 @@
+{
+    "name": "The Amboy Dukes",
+    "mbid": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "3066d185-1f11-4167-9381-c4fcbad04925",
+            "name": "Dave Palmer",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a71c7739-9c06-4dbe-a42d-b32a332099a6",
+            "name": "Steve Farmer",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e491fae8-3a5a-438e-8368-925753fb41a1",
+            "name": "Ted Nugent",
+            "attributes": []
+        }
+    ]
+}

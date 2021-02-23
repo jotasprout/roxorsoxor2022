@@ -1,0 +1,1965 @@
+{
+    "genres": [
+        "rock", 
+        "female vocalists", 
+        "classic rock", 
+        "80s", 
+        "punk"
+    ], 
+    "stats": {
+        "listeners": "323833", 
+        "playcount": "2684489"
+    }, 
+    "name": "Joan Jett", 
+    "mbid": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+    "birthday": "1958-09-22", 
+    "date": "2019-04-29", 
+    "albums": [
+        {
+            "mbid": "01df870c-cf07-43d0-9dd7-df11b30c4324", 
+            "releases": [], 
+            "title": "Mama Weer All Crazee Now"
+        }, 
+        {
+            "mbid": "395656b9-9ccb-3463-b9c7-60af8b077359", 
+            "releases": [
+                {
+                    "name": "1979", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "78f8f862-04e0-4ae3-aadf-1bd7013885ec", 
+                            "stats": {
+                                "listeners": "124", 
+                                "playcount": "291"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don't Know What You Got"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "de07f1bd-de36-42cd-9247-ac23bab5d06e", 
+                            "stats": {
+                                "listeners": "988", 
+                                "playcount": "4062"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "I Want You"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "e467366f-619d-4eef-97ce-70932a341f4b", 
+                            "stats": {
+                                "listeners": "93", 
+                                "playcount": "203"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Can't Get Me (acoustic version)"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "9a09ce74-e871-47a4-a941-22c6d6f172b3", 
+                            "stats": {
+                                "listeners": "269", 
+                                "playcount": "643"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "I'll Never Get Away"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "88fbcbe8-e827-4876-a9e8-4aa035285414", 
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "812"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "We're All Crazy Now"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "680e2c8f-0688-4473-9c6f-e9d805cc4a6b", 
+                            "stats": {
+                                "listeners": "723", 
+                                "playcount": "1622"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "What Can I Do for You?"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "1e927f5a-d02f-4290-8b86-96f3462f1c58", 
+                            "stats": {
+                                "listeners": "113", 
+                                "playcount": "183"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Can't Get Me (electric version)"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f4b2c92b-9f00-450e-960e-a4d5aae604fe", 
+                    "packaging": null, 
+                    "listeners": "479", 
+                    "date": "1995", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "4217", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }
+            ], 
+            "title": "1979"
+        }, 
+        {
+            "mbid": "3e882b07-df26-32a4-921c-a4a1f5884d8f", 
+            "releases": [
+                {
+                    "name": "Bad Reputation", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "fb79b0fa-8322-482e-b308-9745d43ccb4f", 
+                            "stats": {
+                                "listeners": "89214", 
+                                "playcount": "502854"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Bad Reputation"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2f7a6bdc-e5c1-43e1-bed9-4513081e6c6b", 
+                            "stats": {
+                                "listeners": "7332", 
+                                "playcount": "23018"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Make Believe"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "88590864-8041-438b-9e6a-6464382a44b3", 
+                            "stats": {
+                                "listeners": "6052", 
+                                "playcount": "17448"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Know What You\u2019ve Got"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "a9aaa580-f848-4e18-8f32-e8659de7f2cf", 
+                            "stats": {
+                                "listeners": "6638", 
+                                "playcount": "22714"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Own Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0a8a966e-5361-4082-9ff7-8cdd0035a9c1", 
+                            "stats": {
+                                "listeners": "4761", 
+                                "playcount": "13401"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Too Bad on Your Birthday"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "78e32284-769b-4343-a7fd-6352cfd7165d", 
+                            "stats": {
+                                "listeners": "4377", 
+                                "playcount": "21428"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Do You Wanna Touch Me? (Oh Yeah!)"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6adc368e-2fca-4f90-9cdb-30750916edb9", 
+                            "stats": {
+                                "listeners": "4537", 
+                                "playcount": "12822"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Let Me Go"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "71dd277e-772e-4aeb-884a-7cd2115855c1", 
+                            "stats": {
+                                "listeners": "2965", 
+                                "playcount": "8343"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Doing Alright With the Boys"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "cd46db45-d9c6-4e97-9a6d-dcbe93e9cc48", 
+                            "stats": {
+                                "listeners": "5730", 
+                                "playcount": "23096"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Shout"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6c5da299-1e40-4392-8cc2-8ef89a010b90", 
+                            "stats": {
+                                "listeners": "3453", 
+                                "playcount": "9607"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Jezebel"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2631e0e4-0710-4836-8632-21a797bad525", 
+                            "stats": {
+                                "listeners": "7639", 
+                                "playcount": "27199"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Don\u2019t Abuse Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "f07464ee-236d-4904-adc7-23ee3065c546", 
+                            "stats": {
+                                "listeners": "4194", 
+                                "playcount": "12019"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Wooly Bully"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "8bd3d09b-3c86-42e2-939f-42dcd8ec8bc0", 
+                            "stats": {
+                                "listeners": "2313", 
+                                "playcount": "5839"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Call Me Lightning"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "692000fb-b5dd-42a5-84ac-8aa34c1af8dc", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8183"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Hanky Panky"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "680e2c8f-0688-4473-9c6f-e9d805cc4a6b", 
+                            "stats": {
+                                "listeners": "723", 
+                                "playcount": "1622"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "What Can I Do for You?"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a04d0aa2-f87f-44ec-baf8-2c49cd443945", 
+                    "packaging": null, 
+                    "listeners": "30906", 
+                    "date": "1981", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "300538", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "Bad Reputation", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "fb79b0fa-8322-482e-b308-9745d43ccb4f", 
+                            "stats": {
+                                "listeners": "89214", 
+                                "playcount": "502854"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Bad Reputation"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2f7a6bdc-e5c1-43e1-bed9-4513081e6c6b", 
+                            "stats": {
+                                "listeners": "7332", 
+                                "playcount": "23018"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Make Believe"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "88590864-8041-438b-9e6a-6464382a44b3", 
+                            "stats": {
+                                "listeners": "6052", 
+                                "playcount": "17448"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Know What You\u2019ve Got"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "a9aaa580-f848-4e18-8f32-e8659de7f2cf", 
+                            "stats": {
+                                "listeners": "6638", 
+                                "playcount": "22714"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Own Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0a8a966e-5361-4082-9ff7-8cdd0035a9c1", 
+                            "stats": {
+                                "listeners": "4761", 
+                                "playcount": "13401"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Too Bad on Your Birthday"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "78e32284-769b-4343-a7fd-6352cfd7165d", 
+                            "stats": {
+                                "listeners": "4377", 
+                                "playcount": "21428"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Do You Wanna Touch Me? (Oh Yeah!)"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6adc368e-2fca-4f90-9cdb-30750916edb9", 
+                            "stats": {
+                                "listeners": "4537", 
+                                "playcount": "12822"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Let Me Go"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "71dd277e-772e-4aeb-884a-7cd2115855c1", 
+                            "stats": {
+                                "listeners": "2965", 
+                                "playcount": "8343"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Doing Alright With the Boys"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "cd46db45-d9c6-4e97-9a6d-dcbe93e9cc48", 
+                            "stats": {
+                                "listeners": "5730", 
+                                "playcount": "23096"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Shout"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6c5da299-1e40-4392-8cc2-8ef89a010b90", 
+                            "stats": {
+                                "listeners": "3453", 
+                                "playcount": "9607"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Jezebel"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2631e0e4-0710-4836-8632-21a797bad525", 
+                            "stats": {
+                                "listeners": "7639", 
+                                "playcount": "27199"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Don\u2019t Abuse Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "f07464ee-236d-4904-adc7-23ee3065c546", 
+                            "stats": {
+                                "listeners": "4194", 
+                                "playcount": "12019"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Wooly Bully"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "8bd3d09b-3c86-42e2-939f-42dcd8ec8bc0", 
+                            "stats": {
+                                "listeners": "2313", 
+                                "playcount": "5839"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Call Me Lightning"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "692000fb-b5dd-42a5-84ac-8aa34c1af8dc", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8183"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Hanky Panky"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "680e2c8f-0688-4473-9c6f-e9d805cc4a6b", 
+                            "stats": {
+                                "listeners": "723", 
+                                "playcount": "1622"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "What Can I Do for You?"
+                        }
+                    ], 
+                    "country": "JP", 
+                    "disambiguation": "", 
+                    "mbid": "a04d0aa2-f87f-44ec-baf8-2c49cd443945", 
+                    "packaging": null, 
+                    "listeners": "30906", 
+                    "date": "2003-09-22", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "300538", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "Bad Reputation", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "fb79b0fa-8322-482e-b308-9745d43ccb4f", 
+                            "stats": {
+                                "listeners": "89214", 
+                                "playcount": "502854"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Bad Reputation"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2f7a6bdc-e5c1-43e1-bed9-4513081e6c6b", 
+                            "stats": {
+                                "listeners": "7332", 
+                                "playcount": "23018"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Make Believe"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "88590864-8041-438b-9e6a-6464382a44b3", 
+                            "stats": {
+                                "listeners": "6052", 
+                                "playcount": "17448"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Know What You\u2019ve Got"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "a9aaa580-f848-4e18-8f32-e8659de7f2cf", 
+                            "stats": {
+                                "listeners": "6638", 
+                                "playcount": "22714"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Own Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0a8a966e-5361-4082-9ff7-8cdd0035a9c1", 
+                            "stats": {
+                                "listeners": "4761", 
+                                "playcount": "13401"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Too Bad on Your Birthday"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "78e32284-769b-4343-a7fd-6352cfd7165d", 
+                            "stats": {
+                                "listeners": "4377", 
+                                "playcount": "21428"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Do You Wanna Touch Me? (Oh Yeah!)"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6adc368e-2fca-4f90-9cdb-30750916edb9", 
+                            "stats": {
+                                "listeners": "4537", 
+                                "playcount": "12822"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Let Me Go"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "71dd277e-772e-4aeb-884a-7cd2115855c1", 
+                            "stats": {
+                                "listeners": "2965", 
+                                "playcount": "8343"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Doing Alright With the Boys"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "cd46db45-d9c6-4e97-9a6d-dcbe93e9cc48", 
+                            "stats": {
+                                "listeners": "5730", 
+                                "playcount": "23096"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Shout"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6c5da299-1e40-4392-8cc2-8ef89a010b90", 
+                            "stats": {
+                                "listeners": "3453", 
+                                "playcount": "9607"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Jezebel"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2631e0e4-0710-4836-8632-21a797bad525", 
+                            "stats": {
+                                "listeners": "7639", 
+                                "playcount": "27199"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Don\u2019t Abuse Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "f07464ee-236d-4904-adc7-23ee3065c546", 
+                            "stats": {
+                                "listeners": "4194", 
+                                "playcount": "12019"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Wooly Bully"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "8bd3d09b-3c86-42e2-939f-42dcd8ec8bc0", 
+                            "stats": {
+                                "listeners": "2313", 
+                                "playcount": "5839"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Call Me Lightning"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "692000fb-b5dd-42a5-84ac-8aa34c1af8dc", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8183"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Hanky Panky"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "680e2c8f-0688-4473-9c6f-e9d805cc4a6b", 
+                            "stats": {
+                                "listeners": "723", 
+                                "playcount": "1622"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "What Can I Do for You?"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a04d0aa2-f87f-44ec-baf8-2c49cd443945", 
+                    "packaging": null, 
+                    "listeners": "30906", 
+                    "date": "1992", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "300538", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "Bad Reputation", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "fb79b0fa-8322-482e-b308-9745d43ccb4f", 
+                            "stats": {
+                                "listeners": "89214", 
+                                "playcount": "502854"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Bad Reputation"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2f7a6bdc-e5c1-43e1-bed9-4513081e6c6b", 
+                            "stats": {
+                                "listeners": "7332", 
+                                "playcount": "23018"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Make Believe"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "88590864-8041-438b-9e6a-6464382a44b3", 
+                            "stats": {
+                                "listeners": "6052", 
+                                "playcount": "17448"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Know What You\u2019ve Got"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "a9aaa580-f848-4e18-8f32-e8659de7f2cf", 
+                            "stats": {
+                                "listeners": "6638", 
+                                "playcount": "22714"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Own Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0a8a966e-5361-4082-9ff7-8cdd0035a9c1", 
+                            "stats": {
+                                "listeners": "4761", 
+                                "playcount": "13401"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Too Bad on Your Birthday"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "78e32284-769b-4343-a7fd-6352cfd7165d", 
+                            "stats": {
+                                "listeners": "4377", 
+                                "playcount": "21428"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Do You Wanna Touch Me? (Oh Yeah!)"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6adc368e-2fca-4f90-9cdb-30750916edb9", 
+                            "stats": {
+                                "listeners": "4537", 
+                                "playcount": "12822"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Let Me Go"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "71dd277e-772e-4aeb-884a-7cd2115855c1", 
+                            "stats": {
+                                "listeners": "2965", 
+                                "playcount": "8343"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Doing Alright With the Boys"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "cd46db45-d9c6-4e97-9a6d-dcbe93e9cc48", 
+                            "stats": {
+                                "listeners": "5730", 
+                                "playcount": "23096"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Shout"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6c5da299-1e40-4392-8cc2-8ef89a010b90", 
+                            "stats": {
+                                "listeners": "3453", 
+                                "playcount": "9607"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Jezebel"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2631e0e4-0710-4836-8632-21a797bad525", 
+                            "stats": {
+                                "listeners": "7639", 
+                                "playcount": "27199"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Don\u2019t Abuse Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "f07464ee-236d-4904-adc7-23ee3065c546", 
+                            "stats": {
+                                "listeners": "4194", 
+                                "playcount": "12019"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Wooly Bully"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "8bd3d09b-3c86-42e2-939f-42dcd8ec8bc0", 
+                            "stats": {
+                                "listeners": "2313", 
+                                "playcount": "5839"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Call Me Lightning"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "692000fb-b5dd-42a5-84ac-8aa34c1af8dc", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8183"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Hanky Panky"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "680e2c8f-0688-4473-9c6f-e9d805cc4a6b", 
+                            "stats": {
+                                "listeners": "723", 
+                                "playcount": "1622"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "What Can I Do for You?"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a04d0aa2-f87f-44ec-baf8-2c49cd443945", 
+                    "packaging": null, 
+                    "listeners": "30906", 
+                    "date": "2006-06-13", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "300538", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "Bad Reputation", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "fb79b0fa-8322-482e-b308-9745d43ccb4f", 
+                            "stats": {
+                                "listeners": "89214", 
+                                "playcount": "502854"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Bad Reputation"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2f7a6bdc-e5c1-43e1-bed9-4513081e6c6b", 
+                            "stats": {
+                                "listeners": "7332", 
+                                "playcount": "23018"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Make Believe"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "88590864-8041-438b-9e6a-6464382a44b3", 
+                            "stats": {
+                                "listeners": "6052", 
+                                "playcount": "17448"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Know What You\u2019ve Got"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "a9aaa580-f848-4e18-8f32-e8659de7f2cf", 
+                            "stats": {
+                                "listeners": "6638", 
+                                "playcount": "22714"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Own Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0a8a966e-5361-4082-9ff7-8cdd0035a9c1", 
+                            "stats": {
+                                "listeners": "4761", 
+                                "playcount": "13401"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Too Bad on Your Birthday"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "78e32284-769b-4343-a7fd-6352cfd7165d", 
+                            "stats": {
+                                "listeners": "4377", 
+                                "playcount": "21428"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Do You Wanna Touch Me? (Oh Yeah!)"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6adc368e-2fca-4f90-9cdb-30750916edb9", 
+                            "stats": {
+                                "listeners": "4537", 
+                                "playcount": "12822"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Let Me Go"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "71dd277e-772e-4aeb-884a-7cd2115855c1", 
+                            "stats": {
+                                "listeners": "2965", 
+                                "playcount": "8343"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Doing Alright With the Boys"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "cd46db45-d9c6-4e97-9a6d-dcbe93e9cc48", 
+                            "stats": {
+                                "listeners": "5730", 
+                                "playcount": "23096"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Shout"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6c5da299-1e40-4392-8cc2-8ef89a010b90", 
+                            "stats": {
+                                "listeners": "3453", 
+                                "playcount": "9607"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Jezebel"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2631e0e4-0710-4836-8632-21a797bad525", 
+                            "stats": {
+                                "listeners": "7639", 
+                                "playcount": "27199"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Don\u2019t Abuse Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "f07464ee-236d-4904-adc7-23ee3065c546", 
+                            "stats": {
+                                "listeners": "4194", 
+                                "playcount": "12019"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Wooly Bully"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "8bd3d09b-3c86-42e2-939f-42dcd8ec8bc0", 
+                            "stats": {
+                                "listeners": "2313", 
+                                "playcount": "5839"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Call Me Lightning"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "692000fb-b5dd-42a5-84ac-8aa34c1af8dc", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8183"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Hanky Panky"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "680e2c8f-0688-4473-9c6f-e9d805cc4a6b", 
+                            "stats": {
+                                "listeners": "723", 
+                                "playcount": "1622"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "What Can I Do for You?"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a04d0aa2-f87f-44ec-baf8-2c49cd443945", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "30906", 
+                    "date": "1981", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "300538", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "Bad Reputation", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "fb79b0fa-8322-482e-b308-9745d43ccb4f", 
+                            "stats": {
+                                "listeners": "89214", 
+                                "playcount": "502854"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Bad Reputation"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2f7a6bdc-e5c1-43e1-bed9-4513081e6c6b", 
+                            "stats": {
+                                "listeners": "7332", 
+                                "playcount": "23018"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Make Believe"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "88590864-8041-438b-9e6a-6464382a44b3", 
+                            "stats": {
+                                "listeners": "6052", 
+                                "playcount": "17448"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Know What You\u2019ve Got"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "a9aaa580-f848-4e18-8f32-e8659de7f2cf", 
+                            "stats": {
+                                "listeners": "6638", 
+                                "playcount": "22714"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Own Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0a8a966e-5361-4082-9ff7-8cdd0035a9c1", 
+                            "stats": {
+                                "listeners": "4761", 
+                                "playcount": "13401"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Too Bad on Your Birthday"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "78e32284-769b-4343-a7fd-6352cfd7165d", 
+                            "stats": {
+                                "listeners": "4377", 
+                                "playcount": "21428"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Do You Wanna Touch Me? (Oh Yeah!)"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6adc368e-2fca-4f90-9cdb-30750916edb9", 
+                            "stats": {
+                                "listeners": "4537", 
+                                "playcount": "12822"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Let Me Go"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "71dd277e-772e-4aeb-884a-7cd2115855c1", 
+                            "stats": {
+                                "listeners": "2965", 
+                                "playcount": "8343"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Doing Alright With the Boys"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "cd46db45-d9c6-4e97-9a6d-dcbe93e9cc48", 
+                            "stats": {
+                                "listeners": "5730", 
+                                "playcount": "23096"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Shout"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6c5da299-1e40-4392-8cc2-8ef89a010b90", 
+                            "stats": {
+                                "listeners": "3453", 
+                                "playcount": "9607"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Jezebel"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2631e0e4-0710-4836-8632-21a797bad525", 
+                            "stats": {
+                                "listeners": "7639", 
+                                "playcount": "27199"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Don\u2019t Abuse Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "f07464ee-236d-4904-adc7-23ee3065c546", 
+                            "stats": {
+                                "listeners": "4194", 
+                                "playcount": "12019"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Wooly Bully"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "8bd3d09b-3c86-42e2-939f-42dcd8ec8bc0", 
+                            "stats": {
+                                "listeners": "2313", 
+                                "playcount": "5839"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Call Me Lightning"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "692000fb-b5dd-42a5-84ac-8aa34c1af8dc", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8183"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Hanky Panky"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "680e2c8f-0688-4473-9c6f-e9d805cc4a6b", 
+                            "stats": {
+                                "listeners": "723", 
+                                "playcount": "1622"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "What Can I Do for You?"
+                        }
+                    ], 
+                    "country": "XW", 
+                    "disambiguation": "", 
+                    "mbid": "a04d0aa2-f87f-44ec-baf8-2c49cd443945", 
+                    "packaging": "None", 
+                    "listeners": "30906", 
+                    "date": "2006-06-06", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "300538", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "Bad Reputation", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "fb79b0fa-8322-482e-b308-9745d43ccb4f", 
+                            "stats": {
+                                "listeners": "89214", 
+                                "playcount": "502854"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Bad Reputation"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2f7a6bdc-e5c1-43e1-bed9-4513081e6c6b", 
+                            "stats": {
+                                "listeners": "7332", 
+                                "playcount": "23018"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Make Believe"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "88590864-8041-438b-9e6a-6464382a44b3", 
+                            "stats": {
+                                "listeners": "6052", 
+                                "playcount": "17448"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Know What You\u2019ve Got"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "a9aaa580-f848-4e18-8f32-e8659de7f2cf", 
+                            "stats": {
+                                "listeners": "6638", 
+                                "playcount": "22714"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "You Don\u2019t Own Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0a8a966e-5361-4082-9ff7-8cdd0035a9c1", 
+                            "stats": {
+                                "listeners": "4761", 
+                                "playcount": "13401"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Too Bad on Your Birthday"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "78e32284-769b-4343-a7fd-6352cfd7165d", 
+                            "stats": {
+                                "listeners": "4377", 
+                                "playcount": "21428"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Do You Wanna Touch Me? (Oh Yeah!)"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6adc368e-2fca-4f90-9cdb-30750916edb9", 
+                            "stats": {
+                                "listeners": "4537", 
+                                "playcount": "12822"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Let Me Go"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "71dd277e-772e-4aeb-884a-7cd2115855c1", 
+                            "stats": {
+                                "listeners": "2965", 
+                                "playcount": "8343"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Doing Alright With the Boys"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "cd46db45-d9c6-4e97-9a6d-dcbe93e9cc48", 
+                            "stats": {
+                                "listeners": "5730", 
+                                "playcount": "23096"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Shout"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6c5da299-1e40-4392-8cc2-8ef89a010b90", 
+                            "stats": {
+                                "listeners": "3453", 
+                                "playcount": "9607"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Jezebel"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "2631e0e4-0710-4836-8632-21a797bad525", 
+                            "stats": {
+                                "listeners": "7639", 
+                                "playcount": "27199"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Don\u2019t Abuse Me"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "f07464ee-236d-4904-adc7-23ee3065c546", 
+                            "stats": {
+                                "listeners": "4194", 
+                                "playcount": "12019"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Wooly Bully"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "8bd3d09b-3c86-42e2-939f-42dcd8ec8bc0", 
+                            "stats": {
+                                "listeners": "2313", 
+                                "playcount": "5839"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Call Me Lightning"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "692000fb-b5dd-42a5-84ac-8aa34c1af8dc", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8183"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Hanky Panky"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "680e2c8f-0688-4473-9c6f-e9d805cc4a6b", 
+                            "stats": {
+                                "listeners": "723", 
+                                "playcount": "1622"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "What Can I Do for You?"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "a04d0aa2-f87f-44ec-baf8-2c49cd443945", 
+                    "packaging": null, 
+                    "listeners": "30906", 
+                    "date": "", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "300538", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }
+            ], 
+            "title": "Bad Reputation"
+        }, 
+        {
+            "mbid": "72bf8841-243f-32d5-91c1-d1e3205014a0", 
+            "releases": [
+                {
+                    "name": "Let's Do It", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "300d15da-6320-4b0a-9d6f-0ef66ce25075", 
+                            "stats": {
+                                "listeners": "4177", 
+                                "playcount": "25851"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Let's Do It"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "df1d5352-e8aa-41ac-8200-b78872f1e731", 
+                    "packaging": null, 
+                    "listeners": "172", 
+                    "date": "1995", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "485", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }
+            ], 
+            "title": "Let's Do It"
+        }, 
+        {
+            "mbid": "9063acc5-2b88-4252-9445-755c8cc29953", 
+            "releases": [], 
+            "title": "The Hit List"
+        }, 
+        {
+            "mbid": "a060546b-9bcd-38ce-b5c3-f6fa118a45d9", 
+            "releases": [
+                {
+                    "name": "The Hit List", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "3f4794ee-e52f-4bf4-9cfc-4cc4690ccd04", 
+                            "stats": {
+                                "listeners": "11104", 
+                                "playcount": "31923"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Dirty Deeds"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d336a6b0-3e0a-40b9-a451-45867e373003", 
+                            "stats": {
+                                "listeners": "16751", 
+                                "playcount": "49205"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Hurts"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "32837af8-5277-44ee-8018-8eac4dfdbea5", 
+                            "stats": {
+                                "listeners": "8498", 
+                                "playcount": "18131"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Pretty Vacant"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "06c4b41d-9f37-4322-a6d5-b80b8efdacdd", 
+                            "stats": {
+                                "listeners": "5231", 
+                                "playcount": "10581"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Celluloid Heroes"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d6a46d95-0bf9-4c17-85b4-5c9114c503c5", 
+                            "stats": {
+                                "listeners": "9741", 
+                                "playcount": "21092"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Tush"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "38898d62-7574-4a3c-a8b0-c483357d4ea2", 
+                            "stats": {
+                                "listeners": "6403", 
+                                "playcount": "12842"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Time Has Come Today"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6fcda4a6-8e85-4e23-88ee-1d19dcb960b8", 
+                            "stats": {
+                                "listeners": "5571", 
+                                "playcount": "10844"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Up From the Skies"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0db5db32-ef0a-4fea-831f-444751097bce", 
+                            "stats": {
+                                "listeners": "11578", 
+                                "playcount": "27917"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Have You Ever Seen the Rain?"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "99088588-26d8-41b0-be82-660a32561622", 
+                            "stats": {
+                                "listeners": "8753", 
+                                "playcount": "20605"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Me Two Times"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d1f8d973-4298-469b-abfa-170c11cc246a", 
+                            "stats": {
+                                "listeners": "2189", 
+                                "playcount": "5169"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Roadrunner USA (1990 version)"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "033aa1b7-6e70-4971-97b8-e107dcc7953a", 
+                    "packaging": null, 
+                    "listeners": "43367", 
+                    "date": "1990", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "208303", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "The Hit List", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "3f4794ee-e52f-4bf4-9cfc-4cc4690ccd04", 
+                            "stats": {
+                                "listeners": "11104", 
+                                "playcount": "31923"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Dirty Deeds"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d336a6b0-3e0a-40b9-a451-45867e373003", 
+                            "stats": {
+                                "listeners": "16751", 
+                                "playcount": "49205"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Hurts"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "32837af8-5277-44ee-8018-8eac4dfdbea5", 
+                            "stats": {
+                                "listeners": "8498", 
+                                "playcount": "18131"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Pretty Vacant"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "06c4b41d-9f37-4322-a6d5-b80b8efdacdd", 
+                            "stats": {
+                                "listeners": "5231", 
+                                "playcount": "10581"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Celluloid Heroes"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d6a46d95-0bf9-4c17-85b4-5c9114c503c5", 
+                            "stats": {
+                                "listeners": "9741", 
+                                "playcount": "21092"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Tush"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "38898d62-7574-4a3c-a8b0-c483357d4ea2", 
+                            "stats": {
+                                "listeners": "6403", 
+                                "playcount": "12842"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Time Has Come Today"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6fcda4a6-8e85-4e23-88ee-1d19dcb960b8", 
+                            "stats": {
+                                "listeners": "5571", 
+                                "playcount": "10844"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Up From the Skies"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0db5db32-ef0a-4fea-831f-444751097bce", 
+                            "stats": {
+                                "listeners": "11578", 
+                                "playcount": "27917"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Have You Ever Seen the Rain?"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "99088588-26d8-41b0-be82-660a32561622", 
+                            "stats": {
+                                "listeners": "8753", 
+                                "playcount": "20605"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Me Two Times"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d1f8d973-4298-469b-abfa-170c11cc246a", 
+                            "stats": {
+                                "listeners": "2189", 
+                                "playcount": "5169"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Roadrunner USA (1990 version)"
+                        }
+                    ], 
+                    "country": "JP", 
+                    "disambiguation": "Remastered", 
+                    "mbid": "033aa1b7-6e70-4971-97b8-e107dcc7953a", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "43367", 
+                    "date": "1992-01-21", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "208303", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "The Hit List", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "3f4794ee-e52f-4bf4-9cfc-4cc4690ccd04", 
+                            "stats": {
+                                "listeners": "11104", 
+                                "playcount": "31923"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Dirty Deeds"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d336a6b0-3e0a-40b9-a451-45867e373003", 
+                            "stats": {
+                                "listeners": "16751", 
+                                "playcount": "49205"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Hurts"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "32837af8-5277-44ee-8018-8eac4dfdbea5", 
+                            "stats": {
+                                "listeners": "8498", 
+                                "playcount": "18131"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Pretty Vacant"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "06c4b41d-9f37-4322-a6d5-b80b8efdacdd", 
+                            "stats": {
+                                "listeners": "5231", 
+                                "playcount": "10581"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Celluloid Heroes"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d6a46d95-0bf9-4c17-85b4-5c9114c503c5", 
+                            "stats": {
+                                "listeners": "9741", 
+                                "playcount": "21092"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Tush"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "38898d62-7574-4a3c-a8b0-c483357d4ea2", 
+                            "stats": {
+                                "listeners": "6403", 
+                                "playcount": "12842"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Time Has Come Today"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6fcda4a6-8e85-4e23-88ee-1d19dcb960b8", 
+                            "stats": {
+                                "listeners": "5571", 
+                                "playcount": "10844"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Up From the Skies"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0db5db32-ef0a-4fea-831f-444751097bce", 
+                            "stats": {
+                                "listeners": "11578", 
+                                "playcount": "27917"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Have You Ever Seen the Rain?"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "99088588-26d8-41b0-be82-660a32561622", 
+                            "stats": {
+                                "listeners": "8753", 
+                                "playcount": "20605"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Me Two Times"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d1f8d973-4298-469b-abfa-170c11cc246a", 
+                            "stats": {
+                                "listeners": "2189", 
+                                "playcount": "5169"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Roadrunner USA (1990 version)"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "033aa1b7-6e70-4971-97b8-e107dcc7953a", 
+                    "packaging": null, 
+                    "listeners": "43367", 
+                    "date": "1996", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "208303", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "The Hit List", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "3f4794ee-e52f-4bf4-9cfc-4cc4690ccd04", 
+                            "stats": {
+                                "listeners": "11104", 
+                                "playcount": "31923"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Dirty Deeds"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d336a6b0-3e0a-40b9-a451-45867e373003", 
+                            "stats": {
+                                "listeners": "16751", 
+                                "playcount": "49205"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Hurts"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "32837af8-5277-44ee-8018-8eac4dfdbea5", 
+                            "stats": {
+                                "listeners": "8498", 
+                                "playcount": "18131"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Pretty Vacant"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "06c4b41d-9f37-4322-a6d5-b80b8efdacdd", 
+                            "stats": {
+                                "listeners": "5231", 
+                                "playcount": "10581"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Celluloid Heroes"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d6a46d95-0bf9-4c17-85b4-5c9114c503c5", 
+                            "stats": {
+                                "listeners": "9741", 
+                                "playcount": "21092"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Tush"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "38898d62-7574-4a3c-a8b0-c483357d4ea2", 
+                            "stats": {
+                                "listeners": "6403", 
+                                "playcount": "12842"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Time Has Come Today"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6fcda4a6-8e85-4e23-88ee-1d19dcb960b8", 
+                            "stats": {
+                                "listeners": "5571", 
+                                "playcount": "10844"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Up From the Skies"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0db5db32-ef0a-4fea-831f-444751097bce", 
+                            "stats": {
+                                "listeners": "11578", 
+                                "playcount": "27917"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Have You Ever Seen the Rain?"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "99088588-26d8-41b0-be82-660a32561622", 
+                            "stats": {
+                                "listeners": "8753", 
+                                "playcount": "20605"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Me Two Times"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d1f8d973-4298-469b-abfa-170c11cc246a", 
+                            "stats": {
+                                "listeners": "2189", 
+                                "playcount": "5169"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Roadrunner USA (1990 version)"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "033aa1b7-6e70-4971-97b8-e107dcc7953a", 
+                    "packaging": null, 
+                    "listeners": "43367", 
+                    "date": "1990", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "208303", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }, 
+                {
+                    "name": "The Hit List", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "3f4794ee-e52f-4bf4-9cfc-4cc4690ccd04", 
+                            "stats": {
+                                "listeners": "11104", 
+                                "playcount": "31923"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Dirty Deeds"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d336a6b0-3e0a-40b9-a451-45867e373003", 
+                            "stats": {
+                                "listeners": "16751", 
+                                "playcount": "49205"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Hurts"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "32837af8-5277-44ee-8018-8eac4dfdbea5", 
+                            "stats": {
+                                "listeners": "8498", 
+                                "playcount": "18131"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Pretty Vacant"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "06c4b41d-9f37-4322-a6d5-b80b8efdacdd", 
+                            "stats": {
+                                "listeners": "5231", 
+                                "playcount": "10581"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Celluloid Heroes"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d6a46d95-0bf9-4c17-85b4-5c9114c503c5", 
+                            "stats": {
+                                "listeners": "9741", 
+                                "playcount": "21092"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Tush"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "38898d62-7574-4a3c-a8b0-c483357d4ea2", 
+                            "stats": {
+                                "listeners": "6403", 
+                                "playcount": "12842"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Time Has Come Today"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "6fcda4a6-8e85-4e23-88ee-1d19dcb960b8", 
+                            "stats": {
+                                "listeners": "5571", 
+                                "playcount": "10844"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Up From the Skies"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "0db5db32-ef0a-4fea-831f-444751097bce", 
+                            "stats": {
+                                "listeners": "11578", 
+                                "playcount": "27917"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Have You Ever Seen the Rain?"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "99088588-26d8-41b0-be82-660a32561622", 
+                            "stats": {
+                                "listeners": "8753", 
+                                "playcount": "20605"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Love Me Two Times"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "d1f8d973-4298-469b-abfa-170c11cc246a", 
+                            "stats": {
+                                "listeners": "2189", 
+                                "playcount": "5169"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Roadrunner USA (1990 version)"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "033aa1b7-6e70-4971-97b8-e107dcc7953a", 
+                    "packaging": null, 
+                    "listeners": "43367", 
+                    "date": "1990", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "208303", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }
+            ], 
+            "title": "The Hit List"
+        }, 
+        {
+            "mbid": "afe0c950-891e-43bf-a7d8-d8e6a888ccd9", 
+            "releases": [], 
+            "title": "Bad Reputation (Music from the Original Motion Picture)"
+        }, 
+        {
+            "mbid": "c4f1af4f-66d9-3fd6-b015-fb0e5333649a", 
+            "releases": [
+                {
+                    "name": "Dirty Deeds", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "3f4794ee-e52f-4bf4-9cfc-4cc4690ccd04", 
+                            "stats": {
+                                "listeners": "11104", 
+                                "playcount": "31923"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Dirty Deeds"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "32837af8-5277-44ee-8018-8eac4dfdbea5", 
+                            "stats": {
+                                "listeners": "8498", 
+                                "playcount": "18131"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Pretty Vacant"
+                        }, 
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "390d119d-effb-4619-a05d-3b1055a7e42d", 
+                            "stats": {
+                                "listeners": "260", 
+                                "playcount": "709"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "Dirty Deeds (extended version)"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "d1afa06d-e08d-45b7-98d3-2778c11072e9", 
+                    "packaging": null, 
+                    "listeners": "135", 
+                    "date": "1990", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "819", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }
+            ], 
+            "title": "Dirty Deeds"
+        }, 
+        {
+            "mbid": "db9f687f-afc9-4d4d-8105-12978db2c886", 
+            "releases": [
+                {
+                    "name": "I Love Rock \u2019n\u2019 Fun", 
+                    "tracks": [
+                        {
+                            "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+                            "mbid": "36c6bed2-e0a9-40d0-ad79-8f8507bac424", 
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "artistName": "Joan Jett", 
+                            "title": "I Love Rock \u2019n\u2019 Fun"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "1cc38435-3294-4400-b645-ca41f0aa383b", 
+                    "packaging": "None", 
+                    "listeners": "1", 
+                    "date": "2010", 
+                    "artistName": "Joan Jett", 
+                    "playcount": "1", 
+                    "artistMBID": "f376828a-b438-4fda-bb2e-dcd5fbe81f83"
+                }
+            ], 
+            "title": "I Love Rock \u2019n\u2019 Fun"
+        }
+    ], 
+    "type": "Person"
+}

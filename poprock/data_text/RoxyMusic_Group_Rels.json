@@ -1,0 +1,79 @@
+{
+    "name": "Roxy Music",
+    "mbid": "331ce348-1b08-40b9-8ed7-0763b92bd003",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "2d4c6549-b060-44f6-9396-cc895f9c2c21",
+            "name": "Graham Simpson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+            "name": "Brian Eno",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a92d9484-3fc5-4ba5-808c-539b93516c9c",
+            "name": "Paul Thompson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "4ef7a9e2-2cf5-483a-8616-ef7791a98026",
+            "name": "Bryan Ferry",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2f82f693-9345-4ca4-aa87-9fb7e98d39c7",
+            "name": "Andy Mackay",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "0d2cf864-5e99-472e-845f-5d1579979eee",
+            "name": "Phil Manzanera",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "824dcca4-d658-41b3-95c5-07d0d183b5c6",
+            "name": "Eddie Jobson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "8b2f6eec-bd8e-487c-a816-5f5ef23fde88",
+            "name": "Sal Maida",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "4ef7a9e2-2cf5-483a-8616-ef7791a98026",
+            "name": "Bryan Ferry",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2f82f693-9345-4ca4-aa87-9fb7e98d39c7",
+            "name": "Andy Mackay",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "0d2cf864-5e99-472e-845f-5d1579979eee",
+            "name": "Phil Manzanera",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a92d9484-3fc5-4ba5-808c-539b93516c9c",
+            "name": "Paul Thompson",
+            "attributes": []
+        }
+    ]
+}

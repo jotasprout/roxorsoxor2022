@@ -1,0 +1,47 @@
+{
+    "name": "Chagall Guevara",
+    "mbid": "77f31531-c0aa-49aa-bb51-0905641c73f7",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "b978a51f-b971-4720-85d8-3cf2cc9a6722",
+            "name": "Wade Jaynes",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "cb148fcf-7297-496e-8a1a-0b68d8d73cae",
+            "name": "Mike Mead",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "139a5b15-e754-419b-bc4f-672419d06e2c",
+            "name": "Lynn Nichols",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "78428cd0-09b7-4ef6-b11e-ee73db0cf3b3",
+            "name": "Dave Perkins",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "50809635-76df-4433-b324-b3c5258fb0a3",
+            "name": "Steve Taylor",
+            "attributes": [
+                "lead vocals"
+            ]
+        }
+    ]
+}

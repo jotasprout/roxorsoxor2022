@@ -1,0 +1,544 @@
+{
+    "genres": [
+        "thrash metal", 
+        "hardcore", 
+        "crossover thrash", 
+        "crossover", 
+        "christian"
+    ], 
+    "taskDuration": {
+        "Task Duration": 27.195595026016235, 
+        "Task End": 1578635000.91181, 
+        "Task Start": 1578634973.716215
+    }, 
+    "stats": {
+        "listeners": "3844", 
+        "playcount": "79133"
+    }, 
+    "name": "The Crucified", 
+    "mbid": "149cbb32-d8ac-43f3-81f4-e591910cd9de", 
+    "birthday": "1984", 
+    "date": "2020-01-10", 
+    "albums": [
+        {
+            "mbid": "96c42374-7947-3337-b1bb-c15227ab647b", 
+            "releases": [
+                {
+                    "name": "The Crucified", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "910", 
+                                "playcount": "3254"
+                            }, 
+                            "title": "The Pit", 
+                            "artistName": "The Crucified", 
+                            "mbid": "db5f7bd6-830c-40dd-a29f-27d549221ee2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "487", 
+                                "playcount": "1801"
+                            }, 
+                            "title": "Diehard", 
+                            "artistName": "The Crucified", 
+                            "mbid": "a9f1c03f-9d16-4879-a45c-aa4c2baeff00", 
+                            "trackNumber": "2", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "688", 
+                                "playcount": "3044"
+                            }, 
+                            "title": "Your Image", 
+                            "artistName": "The Crucified", 
+                            "mbid": "491e89a4-5e40-4bbe-88a9-c01463875567", 
+                            "trackNumber": "3", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "500", 
+                                "playcount": "1949"
+                            }, 
+                            "title": "Getting a Grip on Things", 
+                            "artistName": "The Crucified", 
+                            "mbid": "8cf00f15-9181-4a90-8d2c-3c0ff93d0f7a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "493", 
+                                "playcount": "1945"
+                            }, 
+                            "title": "Hellcorn", 
+                            "artistName": "The Crucified", 
+                            "mbid": "820948b9-15fd-440c-8825-182bf9b3f3bd", 
+                            "trackNumber": "5", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "478", 
+                                "playcount": "1684"
+                            }, 
+                            "title": "Rise", 
+                            "artistName": "The Crucified", 
+                            "mbid": "128dca0a-2389-4438-b79c-6085897598f1", 
+                            "trackNumber": "6", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "435", 
+                                "playcount": "1809"
+                            }, 
+                            "title": "One Demon to Another", 
+                            "artistName": "The Crucified", 
+                            "mbid": "59b50c21-ff13-4fc0-9328-ccc5929289a8", 
+                            "trackNumber": "7", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "438", 
+                                "playcount": "1434"
+                            }, 
+                            "title": "Unity", 
+                            "artistName": "The Crucified", 
+                            "mbid": "8aebcc31-0719-4d97-af8d-628f70a1a818", 
+                            "trackNumber": "8", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "415", 
+                                "playcount": "1731"
+                            }, 
+                            "title": "A Guy in a Suit and the Pope", 
+                            "artistName": "The Crucified", 
+                            "mbid": "334acaad-e032-44b9-80ec-fa176a06a059", 
+                            "trackNumber": "9", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "435", 
+                                "playcount": "1712"
+                            }, 
+                            "title": "Back to the Cross", 
+                            "artistName": "The Crucified", 
+                            "mbid": "3b3b3bdb-1d7c-4d44-a7f8-811519698e28", 
+                            "trackNumber": "10", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "426", 
+                                "playcount": "1606"
+                            }, 
+                            "title": "Confidence", 
+                            "artistName": "The Crucified", 
+                            "mbid": "40624cf5-39f9-4b4f-ace6-80f912cb5f95", 
+                            "trackNumber": "11", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "380", 
+                                "playcount": "1334"
+                            }, 
+                            "title": "The Insult Circus", 
+                            "artistName": "The Crucified", 
+                            "mbid": "1d8ff125-cb28-4298-b488-fa56a0e0c8d5", 
+                            "trackNumber": "12", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "368", 
+                                "playcount": "1242"
+                            }, 
+                            "title": "Thread", 
+                            "artistName": "The Crucified", 
+                            "mbid": "6ad5a3d5-36be-4c81-a674-1c413400bb25", 
+                            "trackNumber": "13", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "379", 
+                                "playcount": "1352"
+                            }, 
+                            "title": "Crucial Moment", 
+                            "artistName": "The Crucified", 
+                            "mbid": "cac567d3-8a54-40b7-b0a5-bea8c67959ff", 
+                            "trackNumber": "14", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ab4c8fd9-9747-42bf-879a-0a73505f81a1", 
+                    "packaging": null, 
+                    "listeners": "1277", 
+                    "date": "1989", 
+                    "artistName": "The Crucified", 
+                    "playcount": "17650", 
+                    "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                }
+            ], 
+            "title": "The Crucified"
+        }, 
+        {
+            "mbid": "af43e422-36ed-3edd-9042-41e1d3e40568", 
+            "releases": [
+                {
+                    "name": "The Pillars Of Humanity", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "212", 
+                                "playcount": "745"
+                            }, 
+                            "title": "Intro / Hateworld", 
+                            "artistName": "The Crucified", 
+                            "mbid": "f9a9d07e-3d18-4625-b32a-a72681fb4b82", 
+                            "trackNumber": "1", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "882", 
+                                "playcount": "2832"
+                            }, 
+                            "title": "It's All About Fear", 
+                            "artistName": "The Crucified", 
+                            "mbid": "40b1996b-77c3-4645-93c4-1d4f600d90d9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "768", 
+                                "playcount": "2465"
+                            }, 
+                            "title": "The Wrong One", 
+                            "artistName": "The Crucified", 
+                            "mbid": "03d83e25-6f17-4183-a867-c482b5b0a7f1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "883", 
+                                "playcount": "3594"
+                            }, 
+                            "title": "Mindbender", 
+                            "artistName": "The Crucified", 
+                            "mbid": "8f5712e8-e1f9-4f6b-9c84-f61072fe7ecd", 
+                            "trackNumber": "4", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "764", 
+                                "playcount": "2347"
+                            }, 
+                            "title": "Path to Sorrow", 
+                            "artistName": "The Crucified", 
+                            "mbid": "949cf3c8-d9f4-4018-825f-ddb9ecae29da", 
+                            "trackNumber": "5", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "835", 
+                                "playcount": "2510"
+                            }, 
+                            "title": "Fellowship of Thieves", 
+                            "artistName": "The Crucified", 
+                            "mbid": "c1657754-4de8-4d76-88f8-1c370ef44ea2", 
+                            "trackNumber": "6", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "693", 
+                                "playcount": "2011"
+                            }, 
+                            "title": "Focus", 
+                            "artistName": "The Crucified", 
+                            "mbid": "2e985d05-dafa-46c4-ac2b-32a35e390936", 
+                            "trackNumber": "7", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "648", 
+                                "playcount": "1901"
+                            }, 
+                            "title": "The Strength", 
+                            "artistName": "The Crucified", 
+                            "mbid": "1e2f4123-5df5-430a-a783-a99c5bd93a8b", 
+                            "trackNumber": "8", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "135", 
+                                "playcount": "415"
+                            }, 
+                            "title": "Blackstone / So-Called Living, 1991", 
+                            "artistName": "The Crucified", 
+                            "mbid": "bde4e4fe-caad-45f2-b2f4-2c2da9e19359", 
+                            "trackNumber": "9", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "681", 
+                                "playcount": "2032"
+                            }, 
+                            "title": "The Pillars of Humanity", 
+                            "artistName": "The Crucified", 
+                            "mbid": "5c152d8b-8a65-4742-815d-75976cfb495d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ce0b7c17-7f2a-4ad6-bc42-2ed0c143062e", 
+                    "packaging": null, 
+                    "listeners": "1774", 
+                    "date": "1991", 
+                    "artistName": "The Crucified", 
+                    "playcount": "18820", 
+                    "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                }
+            ], 
+            "title": "The Pillars of Humanity"
+        }, 
+        {
+            "mbid": "4aba27eb-eed8-3b2c-963f-4c58d8c292a9", 
+            "releases": [
+                {
+                    "name": "Take Up Your Cross/Nailed", 
+                    "tracks": [], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d73bf144-c70d-4716-a187-7828316f8d90", 
+                    "packaging": null, 
+                    "listeners": "269", 
+                    "date": "1994", 
+                    "artistName": "The Crucified", 
+                    "playcount": "2925", 
+                    "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                }
+            ], 
+            "title": "Nailed"
+        }, 
+        {
+            "mbid": "a703a1ed-6fae-40d9-a998-6127e64f9442", 
+            "releases": [
+                {
+                    "name": "The Complete Collection", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "277", 
+                                "playcount": "599"
+                            }, 
+                            "title": "Apathy", 
+                            "artistName": "The Crucified", 
+                            "mbid": "27a2ba03-258c-42e9-aba0-8abdb3c6e907", 
+                            "trackNumber": "1", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "344", 
+                                "playcount": "1069"
+                            }, 
+                            "title": "All You Need", 
+                            "artistName": "The Crucified", 
+                            "mbid": "0552e88a-bc39-4cf9-84b6-d92a51ff11b1", 
+                            "trackNumber": "2", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "32"
+                            }, 
+                            "title": "Jesus", 
+                            "artistName": "The Crucified", 
+                            "mbid": "fdf6934a-3552-4856-820c-148f893422d6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "164", 
+                                "playcount": "355"
+                            }, 
+                            "title": "We're in a War", 
+                            "artistName": "The Crucified", 
+                            "mbid": "6e4120d6-57d5-45fb-8374-4f355afad2a5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "352", 
+                                "playcount": "1461"
+                            }, 
+                            "title": "G.O.D.", 
+                            "artistName": "The Crucified", 
+                            "mbid": "1a204e0b-d361-406e-b5cf-70aaa441b1af", 
+                            "trackNumber": "5", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "149", 
+                                "playcount": "298"
+                            }, 
+                            "title": "Crucify Me", 
+                            "artistName": "The Crucified", 
+                            "mbid": "9ebb8d43-58da-4017-8092-2eb445597da6", 
+                            "trackNumber": "6", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "137", 
+                                "playcount": "314"
+                            }, 
+                            "title": "He is the Reason", 
+                            "artistName": "The Crucified", 
+                            "mbid": "d7815414-3e3b-4081-b5bf-9099d4d143e0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "170", 
+                                "playcount": "423"
+                            }, 
+                            "title": "I'm Not Afraid (of Nuclear War)", 
+                            "artistName": "The Crucified", 
+                            "mbid": "126213a7-8019-4d01-8218-6b0a03da7061", 
+                            "trackNumber": "8", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "130", 
+                                "playcount": "291"
+                            }, 
+                            "title": "Bummer", 
+                            "artistName": "The Crucified", 
+                            "mbid": "060fe43e-e996-4b1d-92a4-884ef6abe4d0", 
+                            "trackNumber": "9", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "135", 
+                                "playcount": "273"
+                            }, 
+                            "title": "I Am", 
+                            "artistName": "The Crucified", 
+                            "mbid": "a1978921-f9ca-4da7-8253-b9330558e989", 
+                            "trackNumber": "10", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "36", 
+                                "playcount": "71"
+                            }, 
+                            "title": "Conviction / Seal Number Four", 
+                            "artistName": "The Crucified", 
+                            "mbid": "c84c2401-69f8-47e1-9415-3feec93126ee", 
+                            "trackNumber": "33", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "251", 
+                                "playcount": "782"
+                            }, 
+                            "title": "Disposal", 
+                            "artistName": "The Crucified", 
+                            "mbid": "f5e73dc8-241a-4d45-a7d1-55adadaea897", 
+                            "trackNumber": "34", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "87"
+                            }, 
+                            "title": "I'm Not a Christian Punk / Death to Death", 
+                            "artistName": "The Crucified", 
+                            "mbid": "24d1f651-add2-4e74-afac-03266a4f71e8", 
+                            "trackNumber": "35", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "688", 
+                                "playcount": "3044"
+                            }, 
+                            "title": "Your Image", 
+                            "artistName": "The Crucified", 
+                            "mbid": "dce5344a-ce32-430a-81f8-3a2617193717", 
+                            "trackNumber": "36", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "155", 
+                                "playcount": "496"
+                            }, 
+                            "title": "Straining Life", 
+                            "artistName": "The Crucified", 
+                            "mbid": "04c6caed-c521-4f93-b241-3dca7289b1e8", 
+                            "trackNumber": "37", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "196", 
+                                "playcount": "881"
+                            }, 
+                            "title": "Power of God", 
+                            "artistName": "The Crucified", 
+                            "mbid": "fd9df06d-1a90-4b6c-8380-95b3961c41e1", 
+                            "trackNumber": "38", 
+                            "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "66106d68-48f8-4dea-be82-98fb5325a849", 
+                    "packaging": null, 
+                    "listeners": "700", 
+                    "date": "2009-06-30", 
+                    "artistName": "The Crucified", 
+                    "playcount": "15615", 
+                    "artistMBID": "149cbb32-d8ac-43f3-81f4-e591910cd9de"
+                }
+            ], 
+            "title": "The Complete Collection"
+        }
+    ], 
+    "type": "Group"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Utopia",
+    "mbid": "37283116-f2cc-47cb-8806-facd063b564f",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "3622b098-11d8-45f1-9fca-0e0757ab37ae",
+            "name": "Kasim Sulton's Utopia",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a58fe38f-c956-4453-ab0f-f698bb2fca30",
+            "name": "Roger Powell",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d",
+            "name": "Todd Rundgren",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6649f78c-d239-4ae5-88a9-9e269a260134",
+            "name": "Ralph Schuckett",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d007a7b1-a4a8-4919-a4c3-f731298c4785",
+            "name": "John Siegler",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "05fcb8b5-7570-4baf-9a76-6a1c3614db35",
+            "name": "Kasim Sulton",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "c32670e0-971a-4505-b4bd-ad45bf60e78e",
+            "name": "John \u201cWillie\u201d Wilcox",
+            "attributes": []
+        }
+    ]
+}

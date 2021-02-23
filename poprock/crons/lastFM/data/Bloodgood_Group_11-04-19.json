@@ -1,0 +1,1935 @@
+{
+    "genres": [
+        "heavy metal", 
+        "christian metal", 
+        "christian", 
+        "white metal", 
+        "hard rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 64.64938282966614, 
+        "Task End": 1572845995.566866, 
+        "Task Start": 1572845930.917483
+    }, 
+    "stats": {
+        "listeners": "6088", 
+        "playcount": "130199"
+    }, 
+    "name": "Bloodgood", 
+    "mbid": "7e78a78b-3acc-4be2-a2a4-db8932b0f570", 
+    "birthday": "1985", 
+    "date": "2019-11-04", 
+    "albums": [
+        {
+            "mbid": "6b4da203-946e-3e29-acd5-7ee2b92c4a10", 
+            "releases": [
+                {
+                    "name": "Bloodgood", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "573", 
+                                "playcount": "1927"
+                            }, 
+                            "title": "Stand in the Light", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "da05451b-3b93-4c56-a5cf-0a1ad17442c8", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1645", 
+                                "playcount": "4625"
+                            }, 
+                            "title": "Demon on the Run", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "f788b103-325d-42bf-aa69-e7c8ca33e8ac", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "669", 
+                                "playcount": "2839"
+                            }, 
+                            "title": "Anguish and Pain", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "0eafcb45-1764-4ab6-a6f1-0f943ff03f68", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "104", 
+                                "playcount": "369"
+                            }, 
+                            "title": "Awake!", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "e039ef8c-1735-4203-aa3c-f1411f793b37", 
+                            "trackNumber": "A5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1799"
+                            }, 
+                            "title": "Soldier of Peace", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "d5c04d20-d412-4c44-a305-3d6ad7514e65", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "472", 
+                                "playcount": "1523"
+                            }, 
+                            "title": "You Lose", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "6314855e-0042-4c0c-a9c1-87d1a20b0c5a", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "584", 
+                                "playcount": "2053"
+                            }, 
+                            "title": "What's Following the Grave", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c50dbea3-c672-40e2-b854-b4e20eb2154a", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "592", 
+                                "playcount": "2309"
+                            }, 
+                            "title": "Killing the Beast", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "58f68363-874d-4ffe-8083-e0be109d1995", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "647", 
+                                "playcount": "2623"
+                            }, 
+                            "title": "Black Snake", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "e87ba561-aeba-42d1-a2a3-4e2467d0dfea", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a1d708e9-f88e-41f6-a732-9b15d2062d0d", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "1198", 
+                    "date": "1986", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "14082", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "Bloodgood"
+        }, 
+        {
+            "mbid": "30d2dee1-731d-355e-b319-83ba931407ec", 
+            "releases": [
+                {
+                    "name": "Detonation", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "905", 
+                                "playcount": "3484"
+                            }, 
+                            "title": "Battle of the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "76b5effc-0276-47c9-9569-fa3a0745fcfe", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "607", 
+                                "playcount": "2093"
+                            }, 
+                            "title": "Vagrant People", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "63fb75c4-611b-4d84-a143-37d4fec221f3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "577", 
+                                "playcount": "2039"
+                            }, 
+                            "title": "Self-Destruction", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3b51b236-b16a-4054-8824-892e7c05adec", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "855", 
+                                "playcount": "3378"
+                            }, 
+                            "title": "Alone in Suicide", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3b1c98e8-c9a8-400c-90f4-29bc3a7b6998", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "368", 
+                                "playcount": "1184"
+                            }, 
+                            "title": "Heartbeat (of the City)", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "9c5937ac-366d-47f3-af6d-be1d4a721692", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "714", 
+                                "playcount": "2786"
+                            }, 
+                            "title": "Eat the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "175cf434-07b9-4712-9da3-424be4346cc9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "628", 
+                                "playcount": "2390"
+                            }, 
+                            "title": "Holy Fire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "09a4b428-2c3f-4e2e-b5c5-3d021816aff3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "920", 
+                                "playcount": "3708"
+                            }, 
+                            "title": "Crucify", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3be63e31-bae9-4a2d-820e-a257329728b1", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3908"
+                            }, 
+                            "title": "The Messiah", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "51351a42-5b89-4fad-9dc5-2bac1cc73bfd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1717"
+                            }, 
+                            "title": "Live Wire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "b22fb91f-fccc-4aed-aec3-d015a16728ec", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8b4f8fa5-cd15-3d51-b10f-546659e31b3f", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "1468", 
+                    "date": "1987", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "17233", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }, 
+                {
+                    "name": "Detonation", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "905", 
+                                "playcount": "3484"
+                            }, 
+                            "title": "Battle of the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "76b5effc-0276-47c9-9569-fa3a0745fcfe", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "607", 
+                                "playcount": "2093"
+                            }, 
+                            "title": "Vagrant People", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "63fb75c4-611b-4d84-a143-37d4fec221f3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "577", 
+                                "playcount": "2039"
+                            }, 
+                            "title": "Self-Destruction", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3b51b236-b16a-4054-8824-892e7c05adec", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "855", 
+                                "playcount": "3378"
+                            }, 
+                            "title": "Alone in Suicide", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3b1c98e8-c9a8-400c-90f4-29bc3a7b6998", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "368", 
+                                "playcount": "1184"
+                            }, 
+                            "title": "Heartbeat (of the City)", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "9c5937ac-366d-47f3-af6d-be1d4a721692", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "714", 
+                                "playcount": "2786"
+                            }, 
+                            "title": "Eat the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "175cf434-07b9-4712-9da3-424be4346cc9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "628", 
+                                "playcount": "2390"
+                            }, 
+                            "title": "Holy Fire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "09a4b428-2c3f-4e2e-b5c5-3d021816aff3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "920", 
+                                "playcount": "3708"
+                            }, 
+                            "title": "Crucify", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3be63e31-bae9-4a2d-820e-a257329728b1", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3908"
+                            }, 
+                            "title": "The Messiah", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "51351a42-5b89-4fad-9dc5-2bac1cc73bfd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1717"
+                            }, 
+                            "title": "Live Wire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "b22fb91f-fccc-4aed-aec3-d015a16728ec", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8b4f8fa5-cd15-3d51-b10f-546659e31b3f", 
+                    "packaging": null, 
+                    "listeners": "1468", 
+                    "date": "1987", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "17233", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "Detonation"
+        }, 
+        {
+            "mbid": "4fdc1909-bcda-3455-bde3-204b50c09b4a", 
+            "releases": [
+                {
+                    "name": "Rock in a Hard Place", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "552", 
+                                "playcount": "2100"
+                            }, 
+                            "title": "Shakin' It", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c8373fd5-8984-43dd-814b-347c075b7be5", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "593", 
+                                "playcount": "2457"
+                            }, 
+                            "title": "Never Be the Same", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a7c86f82-7951-43bb-a08a-88e7249731bb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "419", 
+                                "playcount": "1698"
+                            }, 
+                            "title": "The Presence", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "1696ef84-1435-4dd2-ae4d-471b280a8345", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "413", 
+                                "playcount": "1473"
+                            }, 
+                            "title": "What Have I Done", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "468d0202-3393-4efa-8df2-f280c81564b7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "450", 
+                                "playcount": "1673"
+                            }, 
+                            "title": "Heaven On Earth", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "0d49f1ef-8856-4299-ab6b-c167bcf3f949", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "516", 
+                                "playcount": "2014"
+                            }, 
+                            "title": "Do or Die", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "5b7d8e13-59ca-4535-a65a-26d988ace80c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "463", 
+                                "playcount": "1975"
+                            }, 
+                            "title": "She's Gone", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "6ff859d3-ce7f-493f-8e3a-170a849ab86e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "323", 
+                                "playcount": "1132"
+                            }, 
+                            "title": "The World (Keeps Movin' Around)", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "eb7d098c-a2db-47cf-a37d-a42ab20e27fb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "482", 
+                                "playcount": "2192"
+                            }, 
+                            "title": "Seven", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "8ea5d1fa-d0dc-449e-a5ae-968656c954e7", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "daa4ed02-dc73-4f47-b404-83afbbacdad3", 
+                    "packaging": null, 
+                    "listeners": "739", 
+                    "date": "1988", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "10634", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "Rock in a Hard Place"
+        }, 
+        {
+            "mbid": "873e6d13-dcc1-39a8-9c72-51aa33a1efc2", 
+            "releases": [
+                {
+                    "name": "Out of the Darkness", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "908", 
+                                "playcount": "3976"
+                            }, 
+                            "title": "Out of the Darkness", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "0d3bb215-5b31-4532-9ad8-c77f85e8b88e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "588", 
+                                "playcount": "2256"
+                            }, 
+                            "title": "Let My People Go", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "09af5b64-68e2-4b14-88c3-6c7b4fe87ab3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "452", 
+                                "playcount": "1711"
+                            }, 
+                            "title": "America", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c51c49e5-d54a-4f35-b038-97fc363b430e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "446", 
+                                "playcount": "1649"
+                            }, 
+                            "title": "It's Alright", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "89e1a577-d964-4a2a-a9d7-24572ecb2ca2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "693", 
+                                "playcount": "3285"
+                            }, 
+                            "title": "Top of the Mountain", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "4041eb56-ee6a-4b45-a659-c2b965ea16c7", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "287", 
+                                "playcount": "879"
+                            }, 
+                            "title": "Hey! You", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "6bdeeb8d-9db9-4960-8939-be3ed310ba6c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "414", 
+                                "playcount": "1525"
+                            }, 
+                            "title": "Mad Dog World", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "b7d2f8e2-3017-4d58-8e0a-b9d4a05df9d9", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "359", 
+                                "playcount": "1308"
+                            }, 
+                            "title": "Changing Me", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "1f45a865-5c40-4dac-8b64-4f4e2fc278de", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "1888"
+                            }, 
+                            "title": "New Age Illusion", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a28b2076-acec-4f50-a033-63c3348f31fa", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0a2e7a37-c9fc-4d27-a77c-6c4713cdca7d", 
+                    "packaging": null, 
+                    "listeners": "892", 
+                    "date": "1989", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "11286", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "Out of the Darkness"
+        }, 
+        {
+            "mbid": "7a1b7398-5934-340f-afc5-c7dbd4604935", 
+            "releases": [
+                {
+                    "name": "All Stand Together", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "713", 
+                                "playcount": "2148"
+                            }, 
+                            "title": "S.O.S.", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "1689131d-a52b-4248-aed1-e04059441a6e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "869", 
+                                "playcount": "3422"
+                            }, 
+                            "title": "All Stand Together", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "14efb10a-8968-4c22-9ac6-90cfd10f043e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "729", 
+                                "playcount": "2254"
+                            }, 
+                            "title": "Escape from the Fire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c02c27a4-9c30-4aed-acd4-327af64ef62e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "634", 
+                                "playcount": "1890"
+                            }, 
+                            "title": "Out of Love", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "de20be7a-13be-4832-9539-c2fae38e2764", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "552", 
+                                "playcount": "1651"
+                            }, 
+                            "title": "Say Goodbye", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "83675134-34ac-47f2-99f8-c1d0d809dc18", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "603", 
+                                "playcount": "1968"
+                            }, 
+                            "title": "Kingdom Come", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a10f75ac-1163-4efa-9157-8afe6b24d08b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "673", 
+                                "playcount": "1881"
+                            }, 
+                            "title": "Fear no Evil", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "065338f3-f13e-4072-bb43-47f5fd38aee5", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "508", 
+                                "playcount": "1520"
+                            }, 
+                            "title": "Help Me", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a6a0cf3a-8181-427b-8e7f-66dfbde0d912", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "524", 
+                                "playcount": "1504"
+                            }, 
+                            "title": "Rounded are the Rocks", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "d1e55d03-6b9d-4556-9b97-af3d32480483", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "417", 
+                                "playcount": "1346"
+                            }, 
+                            "title": "Lies in the Dark", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "9fe0c31b-bfae-4511-9379-c4f02f20fe8a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "380", 
+                                "playcount": "1229"
+                            }, 
+                            "title": "Streetlight Dancer", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "7dc79a90-e19c-4078-841e-ab7417738415", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "439", 
+                                "playcount": "1745"
+                            }, 
+                            "title": "I Want to Live in Your Heart", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "268b922e-6501-4063-be58-c80d6ec57455", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "fd8316c5-c25a-4baf-b71f-03463cfc88ce", 
+                    "packaging": null, 
+                    "listeners": "1940", 
+                    "date": "1991", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "19402", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "All Stand Together"
+        }, 
+        {
+            "mbid": "044d6eb8-99e8-3b98-91a1-275ee1a1dbe8", 
+            "releases": [
+                {
+                    "name": "Bloodgood / Detonation", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "720", 
+                                "playcount": "2700"
+                            }, 
+                            "title": "Accept the Lamb", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "8cc63839-dbe2-45d7-bd05-dd6adb288f11", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "573", 
+                                "playcount": "1927"
+                            }, 
+                            "title": "Stand in the Light", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "8f3a999f-d318-4853-afa3-e5cbfa67c59b", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1645", 
+                                "playcount": "4625"
+                            }, 
+                            "title": "Demon on the Run", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c493d8cf-69f0-4437-9377-364911360199", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "669", 
+                                "playcount": "2839"
+                            }, 
+                            "title": "Anguish and Pain", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "5f41efdb-3211-4b14-9340-48588e1630f3", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "557", 
+                                "playcount": "2026"
+                            }, 
+                            "title": "Awake!", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "cb23a62f-2a21-4bf5-89d4-f4b9a101e69b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1799"
+                            }, 
+                            "title": "Soldier of Peace", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c61b2f82-5c5c-4c8f-a760-30f8e737484c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "472", 
+                                "playcount": "1523"
+                            }, 
+                            "title": "You Lose", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "28e9ba33-3fdc-4f67-8cba-6c8b2d25e2ae", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "584", 
+                                "playcount": "2053"
+                            }, 
+                            "title": "What's Following the Grave", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "6a835db1-851f-4e31-bd56-b95246ba7d40", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "592", 
+                                "playcount": "2309"
+                            }, 
+                            "title": "Killing the Beast", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "5bafb9a9-63f6-4ba3-9f3c-5f6ae52c9269", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "647", 
+                                "playcount": "2623"
+                            }, 
+                            "title": "Black Snake", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "344acaa1-da14-417e-b3b1-5fa1521eb779", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "905", 
+                                "playcount": "3484"
+                            }, 
+                            "title": "Battle of the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "2bc6193d-5102-439b-b090-37e7c7e13c28", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "607", 
+                                "playcount": "2093"
+                            }, 
+                            "title": "Vagrant People", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "5f82c2f8-9c97-4f72-bc0f-4ea844a9f848", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "577", 
+                                "playcount": "2039"
+                            }, 
+                            "title": "Self-Destruction", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "4ed58356-e0c0-45b8-b591-13f42b36fc30", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "855", 
+                                "playcount": "3378"
+                            }, 
+                            "title": "Alone in Suicide", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "d5aa7d02-9365-4271-abb3-2f2f2e35fd8a", 
+                            "trackNumber": "14", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "159", 
+                                "playcount": "526"
+                            }, 
+                            "title": "Heartbeat of the City", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3019fed8-2759-4c1f-8470-2d4ed649161b", 
+                            "trackNumber": "15", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "714", 
+                                "playcount": "2786"
+                            }, 
+                            "title": "Eat the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3e8c9fb5-8322-41ec-ab79-8da46214812d", 
+                            "trackNumber": "16", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "628", 
+                                "playcount": "2390"
+                            }, 
+                            "title": "Holy Fire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "f634c1ec-2c13-41df-8580-226783ee1435", 
+                            "trackNumber": "17", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "920", 
+                                "playcount": "3708"
+                            }, 
+                            "title": "Crucify", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "bc6d6f43-1566-4779-938b-d2f8640f0ff0", 
+                            "trackNumber": "18", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3908"
+                            }, 
+                            "title": "The Messiah", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c6acca00-4f38-45f6-a4cd-15c1289a7ce8", 
+                            "trackNumber": "19", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1717"
+                            }, 
+                            "title": "Live Wire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "ab512188-8b42-4fb5-98d1-dd4eedca7815", 
+                            "trackNumber": "20", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "792bbd72-92d7-43a9-9b17-7c567893e6d5", 
+                    "packaging": null, 
+                    "listeners": "10", 
+                    "date": "1998", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "101", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "Bloodgood / Detonation"
+        }, 
+        {
+            "mbid": "dbb71886-32d9-31bd-abd6-a993c42f61de", 
+            "releases": [
+                {
+                    "name": "Rock In A Hard Place / Out Of The Darkness", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "552", 
+                                "playcount": "2100"
+                            }, 
+                            "title": "Shakin' It", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c43b0352-da4d-4a1e-ac8a-59028b9212f6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "593", 
+                                "playcount": "2457"
+                            }, 
+                            "title": "Never Be the Same", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "b3e1d16c-8bd2-4aa2-a756-f4be72af2309", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "419", 
+                                "playcount": "1698"
+                            }, 
+                            "title": "The Presence", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "1e0cdf30-55d8-4b0f-855a-9486d9d69b87", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "413", 
+                                "playcount": "1473"
+                            }, 
+                            "title": "What Have I Done", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a291ed22-9bed-4a64-b8bb-a75d7eaa2f80", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "450", 
+                                "playcount": "1673"
+                            }, 
+                            "title": "Heaven on Earth", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "0d23376f-e652-442a-99c1-29fbbb92bb9f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "516", 
+                                "playcount": "2014"
+                            }, 
+                            "title": "Do or Die", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "18d47db9-ace9-495d-8eef-647c7e51c1ab", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "463", 
+                                "playcount": "1975"
+                            }, 
+                            "title": "She's Gone", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "0ab7e490-8739-4fba-986a-be4d152f1693", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "323", 
+                                "playcount": "1132"
+                            }, 
+                            "title": "The World (Keeps Movin' Around)", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "715b5d62-d9e5-4aa3-8a6a-c7682708f48c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "482", 
+                                "playcount": "2192"
+                            }, 
+                            "title": "Seven", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "fc8fe71a-0790-4e7c-b929-10c8f980d9d6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "908", 
+                                "playcount": "3976"
+                            }, 
+                            "title": "Out of the Darkness", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "fb451fb9-ed17-47b7-9f5c-768f8f21a92d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "588", 
+                                "playcount": "2256"
+                            }, 
+                            "title": "Let My People Go", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a148f1f3-6ae3-4e91-ae72-f02b06750703", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "452", 
+                                "playcount": "1711"
+                            }, 
+                            "title": "America", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "ad5dce63-8eb3-4405-8470-fc385da79b97", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "446", 
+                                "playcount": "1649"
+                            }, 
+                            "title": "It's Alright", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "453b4719-bd37-402f-849b-bbf00eef5a8c", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "693", 
+                                "playcount": "3285"
+                            }, 
+                            "title": "Top of the Mountain", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "43f90d2a-e794-4a1f-9821-edb6b15f8532", 
+                            "trackNumber": "14", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "57"
+                            }, 
+                            "title": "Hey You", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "23e9541c-dac7-4abe-9b4b-db6d9ca4bb35", 
+                            "trackNumber": "15", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "414", 
+                                "playcount": "1525"
+                            }, 
+                            "title": "Mad Dog World", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "09747d13-3048-40ff-b4ee-a9a159f31d12", 
+                            "trackNumber": "16", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "359", 
+                                "playcount": "1308"
+                            }, 
+                            "title": "Changing Me", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3ea09576-1237-4ccc-bc38-bdf93885c0b2", 
+                            "trackNumber": "17", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "1888"
+                            }, 
+                            "title": "New Age Illusion", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "5fe7d2cb-f3f4-4a5d-8aeb-d0c345ce79c5", 
+                            "trackNumber": "18", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a9a7da8a-33bb-458d-b969-77847418215f", 
+                    "packaging": null, 
+                    "listeners": "19", 
+                    "date": "1998", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "792", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "Rock in a Hard Place / Out of the Darkness"
+        }, 
+        {
+            "mbid": "8ec677d9-a17b-49e0-920b-5d2648678a7a", 
+            "releases": [], 
+            "title": "Dangerously Close"
+        }, 
+        {
+            "mbid": "5e3d5e31-d8b1-3c76-812f-26743831a469", 
+            "releases": [
+                {
+                    "name": "The Collection", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "669", 
+                                "playcount": "2839"
+                            }, 
+                            "title": "Anguish and Pain", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "6317b70c-cde3-404a-bda4-90c257c13a65", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "905", 
+                                "playcount": "3484"
+                            }, 
+                            "title": "Battle of the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "f2ed1f89-eba6-4497-9281-fc7de011a3cf", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "714", 
+                                "playcount": "2786"
+                            }, 
+                            "title": "Eat the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "da8c8361-3646-4d58-b533-afb3144bceef", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "593", 
+                                "playcount": "2457"
+                            }, 
+                            "title": "Never Be the Same", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "37e443f9-5a9f-401b-917f-da1d6b5ae79b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "1888"
+                            }, 
+                            "title": "New Age Illusion", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "6b05c4f5-c5b2-45cf-9cc6-587911e8395d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "920", 
+                                "playcount": "3708"
+                            }, 
+                            "title": "Crucify", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "d2595e6e-562a-48e4-b383-047eb7d8f955", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "245"
+                            }, 
+                            "title": "Messiah", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "8e04f8b7-fa5d-4056-8c33-ae6ee847400b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "584", 
+                                "playcount": "2053"
+                            }, 
+                            "title": "What's Following the Grave", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "f2372e33-9639-44a1-bc39-03451c2020d5", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "552", 
+                                "playcount": "2100"
+                            }, 
+                            "title": "Shakin' It", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "7d3eb263-4c7b-461b-965c-f7adc7b0cc14", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "592", 
+                                "playcount": "2309"
+                            }, 
+                            "title": "Killing the Beast", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "55927bd9-c789-459d-9f67-065c4d70a4fb", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "855", 
+                                "playcount": "3378"
+                            }, 
+                            "title": "Alone in Suicide", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "b2a9ded9-8bbc-4aaa-be26-fa3987d85aa6", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "908", 
+                                "playcount": "3976"
+                            }, 
+                            "title": "Out of the Darkness", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "183ae700-df8c-498c-b0fb-86716023793d", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "516", 
+                                "playcount": "2014"
+                            }, 
+                            "title": "Do or Die", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "e15125b7-35ad-47c8-85d5-26fa44e0a97f", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "419", 
+                                "playcount": "1698"
+                            }, 
+                            "title": "The Presence", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "4fa62c9a-66a7-44d2-a60d-a2bf68cd5f95", 
+                            "trackNumber": "14", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "693", 
+                                "playcount": "3285"
+                            }, 
+                            "title": "Top of the Mountain", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "fc0b06d3-aef5-480f-9d5e-fb8ca9588bdd", 
+                            "trackNumber": "15", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "647", 
+                                "playcount": "2623"
+                            }, 
+                            "title": "Black Snake", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "1947e88b-926d-49b1-b4fa-dec8ea700ed3", 
+                            "trackNumber": "16", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "59c69378-4eb7-4e1e-8a43-88be11ec0bfd", 
+                    "packaging": null, 
+                    "listeners": "246", 
+                    "date": "", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "5709", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "The Collection"
+        }, 
+        {
+            "mbid": "92c63239-dd53-3f8b-ae0c-6b1b7f623969", 
+            "releases": [
+                {
+                    "name": "Live, Volume One: Alive in America", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "908", 
+                                "playcount": "3976"
+                            }, 
+                            "title": "Out of the Darkness", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "53fe5f24-1b7b-4896-82d6-4d828e006a4b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "516", 
+                                "playcount": "2014"
+                            }, 
+                            "title": "Do or Die", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c6952dc6-ff73-4fb7-9b22-580a87c7281d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "446", 
+                                "playcount": "1649"
+                            }, 
+                            "title": "It's Alright", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "47f9a063-1669-4efd-adfa-99a09509a664", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "212", 
+                                "playcount": "795"
+                            }, 
+                            "title": "Hey You!", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "86f1b2ee-78fc-4a73-a9a9-8f2085ccb435", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "855", 
+                                "playcount": "3378"
+                            }, 
+                            "title": "Alone in Suicide", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "b3dcd386-0b00-4eac-addd-712149c74676", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "463", 
+                                "playcount": "1975"
+                            }, 
+                            "title": "She's Gone", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "6e8ac842-7c32-4d3a-bba5-866a6dab994c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "450", 
+                                "playcount": "1673"
+                            }, 
+                            "title": "Heaven on Earth", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a6a2a9a6-f962-4f40-bbb8-524b26f47e65", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "552", 
+                                "playcount": "2100"
+                            }, 
+                            "title": "Shakin' It", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "1d7b00ca-9cc9-4dd2-9509-71d60f3eac02", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1799"
+                            }, 
+                            "title": "Soldier of Peace", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "9b07deaa-0aa7-4bce-b3dc-cadc324c1ba3", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "452", 
+                                "playcount": "1711"
+                            }, 
+                            "title": "America", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "82ed38a5-c0a1-4f7a-a8c5-786c2475b646", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "593", 
+                                "playcount": "2457"
+                            }, 
+                            "title": "Never Be the Same", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a0b2ebe1-539e-495c-8805-5b6c070c6621", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "170"
+                            }, 
+                            "title": "Medley", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "ed843890-e589-44a5-bb95-9fca98a2f0e6", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "65a216f0-854a-4d6a-ad75-51968daf7ed8", 
+                    "packaging": null, 
+                    "listeners": "1", 
+                    "date": "1990", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "23", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "Live, Volume One: Alive in America"
+        }, 
+        {
+            "mbid": "782cbd8a-9665-3ff9-8a1b-61ab52904e50", 
+            "releases": [
+                {
+                    "name": "Live, Volume Two: Shakin' the World", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "588", 
+                                "playcount": "2256"
+                            }, 
+                            "title": "Let My People Go", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "2bec2665-1301-4807-82c0-6a769bba8e13", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "414", 
+                                "playcount": "1525"
+                            }, 
+                            "title": "Mad Dog World", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "bfec0afd-32b4-4da1-a88c-bc8b5b59b33c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "693", 
+                                "playcount": "3285"
+                            }, 
+                            "title": "Top of the Mountain", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "8dd7d370-87cf-43c7-b17a-fd25e2dc490f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "557", 
+                                "playcount": "2026"
+                            }, 
+                            "title": "Awake!", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "29032dab-d996-4e5f-897d-058fcaafa010", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "714", 
+                                "playcount": "2786"
+                            }, 
+                            "title": "Eat the Flesh", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a7b2051f-7401-4bf6-9f7a-c3ce0b0843af", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "628", 
+                                "playcount": "2390"
+                            }, 
+                            "title": "Holy Fire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "52a2c8a0-e812-4bf0-9d3c-c6593e3590d6", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "920", 
+                                "playcount": "3708"
+                            }, 
+                            "title": "Crucify", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "b7126c7b-8bff-46bf-ad71-acb66f7f5c65", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "83", 
+                                "playcount": "234"
+                            }, 
+                            "title": "The Sixth Hour", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a7e047b8-07e0-45c0-a364-eb72fefde090", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3908"
+                            }, 
+                            "title": "The Messiah", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "f863c4c9-b9fb-40a2-9d43-7ffea55c4d0e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "720", 
+                                "playcount": "2700"
+                            }, 
+                            "title": "Accept the Lamb", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "87cb27ec-8d3c-468a-974d-6ab06badf350", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "482", 
+                                "playcount": "2192"
+                            }, 
+                            "title": "Seven", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "0503614c-40bb-4125-aa16-1c11bdfec8aa", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "1888"
+                            }, 
+                            "title": "New Age Illusion", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "6c0657c2-6ffd-4497-9251-8dd56979cb12", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d139d10d-348e-45f8-91ec-2ed747fca4f2", 
+                    "packaging": null, 
+                    "listeners": "7", 
+                    "date": "1990", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "18", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "Live, Volume Two: Shakin' the World"
+        }, 
+        {
+            "mbid": "86e25b86-bdad-3955-8624-de81667273bd", 
+            "releases": [
+                {
+                    "name": "To Germany, With Love!", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "603", 
+                                "playcount": "1968"
+                            }, 
+                            "title": "Kingdom Come", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "7b36981c-1d43-4f8a-8eea-8bfbafc18f94", 
+                            "trackNumber": "1", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "450", 
+                                "playcount": "1673"
+                            }, 
+                            "title": "Heaven on Earth", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "2531abe6-ce55-4e88-9e73-b7c654fd861b", 
+                            "trackNumber": "2", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "588", 
+                                "playcount": "2256"
+                            }, 
+                            "title": "Let My People Go", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "b13dc1af-1b9e-4345-9ff6-d102a4332ecc", 
+                            "trackNumber": "3", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "634", 
+                                "playcount": "1890"
+                            }, 
+                            "title": "Out of Love", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "a41bee80-254a-471d-8ec4-de55fabec9d2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "869", 
+                                "playcount": "3422"
+                            }, 
+                            "title": "All Stand Together", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "cb637111-36a6-4b48-ac05-9bfbe5307456", 
+                            "trackNumber": "5", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "212", 
+                                "playcount": "795"
+                            }, 
+                            "title": "Hey You!", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "bd8f4d80-03ff-4f55-bd9c-7afed3939f69", 
+                            "trackNumber": "6", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "669", 
+                                "playcount": "2839"
+                            }, 
+                            "title": "Anguish and Pain", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "255dd59e-7c8e-4b4a-8563-2a97b8ab6966", 
+                            "trackNumber": "7", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "729", 
+                                "playcount": "2254"
+                            }, 
+                            "title": "Escape From the Fire", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "49a01b1e-b1c8-4bf8-813b-ae5a7823345d", 
+                            "trackNumber": "8", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "39"
+                            }, 
+                            "title": "Holy Spirit Jam", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "3ca7df4a-39f1-49d1-82cf-eb8bb7a11428", 
+                            "trackNumber": "9", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "439", 
+                                "playcount": "1745"
+                            }, 
+                            "title": "I Want to Live in Your Heart", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "aa525af7-7813-4446-89bb-330a20283b5f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "28"
+                            }, 
+                            "title": "Self-destruction & Drum Solo", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c2aeb95a-00fb-49b4-952f-fd2505c84735", 
+                            "trackNumber": "11", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "920", 
+                                "playcount": "3708"
+                            }, 
+                            "title": "Crucify", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "d1707c81-fc42-46fe-add0-3a4afbb75e48", 
+                            "trackNumber": "12", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "114"
+                            }, 
+                            "title": "Intro & Messiah", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "e8716f6c-451a-4820-a369-60f6dc1a1abc", 
+                            "trackNumber": "13", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "482", 
+                                "playcount": "2192"
+                            }, 
+                            "title": "Seven", 
+                            "artistName": "Bloodgood", 
+                            "mbid": "c50134d4-c56a-4d5b-b9b7-4168b67aa612", 
+                            "trackNumber": "14", 
+                            "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f1cc168c-fec5-4f83-a16b-a24fefbf6f7f", 
+                    "packaging": null, 
+                    "listeners": "90", 
+                    "date": "1993", 
+                    "artistName": "Bloodgood", 
+                    "playcount": "1002", 
+                    "artistMBID": "7e78a78b-3acc-4be2-a2a4-db8932b0f570"
+                }
+            ], 
+            "title": "To Germany, With Love!"
+        }, 
+        {
+            "mbid": "0d27a4a8-de60-432c-a506-c028d318c740", 
+            "releases": [], 
+            "title": "To Germany, With Love!"
+        }, 
+        {
+            "mbid": "e7ae1261-a411-4b60-97e8-2aebc52651e2", 
+            "releases": [], 
+            "title": "Metal Missionaries"
+        }
+    ], 
+    "type": "Group"
+}

@@ -1,0 +1,1444 @@
+{
+    "genres": [
+        "thrash metal", 
+        "progressive thrash metal", 
+        "Technical Thrash Metal", 
+        "Progressive metal", 
+        "death metal"
+    ], 
+    "taskDuration": {
+        "Task Duration": 54.08253192901611, 
+        "Task End": 1578202093.123755, 
+        "Task Start": 1578202039.041223
+    }, 
+    "stats": {
+        "listeners": "11249", 
+        "playcount": "248870"
+    }, 
+    "name": "Believer", 
+    "mbid": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef", 
+    "birthday": "1986", 
+    "date": "2020-01-05", 
+    "albums": [
+        {
+            "mbid": "d4cb2630-7036-31bb-b2bd-4140411901fc", 
+            "releases": [
+                {
+                    "name": "Extraction From Mortality", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1391", 
+                                "playcount": "5232"
+                            }, 
+                            "title": "Unite", 
+                            "artistName": "Believer", 
+                            "mbid": "001b9c63-a1ea-40ae-9d53-fae86d84c36c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1335", 
+                                "playcount": "4816"
+                            }, 
+                            "title": "Vile Hypocrisy", 
+                            "artistName": "Believer", 
+                            "mbid": "c2bedc09-9a11-410e-ad23-96e3712ee302", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1240", 
+                                "playcount": "4452"
+                            }, 
+                            "title": "D.O.S. (Desolation of Sodom)", 
+                            "artistName": "Believer", 
+                            "mbid": "9b0304ab-b316-4a83-8bdd-9392ac90e5f6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1220", 
+                                "playcount": "4302"
+                            }, 
+                            "title": "Tormented", 
+                            "artistName": "Believer", 
+                            "mbid": "1065c3e1-1837-406e-9aa4-dcbe6f3bff47", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1313", 
+                                "playcount": "5096"
+                            }, 
+                            "title": "Shadow of Death", 
+                            "artistName": "Believer", 
+                            "mbid": "81654352-d03b-4277-b034-f972d0830403", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1156", 
+                                "playcount": "4206"
+                            }, 
+                            "title": "Blemished Sacrifices", 
+                            "artistName": "Believer", 
+                            "mbid": "4edc9c36-e3c5-4d78-aced-67593b67fb29", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1283", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Not Even One", 
+                            "artistName": "Believer", 
+                            "mbid": "71f2bf49-392c-4945-bacc-ed27515fb539", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1165", 
+                                "playcount": "4353"
+                            }, 
+                            "title": "Extraction from Mortality", 
+                            "artistName": "Believer", 
+                            "mbid": "2036cbb7-ba15-4d03-ac1b-4604f93ec258", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1092", 
+                                "playcount": "3921"
+                            }, 
+                            "title": "Stress", 
+                            "artistName": "Believer", 
+                            "mbid": "cff3da5a-fca8-4dbe-a711-e9748c3b0931", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9d041716-f607-43b0-9713-a4561827d08d", 
+                    "packaging": null, 
+                    "listeners": "1485", 
+                    "date": "1989", 
+                    "artistName": "Believer", 
+                    "playcount": "30427", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }, 
+                {
+                    "name": "Extraction From Mortality", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1391", 
+                                "playcount": "5232"
+                            }, 
+                            "title": "Unite", 
+                            "artistName": "Believer", 
+                            "mbid": "001b9c63-a1ea-40ae-9d53-fae86d84c36c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1335", 
+                                "playcount": "4816"
+                            }, 
+                            "title": "Vile Hypocrisy", 
+                            "artistName": "Believer", 
+                            "mbid": "c2bedc09-9a11-410e-ad23-96e3712ee302", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1240", 
+                                "playcount": "4452"
+                            }, 
+                            "title": "D.O.S. (Desolation of Sodom)", 
+                            "artistName": "Believer", 
+                            "mbid": "9b0304ab-b316-4a83-8bdd-9392ac90e5f6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1220", 
+                                "playcount": "4302"
+                            }, 
+                            "title": "Tormented", 
+                            "artistName": "Believer", 
+                            "mbid": "1065c3e1-1837-406e-9aa4-dcbe6f3bff47", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1313", 
+                                "playcount": "5096"
+                            }, 
+                            "title": "Shadow of Death", 
+                            "artistName": "Believer", 
+                            "mbid": "81654352-d03b-4277-b034-f972d0830403", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1156", 
+                                "playcount": "4206"
+                            }, 
+                            "title": "Blemished Sacrifices", 
+                            "artistName": "Believer", 
+                            "mbid": "4edc9c36-e3c5-4d78-aced-67593b67fb29", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1283", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Not Even One", 
+                            "artistName": "Believer", 
+                            "mbid": "71f2bf49-392c-4945-bacc-ed27515fb539", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1165", 
+                                "playcount": "4353"
+                            }, 
+                            "title": "Extraction from Mortality", 
+                            "artistName": "Believer", 
+                            "mbid": "2036cbb7-ba15-4d03-ac1b-4604f93ec258", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1092", 
+                                "playcount": "3921"
+                            }, 
+                            "title": "Stress", 
+                            "artistName": "Believer", 
+                            "mbid": "cff3da5a-fca8-4dbe-a711-e9748c3b0931", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9d041716-f607-43b0-9713-a4561827d08d", 
+                    "packaging": null, 
+                    "listeners": "1485", 
+                    "date": "2001", 
+                    "artistName": "Believer", 
+                    "playcount": "30427", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }, 
+                {
+                    "name": "Extraction From Mortality", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1391", 
+                                "playcount": "5232"
+                            }, 
+                            "title": "Unite", 
+                            "artistName": "Believer", 
+                            "mbid": "001b9c63-a1ea-40ae-9d53-fae86d84c36c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1335", 
+                                "playcount": "4816"
+                            }, 
+                            "title": "Vile Hypocrisy", 
+                            "artistName": "Believer", 
+                            "mbid": "c2bedc09-9a11-410e-ad23-96e3712ee302", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1240", 
+                                "playcount": "4452"
+                            }, 
+                            "title": "D.O.S. (Desolation of Sodom)", 
+                            "artistName": "Believer", 
+                            "mbid": "9b0304ab-b316-4a83-8bdd-9392ac90e5f6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1220", 
+                                "playcount": "4302"
+                            }, 
+                            "title": "Tormented", 
+                            "artistName": "Believer", 
+                            "mbid": "1065c3e1-1837-406e-9aa4-dcbe6f3bff47", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1313", 
+                                "playcount": "5096"
+                            }, 
+                            "title": "Shadow of Death", 
+                            "artistName": "Believer", 
+                            "mbid": "81654352-d03b-4277-b034-f972d0830403", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1156", 
+                                "playcount": "4206"
+                            }, 
+                            "title": "Blemished Sacrifices", 
+                            "artistName": "Believer", 
+                            "mbid": "4edc9c36-e3c5-4d78-aced-67593b67fb29", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1283", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Not Even One", 
+                            "artistName": "Believer", 
+                            "mbid": "71f2bf49-392c-4945-bacc-ed27515fb539", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1165", 
+                                "playcount": "4353"
+                            }, 
+                            "title": "Extraction from Mortality", 
+                            "artistName": "Believer", 
+                            "mbid": "2036cbb7-ba15-4d03-ac1b-4604f93ec258", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1092", 
+                                "playcount": "3921"
+                            }, 
+                            "title": "Stress", 
+                            "artistName": "Believer", 
+                            "mbid": "cff3da5a-fca8-4dbe-a711-e9748c3b0931", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "9d041716-f607-43b0-9713-a4561827d08d", 
+                    "packaging": null, 
+                    "listeners": "1485", 
+                    "date": "2007", 
+                    "artistName": "Believer", 
+                    "playcount": "30427", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }
+            ], 
+            "title": "Extraction From Mortality"
+        }, 
+        {
+            "mbid": "307bc513-8c65-3ec8-9732-ae214dcaab7d", 
+            "releases": [
+                {
+                    "name": "Sanity Obscure", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1926", 
+                                "playcount": "7036"
+                            }, 
+                            "title": "Sanity Obscure", 
+                            "artistName": "Believer", 
+                            "mbid": "ed833df4-1ee0-4ddf-b96f-033b7bde6a3b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1773", 
+                                "playcount": "6128"
+                            }, 
+                            "title": "Wisdom's Call", 
+                            "artistName": "Believer", 
+                            "mbid": "5e14f6ff-46af-46ba-9b99-2914e7065a1a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5929"
+                            }, 
+                            "title": "Nonpoint", 
+                            "artistName": "Believer", 
+                            "mbid": "871a71a7-2dbe-4e74-80b3-bc1e5047e418", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1606", 
+                                "playcount": "5503"
+                            }, 
+                            "title": "Idols of Ignorance", 
+                            "artistName": "Believer", 
+                            "mbid": "74eddfff-2b90-4f7c-a511-3dd790d7a3c0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "5656"
+                            }, 
+                            "title": "Stop the Madness", 
+                            "artistName": "Believer", 
+                            "mbid": "fe2522ff-3e98-48df-a2dd-32cf48aec91d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2056", 
+                                "playcount": "8765"
+                            }, 
+                            "title": "Dies Irae (Day of Wrath)", 
+                            "artistName": "Believer", 
+                            "mbid": "02cf39d9-8af9-4b77-8d84-815654b26c36", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1518", 
+                                "playcount": "5040"
+                            }, 
+                            "title": "Dust to Dust", 
+                            "artistName": "Believer", 
+                            "mbid": "c04f7154-bd67-4dd2-a711-d02baf36ab59", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1811", 
+                                "playcount": "5591"
+                            }, 
+                            "title": "Like a Song", 
+                            "artistName": "Believer", 
+                            "mbid": "76175771-d618-405b-a614-be2562872a6a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "77335386-2088-4d2d-a4b1-32d104f9b02b", 
+                    "packaging": null, 
+                    "listeners": "3164", 
+                    "date": "1990", 
+                    "artistName": "Believer", 
+                    "playcount": "46402", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }, 
+                {
+                    "name": "Sanity Obscure", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1926", 
+                                "playcount": "7036"
+                            }, 
+                            "title": "Sanity Obscure", 
+                            "artistName": "Believer", 
+                            "mbid": "ed833df4-1ee0-4ddf-b96f-033b7bde6a3b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1773", 
+                                "playcount": "6128"
+                            }, 
+                            "title": "Wisdom's Call", 
+                            "artistName": "Believer", 
+                            "mbid": "5e14f6ff-46af-46ba-9b99-2914e7065a1a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5929"
+                            }, 
+                            "title": "Nonpoint", 
+                            "artistName": "Believer", 
+                            "mbid": "871a71a7-2dbe-4e74-80b3-bc1e5047e418", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1606", 
+                                "playcount": "5503"
+                            }, 
+                            "title": "Idols of Ignorance", 
+                            "artistName": "Believer", 
+                            "mbid": "74eddfff-2b90-4f7c-a511-3dd790d7a3c0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "5656"
+                            }, 
+                            "title": "Stop the Madness", 
+                            "artistName": "Believer", 
+                            "mbid": "fe2522ff-3e98-48df-a2dd-32cf48aec91d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2056", 
+                                "playcount": "8765"
+                            }, 
+                            "title": "Dies Irae (Day of Wrath)", 
+                            "artistName": "Believer", 
+                            "mbid": "02cf39d9-8af9-4b77-8d84-815654b26c36", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1518", 
+                                "playcount": "5040"
+                            }, 
+                            "title": "Dust to Dust", 
+                            "artistName": "Believer", 
+                            "mbid": "c04f7154-bd67-4dd2-a711-d02baf36ab59", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1811", 
+                                "playcount": "5591"
+                            }, 
+                            "title": "Like a Song", 
+                            "artistName": "Believer", 
+                            "mbid": "76175771-d618-405b-a614-be2562872a6a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "77335386-2088-4d2d-a4b1-32d104f9b02b", 
+                    "packaging": null, 
+                    "listeners": "3164", 
+                    "date": "1990", 
+                    "artistName": "Believer", 
+                    "playcount": "46402", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }, 
+                {
+                    "name": "Sanity Obscure", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1926", 
+                                "playcount": "7036"
+                            }, 
+                            "title": "Sanity Obscure", 
+                            "artistName": "Believer", 
+                            "mbid": "ed833df4-1ee0-4ddf-b96f-033b7bde6a3b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1773", 
+                                "playcount": "6128"
+                            }, 
+                            "title": "Wisdom's Call", 
+                            "artistName": "Believer", 
+                            "mbid": "5e14f6ff-46af-46ba-9b99-2914e7065a1a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5929"
+                            }, 
+                            "title": "Nonpoint", 
+                            "artistName": "Believer", 
+                            "mbid": "871a71a7-2dbe-4e74-80b3-bc1e5047e418", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1606", 
+                                "playcount": "5503"
+                            }, 
+                            "title": "Idols of Ignorance", 
+                            "artistName": "Believer", 
+                            "mbid": "74eddfff-2b90-4f7c-a511-3dd790d7a3c0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "5656"
+                            }, 
+                            "title": "Stop the Madness", 
+                            "artistName": "Believer", 
+                            "mbid": "fe2522ff-3e98-48df-a2dd-32cf48aec91d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2056", 
+                                "playcount": "8765"
+                            }, 
+                            "title": "Dies Irae (Day of Wrath)", 
+                            "artistName": "Believer", 
+                            "mbid": "02cf39d9-8af9-4b77-8d84-815654b26c36", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1518", 
+                                "playcount": "5040"
+                            }, 
+                            "title": "Dust to Dust", 
+                            "artistName": "Believer", 
+                            "mbid": "c04f7154-bd67-4dd2-a711-d02baf36ab59", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1811", 
+                                "playcount": "5591"
+                            }, 
+                            "title": "Like a Song", 
+                            "artistName": "Believer", 
+                            "mbid": "76175771-d618-405b-a614-be2562872a6a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "77335386-2088-4d2d-a4b1-32d104f9b02b", 
+                    "packaging": null, 
+                    "listeners": "3164", 
+                    "date": "1991-06-04", 
+                    "artistName": "Believer", 
+                    "playcount": "46402", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }, 
+                {
+                    "name": "Sanity Obscure", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1926", 
+                                "playcount": "7036"
+                            }, 
+                            "title": "Sanity Obscure", 
+                            "artistName": "Believer", 
+                            "mbid": "ed833df4-1ee0-4ddf-b96f-033b7bde6a3b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1773", 
+                                "playcount": "6128"
+                            }, 
+                            "title": "Wisdom's Call", 
+                            "artistName": "Believer", 
+                            "mbid": "5e14f6ff-46af-46ba-9b99-2914e7065a1a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5929"
+                            }, 
+                            "title": "Nonpoint", 
+                            "artistName": "Believer", 
+                            "mbid": "871a71a7-2dbe-4e74-80b3-bc1e5047e418", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1606", 
+                                "playcount": "5503"
+                            }, 
+                            "title": "Idols of Ignorance", 
+                            "artistName": "Believer", 
+                            "mbid": "74eddfff-2b90-4f7c-a511-3dd790d7a3c0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "5656"
+                            }, 
+                            "title": "Stop the Madness", 
+                            "artistName": "Believer", 
+                            "mbid": "fe2522ff-3e98-48df-a2dd-32cf48aec91d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2056", 
+                                "playcount": "8765"
+                            }, 
+                            "title": "Dies Irae (Day of Wrath)", 
+                            "artistName": "Believer", 
+                            "mbid": "02cf39d9-8af9-4b77-8d84-815654b26c36", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1518", 
+                                "playcount": "5040"
+                            }, 
+                            "title": "Dust to Dust", 
+                            "artistName": "Believer", 
+                            "mbid": "c04f7154-bd67-4dd2-a711-d02baf36ab59", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1811", 
+                                "playcount": "5591"
+                            }, 
+                            "title": "Like a Song", 
+                            "artistName": "Believer", 
+                            "mbid": "76175771-d618-405b-a614-be2562872a6a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "Limited edition", 
+                    "mbid": "77335386-2088-4d2d-a4b1-32d104f9b02b", 
+                    "packaging": "Digipak", 
+                    "listeners": "3164", 
+                    "date": "2007", 
+                    "artistName": "Believer", 
+                    "playcount": "46402", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }
+            ], 
+            "title": "Sanity Obscure"
+        }, 
+        {
+            "mbid": "640ad7e5-5e7d-390b-bc77-6b2e00bf3fd1", 
+            "releases": [
+                {
+                    "name": "Dimensions", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2179", 
+                                "playcount": "7022"
+                            }, 
+                            "title": "Gone", 
+                            "artistName": "Believer", 
+                            "mbid": "49e9e733-cd1c-4692-b093-4cf2b0d44fce", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1989", 
+                                "playcount": "6671"
+                            }, 
+                            "title": "Future Mind", 
+                            "artistName": "Believer", 
+                            "mbid": "aa45eaeb-d7eb-4442-bb7f-baaf4a80951e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1887", 
+                                "playcount": "6508"
+                            }, 
+                            "title": "Dimentia", 
+                            "artistName": "Believer", 
+                            "mbid": "fbde7c94-a81e-497e-b6da-c6ae2d697b48", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "5588"
+                            }, 
+                            "title": "Singularity", 
+                            "artistName": "Believer", 
+                            "mbid": "c0d6285c-d8dc-4d40-9edb-8485c3a3e4cc", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1646", 
+                                "playcount": "5374"
+                            }, 
+                            "title": "No Apology", 
+                            "artistName": "Believer", 
+                            "mbid": "8fffa876-e4ac-44db-9847-3288f912c0ca", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "KR", 
+                    "disambiguation": "", 
+                    "mbid": "d6e45efb-d48a-4f28-804a-abb3d3d96dad", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "2901", 
+                    "date": "1993", 
+                    "artistName": "Believer", 
+                    "playcount": "54520", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }, 
+                {
+                    "name": "Dimensions", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2179", 
+                                "playcount": "7022"
+                            }, 
+                            "title": "Gone", 
+                            "artistName": "Believer", 
+                            "mbid": "49e9e733-cd1c-4692-b093-4cf2b0d44fce", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1989", 
+                                "playcount": "6671"
+                            }, 
+                            "title": "Future Mind", 
+                            "artistName": "Believer", 
+                            "mbid": "aa45eaeb-d7eb-4442-bb7f-baaf4a80951e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1887", 
+                                "playcount": "6508"
+                            }, 
+                            "title": "Dimentia", 
+                            "artistName": "Believer", 
+                            "mbid": "fbde7c94-a81e-497e-b6da-c6ae2d697b48", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "5588"
+                            }, 
+                            "title": "Singularity", 
+                            "artistName": "Believer", 
+                            "mbid": "c0d6285c-d8dc-4d40-9edb-8485c3a3e4cc", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1646", 
+                                "playcount": "5374"
+                            }, 
+                            "title": "No Apology", 
+                            "artistName": "Believer", 
+                            "mbid": "8fffa876-e4ac-44db-9847-3288f912c0ca", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d6e45efb-d48a-4f28-804a-abb3d3d96dad", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "2901", 
+                    "date": "1993", 
+                    "artistName": "Believer", 
+                    "playcount": "54520", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }, 
+                {
+                    "name": "Dimensions", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2179", 
+                                "playcount": "7022"
+                            }, 
+                            "title": "Gone", 
+                            "artistName": "Believer", 
+                            "mbid": "49e9e733-cd1c-4692-b093-4cf2b0d44fce", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1989", 
+                                "playcount": "6671"
+                            }, 
+                            "title": "Future Mind", 
+                            "artistName": "Believer", 
+                            "mbid": "aa45eaeb-d7eb-4442-bb7f-baaf4a80951e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1887", 
+                                "playcount": "6508"
+                            }, 
+                            "title": "Dimentia", 
+                            "artistName": "Believer", 
+                            "mbid": "fbde7c94-a81e-497e-b6da-c6ae2d697b48", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "5588"
+                            }, 
+                            "title": "Singularity", 
+                            "artistName": "Believer", 
+                            "mbid": "c0d6285c-d8dc-4d40-9edb-8485c3a3e4cc", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1646", 
+                                "playcount": "5374"
+                            }, 
+                            "title": "No Apology", 
+                            "artistName": "Believer", 
+                            "mbid": "8fffa876-e4ac-44db-9847-3288f912c0ca", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d6e45efb-d48a-4f28-804a-abb3d3d96dad", 
+                    "packaging": null, 
+                    "listeners": "2901", 
+                    "date": "1993", 
+                    "artistName": "Believer", 
+                    "playcount": "54520", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }, 
+                {
+                    "name": "Dimensions", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2179", 
+                                "playcount": "7022"
+                            }, 
+                            "title": "Gone", 
+                            "artistName": "Believer", 
+                            "mbid": "49e9e733-cd1c-4692-b093-4cf2b0d44fce", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1989", 
+                                "playcount": "6671"
+                            }, 
+                            "title": "Future Mind", 
+                            "artistName": "Believer", 
+                            "mbid": "aa45eaeb-d7eb-4442-bb7f-baaf4a80951e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1887", 
+                                "playcount": "6508"
+                            }, 
+                            "title": "Dimentia", 
+                            "artistName": "Believer", 
+                            "mbid": "fbde7c94-a81e-497e-b6da-c6ae2d697b48", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "5588"
+                            }, 
+                            "title": "Singularity", 
+                            "artistName": "Believer", 
+                            "mbid": "c0d6285c-d8dc-4d40-9edb-8485c3a3e4cc", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1646", 
+                                "playcount": "5374"
+                            }, 
+                            "title": "No Apology", 
+                            "artistName": "Believer", 
+                            "mbid": "8fffa876-e4ac-44db-9847-3288f912c0ca", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d6e45efb-d48a-4f28-804a-abb3d3d96dad", 
+                    "packaging": "Digipak", 
+                    "listeners": "2901", 
+                    "date": "2007", 
+                    "artistName": "Believer", 
+                    "playcount": "54520", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }
+            ], 
+            "title": "Dimensions"
+        }, 
+        {
+            "mbid": "c8dd0aa9-48a1-367e-b400-6f8608a9d8c6", 
+            "releases": [
+                {
+                    "name": "Gabriel", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1891", 
+                                "playcount": "5587"
+                            }, 
+                            "title": "Medwton", 
+                            "artistName": "Believer", 
+                            "mbid": "647574e6-6f3b-4871-a546-d71764ef2c41", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1728", 
+                                "playcount": "5001"
+                            }, 
+                            "title": "A Moment in Prime", 
+                            "artistName": "Believer", 
+                            "mbid": "c6cff5bb-00af-4dca-9e14-d1122b9c94d9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1715", 
+                                "playcount": "4887"
+                            }, 
+                            "title": "Stoned", 
+                            "artistName": "Believer", 
+                            "mbid": "4ec74e25-9c2a-478d-b303-75ce03eb3ba1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1538", 
+                                "playcount": "4675"
+                            }, 
+                            "title": "Redshift", 
+                            "artistName": "Believer", 
+                            "mbid": "d072feb4-a938-4a86-b8a1-da5610f74f15", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1499", 
+                                "playcount": "4319"
+                            }, 
+                            "title": "History of Decline", 
+                            "artistName": "Believer", 
+                            "mbid": "8ea231c8-fb4b-4a17-b73a-ba56f2845c16", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1409", 
+                                "playcount": "4024"
+                            }, 
+                            "title": "The Need for Conflict", 
+                            "artistName": "Believer", 
+                            "mbid": "7e7c07ab-44b5-49b7-967d-5f9aac59a551", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1463", 
+                                "playcount": "4401"
+                            }, 
+                            "title": "Focused Lethality", 
+                            "artistName": "Believer", 
+                            "mbid": "bcce50e1-00f4-4422-9b34-bcdaac8cd81e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1310", 
+                                "playcount": "3644"
+                            }, 
+                            "title": "Shut out the Sun", 
+                            "artistName": "Believer", 
+                            "mbid": "263fefe7-f1da-42d4-8f6f-ffcbc3b884be", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1318", 
+                                "playcount": "3650"
+                            }, 
+                            "title": "The Brave", 
+                            "artistName": "Believer", 
+                            "mbid": "99aa3c2a-4feb-4aa8-91d7-4135a55dd34d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1167", 
+                                "playcount": "3094"
+                            }, 
+                            "title": "Nonsense Mediated Decay", 
+                            "artistName": "Believer", 
+                            "mbid": "18989aaf-37cd-46b5-a569-77f2c0f20bd0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "[the circus is coming]", 
+                            "artistName": "Believer", 
+                            "mbid": "4698825b-c10e-4228-9204-555dc3190e47", 
+                            "trackNumber": "11", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "[radio crosstalk]", 
+                            "artistName": "Believer", 
+                            "mbid": "fc02e927-d016-4459-9ac8-074414479a07", 
+                            "trackNumber": "12", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "45"
+                            }, 
+                            "title": "[random snippets in various genres]", 
+                            "artistName": "Believer", 
+                            "mbid": "78f48c53-9c53-47eb-b44e-1dcb3e496767", 
+                            "trackNumber": "13", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0ebd3931-8c92-4f02-a2eb-393b9d77500a", 
+                    "packaging": null, 
+                    "listeners": "2932", 
+                    "date": "2009-03-17", 
+                    "artistName": "Believer", 
+                    "playcount": "43991", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }
+            ], 
+            "title": "Gabriel"
+        }, 
+        {
+            "mbid": "6df7beb4-4a39-41b9-af9e-20b69568e417", 
+            "releases": [
+                {
+                    "name": "Transhuman", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1546", 
+                                "playcount": "4986"
+                            }, 
+                            "title": "Lie Awake", 
+                            "artistName": "Believer", 
+                            "mbid": "9fe6421c-4072-430a-9a07-4bf9a4540bc8", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "603", 
+                                "playcount": "1676"
+                            }, 
+                            "title": "G.U.T", 
+                            "artistName": "Believer", 
+                            "mbid": "a7bf0c9b-b81d-4d31-9e5c-6b29ee30e7dd", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1197", 
+                                "playcount": "3793"
+                            }, 
+                            "title": "Multiverse", 
+                            "artistName": "Believer", 
+                            "mbid": "f1ce5d6e-e50a-49fc-96a9-edc8595a5679", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1167", 
+                                "playcount": "3526"
+                            }, 
+                            "title": "End of Infinity", 
+                            "artistName": "Believer", 
+                            "mbid": "4cb74c63-bfb0-4bda-af2d-6ad4ef4b73d9", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1059", 
+                                "playcount": "3286"
+                            }, 
+                            "title": "Transfection", 
+                            "artistName": "Believer", 
+                            "mbid": "10c080b1-ca32-44f7-8d11-7845f5b3e471", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1015", 
+                                "playcount": "3165"
+                            }, 
+                            "title": "Clean Room", 
+                            "artistName": "Believer", 
+                            "mbid": "a16aa412-1928-4a16-9c81-819a99652668", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1019", 
+                                "playcount": "3031"
+                            }, 
+                            "title": "Currents", 
+                            "artistName": "Believer", 
+                            "mbid": "0908f845-34ae-42ec-9f3f-f851441bf35f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "994", 
+                                "playcount": "3041"
+                            }, 
+                            "title": "Traveler", 
+                            "artistName": "Believer", 
+                            "mbid": "ce5685bb-6130-4543-8438-e51b556dc598", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "967", 
+                                "playcount": "2935"
+                            }, 
+                            "title": "Ego Machine", 
+                            "artistName": "Believer", 
+                            "mbid": "4554c93e-4581-4f5f-801d-72336284b89f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "914", 
+                                "playcount": "2809"
+                            }, 
+                            "title": "Being No One", 
+                            "artistName": "Believer", 
+                            "mbid": "b4d542ae-6154-4ecb-8d19-5786477df1f4", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "893", 
+                                "playcount": "2634"
+                            }, 
+                            "title": "Entanglement", 
+                            "artistName": "Believer", 
+                            "mbid": "011062b0-2184-49c3-897d-c4663e49070a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "877", 
+                                "playcount": "2712"
+                            }, 
+                            "title": "Mindsteps", 
+                            "artistName": "Believer", 
+                            "mbid": "a36a352f-cf5b-4222-96e3-250644741b73", 
+                            "trackNumber": "12", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5a4d37d8-ccd7-4713-b082-4f30483309e8", 
+                    "packaging": null, 
+                    "listeners": "1939", 
+                    "date": "2011-04-12", 
+                    "artistName": "Believer", 
+                    "playcount": "39594", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }
+            ], 
+            "title": "Transhuman"
+        }, 
+        {
+            "mbid": "129f8f79-899c-419c-bda5-086d5ece8094", 
+            "releases": [], 
+            "title": "The Return"
+        }, 
+        {
+            "mbid": "95ab246f-d4a6-3cae-8f1a-39efaffe6a09", 
+            "releases": [
+                {
+                    "name": "Stop The Madness", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "219"
+                            }, 
+                            "title": "Anti-Drug PSA", 
+                            "artistName": "Believer", 
+                            "mbid": "6e8712b9-8a82-4eb5-877a-905c423827d2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "5656"
+                            }, 
+                            "title": "Stop the Madness", 
+                            "artistName": "Believer", 
+                            "mbid": "b756e025-315b-4e4f-bc0b-b983e12af1bf", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1811", 
+                                "playcount": "5591"
+                            }, 
+                            "title": "Like a Song", 
+                            "artistName": "Believer", 
+                            "mbid": "22fd4334-1d8d-4be8-8dce-6402d527142b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c155abb5-0604-460d-9abc-e7fed63a4b5c", 
+                    "packaging": null, 
+                    "listeners": "26", 
+                    "date": "1990", 
+                    "artistName": "Believer", 
+                    "playcount": "142", 
+                    "artistMBID": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef"
+                }
+            ], 
+            "title": "Stop the Madness"
+        }, 
+        {
+            "mbid": "a6e52f10-c4a9-4786-aa6b-199f43688a0c", 
+            "releases": [], 
+            "title": "The Breed Beyond"
+        }
+    ], 
+    "type": "Group"
+}

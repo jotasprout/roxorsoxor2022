@@ -1,0 +1,41 @@
+{
+    "name": "Iggy Pop",
+    "mbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b",
+            "name": "The Stooges",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "1253e5e9-eaa7-4ce6-81b8-09725e8cee43",
+            "name": "Iggy and The Stooges",
+            "attributes": [
+                "eponymous"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9f132fea-c047-4b5c-a7a3-4996812ce0d0",
+            "name": "Bewlay Bros.",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "0688a185-1728-4225-aa4e-6d6dfb17e63c",
+            "name": "The Trolls",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a9fe073b-a47a-48e3-8512-84dc49b900bf",
+            "name": "The Iguanas",
+            "attributes": []
+        }
+    ]
+}

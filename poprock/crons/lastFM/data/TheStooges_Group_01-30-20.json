@@ -1,0 +1,2737 @@
+{
+    "genres": [
+        "punk", 
+        "proto-punk", 
+        "Garage Rock", 
+        "rock", 
+        "punk rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 103.32627391815186, 
+        "Task End": 1580362718.494297, 
+        "Task Start": 1580362615.168023
+    }, 
+    "stats": {
+        "listeners": "1021868", 
+        "playcount": "16910799"
+    }, 
+    "name": "The Stooges", 
+    "mbid": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b", 
+    "birthday": "1967", 
+    "date": "2020-01-30", 
+    "albums": [
+        {
+            "mbid": "18037a41-2695-3a8f-a732-f6653a7f125b", 
+            "releases": [
+                {
+                    "name": "The Stooges", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50a1b36d-7054-42e7-bb56-f67c1b355fc1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8314a713-c614-4bde-8b3b-f290afd20af9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e882c102-7923-4909-9181-75beba8c44a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a7581aff-fda9-40bd-85f0-e01aaa612b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109586", 
+                                "playcount": "333281"
+                            }, 
+                            "title": "Real Cool Time", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1721d648-fe7c-44de-a29f-7ca729846883", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7d557717-8acd-42a5-a35a-90f506426982", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95556", 
+                                "playcount": "285359"
+                            }, 
+                            "title": "Not Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ad2f6f55-ae3d-4c43-a838-c3008bdd73fb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94354", 
+                                "playcount": "275876"
+                            }, 
+                            "title": "Little Doll", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5c57f2fb-d4a0-44af-8fbd-a47e4b40dd92", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9259cb58-e233-4162-acb1-e739ff102568", 
+                    "packaging": null, 
+                    "listeners": "464496", 
+                    "date": "1969-08-05", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3969445", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "The Stooges", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50a1b36d-7054-42e7-bb56-f67c1b355fc1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8314a713-c614-4bde-8b3b-f290afd20af9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e882c102-7923-4909-9181-75beba8c44a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a7581aff-fda9-40bd-85f0-e01aaa612b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109586", 
+                                "playcount": "333281"
+                            }, 
+                            "title": "Real Cool Time", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1721d648-fe7c-44de-a29f-7ca729846883", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7d557717-8acd-42a5-a35a-90f506426982", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95556", 
+                                "playcount": "285359"
+                            }, 
+                            "title": "Not Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ad2f6f55-ae3d-4c43-a838-c3008bdd73fb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94354", 
+                                "playcount": "275876"
+                            }, 
+                            "title": "Little Doll", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5c57f2fb-d4a0-44af-8fbd-a47e4b40dd92", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "FR", 
+                    "disambiguation": "", 
+                    "mbid": "9259cb58-e233-4162-acb1-e739ff102568", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "464496", 
+                    "date": "1972", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3969445", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "The Stooges", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50a1b36d-7054-42e7-bb56-f67c1b355fc1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8314a713-c614-4bde-8b3b-f290afd20af9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e882c102-7923-4909-9181-75beba8c44a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a7581aff-fda9-40bd-85f0-e01aaa612b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109586", 
+                                "playcount": "333281"
+                            }, 
+                            "title": "Real Cool Time", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1721d648-fe7c-44de-a29f-7ca729846883", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7d557717-8acd-42a5-a35a-90f506426982", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95556", 
+                                "playcount": "285359"
+                            }, 
+                            "title": "Not Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ad2f6f55-ae3d-4c43-a838-c3008bdd73fb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94354", 
+                                "playcount": "275876"
+                            }, 
+                            "title": "Little Doll", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5c57f2fb-d4a0-44af-8fbd-a47e4b40dd92", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "CA", 
+                    "disambiguation": "", 
+                    "mbid": "9259cb58-e233-4162-acb1-e739ff102568", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "464496", 
+                    "date": "1988", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3969445", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "The Stooges", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50a1b36d-7054-42e7-bb56-f67c1b355fc1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8314a713-c614-4bde-8b3b-f290afd20af9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e882c102-7923-4909-9181-75beba8c44a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a7581aff-fda9-40bd-85f0-e01aaa612b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109586", 
+                                "playcount": "333281"
+                            }, 
+                            "title": "Real Cool Time", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1721d648-fe7c-44de-a29f-7ca729846883", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7d557717-8acd-42a5-a35a-90f506426982", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95556", 
+                                "playcount": "285359"
+                            }, 
+                            "title": "Not Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ad2f6f55-ae3d-4c43-a838-c3008bdd73fb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94354", 
+                                "playcount": "275876"
+                            }, 
+                            "title": "Little Doll", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5c57f2fb-d4a0-44af-8fbd-a47e4b40dd92", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "9259cb58-e233-4162-acb1-e739ff102568", 
+                    "packaging": null, 
+                    "listeners": "464496", 
+                    "date": "1988", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3969445", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "The Stooges", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50a1b36d-7054-42e7-bb56-f67c1b355fc1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8314a713-c614-4bde-8b3b-f290afd20af9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e882c102-7923-4909-9181-75beba8c44a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a7581aff-fda9-40bd-85f0-e01aaa612b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109586", 
+                                "playcount": "333281"
+                            }, 
+                            "title": "Real Cool Time", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1721d648-fe7c-44de-a29f-7ca729846883", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7d557717-8acd-42a5-a35a-90f506426982", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95556", 
+                                "playcount": "285359"
+                            }, 
+                            "title": "Not Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ad2f6f55-ae3d-4c43-a838-c3008bdd73fb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94354", 
+                                "playcount": "275876"
+                            }, 
+                            "title": "Little Doll", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5c57f2fb-d4a0-44af-8fbd-a47e4b40dd92", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9259cb58-e233-4162-acb1-e739ff102568", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "464496", 
+                    "date": "1988", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3969445", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "The Stooges", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50a1b36d-7054-42e7-bb56-f67c1b355fc1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8314a713-c614-4bde-8b3b-f290afd20af9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e882c102-7923-4909-9181-75beba8c44a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a7581aff-fda9-40bd-85f0-e01aaa612b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109586", 
+                                "playcount": "333281"
+                            }, 
+                            "title": "Real Cool Time", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1721d648-fe7c-44de-a29f-7ca729846883", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7d557717-8acd-42a5-a35a-90f506426982", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95556", 
+                                "playcount": "285359"
+                            }, 
+                            "title": "Not Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ad2f6f55-ae3d-4c43-a838-c3008bdd73fb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94354", 
+                                "playcount": "275876"
+                            }, 
+                            "title": "Little Doll", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5c57f2fb-d4a0-44af-8fbd-a47e4b40dd92", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "deluxe edition", 
+                    "mbid": "9259cb58-e233-4162-acb1-e739ff102568", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "464496", 
+                    "date": "2005-08-16", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3969445", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "The Stooges", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50a1b36d-7054-42e7-bb56-f67c1b355fc1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8314a713-c614-4bde-8b3b-f290afd20af9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e882c102-7923-4909-9181-75beba8c44a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a7581aff-fda9-40bd-85f0-e01aaa612b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109586", 
+                                "playcount": "333281"
+                            }, 
+                            "title": "Real Cool Time", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1721d648-fe7c-44de-a29f-7ca729846883", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7d557717-8acd-42a5-a35a-90f506426982", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95556", 
+                                "playcount": "285359"
+                            }, 
+                            "title": "Not Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ad2f6f55-ae3d-4c43-a838-c3008bdd73fb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94354", 
+                                "playcount": "275876"
+                            }, 
+                            "title": "Little Doll", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5c57f2fb-d4a0-44af-8fbd-a47e4b40dd92", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "JP", 
+                    "disambiguation": "", 
+                    "mbid": "9259cb58-e233-4162-acb1-e739ff102568", 
+                    "packaging": null, 
+                    "listeners": "464496", 
+                    "date": "2009-12-09", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3969445", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "The Stooges", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50a1b36d-7054-42e7-bb56-f67c1b355fc1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8314a713-c614-4bde-8b3b-f290afd20af9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e882c102-7923-4909-9181-75beba8c44a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a7581aff-fda9-40bd-85f0-e01aaa612b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109586", 
+                                "playcount": "333281"
+                            }, 
+                            "title": "Real Cool Time", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1721d648-fe7c-44de-a29f-7ca729846883", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7d557717-8acd-42a5-a35a-90f506426982", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95556", 
+                                "playcount": "285359"
+                            }, 
+                            "title": "Not Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ad2f6f55-ae3d-4c43-a838-c3008bdd73fb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94354", 
+                                "playcount": "275876"
+                            }, 
+                            "title": "Little Doll", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5c57f2fb-d4a0-44af-8fbd-a47e4b40dd92", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9259cb58-e233-4162-acb1-e739ff102568", 
+                    "packaging": null, 
+                    "listeners": "464496", 
+                    "date": "2010-04-20", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3969445", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "The Stooges"
+        }, 
+        {
+            "mbid": "edd57263-df77-3f1a-8803-8beb5d5b1a64", 
+            "releases": [
+                {
+                    "name": "Fun House", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "bf3b4028-b400-47bf-9bad-73b12a2aead4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "258eb7c1-3126-45c9-8d70-f5c79a96788c", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b5bff735-2965-4a14-9020-d4f4f5c017a3", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111908", 
+                                "playcount": "428105"
+                            }, 
+                            "title": "Dirt", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46a18089-09c6-4281-853b-27c524fef7af", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "523fc0d1-e8a2-45af-95b7-68f4a4ec6b85", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "78e7d38f-b755-4de7-9751-bc09f89e10ca", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68786", 
+                                "playcount": "209914"
+                            }, 
+                            "title": "L.A. Blues", 
+                            "artistName": "The Stooges", 
+                            "mbid": "44ca62ef-f3fa-4379-9749-6304ac1088bd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "65c853d9-2be1-393f-9d76-395b8f4dba7c", 
+                    "packaging": null, 
+                    "listeners": "206799", 
+                    "date": "1970-12", 
+                    "artistName": "The Stooges", 
+                    "playcount": "2403901", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "Fun House", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "bf3b4028-b400-47bf-9bad-73b12a2aead4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "258eb7c1-3126-45c9-8d70-f5c79a96788c", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b5bff735-2965-4a14-9020-d4f4f5c017a3", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111908", 
+                                "playcount": "428105"
+                            }, 
+                            "title": "Dirt", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46a18089-09c6-4281-853b-27c524fef7af", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "523fc0d1-e8a2-45af-95b7-68f4a4ec6b85", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "78e7d38f-b755-4de7-9751-bc09f89e10ca", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68786", 
+                                "playcount": "209914"
+                            }, 
+                            "title": "L.A. Blues", 
+                            "artistName": "The Stooges", 
+                            "mbid": "44ca62ef-f3fa-4379-9749-6304ac1088bd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "FR", 
+                    "disambiguation": "", 
+                    "mbid": "65c853d9-2be1-393f-9d76-395b8f4dba7c", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "206799", 
+                    "date": "1970", 
+                    "artistName": "The Stooges", 
+                    "playcount": "2403901", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "Fun House", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "bf3b4028-b400-47bf-9bad-73b12a2aead4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "258eb7c1-3126-45c9-8d70-f5c79a96788c", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b5bff735-2965-4a14-9020-d4f4f5c017a3", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111908", 
+                                "playcount": "428105"
+                            }, 
+                            "title": "Dirt", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46a18089-09c6-4281-853b-27c524fef7af", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "523fc0d1-e8a2-45af-95b7-68f4a4ec6b85", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "78e7d38f-b755-4de7-9751-bc09f89e10ca", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68786", 
+                                "playcount": "209914"
+                            }, 
+                            "title": "L.A. Blues", 
+                            "artistName": "The Stooges", 
+                            "mbid": "44ca62ef-f3fa-4379-9749-6304ac1088bd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "65c853d9-2be1-393f-9d76-395b8f4dba7c", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "206799", 
+                    "date": "1990", 
+                    "artistName": "The Stooges", 
+                    "playcount": "2403901", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "Fun House", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "bf3b4028-b400-47bf-9bad-73b12a2aead4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "258eb7c1-3126-45c9-8d70-f5c79a96788c", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b5bff735-2965-4a14-9020-d4f4f5c017a3", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111908", 
+                                "playcount": "428105"
+                            }, 
+                            "title": "Dirt", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46a18089-09c6-4281-853b-27c524fef7af", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "523fc0d1-e8a2-45af-95b7-68f4a4ec6b85", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "78e7d38f-b755-4de7-9751-bc09f89e10ca", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68786", 
+                                "playcount": "209914"
+                            }, 
+                            "title": "L.A. Blues", 
+                            "artistName": "The Stooges", 
+                            "mbid": "44ca62ef-f3fa-4379-9749-6304ac1088bd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "65c853d9-2be1-393f-9d76-395b8f4dba7c", 
+                    "packaging": null, 
+                    "listeners": "206799", 
+                    "date": "1993-11-08", 
+                    "artistName": "The Stooges", 
+                    "playcount": "2403901", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "Fun House", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "bf3b4028-b400-47bf-9bad-73b12a2aead4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "258eb7c1-3126-45c9-8d70-f5c79a96788c", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b5bff735-2965-4a14-9020-d4f4f5c017a3", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111908", 
+                                "playcount": "428105"
+                            }, 
+                            "title": "Dirt", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46a18089-09c6-4281-853b-27c524fef7af", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "523fc0d1-e8a2-45af-95b7-68f4a4ec6b85", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "78e7d38f-b755-4de7-9751-bc09f89e10ca", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68786", 
+                                "playcount": "209914"
+                            }, 
+                            "title": "L.A. Blues", 
+                            "artistName": "The Stooges", 
+                            "mbid": "44ca62ef-f3fa-4379-9749-6304ac1088bd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "65c853d9-2be1-393f-9d76-395b8f4dba7c", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "206799", 
+                    "date": "2005-08-15", 
+                    "artistName": "The Stooges", 
+                    "playcount": "2403901", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "Fun House", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "bf3b4028-b400-47bf-9bad-73b12a2aead4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "258eb7c1-3126-45c9-8d70-f5c79a96788c", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b5bff735-2965-4a14-9020-d4f4f5c017a3", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111908", 
+                                "playcount": "428105"
+                            }, 
+                            "title": "Dirt", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46a18089-09c6-4281-853b-27c524fef7af", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "523fc0d1-e8a2-45af-95b7-68f4a4ec6b85", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "78e7d38f-b755-4de7-9751-bc09f89e10ca", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68786", 
+                                "playcount": "209914"
+                            }, 
+                            "title": "L.A. Blues", 
+                            "artistName": "The Stooges", 
+                            "mbid": "44ca62ef-f3fa-4379-9749-6304ac1088bd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "65c853d9-2be1-393f-9d76-395b8f4dba7c", 
+                    "packaging": null, 
+                    "listeners": "206799", 
+                    "date": "2005-08-16", 
+                    "artistName": "The Stooges", 
+                    "playcount": "2403901", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "Fun House", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "bf3b4028-b400-47bf-9bad-73b12a2aead4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "258eb7c1-3126-45c9-8d70-f5c79a96788c", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b5bff735-2965-4a14-9020-d4f4f5c017a3", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111908", 
+                                "playcount": "428105"
+                            }, 
+                            "title": "Dirt", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46a18089-09c6-4281-853b-27c524fef7af", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "523fc0d1-e8a2-45af-95b7-68f4a4ec6b85", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "78e7d38f-b755-4de7-9751-bc09f89e10ca", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68786", 
+                                "playcount": "209914"
+                            }, 
+                            "title": "L.A. Blues", 
+                            "artistName": "The Stooges", 
+                            "mbid": "44ca62ef-f3fa-4379-9749-6304ac1088bd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "AU", 
+                    "disambiguation": "", 
+                    "mbid": "65c853d9-2be1-393f-9d76-395b8f4dba7c", 
+                    "packaging": null, 
+                    "listeners": "206799", 
+                    "date": "2005", 
+                    "artistName": "The Stooges", 
+                    "playcount": "2403901", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }, 
+                {
+                    "name": "Fun House", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "bf3b4028-b400-47bf-9bad-73b12a2aead4", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "258eb7c1-3126-45c9-8d70-f5c79a96788c", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b5bff735-2965-4a14-9020-d4f4f5c017a3", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111908", 
+                                "playcount": "428105"
+                            }, 
+                            "title": "Dirt", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46a18089-09c6-4281-853b-27c524fef7af", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "523fc0d1-e8a2-45af-95b7-68f4a4ec6b85", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "78e7d38f-b755-4de7-9751-bc09f89e10ca", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68786", 
+                                "playcount": "209914"
+                            }, 
+                            "title": "L.A. Blues", 
+                            "artistName": "The Stooges", 
+                            "mbid": "44ca62ef-f3fa-4379-9749-6304ac1088bd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "JP", 
+                    "disambiguation": "", 
+                    "mbid": "65c853d9-2be1-393f-9d76-395b8f4dba7c", 
+                    "packaging": null, 
+                    "listeners": "206799", 
+                    "date": "2009-12-09", 
+                    "artistName": "The Stooges", 
+                    "playcount": "2403901", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "Fun House"
+        }, 
+        {
+            "mbid": "1e0da02b-85f2-3566-8151-5eb45e9f80f4", 
+            "releases": [
+                {
+                    "name": "The Weirdness", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "21004", 
+                                "playcount": "58770"
+                            }, 
+                            "title": "Trollin\u2019", 
+                            "artistName": "The Stooges", 
+                            "mbid": "39888d30-95c7-4a12-a877-7c48fc697960", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19240", 
+                                "playcount": "53671"
+                            }, 
+                            "title": "You Can\u2019t Have Friends", 
+                            "artistName": "The Stooges", 
+                            "mbid": "c2e15b60-79e6-4b32-a8ef-235304f4c6f6", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17772", 
+                                "playcount": "43700"
+                            }, 
+                            "title": "ATM", 
+                            "artistName": "The Stooges", 
+                            "mbid": "f525f19e-aca8-48d7-8a52-975f437d7a0c", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26356", 
+                                "playcount": "88857"
+                            }, 
+                            "title": "My Idea of Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8dc5c714-821d-4322-999a-c6e0b56a42ab", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16810", 
+                                "playcount": "42770"
+                            }, 
+                            "title": "The Weirdness", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7a5bf439-b715-40c7-b3c1-f755537a5977", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17381", 
+                                "playcount": "44577"
+                            }, 
+                            "title": "Free & Freaky", 
+                            "artistName": "The Stooges", 
+                            "mbid": "c847ae0e-8083-4ec3-9ecb-eca44ecff97f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15819", 
+                                "playcount": "38697"
+                            }, 
+                            "title": "Greedy Awful People", 
+                            "artistName": "The Stooges", 
+                            "mbid": "40970be5-f395-4f4d-8d08-e86a1ffc8a58", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15431", 
+                                "playcount": "39083"
+                            }, 
+                            "title": "She Took My Money", 
+                            "artistName": "The Stooges", 
+                            "mbid": "6bd96ca2-8a03-4dfc-83cc-fd08666ed167", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14184", 
+                                "playcount": "33550"
+                            }, 
+                            "title": "The End of Christianity", 
+                            "artistName": "The Stooges", 
+                            "mbid": "f8df8181-4a3f-4f59-ab57-e7e896535ba6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14526", 
+                                "playcount": "35112"
+                            }, 
+                            "title": "Mexican Guy", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46d31ff5-6aaa-48e3-a10a-afd0de79437d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13306", 
+                                "playcount": "30995"
+                            }, 
+                            "title": "Passing Cloud", 
+                            "artistName": "The Stooges", 
+                            "mbid": "adccff69-0f33-47f4-a845-0790d7ff10e7", 
+                            "trackNumber": "11", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12946", 
+                                "playcount": "31106"
+                            }, 
+                            "title": "I\u2019m Fried", 
+                            "artistName": "The Stooges", 
+                            "mbid": "f71f6b14-e829-43d1-99dc-29a7399d0a06", 
+                            "trackNumber": "12", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b5d99cd2-561f-4a02-944b-e7b8becd1f73", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "50405", 
+                    "date": "2007-03-06", 
+                    "artistName": "The Stooges", 
+                    "playcount": "473678", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "The Weirdness"
+        }, 
+        {
+            "mbid": "c1c03084-f98c-4d5f-871f-72f881ac58c0", 
+            "releases": [], 
+            "title": "Night of Destruction"
+        }, 
+        {
+            "mbid": "9065207c-81f3-32d7-b4ab-534f31f83ce9", 
+            "releases": [
+                {
+                    "name": "1970: The Complete Funhouse Sessions", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "18"
+                            }, 
+                            "title": "Fun House (tape glitch fragment)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "aa2f201c-e48c-49c4-a3cd-1d594932b34c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b58411f6-0c42-445f-8d35-ca5e450b9444", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1337", 
+                                "playcount": "2080"
+                            }, 
+                            "title": "1970 (incomplete)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "4c29b7d6-9bed-4280-9a60-2099c86fb679", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a54e201b-5a73-4ecf-b7e8-6d2cd2021a8b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1201", 
+                                "playcount": "3258"
+                            }, 
+                            "title": "1970 (take 1)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ce549c6c-2cdf-4355-8915-f1c4777c42a5", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1100", 
+                                "playcount": "2301"
+                            }, 
+                            "title": "1970 (take 2)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "6e575dc2-a520-4bd0-a928-820ffd044a74", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "df7bd625-f3cf-4e9b-9093-9343d4711436", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4208", 
+                                "playcount": "9212"
+                            }, 
+                            "title": "1970 (take 3)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "47d306ea-0f8f-4b44-98e2-67fd4d291218", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "979", 
+                                "playcount": "1805"
+                            }, 
+                            "title": "1970 (take 4)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "974a4f66-a465-4278-be82-4f6e8fea5632", 
+                            "trackNumber": "9", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "48ad8c8f-e158-44ba-ad2d-6aadc3b9bb19", 
+                            "trackNumber": "10", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6849", 
+                                "playcount": "16161"
+                            }, 
+                            "title": "Loose (demo)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e35a29c7-a26e-4ae8-a491-522b1237d2b4", 
+                            "trackNumber": "11", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "9c69f9a7-fc87-4aa1-aca6-8d573f1341e0", 
+                            "trackNumber": "12", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "901", 
+                                "playcount": "1583"
+                            }, 
+                            "title": "1970 (take 5)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "07c54c1e-7966-4a11-a337-bbb415700c73", 
+                            "trackNumber": "13", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Loose (take 1 - labeled as \"I'm Loose\" - false start)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "747090b6-9858-43a6-be56-3df3693c7348", 
+                            "trackNumber": "14", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4358", 
+                                "playcount": "9933"
+                            }, 
+                            "title": "Loose (take 2)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "46734a9a-afdf-44a1-80eb-fd5d490280b7", 
+                            "trackNumber": "15", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4378", 
+                                "playcount": "9841"
+                            }, 
+                            "title": "Down on the Street (take 1)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "c7ec2925-8103-462a-a403-a9ae75ef1bb2", 
+                            "trackNumber": "16", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5b92f2ba-97d0-4d73-bdd2-baefd9c206b5", 
+                            "trackNumber": "17", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "844", 
+                                "playcount": "1258"
+                            }, 
+                            "title": "Loose (take 3)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ee36d0cd-6685-4af7-9b72-3c078ca1ad0c", 
+                            "trackNumber": "18", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "113"
+                            }, 
+                            "title": "Down on the Street (take 2 - false start)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "81f91abf-f2f2-4713-8dfb-fd98e93b3e7c", 
+                            "trackNumber": "19", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "10"
+                            }, 
+                            "title": "Down on the Street (take 3 - false start)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "530e8901-f483-436c-ad1b-eb27b7759935", 
+                            "trackNumber": "20", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7e27103d-aa58-43f1-8bf6-cbe1677a7bc3", 
+                            "trackNumber": "21", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1176", 
+                                "playcount": "2167"
+                            }, 
+                            "title": "See That Cat (T.V. Eye)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "c92a8680-c470-4f8e-a61d-fad57e9c02ce", 
+                            "trackNumber": "22", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "a02bfa48-5400-47f8-b34a-e76ae3032698", 
+                            "trackNumber": "23", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1201", 
+                                "playcount": "3258"
+                            }, 
+                            "title": "1970 (take 1)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "7126bab1-acdb-4490-9841-213d8897acd9", 
+                            "trackNumber": "24", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "791", 
+                                "playcount": "1192"
+                            }, 
+                            "title": "Fun House (take 1)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "27772924-4d3b-499e-bd4d-f5e079fa369f", 
+                            "trackNumber": "25", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "e470c35f-8f13-4873-861f-42847a5cbfa2", 
+                            "trackNumber": "26", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "440", 
+                                "playcount": "803"
+                            }, 
+                            "title": "Lost in the Future (false start)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "4a3efb59-e951-4d3e-8931-9faac02aabb1", 
+                            "trackNumber": "27", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "514"
+                            }, 
+                            "title": "[studio dialogue]", 
+                            "artistName": "The Stooges", 
+                            "mbid": "d92f976f-292f-4287-82f2-4a9423e4d835", 
+                            "trackNumber": "28", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "440", 
+                                "playcount": "803"
+                            }, 
+                            "title": "Lost in the Future (false start)", 
+                            "artistName": "The Stooges", 
+                            "mbid": "9e68b2aa-8bab-4a9d-9b7f-aed295b08853", 
+                            "trackNumber": "29", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b7a59a56-c1fb-435a-acec-f5e75c3dd47c", 
+                    "packaging": null, 
+                    "listeners": "1013", 
+                    "date": "1999", 
+                    "artistName": "The Stooges", 
+                    "playcount": "16132", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "1970: The Complete Funhouse Sessions"
+        }, 
+        {
+            "mbid": "58bb3ed3-ba78-4ed0-9d99-b99d63929cee", 
+            "releases": [], 
+            "title": "Morgan Sound Studios: Ypsilanti Michigan March 1973"
+        }, 
+        {
+            "mbid": "44f9f2dc-b8f4-321b-bf6b-3d94dd4a9065", 
+            "releases": [
+                {
+                    "name": "Gimme Some Skin", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "26363", 
+                                "playcount": "80531"
+                            }, 
+                            "title": "I Got a Right", 
+                            "artistName": "The Stooges", 
+                            "mbid": "9ac70dca-8904-4e11-8fe2-872b79fd1da6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20642", 
+                                "playcount": "48849"
+                            }, 
+                            "title": "Gimme Some Skin", 
+                            "artistName": "The Stooges", 
+                            "mbid": "74b5c027-5f80-4294-8137-8d4f5ebffaf0", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10550", 
+                                "playcount": "25026"
+                            }, 
+                            "title": "Louie Louie", 
+                            "artistName": "The Stooges", 
+                            "mbid": "55f35e81-0809-4d98-9c1b-98ab4514ad65", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26554", 
+                                "playcount": "75667"
+                            }, 
+                            "title": "I\u2019m Sick of You", 
+                            "artistName": "The Stooges", 
+                            "mbid": "28948712-83d9-43c4-9f3c-b45478efe032", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26012", 
+                                "playcount": "60567"
+                            }, 
+                            "title": "Tight Pants", 
+                            "artistName": "The Stooges", 
+                            "mbid": "1eb25ce3-4a72-46ee-8a3b-a80977ddae2d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8802", 
+                                "playcount": "17187"
+                            }, 
+                            "title": "Jesus Loves the Stooges", 
+                            "artistName": "The Stooges", 
+                            "mbid": "33555a28-b91d-4018-a680-685c7bb56eea", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10633", 
+                                "playcount": "23265"
+                            }, 
+                            "title": "Scene of the Crime", 
+                            "artistName": "The Stooges", 
+                            "mbid": "dc6f3ce7-a568-4779-93c7-f54596efe290", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15914", 
+                                "playcount": "52216"
+                            }, 
+                            "title": "Open Up and Bleed", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ace68ca0-678e-482f-8b40-bb02e3b7c063", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "219", 
+                                "playcount": "541"
+                            }, 
+                            "title": "Head on Curve", 
+                            "artistName": "The Stooges", 
+                            "mbid": "597fd394-68a9-4c1b-9492-af7397d8988a", 
+                            "trackNumber": "9", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13939", 
+                                "playcount": "39008"
+                            }, 
+                            "title": "Johanna", 
+                            "artistName": "The Stooges", 
+                            "mbid": "c38a8e28-5e0a-46bc-93f0-0e10bb5fba81", 
+                            "trackNumber": "10", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9219", 
+                                "playcount": "19727"
+                            }, 
+                            "title": "Rubber Legs", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8b78c505-82a4-4e17-88a5-e1abf06cedc5", 
+                            "trackNumber": "11", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "39"
+                            }, 
+                            "title": "Till the End of Night", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ac328e0b-759a-43ce-8d6d-9b2d4122ce9e", 
+                            "trackNumber": "12", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4971", 
+                                "playcount": "7840"
+                            }, 
+                            "title": "Born in a Trailer", 
+                            "artistName": "The Stooges", 
+                            "mbid": "0e617f18-f569-45fe-9950-8a18c09241ca", 
+                            "trackNumber": "13", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "IT", 
+                    "disambiguation": "", 
+                    "mbid": "72b3c848-e0ab-4fd1-9d2b-1630642afc32", 
+                    "packaging": null, 
+                    "listeners": "1244", 
+                    "date": "2008-06-23", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3725", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "Gimme Some Skin"
+        }, 
+        {
+            "mbid": "d9ca035f-f56f-4767-8f17-2cbcdd2cc82d", 
+            "releases": [
+                {
+                    "name": "Collection (Australian Tour Edition)", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "33", 
+                                "playcount": "83"
+                            }, 
+                            "title": "Gimme Danger", 
+                            "artistName": "The Stooges", 
+                            "mbid": "4954ff2d-4852-40f7-9803-d3ac3be426df", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105582", 
+                                "playcount": "429050"
+                            }, 
+                            "title": "T.V. Eye", 
+                            "artistName": "The Stooges", 
+                            "mbid": "64d04a51-52a7-4124-914d-43d8aa5fb5dc", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115135", 
+                                "playcount": "458780"
+                            }, 
+                            "title": "Loose", 
+                            "artistName": "The Stooges", 
+                            "mbid": "c1d0bc41-c316-4a00-bd9f-8d78f4b1076a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "154324", 
+                                "playcount": "626199"
+                            }, 
+                            "title": "Down on the Street", 
+                            "artistName": "The Stooges", 
+                            "mbid": "50755a50-b751-4c37-886c-c24c1a0e0a10", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "50"
+                            }, 
+                            "title": "Penetration", 
+                            "artistName": "The Stooges", 
+                            "mbid": "362d9ea7-a23a-4d2e-81f4-222279d34435", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Search & Destroy", 
+                            "artistName": "The Stooges", 
+                            "mbid": "20a5f86f-84ff-4166-a10c-573184415a9f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "47d5ad04-3288-4f65-8027-d4e06dc7d964", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "191360", 
+                                "playcount": "693840"
+                            }, 
+                            "title": "1969", 
+                            "artistName": "The Stooges", 
+                            "mbid": "45e69b3f-48b0-4010-b8e1-f8872324b800", 
+                            "trackNumber": "8", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100201", 
+                                "playcount": "381872"
+                            }, 
+                            "title": "1970", 
+                            "artistName": "The Stooges", 
+                            "mbid": "dde6e0f1-f3b5-45b2-96b5-0263d7363210", 
+                            "trackNumber": "9", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96171", 
+                                "playcount": "286049"
+                            }, 
+                            "title": "Ann", 
+                            "artistName": "The Stooges", 
+                            "mbid": "197151ec-c0e6-45b0-ad74-b4f89b422027", 
+                            "trackNumber": "10", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84324", 
+                                "playcount": "290994"
+                            }, 
+                            "title": "Fun House", 
+                            "artistName": "The Stooges", 
+                            "mbid": "09bb9f4d-f426-47b9-92bd-61126e3cafb6", 
+                            "trackNumber": "11", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "476976", 
+                                "playcount": "2458671"
+                            }, 
+                            "title": "I Wanna Be Your Dog", 
+                            "artistName": "The Stooges", 
+                            "mbid": "b6c31555-6bf5-4d5c-ba82-b3d784e9b823", 
+                            "trackNumber": "13", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94438", 
+                                "playcount": "273201"
+                            }, 
+                            "title": "We Will Fall", 
+                            "artistName": "The Stooges", 
+                            "mbid": "f9a31ff0-a4b9-459c-a477-071f0872d6d0", 
+                            "trackNumber": "14", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "46"
+                            }, 
+                            "title": "Your Pretty Face Is Going to Hell", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5ad4a54f-24e6-4d67-89a4-2a473cc225ec", 
+                            "trackNumber": "15", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "AU", 
+                    "disambiguation": "", 
+                    "mbid": "a94900a4-b19b-4d71-804e-6d97757f6e82", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "44", 
+                    "date": "2011", 
+                    "artistName": "The Stooges", 
+                    "playcount": "415", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "Collection (Australian Tour Edition)"
+        }, 
+        {
+            "mbid": "dcad99b0-cf6a-4a23-83b9-10a905438ec9", 
+            "releases": [], 
+            "title": "Playlist: The Best of the Stooges"
+        }, 
+        {
+            "mbid": "5232490f-23d3-4b72-99a6-e5755c67dd4e", 
+            "releases": [], 
+            "title": "Highlights From the Fun House Sessions"
+        }, 
+        {
+            "mbid": "819b0608-ae5d-4e5c-a6b9-f602eeda0754", 
+            "releases": [], 
+            "title": "I Wanna Be Your Dog"
+        }, 
+        {
+            "mbid": "b2aa92e1-832f-4e5a-9a80-af1f4ec5e7c5", 
+            "releases": [], 
+            "title": "Till the End of the Night"
+        }, 
+        {
+            "mbid": "0d20321f-7f31-4883-9709-c1bc8d84e0f6", 
+            "releases": [], 
+            "title": "You Don't Want My Name... You Want My Action"
+        }, 
+        {
+            "mbid": "64e7f5e6-2429-41c3-9ece-921562a6ac96", 
+            "releases": [], 
+            "title": "Gimme Danger (music from the motion picture)"
+        }, 
+        {
+            "mbid": "7bfcbd6e-be69-438b-85cc-f39c0a3294ae", 
+            "releases": [
+                {
+                    "name": "Night of the Iguana", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Raw Power", 
+                            "artistName": "The Stooges", 
+                            "mbid": "d9ff5c81-c6ea-4f50-82a4-468cdcf170ca", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Head On", 
+                            "artistName": "The Stooges", 
+                            "mbid": "0f84f87b-9424-4095-a265-0166a577e845", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Wet My Bed", 
+                            "artistName": "The Stooges", 
+                            "mbid": "36ab339f-de18-407e-a754-19271f0fce8d", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "I Got Nothing", 
+                            "artistName": "The Stooges", 
+                            "mbid": "c0593057-7b4f-4387-a6cc-58fa3162ddc0", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "I Got A Cock - In My Pocket", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ca01045d-3494-4aee-bf00-ac2ffcb82fdb", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Search & Destroy", 
+                            "artistName": "The Stooges", 
+                            "mbid": "41333c50-07ad-4ad7-8c4f-eb973707a052", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Gimme Danger", 
+                            "artistName": "The Stooges", 
+                            "mbid": "124cdfb9-7122-40c3-9635-da8931d20012", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "New Orleans", 
+                            "artistName": "The Stooges", 
+                            "mbid": "d441835b-0ba5-485d-8cbe-d4fac34f5bb3", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Rich Bitch", 
+                            "artistName": "The Stooges", 
+                            "mbid": "87526e33-14ba-4d4b-a23b-322278a6504c", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "38d72337-df45-48fb-acad-852f9dc10fdc", 
+                    "packaging": null, 
+                    "listeners": "0", 
+                    "date": "1973", 
+                    "artistName": "The Stooges", 
+                    "playcount": "0", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "Night of the Iguana"
+        }, 
+        {
+            "mbid": "7ad13c3b-eabe-4c3c-8cc5-a6717489d786", 
+            "releases": [], 
+            "title": "Live at the Whiskey A GoGo"
+        }, 
+        {
+            "mbid": "a7128652-ca65-4d15-96e2-688c17a70646", 
+            "releases": [], 
+            "title": "Live 1971 & Early Live Rarities"
+        }, 
+        {
+            "mbid": "8c9b9510-50d2-4d0f-affb-cd18d436c11e", 
+            "releases": [], 
+            "title": "Have Some Fun: Live at Ungano\u2019s"
+        }, 
+        {
+            "mbid": "244c52a7-7575-46d7-b644-1d87a9bdffa9", 
+            "releases": [], 
+            "title": "A Thousand Lights"
+        }, 
+        {
+            "mbid": "4e1f84be-aba4-3d71-aeae-d48e2e4569e4", 
+            "releases": [
+                {
+                    "name": "Max's Kansas City July 30th", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "129884", 
+                                "playcount": "501635"
+                            }, 
+                            "title": "Raw Power", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8056531b-f456-4cd8-9141-0a4c4b56b44d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13560", 
+                                "playcount": "33697"
+                            }, 
+                            "title": "Head On", 
+                            "artistName": "The Stooges", 
+                            "mbid": "5df4f71a-9542-4c03-9f1e-5bba097dea62", 
+                            "trackNumber": "2", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2806", 
+                                "playcount": "8551"
+                            }, 
+                            "title": "Gimmie Danger", 
+                            "artistName": "The Stooges", 
+                            "mbid": "be627f9c-5796-45a1-bad1-ae2a0e0d3542", 
+                            "trackNumber": "3", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19064", 
+                                "playcount": "46376"
+                            }, 
+                            "title": "Cock in My Pocket", 
+                            "artistName": "The Stooges", 
+                            "mbid": "8464f5a9-68ad-4813-b96e-ec9514bf2bf0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "360174", 
+                                "playcount": "1684270"
+                            }, 
+                            "title": "Search and Destroy", 
+                            "artistName": "The Stooges", 
+                            "mbid": "2e3f90ac-ccf0-44d4-a04f-a9b45accad70", 
+                            "trackNumber": "5", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111095", 
+                                "playcount": "416457"
+                            }, 
+                            "title": "I Need Somebody", 
+                            "artistName": "The Stooges", 
+                            "mbid": "0a1d5aa4-4528-451a-be74-1a8269117d12", 
+                            "trackNumber": "6", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4763", 
+                                "playcount": "12673"
+                            }, 
+                            "title": "Heavy Liquid", 
+                            "artistName": "The Stooges", 
+                            "mbid": "ee4b1393-0b67-46f8-902d-20a419f98b12", 
+                            "trackNumber": "7", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "babd8cc8-3014-410e-a86d-504d31965d66", 
+                    "packaging": null, 
+                    "listeners": "1907", 
+                    "date": "", 
+                    "artistName": "The Stooges", 
+                    "playcount": "3295", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "Max's Kansas City July 30th"
+        }, 
+        {
+            "mbid": "8ab80090-2a3f-4a21-995f-dbcc1e2ce893", 
+            "releases": [
+                {
+                    "name": "No Fun", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "173642", 
+                                "playcount": "629370"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "2df871b5-2585-4a16-afdf-87bf4e13d67f", 
+                            "trackNumber": "A", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50224", 
+                                "playcount": "158229"
+                            }, 
+                            "title": "No Fun", 
+                            "artistName": "The Stooges", 
+                            "mbid": "81c1e5df-1355-464e-97da-5fd9181f3a73", 
+                            "trackNumber": "B", 
+                            "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f71a4e39-97fb-400b-8a98-f55e932d49bb", 
+                    "packaging": "Other", 
+                    "listeners": "8", 
+                    "date": "2013-04-20", 
+                    "artistName": "The Stooges", 
+                    "playcount": "24", 
+                    "artistMBID": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b"
+                }
+            ], 
+            "title": "No Fun"
+        }, 
+        {
+            "mbid": "6ad91d96-2848-42f3-9738-9345a316f15d", 
+            "releases": [], 
+            "title": "Extended Play"
+        }, 
+        {
+            "mbid": "d1927bed-0b22-471a-903e-e05df0cef56d", 
+            "releases": [], 
+            "title": "Etiqueta Negra de Lugo"
+        }
+    ], 
+    "type": "Group"
+}

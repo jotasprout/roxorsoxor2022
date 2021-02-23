@@ -1,0 +1,125 @@
+{
+    "name": "The Doobie Brothers",
+    "mbid": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "37fdad6d-0d36-45b8-84f2-6222e21ed08f",
+            "name": "Dave Shogren",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "dd7870fa-1250-4499-94c1-b4ace6238236",
+            "name": "Keith Knudsen",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "dce7e22b-6866-4bd2-85a7-8483392f5e76",
+            "name": "Chet McCracken",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "1241a098-2a5c-499c-9c93-54dc30c38dba",
+            "name": "Bobby LaKind",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5a1e66a2-a745-43f2-b2cb-f98595f1aeb1",
+            "name": "Willie Weeks",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "cc675751-7425-470f-8d2d-167ed3ba8759",
+            "name": "John Hartman",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "3bc26e8d-28d4-4021-a699-3b26645de2db",
+            "name": "Guy Allison",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6b03465f-75b9-4817-a045-43ef89b635e2",
+            "name": "Jeff \u201cSkunk\u201d Baxter",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "86648383-75d5-4a86-bbc8-7b43a098f938",
+            "name": "Cornelius Bumpus",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5762eef1-a3cf-4173-846f-54fc54585daf",
+            "name": "Michael Hossack",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "ad5b7e37-7d56-4459-8092-59f002078d9d",
+            "name": "Tom Johnson",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ad5b7e37-7d56-4459-8092-59f002078d9d",
+            "name": "Tom Johnson",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f15612c5-52e8-4927-a3c0-648482affeb8",
+            "name": "Tom Johnston",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a45071c0-1805-4ec6-83c4-e3f62e2916b1",
+            "name": "Nicolette Larson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "cacbe57b-02d0-4d21-be86-c8a3a5ea6e1e",
+            "name": "Michael McDonald",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6dc83617-7f1d-4cfa-bc69-6749fb1be8a5",
+            "name": "John McFee",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "cc8ab636-b753-4cd8-a3b3-e59e7d1bb3d0",
+            "name": "Bill Payne",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "64b9379b-686b-465d-bb1e-86aab8f14c16",
+            "name": "Tiran Porter",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "c61a3a94-63ee-4304-890b-407be8634209",
+            "name": "Patrick Simmons",
+            "attributes": []
+        }
+    ]
+}

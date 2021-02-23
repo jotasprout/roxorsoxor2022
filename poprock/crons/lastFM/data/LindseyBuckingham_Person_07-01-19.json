@@ -1,0 +1,2626 @@
+{
+    "genres": [
+        "singer-songwriter", 
+        "rock", 
+        "classic rock", 
+        "pop", 
+        "male vocalist"
+    ], 
+    "taskDuration": {
+        "Task Duration": 93.45851707458496, 
+        "Task End": 1561953716.835422, 
+        "Task Start": 1561953623.376905
+    }, 
+    "stats": {
+        "listeners": "152368", 
+        "playcount": "1412023"
+    }, 
+    "name": "Lindsey Buckingham", 
+    "mbid": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+    "birthday": "1949-10-03", 
+    "date": "2019-07-01", 
+    "albums": [
+        {
+            "mbid": "0cb62c19-24dc-3f67-9d9e-09bb2b39ba5f", 
+            "releases": [
+                {
+                    "name": "Gift of Screws", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "dfa4e093-5e22-461a-aed9-cf5175c60da5", 
+                            "stats": {
+                                "listeners": "3655", 
+                                "playcount": "12089"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Someone's Gotta Change Your Mind"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "be5ee401-7168-4b56-b6c7-1aa927ce8a4f", 
+                            "stats": {
+                                "listeners": "2434", 
+                                "playcount": "7709"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "She Smiled Sweetly"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "894d4cc6-8fc9-4799-b45c-01d7672138f5", 
+                            "stats": {
+                                "listeners": "336", 
+                                "playcount": "982"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Come"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4dd37c24-f28d-4a0f-bfa2-02b1326ab6e4", 
+                            "stats": {
+                                "listeners": "3043", 
+                                "playcount": "14221"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Down on Rodeo"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "7d7e4587-0284-43e6-aa3f-c9f118eec1a4", 
+                            "stats": {
+                                "listeners": "2399", 
+                                "playcount": "8961"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Gift of Screws"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "f15a1a3e-e297-4bf6-983b-b32df3e52319", 
+                            "stats": {
+                                "listeners": "376", 
+                                "playcount": "1423"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bleed to Love Her"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0cf17b6b-d2de-4b43-89a3-238668839e30", 
+                    "packaging": null, 
+                    "listeners": "8050", 
+                    "date": "2008-09-16", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "116488", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Gift of Screws"
+        }, 
+        {
+            "mbid": "2c453fc5-1041-4358-b113-909faec6dc17", 
+            "releases": [], 
+            "title": "Soul Drifter"
+        }, 
+        {
+            "mbid": "44851ed7-1fa5-31fc-af1f-088f6ccf0ac7", 
+            "releases": [
+                {
+                    "name": "Out of the Cradle", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "92391c55-37ab-4dda-828e-e011136c7475", 
+                            "stats": {
+                                "listeners": "639", 
+                                "playcount": "2210"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Instrumental Introduction To:"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "cbbc3cf6-b08b-4688-adbd-59cbf9345c95", 
+                            "stats": {
+                                "listeners": "8972", 
+                                "playcount": "23374"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Don't Look Down"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "0ec3c6de-be1b-4159-861a-6a7f9490d723", 
+                            "stats": {
+                                "listeners": "8461", 
+                                "playcount": "20463"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Wrong"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "8f9de661-3f25-4454-b59c-c72d8ea469d6", 
+                            "stats": {
+                                "listeners": "11324", 
+                                "playcount": "31733"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Countdown"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "68922458-0cb3-40b9-8191-19da755ee4b6", 
+                            "stats": {
+                                "listeners": "4623", 
+                                "playcount": "12289"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "All My Sorrows"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "5ed9e12c-8972-4ffe-9707-f8c1f4a8622a", 
+                            "stats": {
+                                "listeners": "8116", 
+                                "playcount": "20447"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Soul Drifter"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ef207f40-2093-45b4-bd6c-2fb33773889e", 
+                            "stats": {
+                                "listeners": "639", 
+                                "playcount": "2210"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Instrumental Introduction To:"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1a593244-3988-4af0-9c73-2837894f7982", 
+                            "stats": {
+                                "listeners": "3193", 
+                                "playcount": "8021"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "This Is the Time"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ad152e6d-c986-4a81-a389-acfc0d8124ed", 
+                            "stats": {
+                                "listeners": "7906", 
+                                "playcount": "18567"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "You Do or You Don\u2019t"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "be378628-ff29-4055-85fa-b7d0ca6ecead", 
+                            "stats": {
+                                "listeners": "6669", 
+                                "playcount": "16139"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Street of Dreams"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "71b80904-4b07-42ee-a2da-c5db63ca1d40", 
+                            "stats": {
+                                "listeners": "1366", 
+                                "playcount": "2615"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Spoken Introduction To:"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1e968295-e826-4610-9c0f-5bcfc76e86bd", 
+                            "stats": {
+                                "listeners": "3472", 
+                                "playcount": "9385"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Surrender the Rain"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4024c278-ff14-4790-9ac2-737f7759921c", 
+                            "stats": {
+                                "listeners": "6748", 
+                                "playcount": "16141"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Doing What I Can"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ffef53c2-5c56-40fa-bc8d-46177c46d0ae", 
+                            "stats": {
+                                "listeners": "6474", 
+                                "playcount": "15178"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Turn It On"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ae7c2666-b21a-490f-9b46-acad89c7f47a", 
+                            "stats": {
+                                "listeners": "3427", 
+                                "playcount": "8908"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "This Nearly Was Mine"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d38def85-292a-4f43-8ba0-775490fe9d0b", 
+                            "stats": {
+                                "listeners": "6014", 
+                                "playcount": "13425"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Say We'll Meet Again"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a9493fe4-26e0-48b8-b4c1-f789971e97af", 
+                    "packaging": null, 
+                    "listeners": "35940", 
+                    "date": "1992-06-16", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "222428", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Out of the Cradle"
+        }, 
+        {
+            "mbid": "51f6f18d-5eec-4a3e-bf5a-ea627439b6f1", 
+            "releases": [], 
+            "title": "Songs From The Small Machine - Live In L.A."
+        }, 
+        {
+            "mbid": "52979c61-d28b-4ff0-a343-fcb963009d7e", 
+            "releases": [
+                {
+                    "name": "Seeds We Sow", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "c6ef5bf0-905b-45c6-bad9-299ea7ecc936", 
+                            "stats": {
+                                "listeners": "4823", 
+                                "playcount": "14453"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Seeds We Sow"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "61864417-6ddf-417f-9f98-d1fe5eb566f4", 
+                            "stats": {
+                                "listeners": "3859", 
+                                "playcount": "11176"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "In Our Own Time"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a836612d-b77e-40cd-b1ef-1dca2d184faf", 
+                            "stats": {
+                                "listeners": "3012", 
+                                "playcount": "8672"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Illumination"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "28819dec-fc81-4fbd-8d5e-fbff46497818", 
+                            "stats": {
+                                "listeners": "285", 
+                                "playcount": "994"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "That's the Way That Love Goes"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "07919295-2d61-42da-aafe-23021aa8e8a5", 
+                            "stats": {
+                                "listeners": "2989", 
+                                "playcount": "9615"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Stars Are Crazy"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1f3ce42-ae31-49a4-862e-0afec5a9be9c", 
+                            "stats": {
+                                "listeners": "2522", 
+                                "playcount": "7535"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "When She Comes Down"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "0919b3ab-270a-4928-98e9-12e850f0c7f5", 
+                            "stats": {
+                                "listeners": "2904", 
+                                "playcount": "9942"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Rock Away Blind"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "0b131a3f-3e6b-4442-a42b-1b4977e11af2", 
+                            "stats": {
+                                "listeners": "1916", 
+                                "playcount": "5814"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "One Take"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "365aa3e0-fe1e-4b27-a23b-c8b2132d2ef3", 
+                            "stats": {
+                                "listeners": "2078", 
+                                "playcount": "6258"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Gone Too Far"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "c97ff122-4203-494a-89f9-15aa99fcbe96", 
+                            "stats": {
+                                "listeners": "2434", 
+                                "playcount": "7384"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "End of Time"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f0a212d9-606e-49fc-9369-8a6467b5278c", 
+                    "packaging": "Digipak", 
+                    "listeners": "8506", 
+                    "date": "2011-09-06", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88482", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Seeds We Sow", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "c6ef5bf0-905b-45c6-bad9-299ea7ecc936", 
+                            "stats": {
+                                "listeners": "4823", 
+                                "playcount": "14453"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Seeds We Sow"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "61864417-6ddf-417f-9f98-d1fe5eb566f4", 
+                            "stats": {
+                                "listeners": "3859", 
+                                "playcount": "11176"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "In Our Own Time"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a836612d-b77e-40cd-b1ef-1dca2d184faf", 
+                            "stats": {
+                                "listeners": "3012", 
+                                "playcount": "8672"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Illumination"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "28819dec-fc81-4fbd-8d5e-fbff46497818", 
+                            "stats": {
+                                "listeners": "285", 
+                                "playcount": "994"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "That's the Way That Love Goes"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "07919295-2d61-42da-aafe-23021aa8e8a5", 
+                            "stats": {
+                                "listeners": "2989", 
+                                "playcount": "9615"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Stars Are Crazy"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1f3ce42-ae31-49a4-862e-0afec5a9be9c", 
+                            "stats": {
+                                "listeners": "2522", 
+                                "playcount": "7535"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "When She Comes Down"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "0919b3ab-270a-4928-98e9-12e850f0c7f5", 
+                            "stats": {
+                                "listeners": "2904", 
+                                "playcount": "9942"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Rock Away Blind"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "0b131a3f-3e6b-4442-a42b-1b4977e11af2", 
+                            "stats": {
+                                "listeners": "1916", 
+                                "playcount": "5814"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "One Take"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "365aa3e0-fe1e-4b27-a23b-c8b2132d2ef3", 
+                            "stats": {
+                                "listeners": "2078", 
+                                "playcount": "6258"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Gone Too Far"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "c97ff122-4203-494a-89f9-15aa99fcbe96", 
+                            "stats": {
+                                "listeners": "2434", 
+                                "playcount": "7384"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "End of Time"
+                        }
+                    ], 
+                    "country": "XW", 
+                    "disambiguation": "", 
+                    "mbid": "f0a212d9-606e-49fc-9369-8a6467b5278c", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "8506", 
+                    "date": "2011-09-06", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88482", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Seeds We Sow"
+        }, 
+        {
+            "mbid": "68c71a5f-7421-4e2c-8383-93cf2f8f1738", 
+            "releases": [], 
+            "title": "Solo Anthology: The Best of Lindsey Buckingham"
+        }, 
+        {
+            "mbid": "6a9f203b-aec3-4ce8-be78-13afba1746b8", 
+            "releases": [
+                {
+                    "name": "One Man Show", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "c1f84a21-6e4a-4d98-bde4-d81d6dfb9f0a", 
+                            "stats": {
+                                "listeners": "3034", 
+                                "playcount": "11956"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Cast Away Dreams"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "8619d4d3-6b91-4a12-a497-a61caef0ab7d", 
+                            "stats": {
+                                "listeners": "376", 
+                                "playcount": "1423"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bleed To Love Her"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "01d4f80e-7b04-4def-a97e-907743a1974f", 
+                            "stats": {
+                                "listeners": "4035", 
+                                "playcount": "13209"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Not Too Late"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fcf30992-1620-4c91-85f2-80ed23af6dba", 
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "816"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Stephanie"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "9506cc5d-a8fd-40c3-a959-d45e961f304a", 
+                            "stats": {
+                                "listeners": "336", 
+                                "playcount": "982"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Come"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "8dc04ba6-ecb7-4455-9d43-edc1c11dc4fb", 
+                            "stats": {
+                                "listeners": "16464", 
+                                "playcount": "69859"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Shut Us Down"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "faa5d979-2567-424d-bf68-ede3ab989917", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4d91582f-d5dd-479a-a22c-6b1a4b7dd97a", 
+                            "stats": {
+                                "listeners": "1473", 
+                                "playcount": "5429"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Never Going Back Again"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a676c6cd-f400-4e58-87c8-6d240fece5b0", 
+                            "stats": {
+                                "listeners": "8933", 
+                                "playcount": "39891"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Big Love"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fe4d0352-f3e4-4fbb-83cd-329f9b8334a2", 
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "191"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "So Afraid"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ed12008e-22d0-4b6b-af03-b350f9de082a", 
+                            "stats": {
+                                "listeners": "1048", 
+                                "playcount": "3000"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Your Own Way"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a94ffb07-51a7-4a3d-9ff7-752ff5530a71", 
+                            "stats": {
+                                "listeners": "23947", 
+                                "playcount": "122612"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Trouble"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "cb009726-644b-4d4f-abd0-a2463d3a50c0", 
+                            "stats": {
+                                "listeners": "4823", 
+                                "playcount": "14453"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Seeds We Sow"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "3eccc6ea-6b47-49b0-9efc-450040c54dcd", 
+                    "packaging": "Other", 
+                    "listeners": "254", 
+                    "date": "2012-11-13", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "6146", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "One Man Show"
+        }, 
+        {
+            "mbid": "75f3fdf3-642f-4bd7-9cf7-8243d3794ea5", 
+            "releases": [
+                {
+                    "name": "If I Loved You", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "65277623-d96a-42f6-b632-c964d9affeed", 
+                            "stats": {
+                                "listeners": "32", 
+                                "playcount": "86"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "If I Loved You"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "bef3b560-d7e5-4c27-a961-35317d031830", 
+                    "packaging": "None", 
+                    "listeners": "1", 
+                    "date": "2013-02-08", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "2", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "If I Loved You"
+        }, 
+        {
+            "mbid": "8cf0331c-3330-302c-9163-17509f531239", 
+            "releases": [
+                {
+                    "name": "Under The Skin", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d48b8b89-dc1f-4655-8e3a-11fc0d1edf79", 
+                            "stats": {
+                                "listeners": "4035", 
+                                "playcount": "13209"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Not Too Late"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "dd5b867f-d86d-45bf-aa25-a4804bc2030a", 
+                            "stats": {
+                                "listeners": "3391", 
+                                "playcount": "11534"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Show You How"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "c86c010c-a2a6-4bc8-85ce-7f9c342c377a", 
+                            "stats": {
+                                "listeners": "3571", 
+                                "playcount": "13145"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Under the Skin"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "024ba051-94a2-4088-8fb5-b06120fb0466", 
+                            "stats": {
+                                "listeners": "3164", 
+                                "playcount": "11348"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Am Waiting"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "9338cdab-5348-4674-8161-8764c9707805", 
+                            "stats": {
+                                "listeners": "2964", 
+                                "playcount": "10756"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "It Was You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "cfa5f2ff-b427-45b4-b5e2-46c6bcb032e5", 
+                            "stats": {
+                                "listeners": "2269", 
+                                "playcount": "8215"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "To Try for the Sun"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "bf42fe52-2a0d-433a-96d2-e626bc705c77", 
+                            "stats": {
+                                "listeners": "3034", 
+                                "playcount": "11956"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Cast Away Dreams"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4ea4e2c7-e014-4b73-bdc7-140c15f7081d", 
+                            "stats": {
+                                "listeners": "16464", 
+                                "playcount": "69859"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Shut Us Down"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "199bc0cc-af45-4313-b01c-b3d0bbb630c8", 
+                            "stats": {
+                                "listeners": "3043", 
+                                "playcount": "14221"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Down on Rodeo"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "87f50c7f-5478-4d78-b933-e6b0bdfeb2f7", 
+                            "stats": {
+                                "listeners": "3655", 
+                                "playcount": "12089"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Someone\u2019s Gotta Change Your Mind"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "23504a29-3317-40b5-9f13-80f89944d906", 
+                            "stats": {
+                                "listeners": "1902", 
+                                "playcount": "5442"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Flying Down Juniper"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "db9013ad-ef3f-42c2-84d8-828bf379b5ce", 
+                    "packaging": null, 
+                    "listeners": "8424", 
+                    "date": "2006-10-03", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "99685", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Under the Skin"
+        }, 
+        {
+            "mbid": "8dd01fb5-a63c-3e8c-91ec-11f18f236d5c", 
+            "releases": [
+                {
+                    "name": "Law and Order", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "3f0087e8-8091-485f-ad67-cf84ff6fdda8", 
+                            "stats": {
+                                "listeners": "2563", 
+                                "playcount": "7788"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bwana"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ad39aac9-6a2c-40a5-8652-125c16edc11a", 
+                            "stats": {
+                                "listeners": "23947", 
+                                "playcount": "122612"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Trouble"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a7620f2a-68c9-4d26-87a8-cdaaa1c04943", 
+                            "stats": {
+                                "listeners": "2478", 
+                                "playcount": "7285"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Mary Lee Jones"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "01c0c7b6-1356-4bd7-a631-ebc761aba311", 
+                            "stats": {
+                                "listeners": "2308", 
+                                "playcount": "6959"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I'll Tell You Now"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1b74eedc-e0d2-41ed-9ae6-c9c6629fb204", 
+                            "stats": {
+                                "listeners": "3322", 
+                                "playcount": "10148"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "It Was I"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "98813f4d-0f50-4108-bd70-c87bce485f38", 
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "5782"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "September Song"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "2234ffbc-910f-4f5b-86ec-4cb1a32974d0", 
+                            "stats": {
+                                "listeners": "1899", 
+                                "playcount": "5669"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Shadow of the West"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "6196c9bf-56ff-47fb-874c-81fb230644d8", 
+                            "stats": {
+                                "listeners": "1757", 
+                                "playcount": "5145"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "That's How We Do It in L.A."
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fe6c28c0-3cb5-41f7-bb14-eaa76e12f044", 
+                            "stats": {
+                                "listeners": "1715", 
+                                "playcount": "5381"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Johnny Stew"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4603a622-129c-4b62-9eae-1679960ec71e", 
+                            "stats": {
+                                "listeners": "1575", 
+                                "playcount": "4683"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Love From Here, Love From There"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a825d3ff-4d00-46a4-91e9-66fd39ed7dfc", 
+                            "stats": {
+                                "listeners": "1649", 
+                                "playcount": "4702"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "A Satisfied Mind"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "59611546-b7c1-32bc-a9bb-ded0206ad283", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "18898", 
+                    "date": "", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "142313", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Law and Order", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "3f0087e8-8091-485f-ad67-cf84ff6fdda8", 
+                            "stats": {
+                                "listeners": "2563", 
+                                "playcount": "7788"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bwana"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ad39aac9-6a2c-40a5-8652-125c16edc11a", 
+                            "stats": {
+                                "listeners": "23947", 
+                                "playcount": "122612"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Trouble"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a7620f2a-68c9-4d26-87a8-cdaaa1c04943", 
+                            "stats": {
+                                "listeners": "2478", 
+                                "playcount": "7285"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Mary Lee Jones"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "01c0c7b6-1356-4bd7-a631-ebc761aba311", 
+                            "stats": {
+                                "listeners": "2308", 
+                                "playcount": "6959"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I'll Tell You Now"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1b74eedc-e0d2-41ed-9ae6-c9c6629fb204", 
+                            "stats": {
+                                "listeners": "3322", 
+                                "playcount": "10148"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "It Was I"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "98813f4d-0f50-4108-bd70-c87bce485f38", 
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "5782"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "September Song"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "2234ffbc-910f-4f5b-86ec-4cb1a32974d0", 
+                            "stats": {
+                                "listeners": "1899", 
+                                "playcount": "5669"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Shadow of the West"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "6196c9bf-56ff-47fb-874c-81fb230644d8", 
+                            "stats": {
+                                "listeners": "1757", 
+                                "playcount": "5145"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "That's How We Do It in L.A."
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fe6c28c0-3cb5-41f7-bb14-eaa76e12f044", 
+                            "stats": {
+                                "listeners": "1715", 
+                                "playcount": "5381"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Johnny Stew"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4603a622-129c-4b62-9eae-1679960ec71e", 
+                            "stats": {
+                                "listeners": "1575", 
+                                "playcount": "4683"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Love From Here, Love From There"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a825d3ff-4d00-46a4-91e9-66fd39ed7dfc", 
+                            "stats": {
+                                "listeners": "1649", 
+                                "playcount": "4702"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "A Satisfied Mind"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "59611546-b7c1-32bc-a9bb-ded0206ad283", 
+                    "packaging": null, 
+                    "listeners": "18898", 
+                    "date": "1981", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "142313", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Law and Order", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "3f0087e8-8091-485f-ad67-cf84ff6fdda8", 
+                            "stats": {
+                                "listeners": "2563", 
+                                "playcount": "7788"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bwana"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ad39aac9-6a2c-40a5-8652-125c16edc11a", 
+                            "stats": {
+                                "listeners": "23947", 
+                                "playcount": "122612"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Trouble"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a7620f2a-68c9-4d26-87a8-cdaaa1c04943", 
+                            "stats": {
+                                "listeners": "2478", 
+                                "playcount": "7285"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Mary Lee Jones"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "01c0c7b6-1356-4bd7-a631-ebc761aba311", 
+                            "stats": {
+                                "listeners": "2308", 
+                                "playcount": "6959"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I'll Tell You Now"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1b74eedc-e0d2-41ed-9ae6-c9c6629fb204", 
+                            "stats": {
+                                "listeners": "3322", 
+                                "playcount": "10148"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "It Was I"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "98813f4d-0f50-4108-bd70-c87bce485f38", 
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "5782"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "September Song"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "2234ffbc-910f-4f5b-86ec-4cb1a32974d0", 
+                            "stats": {
+                                "listeners": "1899", 
+                                "playcount": "5669"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Shadow of the West"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "6196c9bf-56ff-47fb-874c-81fb230644d8", 
+                            "stats": {
+                                "listeners": "1757", 
+                                "playcount": "5145"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "That's How We Do It in L.A."
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fe6c28c0-3cb5-41f7-bb14-eaa76e12f044", 
+                            "stats": {
+                                "listeners": "1715", 
+                                "playcount": "5381"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Johnny Stew"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4603a622-129c-4b62-9eae-1679960ec71e", 
+                            "stats": {
+                                "listeners": "1575", 
+                                "playcount": "4683"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Love From Here, Love From There"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a825d3ff-4d00-46a4-91e9-66fd39ed7dfc", 
+                            "stats": {
+                                "listeners": "1649", 
+                                "playcount": "4702"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "A Satisfied Mind"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "59611546-b7c1-32bc-a9bb-ded0206ad283", 
+                    "packaging": null, 
+                    "listeners": "18898", 
+                    "date": "1981", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "142313", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Law and Order", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "3f0087e8-8091-485f-ad67-cf84ff6fdda8", 
+                            "stats": {
+                                "listeners": "2563", 
+                                "playcount": "7788"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bwana"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ad39aac9-6a2c-40a5-8652-125c16edc11a", 
+                            "stats": {
+                                "listeners": "23947", 
+                                "playcount": "122612"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Trouble"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a7620f2a-68c9-4d26-87a8-cdaaa1c04943", 
+                            "stats": {
+                                "listeners": "2478", 
+                                "playcount": "7285"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Mary Lee Jones"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "01c0c7b6-1356-4bd7-a631-ebc761aba311", 
+                            "stats": {
+                                "listeners": "2308", 
+                                "playcount": "6959"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I'll Tell You Now"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1b74eedc-e0d2-41ed-9ae6-c9c6629fb204", 
+                            "stats": {
+                                "listeners": "3322", 
+                                "playcount": "10148"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "It Was I"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "98813f4d-0f50-4108-bd70-c87bce485f38", 
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "5782"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "September Song"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "2234ffbc-910f-4f5b-86ec-4cb1a32974d0", 
+                            "stats": {
+                                "listeners": "1899", 
+                                "playcount": "5669"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Shadow of the West"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "6196c9bf-56ff-47fb-874c-81fb230644d8", 
+                            "stats": {
+                                "listeners": "1757", 
+                                "playcount": "5145"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "That's How We Do It in L.A."
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fe6c28c0-3cb5-41f7-bb14-eaa76e12f044", 
+                            "stats": {
+                                "listeners": "1715", 
+                                "playcount": "5381"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Johnny Stew"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4603a622-129c-4b62-9eae-1679960ec71e", 
+                            "stats": {
+                                "listeners": "1575", 
+                                "playcount": "4683"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Love From Here, Love From There"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a825d3ff-4d00-46a4-91e9-66fd39ed7dfc", 
+                            "stats": {
+                                "listeners": "1649", 
+                                "playcount": "4702"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "A Satisfied Mind"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "59611546-b7c1-32bc-a9bb-ded0206ad283", 
+                    "packaging": null, 
+                    "listeners": "18898", 
+                    "date": "1991-07-01", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "142313", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Law and Order"
+        }, 
+        {
+            "mbid": "922b991f-8c2b-4430-a777-b1c180aa5105", 
+            "releases": [], 
+            "title": "Holiday Road"
+        }, 
+        {
+            "mbid": "a4a47246-7b4c-4ee5-8fab-f4ac5b50328f", 
+            "releases": [
+                {
+                    "name": "Go Insane", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "14f31f80-12b7-4275-82d0-ae6d41f3812f", 
+                            "stats": {
+                                "listeners": "2390", 
+                                "playcount": "9554"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Want You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1c84f57b-c3e8-401e-9802-97ae435c2eba", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fdfa0a84-2c6e-480e-be57-0417b79f5933", 
+                            "stats": {
+                                "listeners": "2460", 
+                                "playcount": "10748"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Slow Dancing"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "670affc4-e52c-4f90-bff4-73de171cf5ef", 
+                            "stats": {
+                                "listeners": "1881", 
+                                "playcount": "7208"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Must Go"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "5e7a54c1-b445-4293-90e1-021da0a436cf", 
+                            "stats": {
+                                "listeners": "1602", 
+                                "playcount": "5660"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "60578ad2-8a04-4d03-89c5-6fa6320bc424", 
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "3437"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain (Continued)"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1aa5806-10ff-4c52-988b-6a4618bd2dbc", 
+                            "stats": {
+                                "listeners": "1464", 
+                                "playcount": "5728"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Loving Cup"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "97a10fda-180a-4687-886d-6220d4bf8ab3", 
+                            "stats": {
+                                "listeners": "1511", 
+                                "playcount": "5327"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bang the Drum"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "e8fc105d-85ea-4ad1-85fc-4ee2b90bac9d", 
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5931"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "D.W. Suite"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b7016950-f45d-4472-b4b1-466b819849e2", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "9063", 
+                    "date": "1984", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88515", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Go Insane"
+        }, 
+        {
+            "mbid": "b036de39-fdff-42af-abbf-87a0346379df", 
+            "releases": [], 
+            "title": "Lindsey Buckingham & Christine McVie"
+        }, 
+        {
+            "mbid": "d9169b89-1fd5-31ae-918c-dc22a7259885", 
+            "releases": [
+                {
+                    "name": "Wrong", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "653d68d4-1a04-4b5c-aa4b-a9d75d1c84f4", 
+                            "stats": {
+                                "listeners": "8461", 
+                                "playcount": "20463"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Wrong"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "2a0d292a-9c11-49cc-9c03-fdf7c5d0bee0", 
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "8"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Wrong (edit)"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "2fccf1d8-350d-4404-8ba5-a19bcf809119", 
+                    "packaging": null, 
+                    "listeners": "1", 
+                    "date": "1992", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "2", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Wrong"
+        }, 
+        {
+            "mbid": "e2922779-a2ed-3267-92b3-853a82e8c458", 
+            "releases": [
+                {
+                    "name": "Words and Music: A Retrospective", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "a4747cc3-29a3-4ff9-a963-a5dd5ab4b536", 
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "3"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview / Opening"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "b3a02cd4-2463-43c5-9a0a-99ed0772c5d1", 
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "816"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Stephanie"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "9078001b-0751-4551-8650-aacd74c8d471", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "c48a4d59-adb1-44ed-a6d4-c7795547e247", 
+                            "stats": {
+                                "listeners": "84", 
+                                "playcount": "230"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Monday Morning"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "0915d64d-b6a2-4019-9ee4-cc19a7fbef36", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "e69f81aa-ee13-4307-9181-2c845583623c", 
+                            "stats": {
+                                "listeners": "1048", 
+                                "playcount": "3000"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Your Own Way"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "f12e3a1a-2db4-4651-abc1-d07756878eea", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "06510fc8-e653-4ee8-a910-f19702dc1665", 
+                            "stats": {
+                                "listeners": "336", 
+                                "playcount": "979"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Tusk"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d72054b0-87bf-40d6-adc3-06b96af5cea6", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ad39aac9-6a2c-40a5-8652-125c16edc11a", 
+                            "stats": {
+                                "listeners": "23947", 
+                                "playcount": "122612"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Trouble"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ccd459a4-650b-4ff9-ae51-e14b824c9b96", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "3a1aff60-796b-4fe0-9671-69ffd04998f7", 
+                            "stats": {
+                                "listeners": "13399", 
+                                "playcount": "72591"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Holiday Road"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "43614766-a427-4530-bd86-1717f21483eb", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "7a6525b9-021e-4716-acd9-34db57ebc354", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fc301462-73fc-4a72-86b1-41c15302cdca", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "8a10246f-c872-49ea-97c9-fd08323728e8", 
+                            "stats": {
+                                "listeners": "8933", 
+                                "playcount": "39891"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Big Love"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "04ea26be-d454-47fa-abac-4b7f37056f3d", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d4ea0cf3-7d82-4d5b-8f33-63f260abb54c", 
+                            "stats": {
+                                "listeners": "8461", 
+                                "playcount": "20463"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Wrong"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "96f1feb3-2566-4feb-a295-71dcd63c7317", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "cbbc3cf6-b08b-4688-adbd-59cbf9345c95", 
+                            "stats": {
+                                "listeners": "8972", 
+                                "playcount": "23374"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Don't Look Down"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "760dae5c-d1f6-416f-9693-4cd545923f42", 
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "1014"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Interview"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4e79712e-9f21-4f41-9da9-81cde01d956a", 
+                            "stats": {
+                                "listeners": "11324", 
+                                "playcount": "31733"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Countdown"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "efb7388f-3058-4527-a78b-5208a136137f", 
+                    "packaging": null, 
+                    "listeners": "2012", 
+                    "date": "1992", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "5291", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Words and Music: A Retrospective"
+        }, 
+        {
+            "mbid": "ea16ac3e-d7c4-3ca3-906a-540cb9e23e7c", 
+            "releases": [
+                {
+                    "name": "Gift of Screws", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "dfa4e093-5e22-461a-aed9-cf5175c60da5", 
+                            "stats": {
+                                "listeners": "3655", 
+                                "playcount": "12089"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Someone's Gotta Change Your Mind"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "be5ee401-7168-4b56-b6c7-1aa927ce8a4f", 
+                            "stats": {
+                                "listeners": "2434", 
+                                "playcount": "7709"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "She Smiled Sweetly"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "894d4cc6-8fc9-4799-b45c-01d7672138f5", 
+                            "stats": {
+                                "listeners": "336", 
+                                "playcount": "982"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Come"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "4dd37c24-f28d-4a0f-bfa2-02b1326ab6e4", 
+                            "stats": {
+                                "listeners": "3043", 
+                                "playcount": "14221"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Down on Rodeo"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "7d7e4587-0284-43e6-aa3f-c9f118eec1a4", 
+                            "stats": {
+                                "listeners": "2399", 
+                                "playcount": "8961"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Gift of Screws"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "f15a1a3e-e297-4bf6-983b-b32df3e52319", 
+                            "stats": {
+                                "listeners": "376", 
+                                "playcount": "1423"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bleed to Love Her"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "0cf17b6b-d2de-4b43-89a3-238668839e30", 
+                    "packaging": null, 
+                    "listeners": "8050", 
+                    "date": "", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "116488", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Gift of Screws"
+        }, 
+        {
+            "mbid": "eaed3074-e2df-39d7-b268-92518dfb0fb6", 
+            "releases": [
+                {
+                    "name": "Live At The Bass Performance Hall", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "73e185c6-6e95-4902-b0b2-9aa349c25c96", 
+                            "stats": {
+                                "listeners": "4035", 
+                                "playcount": "13209"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Not Too Late"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "34e9792d-1362-424b-a838-33e8624c0b27", 
+                            "stats": {
+                                "listeners": "23947", 
+                                "playcount": "122612"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Trouble"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "3f1cd947-faee-4a53-a6b7-63529a20f449", 
+                            "stats": {
+                                "listeners": "1473", 
+                                "playcount": "5429"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Never Going Back Again"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "9a7d2904-1ae4-4cb6-ba65-e061d441cbe9", 
+                            "stats": {
+                                "listeners": "539", 
+                                "playcount": "1541"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Second Hand News"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "edf0ce0b-0e07-4816-9b47-0f8a2d3dd053", 
+                            "stats": {
+                                "listeners": "3034", 
+                                "playcount": "11956"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Cast Away Dreams"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "414617c3-6543-4dde-bbb7-296da7a33fe5", 
+                            "stats": {
+                                "listeners": "2964", 
+                                "playcount": "10756"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "It Was You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "de99882e-964d-4148-85ba-6c9e1d86b5a7", 
+                            "stats": {
+                                "listeners": "8933", 
+                                "playcount": "39891"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Big Love"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "dad9862e-ff8b-43eb-85ce-d541b1002c0f", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "8f239164-a9ca-4a10-9503-7353487c2a9c", 
+                            "stats": {
+                                "listeners": "3571", 
+                                "playcount": "13145"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Under the Skin"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "ca68af91-77d4-4e66-bc4e-45af91e1401c", 
+                            "stats": {
+                                "listeners": "531", 
+                                "playcount": "1589"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I'm So Afraid"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "72ba434b-d173-4f60-bd63-1559d029d728", 
+                            "stats": {
+                                "listeners": "320", 
+                                "playcount": "1157"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Know I'm Not Wrong"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fcefff6c-e734-45bc-b288-b93dbb92fa9e", 
+                            "stats": {
+                                "listeners": "1048", 
+                                "playcount": "3000"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Your Own Way"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d69867d5-bda4-4775-b69d-90b324f19220", 
+                            "stats": {
+                                "listeners": "13399", 
+                                "playcount": "72591"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Holiday Road"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "49f771af-6ea3-4159-b281-5f1407a29f76", 
+                            "stats": {
+                                "listeners": "3391", 
+                                "playcount": "11534"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Show You How"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1124fdfb-c8eb-483c-868e-59efe69cf88f", 
+                            "stats": {
+                                "listeners": "16464", 
+                                "playcount": "69859"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Shut Us Down"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "42517abd-5eb9-49c6-a9e8-e50dfba1071f", 
+                    "packaging": "Digipak", 
+                    "listeners": "23397", 
+                    "date": "2008", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "103681", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Live at the Bass Performance Hall"
+        }, 
+        {
+            "mbid": "ec165abe-ab8d-3543-9ab7-c9f7e5128f8b", 
+            "releases": [
+                {
+                    "name": "Go Insane", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "14f31f80-12b7-4275-82d0-ae6d41f3812f", 
+                            "stats": {
+                                "listeners": "2390", 
+                                "playcount": "9554"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Want You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1c84f57b-c3e8-401e-9802-97ae435c2eba", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fdfa0a84-2c6e-480e-be57-0417b79f5933", 
+                            "stats": {
+                                "listeners": "2460", 
+                                "playcount": "10748"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Slow Dancing"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "670affc4-e52c-4f90-bff4-73de171cf5ef", 
+                            "stats": {
+                                "listeners": "1881", 
+                                "playcount": "7208"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Must Go"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "5e7a54c1-b445-4293-90e1-021da0a436cf", 
+                            "stats": {
+                                "listeners": "1602", 
+                                "playcount": "5660"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "60578ad2-8a04-4d03-89c5-6fa6320bc424", 
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "3437"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain (Continued)"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1aa5806-10ff-4c52-988b-6a4618bd2dbc", 
+                            "stats": {
+                                "listeners": "1464", 
+                                "playcount": "5728"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Loving Cup"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "97a10fda-180a-4687-886d-6220d4bf8ab3", 
+                            "stats": {
+                                "listeners": "1511", 
+                                "playcount": "5327"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bang the Drum"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "e8fc105d-85ea-4ad1-85fc-4ee2b90bac9d", 
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5931"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "D.W. Suite"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "b7016950-f45d-4472-b4b1-466b819849e2", 
+                    "packaging": null, 
+                    "listeners": "9063", 
+                    "date": "1984", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88515", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Go Insane", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "14f31f80-12b7-4275-82d0-ae6d41f3812f", 
+                            "stats": {
+                                "listeners": "2390", 
+                                "playcount": "9554"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Want You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1c84f57b-c3e8-401e-9802-97ae435c2eba", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fdfa0a84-2c6e-480e-be57-0417b79f5933", 
+                            "stats": {
+                                "listeners": "2460", 
+                                "playcount": "10748"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Slow Dancing"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "670affc4-e52c-4f90-bff4-73de171cf5ef", 
+                            "stats": {
+                                "listeners": "1881", 
+                                "playcount": "7208"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Must Go"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "5e7a54c1-b445-4293-90e1-021da0a436cf", 
+                            "stats": {
+                                "listeners": "1602", 
+                                "playcount": "5660"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "60578ad2-8a04-4d03-89c5-6fa6320bc424", 
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "3437"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain (Continued)"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1aa5806-10ff-4c52-988b-6a4618bd2dbc", 
+                            "stats": {
+                                "listeners": "1464", 
+                                "playcount": "5728"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Loving Cup"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "97a10fda-180a-4687-886d-6220d4bf8ab3", 
+                            "stats": {
+                                "listeners": "1511", 
+                                "playcount": "5327"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bang the Drum"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "e8fc105d-85ea-4ad1-85fc-4ee2b90bac9d", 
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5931"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "D.W. Suite"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b7016950-f45d-4472-b4b1-466b819849e2", 
+                    "packaging": null, 
+                    "listeners": "9063", 
+                    "date": "1984-07-30", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88515", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Go Insane", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "14f31f80-12b7-4275-82d0-ae6d41f3812f", 
+                            "stats": {
+                                "listeners": "2390", 
+                                "playcount": "9554"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Want You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1c84f57b-c3e8-401e-9802-97ae435c2eba", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fdfa0a84-2c6e-480e-be57-0417b79f5933", 
+                            "stats": {
+                                "listeners": "2460", 
+                                "playcount": "10748"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Slow Dancing"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "670affc4-e52c-4f90-bff4-73de171cf5ef", 
+                            "stats": {
+                                "listeners": "1881", 
+                                "playcount": "7208"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Must Go"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "5e7a54c1-b445-4293-90e1-021da0a436cf", 
+                            "stats": {
+                                "listeners": "1602", 
+                                "playcount": "5660"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "60578ad2-8a04-4d03-89c5-6fa6320bc424", 
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "3437"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain (Continued)"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1aa5806-10ff-4c52-988b-6a4618bd2dbc", 
+                            "stats": {
+                                "listeners": "1464", 
+                                "playcount": "5728"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Loving Cup"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "97a10fda-180a-4687-886d-6220d4bf8ab3", 
+                            "stats": {
+                                "listeners": "1511", 
+                                "playcount": "5327"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bang the Drum"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "e8fc105d-85ea-4ad1-85fc-4ee2b90bac9d", 
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5931"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "D.W. Suite"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b7016950-f45d-4472-b4b1-466b819849e2", 
+                    "packaging": null, 
+                    "listeners": "9063", 
+                    "date": "1984", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88515", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Go Insane", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "14f31f80-12b7-4275-82d0-ae6d41f3812f", 
+                            "stats": {
+                                "listeners": "2390", 
+                                "playcount": "9554"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Want You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1c84f57b-c3e8-401e-9802-97ae435c2eba", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fdfa0a84-2c6e-480e-be57-0417b79f5933", 
+                            "stats": {
+                                "listeners": "2460", 
+                                "playcount": "10748"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Slow Dancing"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "670affc4-e52c-4f90-bff4-73de171cf5ef", 
+                            "stats": {
+                                "listeners": "1881", 
+                                "playcount": "7208"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Must Go"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "5e7a54c1-b445-4293-90e1-021da0a436cf", 
+                            "stats": {
+                                "listeners": "1602", 
+                                "playcount": "5660"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "60578ad2-8a04-4d03-89c5-6fa6320bc424", 
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "3437"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain (Continued)"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1aa5806-10ff-4c52-988b-6a4618bd2dbc", 
+                            "stats": {
+                                "listeners": "1464", 
+                                "playcount": "5728"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Loving Cup"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "97a10fda-180a-4687-886d-6220d4bf8ab3", 
+                            "stats": {
+                                "listeners": "1511", 
+                                "playcount": "5327"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bang the Drum"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "e8fc105d-85ea-4ad1-85fc-4ee2b90bac9d", 
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5931"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "D.W. Suite"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "b7016950-f45d-4472-b4b1-466b819849e2", 
+                    "packaging": null, 
+                    "listeners": "9063", 
+                    "date": "1984", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88515", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Go Insane", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "14f31f80-12b7-4275-82d0-ae6d41f3812f", 
+                            "stats": {
+                                "listeners": "2390", 
+                                "playcount": "9554"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Want You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1c84f57b-c3e8-401e-9802-97ae435c2eba", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fdfa0a84-2c6e-480e-be57-0417b79f5933", 
+                            "stats": {
+                                "listeners": "2460", 
+                                "playcount": "10748"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Slow Dancing"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "670affc4-e52c-4f90-bff4-73de171cf5ef", 
+                            "stats": {
+                                "listeners": "1881", 
+                                "playcount": "7208"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Must Go"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "5e7a54c1-b445-4293-90e1-021da0a436cf", 
+                            "stats": {
+                                "listeners": "1602", 
+                                "playcount": "5660"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "60578ad2-8a04-4d03-89c5-6fa6320bc424", 
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "3437"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain (Continued)"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1aa5806-10ff-4c52-988b-6a4618bd2dbc", 
+                            "stats": {
+                                "listeners": "1464", 
+                                "playcount": "5728"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Loving Cup"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "97a10fda-180a-4687-886d-6220d4bf8ab3", 
+                            "stats": {
+                                "listeners": "1511", 
+                                "playcount": "5327"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bang the Drum"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "e8fc105d-85ea-4ad1-85fc-4ee2b90bac9d", 
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5931"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "D.W. Suite"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b7016950-f45d-4472-b4b1-466b819849e2", 
+                    "packaging": null, 
+                    "listeners": "9063", 
+                    "date": "1984-07-30", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88515", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }, 
+                {
+                    "name": "Go Insane", 
+                    "tracks": [
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "14f31f80-12b7-4275-82d0-ae6d41f3812f", 
+                            "stats": {
+                                "listeners": "2390", 
+                                "playcount": "9554"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Want You"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "1c84f57b-c3e8-401e-9802-97ae435c2eba", 
+                            "stats": {
+                                "listeners": "10696", 
+                                "playcount": "51370"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Go Insane"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "fdfa0a84-2c6e-480e-be57-0417b79f5933", 
+                            "stats": {
+                                "listeners": "2460", 
+                                "playcount": "10748"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Slow Dancing"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "670affc4-e52c-4f90-bff4-73de171cf5ef", 
+                            "stats": {
+                                "listeners": "1881", 
+                                "playcount": "7208"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "I Must Go"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "5e7a54c1-b445-4293-90e1-021da0a436cf", 
+                            "stats": {
+                                "listeners": "1602", 
+                                "playcount": "5660"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "60578ad2-8a04-4d03-89c5-6fa6320bc424", 
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "3437"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Play in the Rain (Continued)"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "d1aa5806-10ff-4c52-988b-6a4618bd2dbc", 
+                            "stats": {
+                                "listeners": "1464", 
+                                "playcount": "5728"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Loving Cup"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "97a10fda-180a-4687-886d-6220d4bf8ab3", 
+                            "stats": {
+                                "listeners": "1511", 
+                                "playcount": "5327"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "Bang the Drum"
+                        }, 
+                        {
+                            "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+                            "mbid": "e8fc105d-85ea-4ad1-85fc-4ee2b90bac9d", 
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5931"
+                            }, 
+                            "artistName": "Lindsey Buckingham", 
+                            "title": "D.W. Suite"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b7016950-f45d-4472-b4b1-466b819849e2", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "9063", 
+                    "date": "", 
+                    "artistName": "Lindsey Buckingham", 
+                    "playcount": "88515", 
+                    "artistMBID": "5d12875c-a197-43b2-8f29-41dc0ad895c3"
+                }
+            ], 
+            "title": "Go Insane"
+        }
+    ], 
+    "type": "Person"
+}

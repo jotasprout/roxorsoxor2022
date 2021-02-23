@@ -1,0 +1,2138 @@
+{
+    "genres": [
+        "hard rock", 
+        "rock", 
+        "70s", 
+        "christian rock", 
+        "heavy metal"
+    ], 
+    "taskDuration": {
+        "Task Duration": 72.80837392807007, 
+        "Task End": 1564547780.932952, 
+        "Task Start": 1564547708.124578
+    }, 
+    "stats": {
+        "listeners": "12814", 
+        "playcount": "193437"
+    }, 
+    "name": "Jerusalem", 
+    "mbid": "16394dd5-4438-4a65-86b3-e1d954e0011f", 
+    "birthday": "1975", 
+    "date": "2019-07-31", 
+    "albums": [
+        {
+            "mbid": "0ec97bf2-40e5-453c-835b-752a3f2f6144", 
+            "releases": [], 
+            "title": "She"
+        }, 
+        {
+            "mbid": "1ca35348-8f1d-3367-9ac4-a41dedc93c58", 
+            "releases": [
+                {
+                    "name": "Warrior", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154", 
+                                "playcount": "462"
+                            }, 
+                            "title": "Constantly Changing", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b9e9e98d-a561-4e51-8230-f23747b659a6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "486"
+                            }, 
+                            "title": "Warrior", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ad01e482-00f6-46a8-bfd9-d2cea734db62", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "108", 
+                                "playcount": "330"
+                            }, 
+                            "title": "Pilgrim", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "67763148-a38b-41f7-bfbc-dd27e910ec1a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1319"
+                            }, 
+                            "title": "It's Mad", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "0fae066a-ef35-4bcc-b819-540de18c2a53", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "178", 
+                                "playcount": "656"
+                            }, 
+                            "title": "Man Of The World", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "482e6ebd-2f19-4f42-8d42-12fece6efcb1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "1243"
+                            }, 
+                            "title": "Sodom", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ff6cf982-acba-47e7-b886-24d81d45cd45", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "480"
+                            }, 
+                            "title": "Ashes in Our Hands", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "396dda59-2056-413d-b82a-1d41cdb2f68b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "103"
+                            }, 
+                            "title": "Farewell", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "4e1cf34f-c6c7-4dbd-8fef-f6fe10f837cb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "eff8ded2-76a0-4eb9-a5bf-2ac68e79fe0a", 
+                    "packaging": null, 
+                    "listeners": "134", 
+                    "date": "1981", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "1450", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Warrior"
+        }, 
+        {
+            "mbid": "1d7bd7cb-6846-371f-b7c0-61284f93cb07", 
+            "releases": [
+                {
+                    "name": "Volum Fyra", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "86"
+                            }, 
+                            "title": "Lossa Banden", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "f907d567-130f-45fe-a225-a00db17d1736", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "220"
+                            }, 
+                            "title": "Ge Mej Ett Svar", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b47bac80-350f-41ba-942a-880c7a58121d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "182"
+                            }, 
+                            "title": "Close", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ccc9f27d-778d-4844-b902-014f29818e36", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "66"
+                            }, 
+                            "title": "Vad S\u00e5g Du D\u00e5?", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "de3b2aca-21e7-4d9c-8e9c-d9fc4d71070e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Knapp Dina Hander", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ac7dfca9-91b8-4337-9023-6ae6c09de0fd", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "192"
+                            }, 
+                            "title": "R.A.D.", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8a8fa936-13fa-4f49-8956-6390b7e23294", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "187"
+                            }, 
+                            "title": "Jantelagens Sverige", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "34108f4a-09bf-4e40-9d6a-3a535c57fec5", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "58"
+                            }, 
+                            "title": "USA, Kina & Sovjet", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "501b07e3-053b-466f-a08b-d142fab10ef3", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Vand Om", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "7b15c2c5-edcd-4f46-88d7-08bc9a52281f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "113"
+                            }, 
+                            "title": "Ta Fram Din Bibel", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "93e82b5a-d065-4436-99eb-824fd66dd414", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Surrender", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "0f548bc4-fec1-428f-9303-e15d15282e37", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "440"
+                            }, 
+                            "title": "Bara Hos Dej", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b18bdadb-2d72-47cf-8340-d2dc800c1c3c", 
+                            "trackNumber": "12", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "fdefb68b-515c-474a-89e8-1da4e5c71149", 
+                    "packaging": null, 
+                    "listeners": "4", 
+                    "date": "", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "26", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Volum Fyra"
+        }, 
+        {
+            "mbid": "28f58c45-3468-3e22-9878-bc3d61adfb88", 
+            "releases": [
+                {
+                    "name": "Klassiker 1", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "92", 
+                                "playcount": "457"
+                            }, 
+                            "title": "T\u00e4nk Om Jesus Har R\u00e4tt", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "35280de3-5cf3-458a-b676-9123641fa171", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "287", 
+                                "playcount": "1372"
+                            }, 
+                            "title": "Noa", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "6ead5ca7-6ce0-4439-975c-256aaad0edd4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "507"
+                            }, 
+                            "title": "Kanske", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "30993700-c0f2-4c0d-866a-2813803f601b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "573", 
+                                "playcount": "2933"
+                            }, 
+                            "title": "Pappa Vem Har Gjort", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "be6d0579-8eac-4859-b9b5-cd54309ef6d6", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "164", 
+                                "playcount": "777"
+                            }, 
+                            "title": "Mr Ego", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "c32d16ac-d71b-46bc-be76-dd8187caccdc", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "224", 
+                                "playcount": "1343"
+                            }, 
+                            "title": "Kom Till Mej", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "5544b567-9128-4c07-b56b-a4c228c27a3c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "446"
+                            }, 
+                            "title": "Om Du Lyssnar", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "e95a9b37-0a0d-4220-b176-2e0e1ec00412", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "592"
+                            }, 
+                            "title": "Jesus \u00c4r Det Underbaraste", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "87cb9bc9-b213-4ddc-9bf8-3cea20d76177", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "594"
+                            }, 
+                            "title": "H\u00f6g Tid", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "0738d61d-40ee-42a3-b2f3-985ad5454071", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "274", 
+                                "playcount": "1203"
+                            }, 
+                            "title": "Neutral", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "35391f4e-4f51-478f-9cf4-2724ae9f2297", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "495"
+                            }, 
+                            "title": "Pass P\u00e5", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "417dcedf-77ab-4969-957f-52978d1960ef", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "347"
+                            }, 
+                            "title": "Bara Rock'n Roll", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "2070c1ea-4757-420e-a4e4-6ea5d46e2a53", 
+                            "trackNumber": "12", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "674"
+                            }, 
+                            "title": "Getsemane", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "cedb6546-5048-4d3a-a109-cb3b9a577dad", 
+                            "trackNumber": "13", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "270"
+                            }, 
+                            "title": "Jag Beh\u00f6ver Dej", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "9ce62d08-e10f-4d66-bcea-cd203559a3a0", 
+                            "trackNumber": "14", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "161", 
+                                "playcount": "983"
+                            }, 
+                            "title": "Introduktion", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "82dcc435-b1ba-40be-b95d-1734431bd9e2", 
+                            "trackNumber": "15", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "89", 
+                                "playcount": "435"
+                            }, 
+                            "title": "Aj\u00f6ss Med Dej V\u00e4rld", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "4023b145-f7b8-414c-85f0-1f1da0bec282", 
+                            "trackNumber": "16", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "167", 
+                                "playcount": "1102"
+                            }, 
+                            "title": "Jag Vill Ge Dej En Blomma", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "e1f9b158-f48a-4be2-9548-961767c91e98", 
+                            "trackNumber": "17", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "2c75dda5-4023-4b7d-9973-2705391ee610", 
+                    "packaging": null, 
+                    "listeners": "17", 
+                    "date": "", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "174", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Klassiker 1"
+        }, 
+        {
+            "mbid": "51d554ce-c85c-38ab-b7ff-cc8fa39d3443", 
+            "releases": [
+                {
+                    "name": "Live p\u00e5 ren svenska - 2", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "232", 
+                                "playcount": "923"
+                            }, 
+                            "title": "Moderne Man", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d1b2ec9e-c6ad-4a94-8346-eedff4883942", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "274", 
+                                "playcount": "1203"
+                            }, 
+                            "title": "Neutral", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "014701d4-136e-4abf-92fe-3d13a0728e7f", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "167", 
+                                "playcount": "1102"
+                            }, 
+                            "title": "Jag Vill Ge Dej En Blomma", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "720ba836-8337-4ec8-8982-2fbc29df5935", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "101"
+                            }, 
+                            "title": "Uffes Story...", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8396d37b-c5dd-4b18-9efa-8138abfd7823", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "447"
+                            }, 
+                            "title": "V\u00e4nd Om", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b63b10c3-21de-4a39-8a9e-d77c2d0067e9", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "374"
+                            }, 
+                            "title": "Flugit Genom Rymden", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "bea7cd54-e219-43f3-8268-43cfa2360628", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "31", 
+                                "playcount": "123"
+                            }, 
+                            "title": "Trummdrag Ifr\u00e5n Klas", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "9b560063-2087-42aa-9278-530e1afe6569", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "247", 
+                                "playcount": "1078"
+                            }, 
+                            "title": "St\u00e4ndig F\u00f6r\u00e4ndring", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "652f3181-6396-49da-831d-2dc3405b1ad8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "287", 
+                                "playcount": "1372"
+                            }, 
+                            "title": "Noa", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ba6f4496-4d6a-4b8e-8532-7ac865d27763", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "89", 
+                                "playcount": "435"
+                            }, 
+                            "title": "Aj\u00f6ss Med Dej V\u00e4rld", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d3779e08-c10b-4958-8c2e-53a036c9e03f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "224", 
+                                "playcount": "1343"
+                            }, 
+                            "title": "Kom Till Mej", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "936fb7ab-d11c-4e00-8a02-3076730d8cac", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "ecd3c624-920c-440d-bcf7-63e44431987f", 
+                    "packaging": null, 
+                    "listeners": "12", 
+                    "date": "", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "369", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Live P\u00e5 Ren Svenska - 2"
+        }, 
+        {
+            "mbid": "6d561643-2418-36a0-ae4c-0a166eec71a6", 
+            "releases": [
+                {
+                    "name": "Those Were the Days", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "217"
+                            }, 
+                            "title": "Those Were The Days", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "716e6ae7-aa2f-4379-b9c8-0f205234e614", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "165"
+                            }, 
+                            "title": "Must Come First", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "7d2b7def-35ca-48d0-a8b4-4e62c94f3951", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "149"
+                            }, 
+                            "title": "You're A Liar", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "3ed58027-4874-4802-a57c-a5331ce98117", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "141"
+                            }, 
+                            "title": "Traveling Through the Ages", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "0f9ceec6-2e8a-4d57-b075-6ffb313aeff7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "37", 
+                                "playcount": "95"
+                            }, 
+                            "title": "Who's Got the Guts", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ecd61dc2-2df5-49a4-87a0-b35aac0cac1f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "223"
+                            }, 
+                            "title": "Smile, Smile, Smile", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "62874d6a-d7b8-4dba-be0e-6c35d8d4b17c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "10"
+                            }, 
+                            "title": "Whenever You Are", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "203e7cb1-76ff-4519-911d-0d4be3544fb7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "106"
+                            }, 
+                            "title": "The Truth Has to Come", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "6e0726c5-bd6c-46bd-a6d7-82e3778ef5ad", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "130"
+                            }, 
+                            "title": "Superstar", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b9db49db-7e3b-47d9-8a5e-4b7a25e08dca", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "138"
+                            }, 
+                            "title": "Our Love Was Dead", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b5017876-fb9a-4fd6-8774-e3c25af2c9cd", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "48", 
+                                "playcount": "135"
+                            }, 
+                            "title": "I'm Still Alive", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "0a861c4c-f1b8-4b79-bcf3-3cf1a46ac284", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "dabdd5c0-22d2-4dc2-9266-e12d17e87ad9", 
+                    "packaging": null, 
+                    "listeners": "76", 
+                    "date": "", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "1174", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Those Were the Days"
+        }, 
+        {
+            "mbid": "7c704138-1dfe-3f75-a1d1-d5102586ec85", 
+            "releases": [
+                {
+                    "name": "Classics 3", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "173", 
+                                "playcount": "673"
+                            }, 
+                            "title": "In His Majesty's Service", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "4b82b7e1-96a2-4e2b-ba47-29c8d0b012bf", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "378"
+                            }, 
+                            "title": "From the Bottom of Our Heart", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "e781ccc4-c64a-41d3-b3b8-ac507c9abdad", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "150", 
+                                "playcount": "511"
+                            }, 
+                            "title": "Read Between the Lines", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "c253f91e-99d8-46bf-93c0-2bc1b9c37540", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "102", 
+                                "playcount": "353"
+                            }, 
+                            "title": "The Tide", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8130ba5e-0ff4-4ef5-9af9-02492a30e46c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "191", 
+                                "playcount": "728"
+                            }, 
+                            "title": "Can't Stop Us Now", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "185860ab-fc77-4f89-9add-4421040e20e6", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "123", 
+                                "playcount": "578"
+                            }, 
+                            "title": "Time", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "44f27339-8ed4-45f7-850c-eea13d6005c2", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "178", 
+                                "playcount": "656"
+                            }, 
+                            "title": "Man of the World", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "f7f49063-6b63-4a3a-a883-9c9c9ccc44fd", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1064", 
+                                "playcount": "3576"
+                            }, 
+                            "title": "Dancing on the Head of the Serpent", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "698c21f2-a2d6-424b-bfb1-cbde0e70a712", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "255", 
+                                "playcount": "1050"
+                            }, 
+                            "title": "Plunder Hell and Populate Heaven", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ebc83e79-e8dc-4d40-ba25-fac8a95287dc", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "229", 
+                                "playcount": "1010"
+                            }, 
+                            "title": "Rebels of Jesus Christ", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ab222495-ab70-4d76-b260-108e02af3fb8", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "200", 
+                                "playcount": "691"
+                            }, 
+                            "title": "Listen to Me", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "08cfba5a-5754-482a-8ae3-633a7cf8da40", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "434"
+                            }, 
+                            "title": "Woe, Woe...... the Great Fall", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ba11a0cf-0d73-49a7-b3df-53c0f504ca18", 
+                            "trackNumber": "12", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "180", 
+                                "playcount": "637"
+                            }, 
+                            "title": "We're Gonna Take Europe", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "a006f951-1b87-4b92-ba81-e3d169609e96", 
+                            "trackNumber": "13", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "698"
+                            }, 
+                            "title": "Come Higher", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d6851488-ea59-4294-85ca-06793b5d8475", 
+                            "trackNumber": "14", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "166", 
+                                "playcount": "561"
+                            }, 
+                            "title": "Catch the Devil, Catch the Thief", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "74103a21-38a6-477a-b912-a7a1b4f07691", 
+                            "trackNumber": "15", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "168", 
+                                "playcount": "617"
+                            }, 
+                            "title": "The Night When Revelation Came Into My Life", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8d0e08e0-9252-45bb-8ca1-48253e000267", 
+                            "trackNumber": "16", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "157", 
+                                "playcount": "491"
+                            }, 
+                            "title": "Still", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "1588e90d-de0f-4ef6-a953-6d67920eb5e7", 
+                            "trackNumber": "17", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "791519f5-43af-4326-add0-fce4ac0acef7", 
+                    "packaging": null, 
+                    "listeners": "153", 
+                    "date": "", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "1937", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Classics 3"
+        }, 
+        {
+            "mbid": "99b9bbc4-cc87-34a6-87d6-bbe1fed595c4", 
+            "releases": [
+                {
+                    "name": "Dancing on the Head of the Serpent", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Dancing", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "6a7b1dd2-e1f8-46cd-ba3f-2cb6c79131a7", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "255", 
+                                "playcount": "1050"
+                            }, 
+                            "title": "Plunder Hell and Populate Heaven", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "78644043-8e4e-415f-a36e-e698689bccf2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "229", 
+                                "playcount": "1010"
+                            }, 
+                            "title": "Rebels of Jesus Christ", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "6d9bab28-fac3-4a35-a9e6-6ae1836e9f72", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "200", 
+                                "playcount": "691"
+                            }, 
+                            "title": "Listen to Me", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "c366f9c0-b2c2-4271-834c-a604b376597a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Woe, Woe,... The Great Fall", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "11f25f76-193d-4de1-958f-f30359e0939a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "180", 
+                                "playcount": "637"
+                            }, 
+                            "title": "We're Gonna Take Europe", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "02112445-1c9c-47b3-80f7-292f05a7e69f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "698"
+                            }, 
+                            "title": "Come Higher", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "81b1c4e4-3d60-4ff7-b9db-51ee8f374886", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "166", 
+                                "playcount": "561"
+                            }, 
+                            "title": "Catch the Devil, Catch the Thief", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "bb9b9942-8e6c-417d-a713-f4c148b6b633", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "168", 
+                                "playcount": "617"
+                            }, 
+                            "title": "The Night When Revelation Came into My Life", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d8108397-af30-435f-b073-b383951d2e85", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "157", 
+                                "playcount": "491"
+                            }, 
+                            "title": "Still", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "bd7c34ac-2f0f-4fed-9c67-9808898e2e31", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "bd83b1d1-7e34-4b69-874a-23f0f5521305", 
+                    "packaging": null, 
+                    "listeners": "208", 
+                    "date": "1988", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "4119", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Dancing on the Head of the Serpent"
+        }, 
+        {
+            "mbid": "b94fe584-a9ed-3a91-88a2-aa5d152ee13c", 
+            "releases": [
+                {
+                    "name": "Live p\u00e5 ren svenska - 1", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "161", 
+                                "playcount": "983"
+                            }, 
+                            "title": "Introduktion", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "75a9f998-071b-4030-8d1c-7e771b114823", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "89", 
+                                "playcount": "418"
+                            }, 
+                            "title": "Du Kommer F\u00f6rst", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "4a0f0e15-84b9-40ec-b5d5-f23ab94cdd05", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "161"
+                            }, 
+                            "title": "Mossberg... Hej... Hej", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "fe8e0bc7-174f-476c-b4a1-0d370eebf19b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "145", 
+                                "playcount": "415"
+                            }, 
+                            "title": "S\u00e5 Va De D\u00e5", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "3acb8288-a86e-47b3-9702-f921044145a4", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "383", 
+                                "playcount": "1697"
+                            }, 
+                            "title": "Krigsman", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "6c6e79d5-44c2-4e3d-8f42-22a0f46f2005", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1319"
+                            }, 
+                            "title": "It's Mad", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "9ad775f4-eda5-4d95-984e-5661f69a6ba7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "159", 
+                                "playcount": "660"
+                            }, 
+                            "title": "Dagarna G\u00e5r", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "4d55de62-458c-452e-83a7-0404a5e7ee0e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "333"
+                            }, 
+                            "title": "Var Du \u00c4n \u00c4r", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "f367344d-83a6-48a7-85e0-ee2caf7ef283", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "573", 
+                                "playcount": "2933"
+                            }, 
+                            "title": "Pappa Vem Har Gjort", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "03a82836-7682-423b-82a8-ac41e6384934", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "639"
+                            }, 
+                            "title": "Jag L\u00e4ngtar Efter Mer Av Dej", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "c408b641-d866-4db2-85c5-aaba451c8c33", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "594"
+                            }, 
+                            "title": "H\u00f6g Tid", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "236ab3a0-39a6-4a33-be62-12be0914ecc7", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "1243"
+                            }, 
+                            "title": "Sodom", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "6d1e26cb-f614-491e-b9c0-99fbb528732d", 
+                            "trackNumber": "12", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "7d742493-ed4b-4275-aeb9-219d964bb775", 
+                    "packaging": null, 
+                    "listeners": "15", 
+                    "date": "", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "649", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Live P\u00e5 Ren Svenska - 1"
+        }, 
+        {
+            "mbid": "b9f2d443-3693-3499-9a80-c22672b59878", 
+            "releases": [
+                {
+                    "name": "Greatest Hits", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "247", 
+                                "playcount": "1078"
+                            }, 
+                            "title": "St\u00e4ndig F\u00f6r\u00e4ndring", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "847e06be-ea7c-4120-bc56-a32e6e03144e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "674"
+                            }, 
+                            "title": "Getsemane", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d7036be9-4b3e-44aa-bf0d-f26c879e2dc8", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "495"
+                            }, 
+                            "title": "Pass p\u00e5", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "f0695516-2ec0-4f76-ac30-87daecc366e3", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "383", 
+                                "playcount": "1697"
+                            }, 
+                            "title": "Krigsman", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "1281ba05-b4b1-4446-83fb-ce016b4603f2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "573", 
+                                "playcount": "2933"
+                            }, 
+                            "title": "Pappa vem har gjort", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "a45061d9-ce37-4d45-a0ac-9df05aacc0d5", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "164", 
+                                "playcount": "777"
+                            }, 
+                            "title": "Mr Ego", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "2e42120e-b9f6-4ca3-b496-dcec43d6e575", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "135", 
+                                "playcount": "443"
+                            }, 
+                            "title": "Vi Kan Inte Stoppas", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "e2150b65-f3a1-4bef-a151-850967bbe1a4", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "287", 
+                                "playcount": "1372"
+                            }, 
+                            "title": "Noa", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "a925d208-4bb1-4e1b-b872-e1276b854c6e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "592"
+                            }, 
+                            "title": "Jesus \u00c4r Det Underbaraste", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8cc1730c-0195-4a11-afd4-3d26f04fb95b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "274", 
+                                "playcount": "1203"
+                            }, 
+                            "title": "Neutral", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b5704418-2360-49a9-b7fb-a122c2e67767", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1319"
+                            }, 
+                            "title": "It's Mad", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b7ba642f-a35a-4bb9-8ecd-e419baca16d3", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "232", 
+                                "playcount": "923"
+                            }, 
+                            "title": "Moderne Man", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "7fcbb0f6-5e89-4539-bdd8-ebbb8dd98c1a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1064", 
+                                "playcount": "3576"
+                            }, 
+                            "title": "Dancing On The Head Of The Serpent", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "c93556b3-58cc-4a13-b3c3-ebec0bb07602", 
+                            "trackNumber": "13", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173", 
+                                "playcount": "673"
+                            }, 
+                            "title": "In His Majesty's Service", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "c1542d43-4fc8-45b0-8301-f462e51ed484", 
+                            "trackNumber": "14", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "428", 
+                                "playcount": "1815"
+                            }, 
+                            "title": "City On Fire", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "f457c31f-7b72-4ab5-a6ad-287cc0263664", 
+                            "trackNumber": "15", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "210", 
+                                "playcount": "643"
+                            }, 
+                            "title": "Jag Vill Ge Dig En Blomma", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "f962242b-ff52-4807-825d-857597d860c6", 
+                            "trackNumber": "16", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "eee80ccc-201a-418f-86bf-bb3d73fb5124", 
+                    "packaging": null, 
+                    "listeners": "145", 
+                    "date": "2006-03-20", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "1454", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Greatest Hits"
+        }, 
+        {
+            "mbid": "c9467546-5f47-3e26-bef5-2b7b6ee1f9ee", 
+            "releases": [
+                {
+                    "name": "Prophet", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "428", 
+                                "playcount": "1815"
+                            }, 
+                            "title": "City on Fire", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ddf9be53-96df-4ad2-bf75-a88fb1451fe0", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "357", 
+                                "playcount": "1564"
+                            }, 
+                            "title": "Risen", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b3bf1a49-b48c-4890-8419-1bac0c749609", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "270", 
+                                "playcount": "951"
+                            }, 
+                            "title": "The Waiting Zone", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "c63a545f-c033-49dc-a5b4-ba3eca4b5631", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "259", 
+                                "playcount": "916"
+                            }, 
+                            "title": "Umbrella", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "95d4f130-408f-4928-8654-7338102e706a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "228", 
+                                "playcount": "903"
+                            }, 
+                            "title": "Be There With You", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d9da0283-7ca9-4d8b-a8ae-91d7702fde53", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "246", 
+                                "playcount": "787"
+                            }, 
+                            "title": "On the Road", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "4a6c8dc3-c4cf-44b5-b52b-502f19a4c430", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "725"
+                            }, 
+                            "title": "Likes Them", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "a48b9ee3-0d7a-493a-9749-62f974475be8", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "197", 
+                                "playcount": "744"
+                            }, 
+                            "title": "Truth", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "3e6ace75-65de-4827-bda0-c0f41b250952", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "360", 
+                                "playcount": "3090"
+                            }, 
+                            "title": "Face in the Crowd", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "de8751ac-bcfe-4072-8cc7-718171620e6a", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "205", 
+                                "playcount": "679"
+                            }, 
+                            "title": "Tomorrow", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "6e444704-69b9-4185-8de4-a987a278a77f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "153", 
+                                "playcount": "476"
+                            }, 
+                            "title": "Berlin '38 (Next Year in Jerusalem)", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d9b50aef-78ae-4373-944c-f05cf029f988", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "231", 
+                                "playcount": "856"
+                            }, 
+                            "title": "Soldier", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "590cd245-431f-489c-8b2e-23d91c3ad224", 
+                            "trackNumber": "12", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "SE", 
+                    "disambiguation": "", 
+                    "mbid": "3c9496bc-9422-41b6-9f09-01d7c432f2db", 
+                    "packaging": null, 
+                    "listeners": "588", 
+                    "date": "1994", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "12413", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Prophet"
+        }, 
+        {
+            "mbid": "cf30fcb6-b660-4061-85d9-cd9a22758276", 
+            "releases": [
+                {
+                    "name": "10 Years After Volume 1 & 2", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "131", 
+                                "playcount": "335"
+                            }, 
+                            "title": "Noah", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "f9c7d9d6-1b7c-4ba9-a7b7-e67d028a449e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "323"
+                            }, 
+                            "title": "Mr. Ego", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "07d809ce-9735-42ff-a2ca-5ee1085e3899", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "98", 
+                                "playcount": "233"
+                            }, 
+                            "title": "Wake Up", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8d2aad14-7a57-4ad6-9037-70a3c08c6814", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "80", 
+                                "playcount": "231"
+                            }, 
+                            "title": "The Flower", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "5728297d-5019-42a4-bf30-51ad9b384c35", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "154", 
+                                "playcount": "462"
+                            }, 
+                            "title": "Constantly Changing", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "02792392-a007-48c3-b951-b99dc4caca21", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "486"
+                            }, 
+                            "title": "Warrior", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "56cf2cd2-4f40-448b-9986-da3e5313e69b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1319"
+                            }, 
+                            "title": "It's Mad", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8a35fa94-acf5-4e12-8e18-5d3b9cf2c411", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "57"
+                            }, 
+                            "title": "Practice What You Preach", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8f0f6108-b2d9-4ace-aeb0-6ee5788d730a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "60"
+                            }, 
+                            "title": "Reach For The Stars", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "1554aee9-6c21-4a99-a62d-5f10e0d30753", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "191", 
+                                "playcount": "728"
+                            }, 
+                            "title": "Can't Stop Us Now", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b63d99cc-293e-4c5c-a14f-8128d491214a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96", 
+                                "playcount": "263"
+                            }, 
+                            "title": "The Wind Is Blowing", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "e1e3b357-4f2e-497e-9194-abcb40dda054", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "58"
+                            }, 
+                            "title": "Let's Go Dancing", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "fba550b9-6718-4cc9-93f8-f613190f6a38", 
+                            "trackNumber": "12", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173", 
+                                "playcount": "673"
+                            }, 
+                            "title": "In His Majesty's Service", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ef69b4c0-b668-47de-974b-451ccd64d54c", 
+                            "trackNumber": "13", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "150", 
+                                "playcount": "511"
+                            }, 
+                            "title": "Read Between The Lines", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "1e596cee-fd49-437b-bb9a-6c03da523fc6", 
+                            "trackNumber": "14", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "81"
+                            }, 
+                            "title": "Plunder Hell", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "970c4680-a689-4048-9827-061173b286e7", 
+                            "trackNumber": "15", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1064", 
+                                "playcount": "3576"
+                            }, 
+                            "title": "Dancing On The Head Of The Serpent", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "8341aad7-1f6a-4f1c-bf29-22da5c0bc5f7", 
+                            "trackNumber": "16", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "262"
+                            }, 
+                            "title": "Covered By Blood", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "e24c2be2-f3f0-4fc7-8c38-0bbbd63ba0f2", 
+                            "trackNumber": "17", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d9bf57ea-feaa-40bf-b7b5-6de0fe4feaec", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "0", 
+                    "date": "1988", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "0", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "10 Years After Volume 1 & 2"
+        }, 
+        {
+            "mbid": "eea6bc5d-d2c3-39fa-ba46-83ce193c3dae", 
+            "releases": [
+                {
+                    "name": "Classics 2", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "154", 
+                                "playcount": "462"
+                            }, 
+                            "title": "Constantly Changing", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "44a52b48-4a03-43ba-97be-9e15f3682a79", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "486"
+                            }, 
+                            "title": "Warrior", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "4bd81d12-cc59-412f-97be-f36d692d5530", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "108", 
+                                "playcount": "330"
+                            }, 
+                            "title": "Pilgrim", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "2d5ad800-9c20-485a-8b00-9450c00fcc6c", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1319"
+                            }, 
+                            "title": "It's Mad", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d9fe0dcd-be83-49a1-9301-addd6078292b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "178", 
+                                "playcount": "656"
+                            }, 
+                            "title": "Man of The World", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "f3a845de-a371-4ab8-b2b7-e9fbb291eed0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "1243"
+                            }, 
+                            "title": "Sodom", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "69a5710c-40ca-4826-add0-fa699660b744", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "480"
+                            }, 
+                            "title": "Ashes in Our Hands", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "25c4c570-290b-41d0-92d2-b5c90b497a06", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "191", 
+                                "playcount": "728"
+                            }, 
+                            "title": "Can't Stop us Now", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "3a6ee160-d227-44db-b504-76ede9b8b3aa", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "130", 
+                                "playcount": "422"
+                            }, 
+                            "title": "Loves You More", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "02491239-574f-4c8b-bdf7-6c2b77c051f1", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "The Wind I Blowing", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "1199e384-e156-4134-9614-7abeed6bb0ba", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "75", 
+                                "playcount": "240"
+                            }, 
+                            "title": "Tomorrow's World", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "96afb360-da42-4442-93dd-c4801c200445", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "205"
+                            }, 
+                            "title": "The Waiting", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "c98af817-5a38-403e-a504-7579bb719aee", 
+                            "trackNumber": "12", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "188"
+                            }, 
+                            "title": "Let's go (Dancin')", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "afa133b5-838e-4e70-902b-4101e16ad2da", 
+                            "trackNumber": "13", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "200"
+                            }, 
+                            "title": "Mourner's Parade", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "2e0f2cf7-d40f-4b42-8742-2c26d8b002da", 
+                            "trackNumber": "14", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "6c5e38b5-31c1-48e3-a680-7fd681ccd029", 
+                    "packaging": null, 
+                    "listeners": "21", 
+                    "date": "", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "469", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Classics 2"
+        }, 
+        {
+            "mbid": "f59e2e1f-a7d4-32b2-846c-0f0c795b486c", 
+            "releases": [
+                {
+                    "name": "Volym tre", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "84", 
+                                "playcount": "365"
+                            }, 
+                            "title": "S\u00e5 Va' De' D\u00e5", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "815ceff7-f948-41f7-9712-c414376cd0d5", 
+                            "trackNumber": "1", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "89", 
+                                "playcount": "418"
+                            }, 
+                            "title": "Du Kommer F\u00f6rst", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "60d6ef3d-d9b4-4f89-bb7a-c8944f987fcf", 
+                            "trackNumber": "2", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "89", 
+                                "playcount": "602"
+                            }, 
+                            "title": "Du Ljuger", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "3ab7c7d3-5a6d-4886-ac2e-fe2582acaf79", 
+                            "trackNumber": "3", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "374"
+                            }, 
+                            "title": "Flugit Genom Rymden", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "50429b4d-5900-4ea1-a567-d5af3884b902", 
+                            "trackNumber": "4", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "139"
+                            }, 
+                            "title": "Finns Det N\u00e5't Krut", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "b9d92091-1842-4997-9f43-128d4422f682", 
+                            "trackNumber": "5", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "118"
+                            }, 
+                            "title": "Le, Le, Le", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "1086f976-095b-4562-9efa-480b2b0dc8f8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "333"
+                            }, 
+                            "title": "Var Du \u00c4n \u00c4r", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "9f01e8c1-a4e0-45cc-9a17-5610e20ee059", 
+                            "trackNumber": "7", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "168"
+                            }, 
+                            "title": "Sanningen", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "501806c6-ce09-46ee-98f4-6d11300df5d0", 
+                            "trackNumber": "8", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "75", 
+                                "playcount": "263"
+                            }, 
+                            "title": "Popidol", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "1cab1771-402f-4fb5-ae3c-17adab9dc4cc", 
+                            "trackNumber": "9", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "254"
+                            }, 
+                            "title": "V\u00e5r K\u00e4rlek Var D\u00f6d", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "d3bbd72d-b01f-41ec-b026-bc056c108af4", 
+                            "trackNumber": "10", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "136"
+                            }, 
+                            "title": "D\u00f6den Besegrad", 
+                            "artistName": "Jerusalem", 
+                            "mbid": "ed7a771f-6d54-4eb1-bbe9-d41c9013f3ce", 
+                            "trackNumber": "11", 
+                            "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "ed21710b-4f5b-44f4-8653-e46d51109e9b", 
+                    "packaging": null, 
+                    "listeners": "37", 
+                    "date": "", 
+                    "artistName": "Jerusalem", 
+                    "playcount": "455", 
+                    "artistMBID": "16394dd5-4438-4a65-86b3-e1d954e0011f"
+                }
+            ], 
+            "title": "Volym Tre"
+        }
+    ], 
+    "type": "Group"
+}

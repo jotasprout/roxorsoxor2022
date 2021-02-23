@@ -1,0 +1,37 @@
+{
+    "name": "The Firm",
+    "mbid": "c08ced1f-d248-4368-90e5-bf579b3bf5de",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "02f8e7b5-3ac4-4295-abb7-de33500befa7",
+            "name": "Tony Franklin",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "519774a4-3b18-4042-b8c0-927845a616c9",
+            "name": "Jimmy Page",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "723f72bc-b000-42cb-a20d-9f43fee17456",
+            "name": "Paul Rodgers",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "49085d1b-4234-4f7c-ab62-53e29b98eab2",
+            "name": "Paul Rodgers and Company",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e3d0737a-b011-4d14-948a-81ee0a55f098",
+            "name": "Chris Slade",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Whitecross",
+    "mbid": "51f24fe4-6cb7-477a-a6ed-6be19abf99bb",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "eb96207c-a49f-4ff8-8d0d-3b152c12b76e",
+            "name": "Tracy Ferrie",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "36df9271-fb8a-47bb-abd8-45b02846d633",
+            "name": "Quinton Gibson",
+            "attributes": []
+        }
+    ]
+}

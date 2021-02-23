@@ -1,0 +1,53 @@
+{
+    "name": "The Zombies",
+    "mbid": "230ca093-1d00-4c57-9235-147942f66930",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "a477e067-629a-41bc-9878-21a6fb559a57",
+            "name": "Rod Argent",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bb02b2ce-5021-459d-8a06-59aff83fcdda",
+            "name": "Paul Atkinson",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "59cc681e-becf-4df3-992a-24d8ac99e492",
+            "name": "Colin Blunstone",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c73d0cde-48d8-47e8-87bc-8c4d5b9f166a",
+            "name": "Hugh Grundy",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c671df9a-c39a-4d37-80d5-7b9d2d5f0331",
+            "name": "Jim Rodford",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d53aa02c-66a7-42b2-9614-1ffc685a87b8",
+            "name": "Chris White",
+            "attributes": [
+                "bass"
+            ]
+        }
+    ]
+}

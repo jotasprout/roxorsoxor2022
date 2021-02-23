@@ -1,0 +1,1038 @@
+{
+    "genres": [
+        "hip hop", 
+        "rap", 
+        "Christian hip hop", 
+        "90s", 
+        "old school"
+    ], 
+    "taskDuration": {
+        "Task Duration": 30.376691102981567, 
+        "Task End": 1579153472.42264, 
+        "Task Start": 1579153442.045949
+    }, 
+    "stats": {
+        "listeners": "356", 
+        "playcount": "3778"
+    }, 
+    "name": "P.I.D.", 
+    "mbid": "6e40e121-6795-4e93-9979-d5c6b7a4f56c", 
+    "birthday": null, 
+    "date": "2020-01-16", 
+    "albums": [
+        {
+            "mbid": "c92006f0-a9a0-3390-9a16-0d935239fbb0", 
+            "releases": [
+                {
+                    "name": "Here We Are", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "65"
+                            }, 
+                            "title": "Don't Bow", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "96937ec7-47a7-4965-aaa0-aba1bb32c9f6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "31"
+                            }, 
+                            "title": "Just Say No", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "238d6ddd-7482-40fe-849a-900cfaac54bb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "32"
+                            }, 
+                            "title": "What Is His Name", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "73bbebb7-30e1-4536-8cee-81c633f98ada", 
+                            "trackNumber": "3", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Here We Are", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "a5c711c1-ad4f-40f2-a370-73acf83c3b3a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "25"
+                            }, 
+                            "title": "Let Me See Your Fruit", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "c3cd3ed2-a7ba-4102-8dda-f851e38a890e", 
+                            "trackNumber": "5", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "37", 
+                                "playcount": "72"
+                            }, 
+                            "title": "Get You A Bible", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "63a9700b-2429-467a-890a-51d92d9a3d5d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Listen To This", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "33bc5766-d609-4251-b4d8-49c664e0971b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Don't Bow (No Vocals)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "0df6bc41-827d-4f41-9f2a-fae6e63521c8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Just Say No (No Vocals)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "16acd423-81c7-491a-bc3d-fab0518aac6b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "What Is His Name (No Vocals)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "13268f21-eb99-4162-abfe-ab9858e8df6d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Here We Are (No Vocals)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "3fdafe57-6024-4aa3-aa05-52996ab9ddd0", 
+                            "trackNumber": "11", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Let Me See Your Fruit (No Vocals)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "75c9efab-3850-467e-9792-d620aee28811", 
+                            "trackNumber": "12", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Get You A Bible (No Vocals)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "9fbf9604-205e-4d7b-8795-3a85c42eb792", 
+                            "trackNumber": "13", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f802a404-bf26-429a-8277-bab11727dedb", 
+                    "packaging": null, 
+                    "listeners": "61", 
+                    "date": "1988", 
+                    "artistName": "P.I.D.", 
+                    "playcount": "258", 
+                    "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                }
+            ], 
+            "title": "Here We Are"
+        }, 
+        {
+            "mbid": "637b9f93-812a-3b7d-a6a2-ec4ada6edc20", 
+            "releases": [
+                {
+                    "name": "Back to Back", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "62"
+                            }, 
+                            "title": "Back", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "878190df-6b1f-4ef1-aa01-bcd2035834e5", 
+                            "trackNumber": "1", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "39"
+                            }, 
+                            "title": "Bible Stories", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "ddfea7bb-0ad0-47eb-953c-8ce78f7b1800", 
+                            "trackNumber": "2", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "68"
+                            }, 
+                            "title": "Current Affair", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "d83d5efb-5c6a-4c93-b258-1557da490162", 
+                            "trackNumber": "3", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "48"
+                            }, 
+                            "title": "Get Into It", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "ed3d4bfb-7b4d-4722-8b9e-0f63604232a8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "34"
+                            }, 
+                            "title": "Flys", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "dbdd6056-45e3-4118-9abe-bc6852f7197a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "29"
+                            }, 
+                            "title": "Vince's Jam", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "92e7592e-58df-45e8-9eef-32f377bd87f4", 
+                            "trackNumber": "6", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "24"
+                            }, 
+                            "title": "Exclusive", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "8dd30a65-dd58-4858-aaab-42c75199d335", 
+                            "trackNumber": "7", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "40"
+                            }, 
+                            "title": "B Movement (Movement of the Body)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "8ccf515f-88ca-44b0-ab50-a5e505b4e4e5", 
+                            "trackNumber": "8", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "31"
+                            }, 
+                            "title": "Slide", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "b433890e-1bf4-44d2-90b6-dbfada45eccf", 
+                            "trackNumber": "9", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "55"
+                            }, 
+                            "title": "Racism", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "61dde713-a853-4119-a544-9710c8b82e87", 
+                            "trackNumber": "10", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "26"
+                            }, 
+                            "title": "Word From The Body", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "d092fded-3a4e-4fa3-b203-ba3d11d0229d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "024e0dfc-5a07-4e79-8e74-3c02e52a3cad", 
+                    "packaging": null, 
+                    "listeners": "50", 
+                    "date": "1989", 
+                    "artistName": "P.I.D.", 
+                    "playcount": "275", 
+                    "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                }
+            ], 
+            "title": "Back to Back"
+        }, 
+        {
+            "mbid": "340b2694-8c1d-3fd8-b470-25090dfe5583", 
+            "releases": [
+                {
+                    "name": "The Chosen Ones", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "37"
+                            }, 
+                            "title": "The Chosen Ones (Part One)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "9c480471-124c-40d7-975e-206621248d1f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "134"
+                            }, 
+                            "title": "Grace", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "89345bc1-bf8c-40cb-9c73-dfb4dfad73d1", 
+                            "trackNumber": "2", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Hey Oh", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "1d0d02e9-53ab-4260-b262-a28daa39812a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "68"
+                            }, 
+                            "title": "The Book", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "7214c4dd-d46a-4edf-9807-ea312b7d80a6", 
+                            "trackNumber": "4", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "58"
+                            }, 
+                            "title": "Abstruction", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "5c5f1596-a0d9-41ed-8d2d-6a464805024a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "117"
+                            }, 
+                            "title": "Authority", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "2ef760d3-92bb-4e60-8c57-fe2f4ba78ffa", 
+                            "trackNumber": "6", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "33", 
+                                "playcount": "59"
+                            }, 
+                            "title": "The Hour of Strong Delusions", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "03d426a4-017d-49c1-ac87-d0631f332a91", 
+                            "trackNumber": "7", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "72"
+                            }, 
+                            "title": "Victim of the System", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "cceb6845-faab-400a-a242-ae4b2bee948b", 
+                            "trackNumber": "8", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Your's Truly", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "89c006bb-d89e-4b0b-bd76-118f6fabd69e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Get You a Bible (D-Boy remix)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "83fd31d3-76c1-4864-a26d-b4c0f1af4b69", 
+                            "trackNumber": "10", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "102"
+                            }, 
+                            "title": "Get Under the Blood Stream", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "707b582f-7650-4ea3-a9f7-f729c29439c6", 
+                            "trackNumber": "11", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "57"
+                            }, 
+                            "title": "License 2 Kill", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "372876f1-a5e8-4b96-9ba9-4fc3e3e144a7", 
+                            "trackNumber": "12", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "29"
+                            }, 
+                            "title": "15\u00b0 in Detroit", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "08c832a6-5694-4e4e-b319-6e5b6c320e3b", 
+                            "trackNumber": "13", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "49"
+                            }, 
+                            "title": "Joy Like a River", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "c31395ca-b901-4574-81ae-5e3a838904cc", 
+                            "trackNumber": "14", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "48"
+                            }, 
+                            "title": "Progression", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "1d1f9b19-d4b5-4bec-9c45-8720bbfaa0fb", 
+                            "trackNumber": "15", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "39"
+                            }, 
+                            "title": "K-Mack the Knife (Soul Fingers)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "f428f8e8-8eb1-4f20-9288-28bee111a258", 
+                            "trackNumber": "16", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "30"
+                            }, 
+                            "title": "The Chosen Ones (Part Two)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "89e2ef71-7dc6-4606-b987-ffc9b4714fb9", 
+                            "trackNumber": "17", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "33"
+                            }, 
+                            "title": "Roots", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "29be4b64-c69c-47b0-b290-b32064c34687", 
+                            "trackNumber": "18", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "7"
+                            }, 
+                            "title": "\u00a7rd Degree Burns", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "ad81f62e-a439-4f39-b70d-030c21689721", 
+                            "trackNumber": "19", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "5"
+                            }, 
+                            "title": "The Chosen Ones (instrumental)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "98c16896-4f3a-4d4e-850b-a6b64038a756", 
+                            "trackNumber": "20", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ad946408-7074-44dc-a7ac-41506a12998f", 
+                    "packaging": null, 
+                    "listeners": "99", 
+                    "date": "1991", 
+                    "artistName": "P.I.D.", 
+                    "playcount": "1077", 
+                    "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                }
+            ], 
+            "title": "The Chosen Ones"
+        }, 
+        {
+            "mbid": "21ba3070-b281-3293-b775-a44321c82324", 
+            "releases": [
+                {
+                    "name": "Born with the Gift: John 3:16 Factor", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "49"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "74aeadff-0d5f-4cd3-8cd5-d266ed15162b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "43"
+                            }, 
+                            "title": "Born With The Gift", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "c86124f3-5c19-41ea-9a36-3f560cf79d9c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "60"
+                            }, 
+                            "title": "Goin' Off", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "deeb8296-f15a-4c48-b593-bf1623a0e648", 
+                            "trackNumber": "3", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "36"
+                            }, 
+                            "title": "Sleepin' With The Enemy", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "3e32f21a-e97c-4b9b-9632-7b285ebf6f0e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "28"
+                            }, 
+                            "title": "Now Who's the Sucka", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "5d777927-2ede-48e2-ba8c-37d8fb23f846", 
+                            "trackNumber": "5", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "31"
+                            }, 
+                            "title": "To Kill a Mark-N-Bird", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "4640bce6-3d28-4d43-b17a-b73671b7ae83", 
+                            "trackNumber": "6", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Word", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "bbd61bdf-cfe1-43cb-9121-36cd1838b0f6", 
+                            "trackNumber": "7", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "30"
+                            }, 
+                            "title": "A Piece of Chicken", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "e79241f0-777d-4ed6-99fc-7b18b2e20759", 
+                            "trackNumber": "8", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "12"
+                            }, 
+                            "title": "What Love Won't Do", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "f061c137-40e1-4845-98b3-c65ea2ad60cd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "25"
+                            }, 
+                            "title": "Holy Roland Patches", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "e803aeca-ae07-4aab-bf77-9b390589b1da", 
+                            "trackNumber": "10", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Here We Come", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "df0acfda-d767-4bee-a36b-b7b210ac3396", 
+                            "trackNumber": "11", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "14"
+                            }, 
+                            "title": "It's Every Man For Himself", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "fbbd5003-f02f-42e4-b66a-dcb38704b2f0", 
+                            "trackNumber": "12", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Tell Him", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "c7aab4af-cb50-4c47-bd35-dd08170bea52", 
+                            "trackNumber": "13", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Positively Rising", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "5ff27e01-da0b-46dc-957c-9c8b53c1362d", 
+                            "trackNumber": "14", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Solomon's Porch", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "7289ad63-758e-474a-9d2a-cac7b76543de", 
+                            "trackNumber": "15", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Peace and Prayers", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "6e8392a1-cfbc-486f-969c-788fe553e525", 
+                            "trackNumber": "16", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "18"
+                            }, 
+                            "title": "Many Styles", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "d0db251c-1830-48f8-a1db-909ed971bd07", 
+                            "trackNumber": "17", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "9"
+                            }, 
+                            "title": "P.S. Jay (Child of God)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "d9eb09c4-f634-4436-a3aa-0e11f961799f", 
+                            "trackNumber": "18", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Peace to the Preacher", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "a0c32824-9612-4e62-8672-1053af13d126", 
+                            "trackNumber": "19", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4c3d78ba-c5ab-4b94-b277-ee46d595081c", 
+                    "packaging": null, 
+                    "listeners": "9", 
+                    "date": "1992", 
+                    "artistName": "P.I.D.", 
+                    "playcount": "313", 
+                    "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                }
+            ], 
+            "title": "Born With The Gift: John 3:16 Factor"
+        }, 
+        {
+            "mbid": "e8f9143c-99d9-39cf-941e-5fcb2fc8c399", 
+            "releases": [
+                {
+                    "name": "Here We Are / Back to Back", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "65"
+                            }, 
+                            "title": "Don't Bow", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "18393e06-0dfa-423d-99c9-ef4c283a0530", 
+                            "trackNumber": "1", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "31"
+                            }, 
+                            "title": "Just Say No", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "ddd3df5d-fa7e-45c2-8021-d4ccca530591", 
+                            "trackNumber": "2", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "32"
+                            }, 
+                            "title": "What Is His Name", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "11b4b299-fdf3-4e3f-bff0-ed1c1d48ea8c", 
+                            "trackNumber": "3", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "30"
+                            }, 
+                            "title": "In Jesus Name We Are Here", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "f1a0c182-30be-486b-ac35-b0661b087eb8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Let Me See Your Fruit!!", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "987eb286-6b9b-4109-a71d-5f4567e4152f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "37", 
+                                "playcount": "72"
+                            }, 
+                            "title": "Get You a Bible", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "295572c1-7e92-423a-a619-2069b8c73703", 
+                            "trackNumber": "6", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Listen to This", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "511d5ca8-fa10-4f45-8c97-b941d113308c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "62"
+                            }, 
+                            "title": "Back", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "a502cfad-6c63-4576-80c1-59d1d0800702", 
+                            "trackNumber": "8", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "39"
+                            }, 
+                            "title": "Bible Stories", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "de6e58cb-ef1c-46b8-a9de-03e3ca159fee", 
+                            "trackNumber": "9", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "68"
+                            }, 
+                            "title": "Current Affair", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "da3cc405-8214-49c6-b280-f200b7b96e02", 
+                            "trackNumber": "10", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "48"
+                            }, 
+                            "title": "Get Into It", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "d649dd96-2658-441f-8dbc-c1e6373fb557", 
+                            "trackNumber": "11", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "34"
+                            }, 
+                            "title": "Flys", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "26e752c8-d47e-42c6-ac94-80e27c1691f3", 
+                            "trackNumber": "12", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "29"
+                            }, 
+                            "title": "Vince's Jam", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "3c58ea5e-143f-433b-9020-485ba8163bd2", 
+                            "trackNumber": "13", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "24"
+                            }, 
+                            "title": "Exclusive", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "76bf2bea-66a0-4458-96ec-8a82cb865e8d", 
+                            "trackNumber": "14", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "B Movement", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "7f9241a7-ca9e-40b9-9fcc-07bdc2a41171", 
+                            "trackNumber": "15", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "31"
+                            }, 
+                            "title": "Slide", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "d044dcf1-cfb5-4f31-8586-3dbda1631916", 
+                            "trackNumber": "16", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "55"
+                            }, 
+                            "title": "Racism", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "47b6bf2c-d5ea-4be8-aba0-06d740cf566a", 
+                            "trackNumber": "17", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "5"
+                            }, 
+                            "title": "What Is His Name (DJ mix)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "83fce24d-59ae-4cf0-9d7e-62398652fe36", 
+                            "trackNumber": "18", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Let Me See Your Fruit!! (DJ mix)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "995130b2-7434-47a7-80b7-f929ecb7316a", 
+                            "trackNumber": "19", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "20"
+                            }, 
+                            "title": "Get You a Bible (DJ mix)", 
+                            "artistName": "P.I.D.", 
+                            "mbid": "14548891-526a-4e92-8fb2-24c8e5f50a1c", 
+                            "trackNumber": "20", 
+                            "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "e2a90e15-c1ac-4887-960f-7ed728c57236", 
+                    "packaging": null, 
+                    "listeners": "0", 
+                    "date": "1998-10-06", 
+                    "artistName": "P.I.D.", 
+                    "playcount": "0", 
+                    "artistMBID": "6e40e121-6795-4e93-9979-d5c6b7a4f56c"
+                }
+            ], 
+            "title": "Here We Are / Back to Back"
+        }
+    ], 
+    "type": "Group"
+}

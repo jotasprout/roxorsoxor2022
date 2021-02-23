@@ -1,0 +1,994 @@
+{
+    "genres": [
+        "punk", 
+        "christian", 
+        "hardcore punk", 
+        "Christian punk", 
+        "american"
+    ], 
+    "taskDuration": {
+        "Task Duration": 29.104118824005127, 
+        "Task End": 1578895227.535565, 
+        "Task Start": 1578895198.431446
+    }, 
+    "stats": {
+        "listeners": "727", 
+        "playcount": "20709"
+    }, 
+    "name": "Crashdog", 
+    "mbid": "72572672-8ffc-4597-b530-dab7ec9066b3", 
+    "birthday": "1990", 
+    "date": "2020-01-13", 
+    "albums": [
+        {
+            "mbid": "66501b85-6659-370b-a4b6-c2117415d2f8", 
+            "releases": [
+                {
+                    "name": "Humane Society", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "365"
+                            }, 
+                            "title": "Progress", 
+                            "artistName": "Crashdog", 
+                            "mbid": "e526035c-2e89-4410-a2f4-f878137fb772", 
+                            "trackNumber": "1", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "229"
+                            }, 
+                            "title": "Brainfill", 
+                            "artistName": "Crashdog", 
+                            "mbid": "e4a46946-3e0b-4fc8-98f9-aaedfed433dc", 
+                            "trackNumber": "2", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "69", 
+                                "playcount": "257"
+                            }, 
+                            "title": "Numbered by Color", 
+                            "artistName": "Crashdog", 
+                            "mbid": "0cd88734-1d08-4855-8d36-bc37d588deb0", 
+                            "trackNumber": "3", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "217"
+                            }, 
+                            "title": "Electric Drug", 
+                            "artistName": "Crashdog", 
+                            "mbid": "fa0d8321-285f-4a79-bff9-cb045c263299", 
+                            "trackNumber": "4", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "222"
+                            }, 
+                            "title": "Distorted View", 
+                            "artistName": "Crashdog", 
+                            "mbid": "e6d8f793-4725-402c-aea1-c7695c33139d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "188"
+                            }, 
+                            "title": "Never Again", 
+                            "artistName": "Crashdog", 
+                            "mbid": "6994c349-10f9-4cf8-80a1-374fab9d1777", 
+                            "trackNumber": "6", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "122", 
+                                "playcount": "490"
+                            }, 
+                            "title": "Bloody Lane", 
+                            "artistName": "Crashdog", 
+                            "mbid": "746613ac-b673-4486-9b7c-897f8e96cef3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "166"
+                            }, 
+                            "title": "End of the Rope", 
+                            "artistName": "Crashdog", 
+                            "mbid": "0e308fb7-1f0e-468a-9237-acbe8f052381", 
+                            "trackNumber": "8", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "221"
+                            }, 
+                            "title": "American Dream", 
+                            "artistName": "Crashdog", 
+                            "mbid": "a079f53c-5ada-40fe-97cd-29d523dec15f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "231"
+                            }, 
+                            "title": "Your Ugly Face", 
+                            "artistName": "Crashdog", 
+                            "mbid": "ab9596b8-dd38-42ac-ba33-24ade3390b9d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "104", 
+                                "playcount": "391"
+                            }, 
+                            "title": "Injustice", 
+                            "artistName": "Crashdog", 
+                            "mbid": "ba3f8db2-aa8b-40fe-8da5-37a9ac34672a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "210"
+                            }, 
+                            "title": "The Cold Within", 
+                            "artistName": "Crashdog", 
+                            "mbid": "2bc66bbc-60b5-4ad5-b537-611250303abf", 
+                            "trackNumber": "12", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "171"
+                            }, 
+                            "title": "Midnight Ride", 
+                            "artistName": "Crashdog", 
+                            "mbid": "c08546ef-95da-4264-a38a-d40bdf6ced96", 
+                            "trackNumber": "13", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "004e6a13-fa75-4378-98d1-c795119c1cf9", 
+                    "packaging": null, 
+                    "listeners": "92", 
+                    "date": "1990", 
+                    "artistName": "Crashdog", 
+                    "playcount": "1913", 
+                    "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                }
+            ], 
+            "title": "Humane Society"
+        }, 
+        {
+            "mbid": "51449040-ed0c-3425-8428-2e82dba2bacb", 
+            "releases": [
+                {
+                    "name": "The Pursuit of Happiness", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "195"
+                            }, 
+                            "title": "Election Year", 
+                            "artistName": "Crashdog", 
+                            "mbid": "1cb9a91a-8334-4fff-b360-efe33072095e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "179"
+                            }, 
+                            "title": "The Pursuit of Happiness", 
+                            "artistName": "Crashdog", 
+                            "mbid": "042a8a24-2cb5-4355-93bb-225a1687a55c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "146"
+                            }, 
+                            "title": "It's a Boy's Life", 
+                            "artistName": "Crashdog", 
+                            "mbid": "d3f9ae0b-846f-47cd-8fbf-c5f810ab9a7c", 
+                            "trackNumber": "3", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "176"
+                            }, 
+                            "title": "Foreign Policy", 
+                            "artistName": "Crashdog", 
+                            "mbid": "9acac75b-72dd-491f-8c1b-a6c9411bb01f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "140"
+                            }, 
+                            "title": "Life to Right", 
+                            "artistName": "Crashdog", 
+                            "mbid": "ac5a27a6-57bf-4493-beaa-68c7449b6c43", 
+                            "trackNumber": "5", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105", 
+                                "playcount": "334"
+                            }, 
+                            "title": "Dream So Vain", 
+                            "artistName": "Crashdog", 
+                            "mbid": "ee5ef12b-1d1d-4610-9002-aee9de5e2d26", 
+                            "trackNumber": "6", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "235"
+                            }, 
+                            "title": "Mommy's Little Anarchist", 
+                            "artistName": "Crashdog", 
+                            "mbid": "45d1a1ed-a18f-475c-921a-adc7ac008b3f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "48", 
+                                "playcount": "140"
+                            }, 
+                            "title": "Stop and Think", 
+                            "artistName": "Crashdog", 
+                            "mbid": "9914f0ab-68cd-42ce-b0cd-730d92b37691", 
+                            "trackNumber": "8", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "87", 
+                                "playcount": "258"
+                            }, 
+                            "title": "Who?", 
+                            "artistName": "Crashdog", 
+                            "mbid": "347c0a2e-704c-4107-bea8-e0ae59edf48f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "134"
+                            }, 
+                            "title": "Kirsten", 
+                            "artistName": "Crashdog", 
+                            "mbid": "f9748b07-da79-4f88-a5ed-d0858aa17d3a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "106"
+                            }, 
+                            "title": "See the Unseen", 
+                            "artistName": "Crashdog", 
+                            "mbid": "1e52cc4d-f30f-4a56-ac14-3737fda2b008", 
+                            "trackNumber": "11", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "156"
+                            }, 
+                            "title": "Three Is a Magic Number", 
+                            "artistName": "Crashdog", 
+                            "mbid": "865032a5-5a98-497e-82d1-09c31cb5eab2", 
+                            "trackNumber": "12", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "8"
+                            }, 
+                            "title": "[untitled]", 
+                            "artistName": "Crashdog", 
+                            "mbid": "6cde4fcf-c074-455f-978b-3d18f60e1430", 
+                            "trackNumber": "13", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c1b3c062-06fb-4cad-a026-203578e250ef", 
+                    "packaging": null, 
+                    "listeners": "85", 
+                    "date": "1992", 
+                    "artistName": "Crashdog", 
+                    "playcount": "1552", 
+                    "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                }
+            ], 
+            "title": "The Pursuit of Happiness"
+        }, 
+        {
+            "mbid": "32aa8769-6929-3684-a8ca-de54e4ebf9e1", 
+            "releases": [
+                {
+                    "name": "Mud Angels", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "308"
+                            }, 
+                            "title": "Vent", 
+                            "artistName": "Crashdog", 
+                            "mbid": "1f7f17bb-24bc-4e35-9685-e7dd2164c0ee", 
+                            "trackNumber": "1", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "127", 
+                                "playcount": "525"
+                            }, 
+                            "title": "Question Stupidity", 
+                            "artistName": "Crashdog", 
+                            "mbid": "01431a40-5796-432f-a237-1a8bbd2b768e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "216", 
+                                "playcount": "782"
+                            }, 
+                            "title": "Voice of Defiance", 
+                            "artistName": "Crashdog", 
+                            "mbid": "e8904b94-84ac-40f4-953a-625fb0e68de1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "243"
+                            }, 
+                            "title": "Degeneration", 
+                            "artistName": "Crashdog", 
+                            "mbid": "131c7eb8-1205-4843-9ce7-711201823d61", 
+                            "trackNumber": "4", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "235"
+                            }, 
+                            "title": "Opposite", 
+                            "artistName": "Crashdog", 
+                            "mbid": "2f0a83d5-5b06-4e14-9d18-5bfda5734179", 
+                            "trackNumber": "5", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "316"
+                            }, 
+                            "title": "Without You", 
+                            "artistName": "Crashdog", 
+                            "mbid": "64d3e690-14e7-4e81-9583-9a9ec6328876", 
+                            "trackNumber": "6", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "397"
+                            }, 
+                            "title": "Pressure", 
+                            "artistName": "Crashdog", 
+                            "mbid": "dda4f629-4095-4828-ad2b-1dc91bb1508c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96", 
+                                "playcount": "377"
+                            }, 
+                            "title": "Reactionary Fear", 
+                            "artistName": "Crashdog", 
+                            "mbid": "5b8b4e22-727b-4812-8f21-f7f87cab5adf", 
+                            "trackNumber": "8", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "116", 
+                                "playcount": "465"
+                            }, 
+                            "title": "History Lesson #1", 
+                            "artistName": "Crashdog", 
+                            "mbid": "93c2d50e-9114-483c-9a47-17ec458d2522", 
+                            "trackNumber": "9", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "208"
+                            }, 
+                            "title": "Assumption", 
+                            "artistName": "Crashdog", 
+                            "mbid": "cf8538cc-ad2b-4419-8dda-39a8ddc06a31", 
+                            "trackNumber": "10", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "204"
+                            }, 
+                            "title": "Ichtheology", 
+                            "artistName": "Crashdog", 
+                            "mbid": "98f16a24-9ef6-4d97-8722-e65672acb69e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "212"
+                            }, 
+                            "title": "Burned", 
+                            "artistName": "Crashdog", 
+                            "mbid": "ccaccc21-c33c-4694-90a3-de44c389d0a3", 
+                            "trackNumber": "12", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ccba26e7-e37b-45bd-b6f7-dd5aa579be7e", 
+                    "packaging": null, 
+                    "listeners": "120", 
+                    "date": "1994", 
+                    "artistName": "Crashdog", 
+                    "playcount": "3046", 
+                    "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                }
+            ], 
+            "title": "Mud Angels"
+        }, 
+        {
+            "mbid": "dc6a322f-4c58-36b0-b0da-70fece222253", 
+            "releases": [
+                {
+                    "name": "Cashists, Fascists, and Other Fungus", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "77", 
+                                "playcount": "303"
+                            }, 
+                            "title": "G.O.P.", 
+                            "artistName": "Crashdog", 
+                            "mbid": "f9134bff-a7bd-4f01-b1e9-07073bbf4500", 
+                            "trackNumber": "1", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "150", 
+                                "playcount": "505"
+                            }, 
+                            "title": "?School", 
+                            "artistName": "Crashdog", 
+                            "mbid": "ba55ca4f-f3b3-41ad-afe8-1f561ce43dec", 
+                            "trackNumber": "2", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "180", 
+                                "playcount": "712"
+                            }, 
+                            "title": "My God", 
+                            "artistName": "Crashdog", 
+                            "mbid": "8e136a2c-4de3-46bb-a8aa-51cbfd472f50", 
+                            "trackNumber": "3", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "82", 
+                                "playcount": "318"
+                            }, 
+                            "title": "Option", 
+                            "artistName": "Crashdog", 
+                            "mbid": "53a13f91-4989-4bcd-950e-b9859b7aaa1f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "301"
+                            }, 
+                            "title": "Family Tree", 
+                            "artistName": "Crashdog", 
+                            "mbid": "b446bdc2-76e5-459e-8356-bb4bc0148d4d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "80", 
+                                "playcount": "287"
+                            }, 
+                            "title": "George's Poem", 
+                            "artistName": "Crashdog", 
+                            "mbid": "61b20f06-adf6-4368-ab50-3c44f6c9af31", 
+                            "trackNumber": "6", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "284"
+                            }, 
+                            "title": "Hateedge", 
+                            "artistName": "Crashdog", 
+                            "mbid": "150dcfff-e940-475c-b248-918cf9443676", 
+                            "trackNumber": "7", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "124", 
+                                "playcount": "458"
+                            }, 
+                            "title": "Same Old Pain", 
+                            "artistName": "Crashdog", 
+                            "mbid": "e69008b9-dc7b-43b3-8e1e-74c63534d4ad", 
+                            "trackNumber": "8", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "123", 
+                                "playcount": "442"
+                            }, 
+                            "title": "Helpless", 
+                            "artistName": "Crashdog", 
+                            "mbid": "9912ccb6-ac61-462e-969d-d504614b0714", 
+                            "trackNumber": "9", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "256"
+                            }, 
+                            "title": "The Tale of two parties", 
+                            "artistName": "Crashdog", 
+                            "mbid": "6f16126e-72bc-45d9-aae3-21806f2e9076", 
+                            "trackNumber": "10", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "285"
+                            }, 
+                            "title": "Five", 
+                            "artistName": "Crashdog", 
+                            "mbid": "36a8f5ae-d045-4dcc-a16b-1ceda00bcd15", 
+                            "trackNumber": "11", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "32"
+                            }, 
+                            "title": "Intelerance", 
+                            "artistName": "Crashdog", 
+                            "mbid": "241a7271-dea3-4ec8-9eca-4b5683701180", 
+                            "trackNumber": "12", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "220"
+                            }, 
+                            "title": "Cradle", 
+                            "artistName": "Crashdog", 
+                            "mbid": "3c6fb3bb-f6b0-4e79-8a83-575cad411387", 
+                            "trackNumber": "13", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "222"
+                            }, 
+                            "title": "Monster", 
+                            "artistName": "Crashdog", 
+                            "mbid": "f416a293-d2f1-477f-ad72-4f2021744106", 
+                            "trackNumber": "14", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "139", 
+                                "playcount": "532"
+                            }, 
+                            "title": "Sept. 1994", 
+                            "artistName": "Crashdog", 
+                            "mbid": "d039e4eb-ecb4-41a9-834a-e6df3c756186", 
+                            "trackNumber": "15", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "93", 
+                                "playcount": "344"
+                            }, 
+                            "title": "Eve of Destruction", 
+                            "artistName": "Crashdog", 
+                            "mbid": "a06bbae9-2e10-4d07-bc19-d18ddab83ea3", 
+                            "trackNumber": "16", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "7e2941f0-e6ee-4d71-862c-3882c76a28ab", 
+                    "packaging": null, 
+                    "listeners": "103", 
+                    "date": "1995", 
+                    "artistName": "Crashdog", 
+                    "playcount": "2435", 
+                    "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                }
+            ], 
+            "title": "Cashists, Fascists, and Other Fungus"
+        }, 
+        {
+            "mbid": "e2551594-e4ed-30e8-ad76-c1686bb1e97d", 
+            "releases": [
+                {
+                    "name": "8 Years To Nowhere", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "216", 
+                                "playcount": "782"
+                            }, 
+                            "title": "Voice of Defiance", 
+                            "artistName": "Crashdog", 
+                            "mbid": "57cacf1a-cd68-4ca4-8d45-c01fa1772c60", 
+                            "trackNumber": "1", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "132", 
+                                "playcount": "453"
+                            }, 
+                            "title": "Branded", 
+                            "artistName": "Crashdog", 
+                            "mbid": "c0673520-7ec1-453c-94e5-ef57c2f97f29", 
+                            "trackNumber": "2", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "116", 
+                                "playcount": "465"
+                            }, 
+                            "title": "History Lesson #1", 
+                            "artistName": "Crashdog", 
+                            "mbid": "51e8bb48-685b-4984-af77-8245d4c90271", 
+                            "trackNumber": "3", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "74"
+                            }, 
+                            "title": "School", 
+                            "artistName": "Crashdog", 
+                            "mbid": "881359cc-7c0e-4a2d-9aba-ce83cce3a290", 
+                            "trackNumber": "4", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "122", 
+                                "playcount": "490"
+                            }, 
+                            "title": "Bloody Lane", 
+                            "artistName": "Crashdog", 
+                            "mbid": "5b3e252c-6cb7-4d41-912d-deaf9de6bb51", 
+                            "trackNumber": "5", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "139", 
+                                "playcount": "532"
+                            }, 
+                            "title": "Sept. 1994", 
+                            "artistName": "Crashdog", 
+                            "mbid": "b086c93d-4d17-4781-b210-eb2fdba854bc", 
+                            "trackNumber": "6", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "99", 
+                                "playcount": "363"
+                            }, 
+                            "title": "Easy Out", 
+                            "artistName": "Crashdog", 
+                            "mbid": "0cfb6c20-7928-47d3-9306-75c782cf0634", 
+                            "trackNumber": "7", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "57"
+                            }, 
+                            "title": "Who", 
+                            "artistName": "Crashdog", 
+                            "mbid": "e9fb15d0-4d08-4073-a2fd-16e6afd3d893", 
+                            "trackNumber": "8", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "180", 
+                                "playcount": "712"
+                            }, 
+                            "title": "My God", 
+                            "artistName": "Crashdog", 
+                            "mbid": "e4daa10b-338a-45a5-921a-2a5de81bd8d4", 
+                            "trackNumber": "9", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96", 
+                                "playcount": "377"
+                            }, 
+                            "title": "Reactionary Fear", 
+                            "artistName": "Crashdog", 
+                            "mbid": "c5b1cf86-ff09-4411-9e73-159a723c8833", 
+                            "trackNumber": "10", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "398"
+                            }, 
+                            "title": "Millstone Co.", 
+                            "artistName": "Crashdog", 
+                            "mbid": "08da1461-f12c-4f85-9071-74c98f356354", 
+                            "trackNumber": "11", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105", 
+                                "playcount": "334"
+                            }, 
+                            "title": "Dream So Vain", 
+                            "artistName": "Crashdog", 
+                            "mbid": "a4eeaae6-f716-418d-9a57-6ceb0eac3aae", 
+                            "trackNumber": "12", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "124", 
+                                "playcount": "458"
+                            }, 
+                            "title": "Same Old Pain", 
+                            "artistName": "Crashdog", 
+                            "mbid": "c5274b62-65c3-4a46-92ac-a7631d61f2f3", 
+                            "trackNumber": "13", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "104", 
+                                "playcount": "391"
+                            }, 
+                            "title": "Injustice", 
+                            "artistName": "Crashdog", 
+                            "mbid": "61b8e5f8-35e7-47d3-9c2a-0bc3c45481e6", 
+                            "trackNumber": "14", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "110", 
+                                "playcount": "434"
+                            }, 
+                            "title": "Proclamation", 
+                            "artistName": "Crashdog", 
+                            "mbid": "5d544492-b9f7-4e39-8637-51961fb92dc8", 
+                            "trackNumber": "15", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "121"
+                            }, 
+                            "title": "Boy's Life", 
+                            "artistName": "Crashdog", 
+                            "mbid": "786e73dc-b2f6-4cb1-8c9c-f228adc6439e", 
+                            "trackNumber": "16", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115", 
+                                "playcount": "442"
+                            }, 
+                            "title": "Violence of Love", 
+                            "artistName": "Crashdog", 
+                            "mbid": "ba87b30d-2985-45d3-988b-caccf5d38e3d", 
+                            "trackNumber": "17", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "177"
+                            }, 
+                            "title": "Pursuit Of Happiness", 
+                            "artistName": "Crashdog", 
+                            "mbid": "2294b63f-c008-484d-a0df-038cd9ed2695", 
+                            "trackNumber": "18", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "202"
+                            }, 
+                            "title": "Nothing", 
+                            "artistName": "Crashdog", 
+                            "mbid": "91f50c70-1c0e-425a-89ec-07adff30acce", 
+                            "trackNumber": "19", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "397"
+                            }, 
+                            "title": "Pressure", 
+                            "artistName": "Crashdog", 
+                            "mbid": "92b98624-e085-4ff7-8c34-690e81b42f52", 
+                            "trackNumber": "20", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "127", 
+                                "playcount": "525"
+                            }, 
+                            "title": "Question Stupidity", 
+                            "artistName": "Crashdog", 
+                            "mbid": "03b7962d-dbb6-45e4-b4a7-ba3dbf73d692", 
+                            "trackNumber": "21", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "123", 
+                                "playcount": "442"
+                            }, 
+                            "title": "Helpless", 
+                            "artistName": "Crashdog", 
+                            "mbid": "e4c430a3-eb81-461c-ac08-03d680581e8b", 
+                            "trackNumber": "22", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "365"
+                            }, 
+                            "title": "Progress", 
+                            "artistName": "Crashdog", 
+                            "mbid": "524ea280-f4b5-4031-a44b-cd22f950247f", 
+                            "trackNumber": "23", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "140"
+                            }, 
+                            "title": "Three", 
+                            "artistName": "Crashdog", 
+                            "mbid": "de9d78e0-039d-404c-a7a0-35e08a5fbde2", 
+                            "trackNumber": "24", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84", 
+                                "playcount": "336"
+                            }, 
+                            "title": "Forget My Name", 
+                            "artistName": "Crashdog", 
+                            "mbid": "31b4b70c-99c9-45ad-a414-478a8d2942a2", 
+                            "trackNumber": "25", 
+                            "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "761d5fae-456c-4153-9b03-7a0ba8650468", 
+                    "packaging": null, 
+                    "listeners": "62", 
+                    "date": "", 
+                    "artistName": "Crashdog", 
+                    "playcount": "1189", 
+                    "artistMBID": "72572672-8ffc-4597-b530-dab7ec9066b3"
+                }
+            ], 
+            "title": "8 Years to Nowhere"
+        }
+    ], 
+    "type": "Group"
+}

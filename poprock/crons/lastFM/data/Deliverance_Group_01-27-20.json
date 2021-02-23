@@ -1,0 +1,3128 @@
+{
+    "genres": [
+        "thrash metal", 
+        "speed metal", 
+        "christian metal", 
+        "heavy metal", 
+        "christian"
+    ], 
+    "taskDuration": {
+        "Task Duration": 99.33410501480103, 
+        "Task End": 1580104984.060048, 
+        "Task Start": 1580104884.725943
+    }, 
+    "stats": {
+        "listeners": "17171", 
+        "playcount": "230527"
+    }, 
+    "name": "Deliverance", 
+    "mbid": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3", 
+    "birthday": "1985", 
+    "date": "2020-01-27", 
+    "albums": [
+        {
+            "mbid": "0ad2a7dc-5374-3de4-8919-b3676340f6b8", 
+            "releases": [
+                {
+                    "name": "Deliverance", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1655", 
+                                "playcount": "5650"
+                            }, 
+                            "title": "Victory", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ff3679a1-f765-4a9a-975e-d84dc8792c3c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1498", 
+                                "playcount": "5581"
+                            }, 
+                            "title": "No Time", 
+                            "artistName": "Deliverance", 
+                            "mbid": "193c0665-cc5f-480c-bd29-e18831aeedd9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "301"
+                            }, 
+                            "title": "Deliverence", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7ecb1e14-e19f-4bfb-84da-2fa6e1f8e0dd", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "894", 
+                                "playcount": "3240"
+                            }, 
+                            "title": "If You Will", 
+                            "artistName": "Deliverance", 
+                            "mbid": "c56bf557-9058-4f9d-af0b-2768d16dfa98", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "935", 
+                                "playcount": "3798"
+                            }, 
+                            "title": "The Call", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ee677f8c-7806-4eda-a717-d4d92b725ff3", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "890", 
+                                "playcount": "3288"
+                            }, 
+                            "title": "No Love", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d8b80cdd-f993-49b7-bb2b-4b649d3e4aa9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "790", 
+                                "playcount": "2956"
+                            }, 
+                            "title": "Blood Of The Covenant", 
+                            "artistName": "Deliverance", 
+                            "mbid": "746f9b22-a93b-4349-a6e1-ad9ebf370385", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "826", 
+                                "playcount": "3034"
+                            }, 
+                            "title": "Jehovah Jireh", 
+                            "artistName": "Deliverance", 
+                            "mbid": "50f302f1-484d-48ec-9693-9e2d0957ea3a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1865", 
+                                "playcount": "4955"
+                            }, 
+                            "title": "Temporary Insanity", 
+                            "artistName": "Deliverance", 
+                            "mbid": "1880024a-4c8d-43f0-bd41-9b496532883e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "760", 
+                                "playcount": "2131"
+                            }, 
+                            "title": "Awake", 
+                            "artistName": "Deliverance", 
+                            "mbid": "3b20d9e6-3488-4c23-9b1a-f6c8570f2475", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4b961107-a770-496f-b6cc-df16d8bade1f", 
+                    "packaging": null, 
+                    "listeners": "2961", 
+                    "date": "1989", 
+                    "artistName": "Deliverance", 
+                    "playcount": "30560", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }, 
+                {
+                    "name": "Deliverance", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1655", 
+                                "playcount": "5650"
+                            }, 
+                            "title": "Victory", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ff3679a1-f765-4a9a-975e-d84dc8792c3c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1498", 
+                                "playcount": "5581"
+                            }, 
+                            "title": "No Time", 
+                            "artistName": "Deliverance", 
+                            "mbid": "193c0665-cc5f-480c-bd29-e18831aeedd9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "301"
+                            }, 
+                            "title": "Deliverence", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7ecb1e14-e19f-4bfb-84da-2fa6e1f8e0dd", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "894", 
+                                "playcount": "3240"
+                            }, 
+                            "title": "If You Will", 
+                            "artistName": "Deliverance", 
+                            "mbid": "c56bf557-9058-4f9d-af0b-2768d16dfa98", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "935", 
+                                "playcount": "3798"
+                            }, 
+                            "title": "The Call", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ee677f8c-7806-4eda-a717-d4d92b725ff3", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "890", 
+                                "playcount": "3288"
+                            }, 
+                            "title": "No Love", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d8b80cdd-f993-49b7-bb2b-4b649d3e4aa9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "790", 
+                                "playcount": "2956"
+                            }, 
+                            "title": "Blood Of The Covenant", 
+                            "artistName": "Deliverance", 
+                            "mbid": "746f9b22-a93b-4349-a6e1-ad9ebf370385", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "826", 
+                                "playcount": "3034"
+                            }, 
+                            "title": "Jehovah Jireh", 
+                            "artistName": "Deliverance", 
+                            "mbid": "50f302f1-484d-48ec-9693-9e2d0957ea3a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1865", 
+                                "playcount": "4955"
+                            }, 
+                            "title": "Temporary Insanity", 
+                            "artistName": "Deliverance", 
+                            "mbid": "1880024a-4c8d-43f0-bd41-9b496532883e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "760", 
+                                "playcount": "2131"
+                            }, 
+                            "title": "Awake", 
+                            "artistName": "Deliverance", 
+                            "mbid": "3b20d9e6-3488-4c23-9b1a-f6c8570f2475", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4b961107-a770-496f-b6cc-df16d8bade1f", 
+                    "packaging": null, 
+                    "listeners": "2961", 
+                    "date": "2008", 
+                    "artistName": "Deliverance", 
+                    "playcount": "30560", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Deliverance"
+        }, 
+        {
+            "mbid": "2dccfaa6-f389-4a5f-9967-addba441d8a1", 
+            "releases": [], 
+            "title": "Deliverance & Weapons of our Warfare"
+        }, 
+        {
+            "mbid": "dea311e5-e53c-3cd4-ba0a-cba79ad8f4bb", 
+            "releases": [
+                {
+                    "name": "Weapons Of Our Warfare", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5064"
+                            }, 
+                            "title": "Supplication", 
+                            "artistName": "Deliverance", 
+                            "mbid": "04889e0e-57ff-4559-aead-174807dd81b5", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2200", 
+                                "playcount": "7784"
+                            }, 
+                            "title": "This Present Darkness", 
+                            "artistName": "Deliverance", 
+                            "mbid": "043095b0-b194-49ed-97aa-0f7e9ad2d3d5", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3025", 
+                                "playcount": "10250"
+                            }, 
+                            "title": "Weapons of Our Warfare", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4722ec8c-8f37-4f78-888a-acaff5253a47", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1700", 
+                                "playcount": "5712"
+                            }, 
+                            "title": "Solitude", 
+                            "artistName": "Deliverance", 
+                            "mbid": "e489991e-6409-4994-93b3-612d45213d8f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1364", 
+                                "playcount": "4816"
+                            }, 
+                            "title": "Flesh and Blood", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4e6d9981-05b8-40f2-b961-438e195e4134", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1271", 
+                                "playcount": "4248"
+                            }, 
+                            "title": "Bought by Blood", 
+                            "artistName": "Deliverance", 
+                            "mbid": "24cc2c35-4735-464c-ae52-0631b49c9548", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "76", 
+                                "playcount": "273"
+                            }, 
+                            "title": "Psalms 23", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5ebba85b-82f9-4dda-9eff-a6dcb4b67365", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1677", 
+                                "playcount": "5728"
+                            }, 
+                            "title": "Slay the Wicked", 
+                            "artistName": "Deliverance", 
+                            "mbid": "8ded9df0-cb12-45bd-85ed-e2206febc304", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1487", 
+                                "playcount": "4889"
+                            }, 
+                            "title": "Greetings of Death", 
+                            "artistName": "Deliverance", 
+                            "mbid": "8aed9afd-67af-46b5-8e3d-a2c45db02dc6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1176", 
+                                "playcount": "4136"
+                            }, 
+                            "title": "If We Faint Not", 
+                            "artistName": "Deliverance", 
+                            "mbid": "6ba7d1ca-ebbf-4225-a939-f1ed9056af6f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "336", 
+                                "playcount": "984"
+                            }, 
+                            "title": "Rescue", 
+                            "artistName": "Deliverance", 
+                            "mbid": "f60bce74-e237-49b6-a0e2-c10fa0007ab6", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0e451451-67e8-412a-9f81-4b2b21676850", 
+                    "packaging": null, 
+                    "listeners": "4492", 
+                    "date": "1990", 
+                    "artistName": "Deliverance", 
+                    "playcount": "48108", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }, 
+                {
+                    "name": "Weapons Of Our Warfare", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1692", 
+                                "playcount": "5064"
+                            }, 
+                            "title": "Supplication", 
+                            "artistName": "Deliverance", 
+                            "mbid": "04889e0e-57ff-4559-aead-174807dd81b5", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2200", 
+                                "playcount": "7784"
+                            }, 
+                            "title": "This Present Darkness", 
+                            "artistName": "Deliverance", 
+                            "mbid": "043095b0-b194-49ed-97aa-0f7e9ad2d3d5", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3025", 
+                                "playcount": "10250"
+                            }, 
+                            "title": "Weapons of Our Warfare", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4722ec8c-8f37-4f78-888a-acaff5253a47", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1700", 
+                                "playcount": "5712"
+                            }, 
+                            "title": "Solitude", 
+                            "artistName": "Deliverance", 
+                            "mbid": "e489991e-6409-4994-93b3-612d45213d8f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1364", 
+                                "playcount": "4816"
+                            }, 
+                            "title": "Flesh and Blood", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4e6d9981-05b8-40f2-b961-438e195e4134", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1271", 
+                                "playcount": "4248"
+                            }, 
+                            "title": "Bought by Blood", 
+                            "artistName": "Deliverance", 
+                            "mbid": "24cc2c35-4735-464c-ae52-0631b49c9548", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "76", 
+                                "playcount": "273"
+                            }, 
+                            "title": "Psalms 23", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5ebba85b-82f9-4dda-9eff-a6dcb4b67365", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1677", 
+                                "playcount": "5728"
+                            }, 
+                            "title": "Slay the Wicked", 
+                            "artistName": "Deliverance", 
+                            "mbid": "8ded9df0-cb12-45bd-85ed-e2206febc304", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1487", 
+                                "playcount": "4889"
+                            }, 
+                            "title": "Greetings of Death", 
+                            "artistName": "Deliverance", 
+                            "mbid": "8aed9afd-67af-46b5-8e3d-a2c45db02dc6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1176", 
+                                "playcount": "4136"
+                            }, 
+                            "title": "If We Faint Not", 
+                            "artistName": "Deliverance", 
+                            "mbid": "6ba7d1ca-ebbf-4225-a939-f1ed9056af6f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "336", 
+                                "playcount": "984"
+                            }, 
+                            "title": "Rescue", 
+                            "artistName": "Deliverance", 
+                            "mbid": "f60bce74-e237-49b6-a0e2-c10fa0007ab6", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0e451451-67e8-412a-9f81-4b2b21676850", 
+                    "packaging": null, 
+                    "listeners": "4492", 
+                    "date": "2008", 
+                    "artistName": "Deliverance", 
+                    "playcount": "48108", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Weapons of Our Warfare"
+        }, 
+        {
+            "mbid": "cf4bf3ff-8074-30ad-8a88-7091eb5ccd71", 
+            "releases": [
+                {
+                    "name": "What A Joke", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "103"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "Deliverance", 
+                            "mbid": "a5c66c34-37a3-4ffc-abc7-4ab0b567983c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "556", 
+                                "playcount": "1899"
+                            }, 
+                            "title": "Prophet of Idiocy", 
+                            "artistName": "Deliverance", 
+                            "mbid": "689ff23a-8bb2-4d9d-bbd4-071d0c80b278", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "325", 
+                                "playcount": "1177"
+                            }, 
+                            "title": "Pseudo Intellectual", 
+                            "artistName": "Deliverance", 
+                            "mbid": "87420456-bb7c-4eaa-a307-6b049678dc9a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Cheeseburger Make Du", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5faa58fe-0ac8-4e2b-bd77-bc5f77caddd4", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "487", 
+                                "playcount": "1708"
+                            }, 
+                            "title": "What a Joke", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d98720d7-112b-42db-bc83-491009556a07", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "413", 
+                                "playcount": "1266"
+                            }, 
+                            "title": "Chipped Beef", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4c6defbf-18ce-4bee-ae56-40f66b892462", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "441", 
+                                "playcount": "1607"
+                            }, 
+                            "title": "After Forever", 
+                            "artistName": "Deliverance", 
+                            "mbid": "18e3ec3a-ba54-4184-b4a7-c9447beda142", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "371", 
+                                "playcount": "1245"
+                            }, 
+                            "title": "It\u2019s the Beat", 
+                            "artistName": "Deliverance", 
+                            "mbid": "753756bf-e0fc-4c1b-8828-35f31df5eb33", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "393", 
+                                "playcount": "1133"
+                            }, 
+                            "title": "A Product of Society", 
+                            "artistName": "Deliverance", 
+                            "mbid": "daf06368-bd4e-48e7-a544-6af02d42ad6f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "14"
+                            }, 
+                            "title": "Happy Star", 
+                            "artistName": "Deliverance", 
+                            "mbid": "b4f1baa2-f7a3-4b75-aff0-8e1eeeb00f80", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "9"
+                            }, 
+                            "title": "J.P.D.", 
+                            "artistName": "Deliverance", 
+                            "mbid": "a9883a9e-5b69-425d-bd08-13d08bd0b7f5", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "382", 
+                                "playcount": "1304"
+                            }, 
+                            "title": "Pray", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d2f4ee35-c48b-40c5-b778-162f12d14263", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "850", 
+                                "playcount": "2671"
+                            }, 
+                            "title": "Silent Night", 
+                            "artistName": "Deliverance", 
+                            "mbid": "aa9fe52e-4b15-4702-a215-b934b268ed24", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "472", 
+                                "playcount": "1330"
+                            }, 
+                            "title": "J.I.G.", 
+                            "artistName": "Deliverance", 
+                            "mbid": "47994605-b6a7-4ce2-8237-de15973ff07f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "303", 
+                                "playcount": "869"
+                            }, 
+                            "title": "Purgatory Sandwich With Mustard", 
+                            "artistName": "Deliverance", 
+                            "mbid": "efc2558a-e661-49e3-887f-ba1300e3f979", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "829", 
+                                "playcount": "2427"
+                            }, 
+                            "title": "Attack", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ab36f211-11cb-4fd0-8afc-0830575a51a8", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "94450848-a8b7-4f69-8e5d-4e08c3174ae7", 
+                    "packaging": null, 
+                    "listeners": "1691", 
+                    "date": "1991", 
+                    "artistName": "Deliverance", 
+                    "playcount": "16540", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "What a Joke"
+        }, 
+        {
+            "mbid": "7276a0b8-6a22-3041-8d4f-415f6d0fe6b1", 
+            "releases": [
+                {
+                    "name": "Stay Of Execution", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "586", 
+                                "playcount": "2350"
+                            }, 
+                            "title": "Stay of Execution", 
+                            "artistName": "Deliverance", 
+                            "mbid": "69c87c77-6c56-43ff-8808-8c0b8991b8eb", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "397", 
+                                "playcount": "1266"
+                            }, 
+                            "title": "Windows of the Soul", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4d0eb503-b221-4754-bfdd-d8504c16476d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "1054"
+                            }, 
+                            "title": "Words to the. . . .", 
+                            "artistName": "Deliverance", 
+                            "mbid": "686db5f0-4a9f-4d20-8c30-d94e62d645b9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "379", 
+                                "playcount": "1205"
+                            }, 
+                            "title": "From Once Was", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2d12bce0-5eb3-44ec-9207-6b7ffcd9a6d5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "355", 
+                                "playcount": "1124"
+                            }, 
+                            "title": "Self-Monger", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7dcb5a1c-ba72-4b09-a9d9-d98cab572022", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "199"
+                            }, 
+                            "title": "Horrendous Disk", 
+                            "artistName": "Deliverance", 
+                            "mbid": "a8bf32ac-f60d-48e5-b360-74c09ce716b8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "332", 
+                                "playcount": "1035"
+                            }, 
+                            "title": "Lord of Dreams", 
+                            "artistName": "Deliverance", 
+                            "mbid": "477831a1-62c5-42cf-97e8-89614f986c5a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "391", 
+                                "playcount": "1299"
+                            }, 
+                            "title": "Ramming Speed", 
+                            "artistName": "Deliverance", 
+                            "mbid": "92b65c1c-a5c2-4e71-bda4-c3873d8b1df7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "318", 
+                                "playcount": "1214"
+                            }, 
+                            "title": "Entombed", 
+                            "artistName": "Deliverance", 
+                            "mbid": "c242ff8e-4a69-431b-8ae9-256a5270f55b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "281", 
+                                "playcount": "824"
+                            }, 
+                            "title": "Weapons of our Warfare (Remix)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "12d25ed4-8f1a-47da-8415-f94189dead76", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "efe0955d-231a-4fa6-a453-edc26807bf56", 
+                    "packaging": null, 
+                    "listeners": "711", 
+                    "date": "1992", 
+                    "artistName": "Deliverance", 
+                    "playcount": "11086", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Stay of Execution"
+        }, 
+        {
+            "mbid": "4177e5cb-6e47-31a2-8000-cf32c71837ae", 
+            "releases": [
+                {
+                    "name": "Learn", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "344", 
+                                "playcount": "1269"
+                            }, 
+                            "title": "Time", 
+                            "artistName": "Deliverance", 
+                            "mbid": "511a3c66-1284-432d-8d1f-efa90fbe34e9", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "360", 
+                                "playcount": "1297"
+                            }, 
+                            "title": "1990", 
+                            "artistName": "Deliverance", 
+                            "mbid": "f728b82d-f7d2-48d4-8e8f-47269914c5cc", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "333", 
+                                "playcount": "1305"
+                            }, 
+                            "title": "Learn", 
+                            "artistName": "Deliverance", 
+                            "mbid": "11d18c79-f957-4018-be9e-bc67056bc62a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "250", 
+                                "playcount": "943"
+                            }, 
+                            "title": "Who Am I?", 
+                            "artistName": "Deliverance", 
+                            "mbid": "157c37f4-0a71-46fe-a660-e62deb748b4f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "256", 
+                                "playcount": "880"
+                            }, 
+                            "title": "Renew", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d5f1a1d1-60a3-4b71-95f7-3db9d62b58d0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "263", 
+                                "playcount": "869"
+                            }, 
+                            "title": "The Rain", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ff21b0fb-4773-4324-a920-a3027a125954", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "257", 
+                                "playcount": "936"
+                            }, 
+                            "title": "Reflection", 
+                            "artistName": "Deliverance", 
+                            "mbid": "901cb5e3-e69b-47c8-83a4-fd36aaf45f08", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "245", 
+                                "playcount": "809"
+                            }, 
+                            "title": "In The Will", 
+                            "artistName": "Deliverance", 
+                            "mbid": "bdd1bc60-9582-4e32-b787-bc4657720f90", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "300", 
+                                "playcount": "1094"
+                            }, 
+                            "title": "Desperate Cries", 
+                            "artistName": "Deliverance", 
+                            "mbid": "81f894a5-9e01-4ec5-82bc-3954da4db94d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "323", 
+                                "playcount": "1352"
+                            }, 
+                            "title": "Sanctuary", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5acf0a3c-0a63-48e6-a0c1-d0e8d59a5d49", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "18ca5f1a-9ade-402e-8c58-7d97937d7455", 
+                    "packaging": null, 
+                    "listeners": "530", 
+                    "date": "1993", 
+                    "artistName": "Deliverance", 
+                    "playcount": "9394", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Learn"
+        }, 
+        {
+            "mbid": "bd1a1990-8375-37af-a5af-89dc0a05f8fa", 
+            "releases": [
+                {
+                    "name": "River Disturbance", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "574", 
+                                "playcount": "1699"
+                            }, 
+                            "title": "Belltown", 
+                            "artistName": "Deliverance", 
+                            "mbid": "1edc2de0-b8f9-4dbb-a7b4-98714cd706f0", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "381", 
+                                "playcount": "1057"
+                            }, 
+                            "title": "After I Fell", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ad757a76-9d14-4dc7-8cb6-5411bf6e5234", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "434", 
+                                "playcount": "1246"
+                            }, 
+                            "title": "River Disturbance", 
+                            "artistName": "Deliverance", 
+                            "mbid": "be52a86e-1757-420b-a200-b87a1c586409", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "312", 
+                                "playcount": "909"
+                            }, 
+                            "title": "Now & Then", 
+                            "artistName": "Deliverance", 
+                            "mbid": "55219e44-4e2e-459c-9d0c-d9e3ef84f7cf", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "271", 
+                                "playcount": "790"
+                            }, 
+                            "title": "Speed Of Light", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4fe86bb4-9b9b-4a58-aa36-987453512027", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "283", 
+                                "playcount": "744"
+                            }, 
+                            "title": "Map", 
+                            "artistName": "Deliverance", 
+                            "mbid": "adb40a68-e8f6-4586-8e81-07ee2ab980bf", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "1064"
+                            }, 
+                            "title": "You Still Smile", 
+                            "artistName": "Deliverance", 
+                            "mbid": "6d05dc90-d242-4b83-bb2d-2279ce9d9724", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "6c9ca866-9b1a-4484-ba77-40e41a7b43e8", 
+                    "packaging": null, 
+                    "listeners": "801", 
+                    "date": "1994", 
+                    "artistName": "Deliverance", 
+                    "playcount": "7542", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "River Disturbance"
+        }, 
+        {
+            "mbid": "1423a8e5-75d4-39a5-845e-95f1f94a6849", 
+            "releases": [
+                {
+                    "name": "Camelot-in-Smithereens", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "286", 
+                                "playcount": "780"
+                            }, 
+                            "title": "Somber Theme (Where Are You)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "b4564112-3e54-40a7-928f-dac160e399cd", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "246", 
+                                "playcount": "701"
+                            }, 
+                            "title": "Lindsey", 
+                            "artistName": "Deliverance", 
+                            "mbid": "e9b6c227-731c-4636-b058-54df05be4e68", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "225", 
+                                "playcount": "592"
+                            }, 
+                            "title": "Not Too Good 4 Me", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2392ef40-d6f4-4485-b170-5f1f3917b12b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "638"
+                            }, 
+                            "title": "Anymore", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7358d465-2d0a-4256-8a3c-cb42fb209407", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "235", 
+                                "playcount": "738"
+                            }, 
+                            "title": "Book Ends", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ce924179-9429-4f6e-8633-aa77ea238d7e", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "620"
+                            }, 
+                            "title": "Beauty & the Beast", 
+                            "artistName": "Deliverance", 
+                            "mbid": "e47e22ea-010e-4743-ac39-09913e9c1203", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "581"
+                            }, 
+                            "title": "Make My Bed in Hell", 
+                            "artistName": "Deliverance", 
+                            "mbid": "b70f57f5-fedd-4ee3-bf8b-28e8ba76ae14", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "212", 
+                                "playcount": "552"
+                            }, 
+                            "title": "The Red Roof", 
+                            "artistName": "Deliverance", 
+                            "mbid": "97253abd-8e3e-4882-b560-59aa7cff4dc7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "207", 
+                                "playcount": "678"
+                            }, 
+                            "title": "In-U", 
+                            "artistName": "Deliverance", 
+                            "mbid": "cfbd0425-0a02-4ff1-b8b3-6bb6e3926b28", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "1def72eb-addd-4cbe-aa5f-8a1625ac24c5", 
+                    "packaging": null, 
+                    "listeners": "67", 
+                    "date": "1995", 
+                    "artistName": "Deliverance", 
+                    "playcount": "1633", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Camelot-in-Smithereens"
+        }, 
+        {
+            "mbid": "44da882d-c333-3d54-9288-440fa97adefb", 
+            "releases": [
+                {
+                    "name": "Assimilation", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "398", 
+                                "playcount": "1359"
+                            }, 
+                            "title": "The Limitless Light", 
+                            "artistName": "Deliverance", 
+                            "mbid": "137d91ff-b7f4-4467-9e8a-92e148df6535", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "318", 
+                                "playcount": "804"
+                            }, 
+                            "title": "From the Beginning", 
+                            "artistName": "Deliverance", 
+                            "mbid": "dc21e1ba-cf48-4b4f-816b-e24fab17118d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "318", 
+                                "playcount": "894"
+                            }, 
+                            "title": "Assimilation", 
+                            "artistName": "Deliverance", 
+                            "mbid": "906a8974-ba0f-46f0-b020-0f54f0dd9b03", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "273", 
+                                "playcount": "683"
+                            }, 
+                            "title": "The Circle", 
+                            "artistName": "Deliverance", 
+                            "mbid": "155d6555-7472-4f2a-9ea3-900491ddec75", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "98", 
+                                "playcount": "339"
+                            }, 
+                            "title": "Sell Your Soul...", 
+                            "artistName": "Deliverance", 
+                            "mbid": "68027c02-bd82-44c0-9fa3-2353e912c055", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "284", 
+                                "playcount": "798"
+                            }, 
+                            "title": "The Search", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7cd2a822-b96a-41d1-b747-4c54264e4876", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "257", 
+                                "playcount": "804"
+                            }, 
+                            "title": "The Learned Man", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2222b540-8c4d-4bea-b673-3dcea7738a11", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "249", 
+                                "playcount": "634"
+                            }, 
+                            "title": "Between 2 Worlds", 
+                            "artistName": "Deliverance", 
+                            "mbid": "eabeaf4d-c87d-46f7-aaad-747d44c2f004", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "256", 
+                                "playcount": "653"
+                            }, 
+                            "title": "Impressions", 
+                            "artistName": "Deliverance", 
+                            "mbid": "99f1f3af-fcc6-4baf-81ab-24ec0db35d62", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "426"
+                            }, 
+                            "title": "Save Me From...", 
+                            "artistName": "Deliverance", 
+                            "mbid": "8ef95b93-65bf-4aae-ab48-3e223e165808", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "ba28e8de-9972-430c-88cf-de3417ee03ec", 
+                    "packaging": null, 
+                    "listeners": "667", 
+                    "date": "2007-05-22", 
+                    "artistName": "Deliverance", 
+                    "playcount": "6008", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }, 
+                {
+                    "name": "Assimilation", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "398", 
+                                "playcount": "1359"
+                            }, 
+                            "title": "The Limitless Light", 
+                            "artistName": "Deliverance", 
+                            "mbid": "137d91ff-b7f4-4467-9e8a-92e148df6535", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "318", 
+                                "playcount": "804"
+                            }, 
+                            "title": "From the Beginning", 
+                            "artistName": "Deliverance", 
+                            "mbid": "dc21e1ba-cf48-4b4f-816b-e24fab17118d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "318", 
+                                "playcount": "894"
+                            }, 
+                            "title": "Assimilation", 
+                            "artistName": "Deliverance", 
+                            "mbid": "906a8974-ba0f-46f0-b020-0f54f0dd9b03", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "273", 
+                                "playcount": "683"
+                            }, 
+                            "title": "The Circle", 
+                            "artistName": "Deliverance", 
+                            "mbid": "155d6555-7472-4f2a-9ea3-900491ddec75", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "98", 
+                                "playcount": "339"
+                            }, 
+                            "title": "Sell Your Soul...", 
+                            "artistName": "Deliverance", 
+                            "mbid": "68027c02-bd82-44c0-9fa3-2353e912c055", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "284", 
+                                "playcount": "798"
+                            }, 
+                            "title": "The Search", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7cd2a822-b96a-41d1-b747-4c54264e4876", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "257", 
+                                "playcount": "804"
+                            }, 
+                            "title": "The Learned Man", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2222b540-8c4d-4bea-b673-3dcea7738a11", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "249", 
+                                "playcount": "634"
+                            }, 
+                            "title": "Between 2 Worlds", 
+                            "artistName": "Deliverance", 
+                            "mbid": "eabeaf4d-c87d-46f7-aaad-747d44c2f004", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "256", 
+                                "playcount": "653"
+                            }, 
+                            "title": "Impressions", 
+                            "artistName": "Deliverance", 
+                            "mbid": "99f1f3af-fcc6-4baf-81ab-24ec0db35d62", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "426"
+                            }, 
+                            "title": "Save Me From...", 
+                            "artistName": "Deliverance", 
+                            "mbid": "8ef95b93-65bf-4aae-ab48-3e223e165808", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "ba28e8de-9972-430c-88cf-de3417ee03ec", 
+                    "packaging": null, 
+                    "listeners": "667", 
+                    "date": "", 
+                    "artistName": "Deliverance", 
+                    "playcount": "6008", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Assimilation"
+        }, 
+        {
+            "mbid": "3648df22-f6e9-3580-b8b3-be848a9782a5", 
+            "releases": [
+                {
+                    "name": "As Above - So Below", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "534", 
+                                "playcount": "1296"
+                            }, 
+                            "title": "Legum Servi Sumus Ut Liberi Esse Possimus (Intro)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "02985eb6-d458-44f2-a649-245ab8fe9f08", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "800", 
+                                "playcount": "1851"
+                            }, 
+                            "title": "Cause and Effect", 
+                            "artistName": "Deliverance", 
+                            "mbid": "13098b84-95aa-4252-94c7-e4d7579b2967", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "1953"
+                            }, 
+                            "title": "Return To Form", 
+                            "artistName": "Deliverance", 
+                            "mbid": "1dc3745c-eddc-44ad-bf33-601f76b8897f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "304", 
+                                "playcount": "990"
+                            }, 
+                            "title": "As Above, So Below", 
+                            "artistName": "Deliverance", 
+                            "mbid": "859d5432-0c56-4a56-8209-212973d8d4b3", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "667", 
+                                "playcount": "1463"
+                            }, 
+                            "title": "Screaming", 
+                            "artistName": "Deliverance", 
+                            "mbid": "dbced7a4-4f37-4228-ae97-1e496312ce01", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "666", 
+                                "playcount": "1489"
+                            }, 
+                            "title": "Should We Cross Paths", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7bdd3f44-9232-41e4-a34a-c6c549489706", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "663", 
+                                "playcount": "1454"
+                            }, 
+                            "title": "Contempt", 
+                            "artistName": "Deliverance", 
+                            "mbid": "06053663-d735-48d4-9156-78ab9cb3d109", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "474", 
+                                "playcount": "1372"
+                            }, 
+                            "title": "Thistles", 
+                            "artistName": "Deliverance", 
+                            "mbid": "6667bc89-6432-4e4a-8c6d-d3a6b99f1f6d", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "549", 
+                                "playcount": "1255"
+                            }, 
+                            "title": "My Love", 
+                            "artistName": "Deliverance", 
+                            "mbid": "affd1bdf-b89f-4825-804a-d07eed15ac9e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "537", 
+                                "playcount": "1219"
+                            }, 
+                            "title": "Enlightened", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5659e782-cf09-4b7c-8f4f-8cfecc0291d5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a8611a4c-a84b-4cb1-aec5-9ac29827160d", 
+                    "packaging": null, 
+                    "listeners": "1955", 
+                    "date": "2007", 
+                    "artistName": "Deliverance", 
+                    "playcount": "11290", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "As Above - So Below"
+        }, 
+        {
+            "mbid": "ac7ba647-773f-45fa-92b4-c43ffb2158a6", 
+            "releases": [
+                {
+                    "name": "Hear What I Say!", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "294"
+                            }, 
+                            "title": "Liber 111 (intro)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ff5af982-bfe3-4cbf-8fad-dbd7d8e389b3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "521"
+                            }, 
+                            "title": "The Annals of Subterfuge", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d2a67ceb-8f25-4727-876e-c2a404102496", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "143", 
+                                "playcount": "397"
+                            }, 
+                            "title": "Angst", 
+                            "artistName": "Deliverance", 
+                            "mbid": "df28c579-9672-4e1c-97e6-b62204d74db0", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "375"
+                            }, 
+                            "title": "Hope Lies Beyond", 
+                            "artistName": "Deliverance", 
+                            "mbid": "3609eb8d-ba3a-488d-b1df-9485e9978584", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "118", 
+                                "playcount": "428"
+                            }, 
+                            "title": "Detox", 
+                            "artistName": "Deliverance", 
+                            "mbid": "be333660-b944-43af-b5c6-de56d9bfe5c9", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "117", 
+                                "playcount": "341"
+                            }, 
+                            "title": "Nude", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4a4f7ec6-3ed4-48c2-abce-665ee3b86fb7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "291"
+                            }, 
+                            "title": "Passing", 
+                            "artistName": "Deliverance", 
+                            "mbid": "114e8755-d80f-4771-9a2b-b18d3b6d3cc7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100", 
+                                "playcount": "290"
+                            }, 
+                            "title": "A Perfect Sky", 
+                            "artistName": "Deliverance", 
+                            "mbid": "dd6597b2-ee5a-49e8-8fc1-3363de9af14e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "304"
+                            }, 
+                            "title": "Where Eagles Dare", 
+                            "artistName": "Deliverance", 
+                            "mbid": "cd1cef33-3898-4aa2-8247-6276ad01d686", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "163"
+                            }, 
+                            "title": "Entgiftung (German version of Detox)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7abc4f66-02ea-49a1-a959-0cd49c4371c9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Blackened Sun", 
+                            "artistName": "Deliverance", 
+                            "mbid": "b5a8a57c-76df-4b9b-a27f-598919c4465f", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Thunder God", 
+                            "artistName": "Deliverance", 
+                            "mbid": "01c7fb45-5e6c-444b-9e49-ca4e5a842e47", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Tears of Babylon", 
+                            "artistName": "Deliverance", 
+                            "mbid": "a4a8488c-969f-4c78-9c52-1e38bc19acda", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "A Perfect Day (live)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d861fc8b-9167-4caa-b289-981da19333ab", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Hero on Video", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2e348fb6-1d08-4f22-8be8-64f6dce34540", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Power & Glory", 
+                            "artistName": "Deliverance", 
+                            "mbid": "637d9ff7-ae92-448c-b225-f21d488c95ed", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Rockstars", 
+                            "artistName": "Deliverance", 
+                            "mbid": "eda8e120-360b-44ce-bd71-a365f74d1a5d", 
+                            "trackNumber": "17", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Back Into the Land of Light", 
+                            "artistName": "Deliverance", 
+                            "mbid": "bed7eb5f-e904-4581-8d2e-97f19ce12e44", 
+                            "trackNumber": "18", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "22fbd46e-78c1-4698-af54-9c93b973204f", 
+                    "packaging": null, 
+                    "listeners": "163", 
+                    "date": "2013-12-10", 
+                    "artistName": "Deliverance", 
+                    "playcount": "3546", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }, 
+                {
+                    "name": "Hear What I Say!", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "294"
+                            }, 
+                            "title": "Liber 111 (intro)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ff5af982-bfe3-4cbf-8fad-dbd7d8e389b3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "521"
+                            }, 
+                            "title": "The Annals of Subterfuge", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d2a67ceb-8f25-4727-876e-c2a404102496", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "143", 
+                                "playcount": "397"
+                            }, 
+                            "title": "Angst", 
+                            "artistName": "Deliverance", 
+                            "mbid": "df28c579-9672-4e1c-97e6-b62204d74db0", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "375"
+                            }, 
+                            "title": "Hope Lies Beyond", 
+                            "artistName": "Deliverance", 
+                            "mbid": "3609eb8d-ba3a-488d-b1df-9485e9978584", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "118", 
+                                "playcount": "428"
+                            }, 
+                            "title": "Detox", 
+                            "artistName": "Deliverance", 
+                            "mbid": "be333660-b944-43af-b5c6-de56d9bfe5c9", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "117", 
+                                "playcount": "341"
+                            }, 
+                            "title": "Nude", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4a4f7ec6-3ed4-48c2-abce-665ee3b86fb7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "291"
+                            }, 
+                            "title": "Passing", 
+                            "artistName": "Deliverance", 
+                            "mbid": "114e8755-d80f-4771-9a2b-b18d3b6d3cc7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100", 
+                                "playcount": "290"
+                            }, 
+                            "title": "A Perfect Sky", 
+                            "artistName": "Deliverance", 
+                            "mbid": "dd6597b2-ee5a-49e8-8fc1-3363de9af14e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "304"
+                            }, 
+                            "title": "Where Eagles Dare", 
+                            "artistName": "Deliverance", 
+                            "mbid": "cd1cef33-3898-4aa2-8247-6276ad01d686", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "163"
+                            }, 
+                            "title": "Entgiftung (German version of Detox)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7abc4f66-02ea-49a1-a959-0cd49c4371c9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Blackened Sun", 
+                            "artistName": "Deliverance", 
+                            "mbid": "b5a8a57c-76df-4b9b-a27f-598919c4465f", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Thunder God", 
+                            "artistName": "Deliverance", 
+                            "mbid": "01c7fb45-5e6c-444b-9e49-ca4e5a842e47", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Tears of Babylon", 
+                            "artistName": "Deliverance", 
+                            "mbid": "a4a8488c-969f-4c78-9c52-1e38bc19acda", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "A Perfect Day (live)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d861fc8b-9167-4caa-b289-981da19333ab", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Hero on Video", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2e348fb6-1d08-4f22-8be8-64f6dce34540", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Power & Glory", 
+                            "artistName": "Deliverance", 
+                            "mbid": "637d9ff7-ae92-448c-b225-f21d488c95ed", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Rockstars", 
+                            "artistName": "Deliverance", 
+                            "mbid": "eda8e120-360b-44ce-bd71-a365f74d1a5d", 
+                            "trackNumber": "17", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Back Into the Land of Light", 
+                            "artistName": "Deliverance", 
+                            "mbid": "bed7eb5f-e904-4581-8d2e-97f19ce12e44", 
+                            "trackNumber": "18", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "22fbd46e-78c1-4698-af54-9c93b973204f", 
+                    "packaging": null, 
+                    "listeners": "163", 
+                    "date": "2013-12-10", 
+                    "artistName": "Deliverance", 
+                    "playcount": "3546", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Hear What I Say!"
+        }, 
+        {
+            "mbid": "23d65191-8faf-43b7-9e95-0db8b5c1a508", 
+            "releases": [], 
+            "title": "The Subversive Kind"
+        }, 
+        {
+            "mbid": "904a77c1-1b8d-3c54-b1ad-20cd864a24d2", 
+            "releases": [
+                {
+                    "name": "Classic Archive", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "103"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "Deliverance", 
+                            "mbid": "6b9a6dde-fe62-4d5d-9f6b-11ec10e438f2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "556", 
+                                "playcount": "1899"
+                            }, 
+                            "title": "Prophet of Idiocy", 
+                            "artistName": "Deliverance", 
+                            "mbid": "85039c22-d87f-4742-b9b3-fe04629dba5a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "325", 
+                                "playcount": "1177"
+                            }, 
+                            "title": "Pseudo Intellectual", 
+                            "artistName": "Deliverance", 
+                            "mbid": "6690b7f2-89ea-4832-b06e-4b1ed9210229", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "18"
+                            }, 
+                            "title": "Cheeseburger Maker Du", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4238a9ad-2b84-47fb-b246-7cea95df15be", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "487", 
+                                "playcount": "1708"
+                            }, 
+                            "title": "What a Joke", 
+                            "artistName": "Deliverance", 
+                            "mbid": "b48c58e1-fbd0-4241-b671-e286cf6b703a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "413", 
+                                "playcount": "1266"
+                            }, 
+                            "title": "Chipped Beef", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d87a4293-97ae-4bc0-be6a-4718c2b09dc6", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "441", 
+                                "playcount": "1607"
+                            }, 
+                            "title": "After Forever", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d6c2c6f4-74e0-490c-b36f-381e9f5be71b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "12"
+                            }, 
+                            "title": "It's the Best", 
+                            "artistName": "Deliverance", 
+                            "mbid": "b64f2433-8d9a-4a41-bf35-d883bd8cd279", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "393", 
+                                "playcount": "1133"
+                            }, 
+                            "title": "A Product of Society", 
+                            "artistName": "Deliverance", 
+                            "mbid": "3f784ab4-f792-481b-af93-17851daa5071", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "14"
+                            }, 
+                            "title": "Happy Star", 
+                            "artistName": "Deliverance", 
+                            "mbid": "56dfb350-938e-4f6b-bac6-a5beeb518892", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "9"
+                            }, 
+                            "title": "J.P.D.", 
+                            "artistName": "Deliverance", 
+                            "mbid": "abfe9bc0-f8ea-4a3e-adc4-758b3e4a331f", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "382", 
+                                "playcount": "1304"
+                            }, 
+                            "title": "Pray", 
+                            "artistName": "Deliverance", 
+                            "mbid": "43a183ea-fbd2-4283-9efb-2401654f000c", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "850", 
+                                "playcount": "2671"
+                            }, 
+                            "title": "Silent Night", 
+                            "artistName": "Deliverance", 
+                            "mbid": "0171b65e-d422-43ff-bde8-2f4d00db99de", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "472", 
+                                "playcount": "1330"
+                            }, 
+                            "title": "J.I.G.", 
+                            "artistName": "Deliverance", 
+                            "mbid": "abe54e0a-d54b-4758-b411-eb1f23e5ce14", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "586", 
+                                "playcount": "2350"
+                            }, 
+                            "title": "Stay of Execution", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5a303529-b955-4f6a-9db6-8b9def6e43de", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "397", 
+                                "playcount": "1266"
+                            }, 
+                            "title": "Windows of the Soul", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d4f82b8c-ce77-454b-a0ee-fc1a9f97968b", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "1054"
+                            }, 
+                            "title": "Words to The...", 
+                            "artistName": "Deliverance", 
+                            "mbid": "13c8c474-5839-4271-a883-bd0b53219d82", 
+                            "trackNumber": "17", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "379", 
+                                "playcount": "1205"
+                            }, 
+                            "title": "From Once Was", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4e67df57-f2ac-4df8-be7e-8cdb2a514f45", 
+                            "trackNumber": "18", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "355", 
+                                "playcount": "1124"
+                            }, 
+                            "title": "Self-Monger", 
+                            "artistName": "Deliverance", 
+                            "mbid": "de5d81b5-3ba6-4aad-88b0-06002c26fcd5", 
+                            "trackNumber": "19", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "323", 
+                                "playcount": "966"
+                            }, 
+                            "title": "Horrendous Disc", 
+                            "artistName": "Deliverance", 
+                            "mbid": "cf6a7f97-4193-4568-8b8a-5d7a986f9e75", 
+                            "trackNumber": "20", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "332", 
+                                "playcount": "1035"
+                            }, 
+                            "title": "Lord of Dreams", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d75d1845-c416-4b67-97fa-38b37794b470", 
+                            "trackNumber": "21", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "391", 
+                                "playcount": "1299"
+                            }, 
+                            "title": "Ramming Speed", 
+                            "artistName": "Deliverance", 
+                            "mbid": "3bb7db24-ae4e-43ab-b811-78656c5b98ec", 
+                            "trackNumber": "22", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "69a22649-0fab-43d2-8333-3f32f2f7f675", 
+                    "packaging": null, 
+                    "listeners": "7", 
+                    "date": "", 
+                    "artistName": "Deliverance", 
+                    "playcount": "26", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Classic Archive"
+        }, 
+        {
+            "mbid": "31ba4734-4f7e-3c55-977b-65701b78cd03", 
+            "releases": [
+                {
+                    "name": "Greetings of Death, etc", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1655", 
+                                "playcount": "5650"
+                            }, 
+                            "title": "Victory", 
+                            "artistName": "Deliverance", 
+                            "mbid": "b974d88e-e91b-4033-8b84-45ee179cbc3f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1487", 
+                                "playcount": "4889"
+                            }, 
+                            "title": "Greetings of Death", 
+                            "artistName": "Deliverance", 
+                            "mbid": "9386c3b3-24ac-4611-a749-22e913c413ee", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1498", 
+                                "playcount": "5581"
+                            }, 
+                            "title": "No Time", 
+                            "artistName": "Deliverance", 
+                            "mbid": "c13691f4-50a8-4919-a9d0-eeb125ff7551", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "5"
+                            }, 
+                            "title": "J*I*G* (Jesus Is God)", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7ded97ad-403d-4253-9cc3-4bc3f549d0a9", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "91", 
+                                "playcount": "203"
+                            }, 
+                            "title": "Speckled Bird", 
+                            "artistName": "Deliverance", 
+                            "mbid": "29b5628d-49d9-4383-8d5d-96e15bd464e8", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "760", 
+                                "playcount": "2131"
+                            }, 
+                            "title": "Awake", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5994071a-e4b3-4478-be5e-f7233d5f1d1f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "829", 
+                                "playcount": "2427"
+                            }, 
+                            "title": "Attack", 
+                            "artistName": "Deliverance", 
+                            "mbid": "02dc805f-717f-4557-ba9c-7c099e08fd7b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "262", 
+                                "playcount": "648"
+                            }, 
+                            "title": "A Space Called You", 
+                            "artistName": "Deliverance", 
+                            "mbid": "c68ae21a-29e4-4a2d-9b2f-fb35accad449", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3025", 
+                                "playcount": "10250"
+                            }, 
+                            "title": "Weapons of our Warfare", 
+                            "artistName": "Deliverance", 
+                            "mbid": "3ddf7397-b036-4c00-a332-791e9a04e512", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2200", 
+                                "playcount": "7784"
+                            }, 
+                            "title": "This Present Darkness", 
+                            "artistName": "Deliverance", 
+                            "mbid": "bb975f7a-313a-4d81-b10a-ada127b61c88", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1487", 
+                                "playcount": "4889"
+                            }, 
+                            "title": "Greetings of Death", 
+                            "artistName": "Deliverance", 
+                            "mbid": "033bb616-b4c1-4e04-a8d4-6d0683c50b19", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "32", 
+                                "playcount": "48"
+                            }, 
+                            "title": "Resume", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5ce59c49-6201-4df3-bf90-335d76b0b8bd", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1677", 
+                                "playcount": "5728"
+                            }, 
+                            "title": "Slay The Wicked", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5a56da06-1901-4587-8b95-de41ef97bdae", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1700", 
+                                "playcount": "5712"
+                            }, 
+                            "title": "Solitude", 
+                            "artistName": "Deliverance", 
+                            "mbid": "26b442d6-f808-418f-8c7f-9ce8f9af367f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1194", 
+                                "playcount": "3891"
+                            }, 
+                            "title": "23", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4327247f-44cd-44db-a7df-bbfff4fb5897", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Interview", 
+                            "artistName": "Deliverance", 
+                            "mbid": "a5f4357b-928d-4bb5-bc59-482d1f5bf346", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f457e28e-9d49-4a27-8440-fa99b9f19a82", 
+                    "packaging": null, 
+                    "listeners": "28", 
+                    "date": "2001", 
+                    "artistName": "Deliverance", 
+                    "playcount": "182", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Greetings of Death, Etc"
+        }, 
+        {
+            "mbid": "cf8570b0-0652-31b4-9bc2-e7be821de7f7", 
+            "releases": [
+                {
+                    "name": "A Decade of...", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1655", 
+                                "playcount": "5650"
+                            }, 
+                            "title": "Victory", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ff3679a1-f765-4a9a-975e-d84dc8792c3c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1498", 
+                                "playcount": "5581"
+                            }, 
+                            "title": "No Time", 
+                            "artistName": "Deliverance", 
+                            "mbid": "193c0665-cc5f-480c-bd29-e18831aeedd9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "935", 
+                                "playcount": "3798"
+                            }, 
+                            "title": "The Call", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ee677f8c-7806-4eda-a717-d4d92b725ff3", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "48", 
+                                "playcount": "192"
+                            }, 
+                            "title": "Flesh & Blood", 
+                            "artistName": "Deliverance", 
+                            "mbid": "8b767265-42cc-44df-9201-80ca070d1e11", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2200", 
+                                "playcount": "7784"
+                            }, 
+                            "title": "This Present Darkness", 
+                            "artistName": "Deliverance", 
+                            "mbid": "043095b0-b194-49ed-97aa-0f7e9ad2d3d5", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "336", 
+                                "playcount": "984"
+                            }, 
+                            "title": "Rescue", 
+                            "artistName": "Deliverance", 
+                            "mbid": "35fa3c34-32d2-435c-b2b0-40d9ad258a37", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "441", 
+                                "playcount": "1607"
+                            }, 
+                            "title": "After Forever", 
+                            "artistName": "Deliverance", 
+                            "mbid": "18e3ec3a-ba54-4184-b4a7-c9447beda142", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "556", 
+                                "playcount": "1899"
+                            }, 
+                            "title": "Prophet of Idiocy", 
+                            "artistName": "Deliverance", 
+                            "mbid": "689ff23a-8bb2-4d9d-bbd4-071d0c80b278", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "1054"
+                            }, 
+                            "title": "Words to the. . . .", 
+                            "artistName": "Deliverance", 
+                            "mbid": "686db5f0-4a9f-4d20-8c30-d94e62d645b9", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "391", 
+                                "playcount": "1299"
+                            }, 
+                            "title": "Ramming Speed", 
+                            "artistName": "Deliverance", 
+                            "mbid": "92b65c1c-a5c2-4e71-bda4-c3873d8b1df7", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "586", 
+                                "playcount": "2350"
+                            }, 
+                            "title": "Stay of Execution", 
+                            "artistName": "Deliverance", 
+                            "mbid": "90d0b774-c3e1-4790-88ba-c710acfe9728", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "333", 
+                                "playcount": "1305"
+                            }, 
+                            "title": "Learn", 
+                            "artistName": "Deliverance", 
+                            "mbid": "11d18c79-f957-4018-be9e-bc67056bc62a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "300", 
+                                "playcount": "1094"
+                            }, 
+                            "title": "Desperate Cries", 
+                            "artistName": "Deliverance", 
+                            "mbid": "81f894a5-9e01-4ec5-82bc-3954da4db94d", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "323", 
+                                "playcount": "1352"
+                            }, 
+                            "title": "Sanctuary", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5acf0a3c-0a63-48e6-a0c1-d0e8d59a5d49", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "96442469-ee36-41c2-ae5c-125389931be6", 
+                    "packaging": null, 
+                    "listeners": "198", 
+                    "date": "", 
+                    "artistName": "Deliverance", 
+                    "playcount": "1251", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "A Decade of..."
+        }, 
+        {
+            "mbid": "f6502227-3dbd-3f06-9e43-92f239eda33f", 
+            "releases": [
+                {
+                    "name": "Back In the Day: The First Four Years", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "218"
+                            }, 
+                            "title": "Narration", 
+                            "artistName": "Deliverance", 
+                            "mbid": "7fef2ed6-0730-46ee-9f75-9936400b2634", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "56", 
+                                "playcount": "87"
+                            }, 
+                            "title": "Who Will Save the Children", 
+                            "artistName": "Deliverance", 
+                            "mbid": "9f8fa0d0-29aa-4d3f-88c0-48f5cfa792d6", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "75"
+                            }, 
+                            "title": "Stand Up and Fight", 
+                            "artistName": "Deliverance", 
+                            "mbid": "642af9ad-2615-4147-8553-73534b7ee853", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "218"
+                            }, 
+                            "title": "Narration", 
+                            "artistName": "Deliverance", 
+                            "mbid": "1e0951af-9392-497a-98ae-40a91357cb0c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1498", 
+                                "playcount": "5581"
+                            }, 
+                            "title": "No Time", 
+                            "artistName": "Deliverance", 
+                            "mbid": "fcd40213-4840-4390-b32f-62f688dac5c1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "218"
+                            }, 
+                            "title": "Narration", 
+                            "artistName": "Deliverance", 
+                            "mbid": "555e8f64-7108-4292-92d4-e0999f864d6a", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "61"
+                            }, 
+                            "title": "Talk From the Stage", 
+                            "artistName": "Deliverance", 
+                            "mbid": "197088f1-d3e3-4667-8b5a-1342a3c0e2a3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "165"
+                            }, 
+                            "title": "Fortress", 
+                            "artistName": "Deliverance", 
+                            "mbid": "82d36a8f-332c-4d45-b7a4-85a3ac39ef10", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1440", 
+                                "playcount": "4553"
+                            }, 
+                            "title": "Deliverance", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4bdbfb9d-f55f-49d0-aa51-323f740a6fbd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "218"
+                            }, 
+                            "title": "Narration", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2a2019fc-8bc2-4dbf-94fd-fc0515707f96", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "829", 
+                                "playcount": "2427"
+                            }, 
+                            "title": "Attack", 
+                            "artistName": "Deliverance", 
+                            "mbid": "f1aa2816-2fc7-460e-9bbb-3ddd427bb4d5", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "262", 
+                                "playcount": "648"
+                            }, 
+                            "title": "A Space Called You", 
+                            "artistName": "Deliverance", 
+                            "mbid": "39f8f14d-70e1-45c3-b784-41b78f11d4f4", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "218"
+                            }, 
+                            "title": "Narration", 
+                            "artistName": "Deliverance", 
+                            "mbid": "13071527-82b4-484b-96ba-af039972a381", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "48"
+                            }, 
+                            "title": "Hold on Tightly", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2ac42ce9-8183-46f0-9c05-9adbb5cffd71", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "472", 
+                                "playcount": "1330"
+                            }, 
+                            "title": "J.I.G.", 
+                            "artistName": "Deliverance", 
+                            "mbid": "8ceb34c5-6533-4996-86ac-a4045507ea87", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1865", 
+                                "playcount": "4955"
+                            }, 
+                            "title": "Temporary Insanity", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4b33b20c-15d7-4790-a0a1-1e411f2e15e1", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "ea53d3fe-ba04-4ac7-9f8a-00e9063b05e6", 
+                    "packaging": null, 
+                    "listeners": "50", 
+                    "date": "", 
+                    "artistName": "Deliverance", 
+                    "playcount": "761", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Back in the Day: The First Four Years"
+        }, 
+        {
+            "mbid": "5399d172-c247-3cbd-9e9f-a5b1bf2aea73", 
+            "releases": [
+                {
+                    "name": "Intense Live Series Vol. 1", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "485"
+                            }, 
+                            "title": "Surrender", 
+                            "artistName": "Deliverance", 
+                            "mbid": "046df561-aeb5-43e4-9c69-4b50406ecef3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "890", 
+                                "playcount": "3288"
+                            }, 
+                            "title": "No Love", 
+                            "artistName": "Deliverance", 
+                            "mbid": "79a19ac0-b2bb-477b-a37b-cb0cc42660ee", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2200", 
+                                "playcount": "7784"
+                            }, 
+                            "title": "This Present Darkness", 
+                            "artistName": "Deliverance", 
+                            "mbid": "14bb7964-8303-4ed7-9161-38931c173d23", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "586", 
+                                "playcount": "2350"
+                            }, 
+                            "title": "Stay of Execution", 
+                            "artistName": "Deliverance", 
+                            "mbid": "4bef119b-cde5-4b10-99b4-13c604f02d80", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "935", 
+                                "playcount": "3798"
+                            }, 
+                            "title": "The Call", 
+                            "artistName": "Deliverance", 
+                            "mbid": "c742f9af-b47e-424c-9b6c-9a6e5e17040d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1498", 
+                                "playcount": "5581"
+                            }, 
+                            "title": "No Time", 
+                            "artistName": "Deliverance", 
+                            "mbid": "bef49273-f098-4deb-8c07-acfb9fc52ecb", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d07de0e1-a383-4722-8f9d-24643a527e32", 
+                    "packaging": null, 
+                    "listeners": "127", 
+                    "date": "1992", 
+                    "artistName": "Deliverance", 
+                    "playcount": "899", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Intense Live Series, Volume 1"
+        }, 
+        {
+            "mbid": "82bd9c27-82dc-3af5-a7d1-788937660ebd", 
+            "releases": [
+                {
+                    "name": "Live At Cornerstone 2001", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "103"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "Deliverance", 
+                            "mbid": "83545a79-44b2-49c5-99b9-45160bd2a50d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "586", 
+                                "playcount": "2350"
+                            }, 
+                            "title": "Stay Of Execution", 
+                            "artistName": "Deliverance", 
+                            "mbid": "3a36a159-1bfc-4895-894f-ebeea2957968", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "58"
+                            }, 
+                            "title": "Introductions", 
+                            "artistName": "Deliverance", 
+                            "mbid": "ca2cc386-acdc-415d-a38d-130e0dd07324", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1498", 
+                                "playcount": "5581"
+                            }, 
+                            "title": "No Time", 
+                            "artistName": "Deliverance", 
+                            "mbid": "2c66b121-ec7f-4842-a66f-10ad9f812fb9", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "333", 
+                                "playcount": "1305"
+                            }, 
+                            "title": "Learn", 
+                            "artistName": "Deliverance", 
+                            "mbid": "a3d09f89-cdf0-48e3-bdc2-a1d501712970", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "487", 
+                                "playcount": "1708"
+                            }, 
+                            "title": "What A Joke", 
+                            "artistName": "Deliverance", 
+                            "mbid": "5d93e36d-8b65-4867-a7e1-1e9a86bbeb07", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "574", 
+                                "playcount": "1699"
+                            }, 
+                            "title": "Belltown", 
+                            "artistName": "Deliverance", 
+                            "mbid": "fa8e00ee-1478-4137-961f-4703e9277ccc", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "138"
+                            }, 
+                            "title": "Psalm 23", 
+                            "artistName": "Deliverance", 
+                            "mbid": "cb359ac1-fffe-4256-a415-c356564250fc", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3025", 
+                                "playcount": "10250"
+                            }, 
+                            "title": "Weapons Of Our Warfare", 
+                            "artistName": "Deliverance", 
+                            "mbid": "68887adc-4883-4d1e-ba4f-6119e154e724", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "49"
+                            }, 
+                            "title": "Thanks", 
+                            "artistName": "Deliverance", 
+                            "mbid": "d911061b-ee92-4136-a8a6-ddb6dd908d20", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1655", 
+                                "playcount": "5650"
+                            }, 
+                            "title": "Victory", 
+                            "artistName": "Deliverance", 
+                            "mbid": "aaa1c3e0-ca87-456f-bdbb-66db00db33df", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "1054"
+                            }, 
+                            "title": "Words To The...", 
+                            "artistName": "Deliverance", 
+                            "mbid": "84820eca-67f6-4d24-b014-c1c6d25d53ed", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "323", 
+                                "playcount": "1352"
+                            }, 
+                            "title": "Sanctuary", 
+                            "artistName": "Deliverance", 
+                            "mbid": "87760de0-b85d-4938-8260-9adef20f0342", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "61241911-3446-4f2b-b4d7-7299d737b5c6", 
+                    "packaging": null, 
+                    "listeners": "26", 
+                    "date": "2001", 
+                    "artistName": "Deliverance", 
+                    "playcount": "319", 
+                    "artistMBID": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
+                }
+            ], 
+            "title": "Live At Cornerstone 2001"
+        }
+    ], 
+    "type": "Group"
+}

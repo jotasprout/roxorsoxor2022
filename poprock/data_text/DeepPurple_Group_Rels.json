@@ -1,0 +1,201 @@
+{
+    "name": "Deep Purple",
+    "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "ed031718-b94c-403d-8a89-438e355db488",
+            "name": "Rod Evans",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "00929331-8a98-4651-9052-6feaf0458b81",
+            "name": "Nick Simper",
+            "attributes": [
+                "background vocals",
+                "bass guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc5f555c-dfa2-4f16-9da5-98342105c23a",
+            "name": "Ritchie Blackmore",
+            "attributes": [
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6bf692e0-baac-4428-94c3-423d52508cf0",
+            "name": "Jon Lord",
+            "attributes": [
+                "background vocals",
+                "keyboard",
+                "organ",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "29c11f6b-df9f-454f-964e-75eedadb4a1e",
+            "name": "Ian Paice",
+            "attributes": [
+                "drums (drum set)",
+                "original",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ff2a0e30-aec1-44dd-ae06-dc78877f512d",
+            "name": "Ian Gillan",
+            "attributes": [
+                "harmonica",
+                "lead vocals",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "583944a8-d43b-42e9-8e3c-29eb89f53587",
+            "name": "Roger Glover",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "78692212-af57-402a-a291-3938ca356500",
+            "name": "Glenn Hughes",
+            "attributes": [
+                "bass guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "8b26558a-1073-45cf-b9a2-233703654ffb",
+            "name": "David Coverdale",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1edd8e9a-0deb-4548-a2a3-679af784f6c6",
+            "name": "Tommy Bolin",
+            "attributes": [
+                "bass guitar",
+                "guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ff2a0e30-aec1-44dd-ae06-dc78877f512d",
+            "name": "Ian Gillan",
+            "attributes": [
+                "harmonica",
+                "lead vocals",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc5f555c-dfa2-4f16-9da5-98342105c23a",
+            "name": "Ritchie Blackmore",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6bf692e0-baac-4428-94c3-423d52508cf0",
+            "name": "Jon Lord",
+            "attributes": [
+                "background vocals",
+                "keyboard",
+                "organ"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "583944a8-d43b-42e9-8e3c-29eb89f53587",
+            "name": "Roger Glover",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "29c11f6b-df9f-454f-964e-75eedadb4a1e",
+            "name": "Ian Paice",
+            "attributes": [
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "47cd459b-06c1-462f-8fdd-27721a03ef68",
+            "name": "Joe Lynn Turner",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ff2a0e30-aec1-44dd-ae06-dc78877f512d",
+            "name": "Ian Gillan",
+            "attributes": [
+                "harmonica",
+                "lead vocals",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "29762c82-bb92-4acd-b1fb-09cc4da250d2",
+            "name": "Joe Satriani",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6f0d1ab4-a0b8-4d59-acda-5fe3b63058f0",
+            "name": "Steve Morse",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7bec6cd1-9602-400c-ab05-47e2d83bdf3d",
+            "name": "Don Airey",
+            "attributes": [
+                "keyboard",
+                "organ"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c0935ffb-77ef-4a8a-84cd-52c65403654c",
+            "name": "Ian Paice feat. Purpendicular",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7575288c-f9eb-4274-ab13-d1b1c07cd5c1",
+            "name": "Purpendicular feat. Ian Paice",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Crashdog",
+    "mbid": "72572672-8ffc-4597-b530-dab7ec9066b3",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "9c9be6d9-1a74-408c-9b48-302ef4bd5bfc",
+            "name": "Brian Grover",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "892526bd-ed4b-4edf-b5eb-f8d9627797a6",
+            "name": "Andrew Mandell",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "genres": [
+        "heavy metal", 
+        "hard rock", 
+        "metal", 
+        "classic rock", 
+        "rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 6.866008996963501, 
+        "Task End": 1565670225.940662, 
+        "Task Start": 1565670219.074653
+    }, 
+    "stats": {
+        "listeners": "14857", 
+        "playcount": "91382"
+    }, 
+    "name": "Ronnie James Dio", 
+    "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2", 
+    "birthday": "1942-07-10", 
+    "date": "2019-08-13", 
+    "albums": [
+        {
+            "mbid": "72909ff1-2823-4ce9-a687-7e8593adf3bf", 
+            "releases": [
+                {
+                    "name": "Mightier Than The Sword: The Ronnie James Dio Story", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6261", 
+                                "playcount": "18950"
+                            }, 
+                            "title": "Carolina County Ball", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "5b881fc1-684e-47bb-bc47-2769e347f1ad", 
+                            "trackNumber": "1", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13278", 
+                                "playcount": "60514"
+                            }, 
+                            "title": "Love Is All", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "aee70154-c33c-4054-9763-1032c0c9204c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "125119", 
+                                "playcount": "697150"
+                            }, 
+                            "title": "The Temple of the King", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "051abadc-c78e-4fa1-a45e-1b24d6dab322", 
+                            "trackNumber": "3", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "170316", 
+                                "playcount": "892721"
+                            }, 
+                            "title": "Catch the Rainbow", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "d833f58e-a29c-42e0-b799-a1bd99d7862e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "177725", 
+                                "playcount": "920471"
+                            }, 
+                            "title": "Stargazer", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "adb7108d-45fb-4320-8e39-6552e027b430", 
+                            "trackNumber": "5", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79075", 
+                                "playcount": "302425"
+                            }, 
+                            "title": "Run With the Wolf", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "8265a184-c224-47ff-9584-c001cc6be9a7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "146587", 
+                                "playcount": "636895"
+                            }, 
+                            "title": "Kill the King", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "5b2d7fdb-93a6-4231-96df-1cc4f65cb0e7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78503", 
+                                "playcount": "343261"
+                            }, 
+                            "title": "Long Live Rock \u2019n\u2019 Roll", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "dd41c781-16e2-4fd1-92b8-c235ebbb2780", 
+                            "trackNumber": "8", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57275", 
+                                "playcount": "220866"
+                            }, 
+                            "title": "Lady of the Lake", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "b2743344-e875-4040-8586-a0f2c059533e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115893", 
+                                "playcount": "461668"
+                            }, 
+                            "title": "Gates of Babylon", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "eac9133f-1ff8-4d66-8223-cce2a4eaa3d9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "154590", 
+                                "playcount": "835796"
+                            }, 
+                            "title": "Die Young", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "cbe61838-9184-4b59-bbde-862ca30682c5", 
+                            "trackNumber": "11", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "317036", 
+                                "playcount": "1901922"
+                            }, 
+                            "title": "Heaven and Hell", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "9ea011c9-d2ba-4e2a-adee-5ad2331f57e9", 
+                            "trackNumber": "12", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "160499", 
+                                "playcount": "878698"
+                            }, 
+                            "title": "Children of the Sea", 
+                            "artistName": "Ronnie James Dio", 
+                            "mbid": "74bf3f71-3a59-44ce-b10c-4524d86bf6aa", 
+                            "trackNumber": "13", 
+                            "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "Remastered", 
+                    "mbid": "1c1f127d-8ed3-4bd6-accc-5483e64087ce", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "0", 
+                    "date": "2011-08-02", 
+                    "artistName": "Ronnie James Dio", 
+                    "playcount": "0", 
+                    "artistMBID": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2"
+                }
+            ], 
+            "title": "Mightier Than the Sword: The Ronnie James Dio Story"
+        }, 
+        {
+            "mbid": "86bdd34c-55e3-418b-abb9-a51da22b0407", 
+            "releases": [], 
+            "title": "Jams and Rarities"
+        }
+    ], 
+    "type": "Person"
+}

@@ -1,0 +1,29 @@
+.pointyHead { cursor: pointer; }
+
+.container {
+    margin-right: 0;
+    margin-left: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#forChart {
+    margin: 10px;
+}
+
+.popStyle {
+    text-align: center;
+}
+
+.rightNum {
+    text-align: right;
+}
+
+.indexArtistArt {
+    max-height: 64px;
+    width: auto;
+}
+
+.assocArtistArt {
+    margin-right: 5px;
+}

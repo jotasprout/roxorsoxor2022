@@ -1,0 +1,2768 @@
+{
+    "genres": [
+        "christian", 
+        "rock", 
+        "alternative", 
+        "christian rock", 
+        "alternative rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 91.87412405014038, 
+        "Task End": 1565498799.584896, 
+        "Task Start": 1565498707.710772
+    }, 
+    "stats": {
+        "listeners": "9099", 
+        "playcount": "214113"
+    }, 
+    "name": "The 77's", 
+    "mbid": "8aad823a-4891-4354-a15a-536274f6736e", 
+    "birthday": "1979", 
+    "date": "2019-08-11", 
+    "albums": [
+        {
+            "mbid": "2dd253b5-8c89-4aa6-84da-5e4f428f2da5", 
+            "releases": [
+                {
+                    "name": "77's", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1171", 
+                                "playcount": "4974"
+                            }, 
+                            "title": "Do It for Love", 
+                            "artistName": "The 77's", 
+                            "mbid": "6e4444b5-4ff9-478f-86f4-a79e8cf614b8", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "942", 
+                                "playcount": "3659"
+                            }, 
+                            "title": "I Can't Get Over It", 
+                            "artistName": "The 77's", 
+                            "mbid": "5f528af3-cd4b-4871-ad68-f07712c1ea30", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2127", 
+                                "playcount": "5169"
+                            }, 
+                            "title": "What Was in That Letter", 
+                            "artistName": "The 77's", 
+                            "mbid": "074f7b0b-8f64-46b2-bd7c-ddd48911e3cc", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2028", 
+                                "playcount": "5421"
+                            }, 
+                            "title": "Pearls Before Swine", 
+                            "artistName": "The 77's", 
+                            "mbid": "91fd43be-0870-41cd-a825-2da930fd9507", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1250", 
+                                "playcount": "6241"
+                            }, 
+                            "title": "The Lust, the Flesh, the Eyes & the Pride of Life", 
+                            "artistName": "The 77's", 
+                            "mbid": "a349deb2-6caa-4c26-ac69-dacea863c448", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2214", 
+                                "playcount": "5274"
+                            }, 
+                            "title": "Frames Without Photographs", 
+                            "artistName": "The 77's", 
+                            "mbid": "ca648fc5-d91c-4852-94f7-d99d0b40531a", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1912", 
+                                "playcount": "4342"
+                            }, 
+                            "title": "Don't Say Goodbye", 
+                            "artistName": "The 77's", 
+                            "mbid": "fe67427a-a40d-4302-a0c0-024d917c1340", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2540", 
+                                "playcount": "6852"
+                            }, 
+                            "title": "Bottom Line", 
+                            "artistName": "The 77's", 
+                            "mbid": "24c2de53-6206-4210-ab46-4e0eee11624c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "595", 
+                                "playcount": "2011"
+                            }, 
+                            "title": "I Could Laugh", 
+                            "artistName": "The 77's", 
+                            "mbid": "05d42aca-7eeb-4366-9f70-e999f216063d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "32e46f56-78b2-407f-9fa1-1641055cd69a", 
+                    "packaging": null, 
+                    "listeners": "21", 
+                    "date": "1987", 
+                    "artistName": "The 77's", 
+                    "playcount": "525", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "77's"
+        }, 
+        {
+            "mbid": "3561462b-3188-3421-bba9-e016d3b4981e", 
+            "releases": [
+                {
+                    "name": "A Golden Field of Radioactive Crows: Radioactive Singles", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "44"
+                            }, 
+                            "title": "Related (radio mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "f1ac3b70-13ba-4b76-bea3-8d768ac36e46", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "192", 
+                                "playcount": "1030"
+                            }, 
+                            "title": "Mr. Magoo", 
+                            "artistName": "The 77's", 
+                            "mbid": "ff064d63-6b22-4d54-b06c-ca3dfb338c63", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "44"
+                            }, 
+                            "title": "Related (jacked mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "5c485894-8b3c-4783-a298-f3e6de888dc3", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Dialogue", 
+                            "artistName": "The 77's", 
+                            "mbid": "737de2f7-619f-4dca-bca0-fd9097af29f4", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "101"
+                            }, 
+                            "title": "Tattoo (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "175dea55-705a-4542-85fd-9e44a73148a8", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "68"
+                            }, 
+                            "title": "Shotgun Angel (cowboy mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "f0d70ef3-356a-4f1a-b456-9d183f515c60", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "cead17c9-1e0f-4852-a452-4878e5698908", 
+                    "packaging": null, 
+                    "listeners": "5", 
+                    "date": "2000", 
+                    "artistName": "The 77's", 
+                    "playcount": "11", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "A Golden Field of Radioactive Crows: Radioactive Singles"
+        }, 
+        {
+            "mbid": "48a1bfca-a2f7-3cb8-bba4-b137e452b01e", 
+            "releases": [
+                {
+                    "name": "Sticks and Stones", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "534", 
+                                "playcount": "2657"
+                            }, 
+                            "title": "MT", 
+                            "artistName": "The 77's", 
+                            "mbid": "8a1d9798-4b76-4fef-aa19-7e567e88d1d2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "522", 
+                                "playcount": "3617"
+                            }, 
+                            "title": "Nowhere Else", 
+                            "artistName": "The 77's", 
+                            "mbid": "dea6703c-583f-4201-8886-6735b76de365", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "2681"
+                            }, 
+                            "title": "This Is the Way Love Is", 
+                            "artistName": "The 77's", 
+                            "mbid": "b7513e5a-451e-47d4-887a-41568e35c585", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "523", 
+                                "playcount": "2993"
+                            }, 
+                            "title": "Perfect Blues", 
+                            "artistName": "The 77's", 
+                            "mbid": "5dee77d9-f60b-45e9-8f51-086fba31cc09", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "506", 
+                                "playcount": "2897"
+                            }, 
+                            "title": "Don't, This Way", 
+                            "artistName": "The 77's", 
+                            "mbid": "bbad28ed-1986-40e2-a81a-75b98c028297", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "402", 
+                                "playcount": "1817"
+                            }, 
+                            "title": "You Walked in the Room", 
+                            "artistName": "The 77's", 
+                            "mbid": "ff524a8d-6aaf-4bff-89d8-518e271af1bf", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "385", 
+                                "playcount": "1655"
+                            }, 
+                            "title": "The Days to Come", 
+                            "artistName": "The 77's", 
+                            "mbid": "8162f77c-b433-4c19-8f3d-aecf62465b04", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "317", 
+                                "playcount": "1234"
+                            }, 
+                            "title": "The Loop", 
+                            "artistName": "The 77's", 
+                            "mbid": "9678a8a7-6929-461b-8093-322138c446fd", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "434", 
+                                "playcount": "2508"
+                            }, 
+                            "title": "God Sends Quails", 
+                            "artistName": "The 77's", 
+                            "mbid": "eb1d344d-404e-4387-b5ad-2ddc038f12c1", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "334", 
+                                "playcount": "1478"
+                            }, 
+                            "title": "Love Without Dreams", 
+                            "artistName": "The 77's", 
+                            "mbid": "b01052b5-d1fc-47a2-8258-13b24c8c36c0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1171", 
+                                "playcount": "4974"
+                            }, 
+                            "title": "Do It For Love", 
+                            "artistName": "The 77's", 
+                            "mbid": "23d25a17-a26f-496b-8eaa-408fc28248ec", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1250", 
+                                "playcount": "6241"
+                            }, 
+                            "title": "The Lust, the Flesh, the Eyes & the Pride of Life", 
+                            "artistName": "The 77's", 
+                            "mbid": "03f8629c-d16e-47ea-9d4b-a4884634d7b9", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2028", 
+                                "playcount": "5421"
+                            }, 
+                            "title": "Pearls Before Swine", 
+                            "artistName": "The 77's", 
+                            "mbid": "643cafe6-f8d3-4d85-9aff-44bc90123a89", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2540", 
+                                "playcount": "6852"
+                            }, 
+                            "title": "Bottom Line", 
+                            "artistName": "The 77's", 
+                            "mbid": "f4f4a83e-1dc0-44be-8e1d-37b371bb4c30", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d01322d6-0050-4be0-b700-178a3aa517bd", 
+                    "packaging": null, 
+                    "listeners": "1586", 
+                    "date": "1990", 
+                    "artistName": "The 77's", 
+                    "playcount": "21175", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Sticks and Stones"
+        }, 
+        {
+            "mbid": "6145a3ad-5e8b-36d1-9410-a29d7e562e60", 
+            "releases": [
+                {
+                    "name": "ep", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "202", 
+                                "playcount": "1102"
+                            }, 
+                            "title": "The Years Go Down", 
+                            "artistName": "The 77's", 
+                            "mbid": "40fb709c-1a47-4e65-8653-d3d5ac31176c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "242", 
+                                "playcount": "1116"
+                            }, 
+                            "title": "Sevens", 
+                            "artistName": "The 77's", 
+                            "mbid": "38030c5f-85c3-49ae-88e7-b6e64ff6a385", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "198", 
+                                "playcount": "1195"
+                            }, 
+                            "title": "Unbalanced", 
+                            "artistName": "The 77's", 
+                            "mbid": "108a4797-fe51-466c-bad8-05e486c7b142", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "333", 
+                                "playcount": "1254"
+                            }, 
+                            "title": "Blue Sky", 
+                            "artistName": "The 77's", 
+                            "mbid": "f3c233a9-b522-45a0-b111-31853df23548", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "91", 
+                                "playcount": "450"
+                            }, 
+                            "title": "The Best I Have", 
+                            "artistName": "The 77's", 
+                            "mbid": "ccf0be9d-77d7-4209-a48a-1509c047eea8", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "86e3f7dd-6cc4-46cd-a737-fe234acecccd", 
+                    "packaging": null, 
+                    "listeners": "237", 
+                    "date": "1999", 
+                    "artistName": "The 77's", 
+                    "playcount": "1723", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "EP"
+        }, 
+        {
+            "mbid": "7b07302f-8935-3cb1-aad5-0d360f35416f", 
+            "releases": [
+                {
+                    "name": "Pray Naked", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "342", 
+                                "playcount": "2256"
+                            }, 
+                            "title": "Woody", 
+                            "artistName": "The 77's", 
+                            "mbid": "f389ab76-6ddc-4ef3-b3f8-389926584044", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "278", 
+                                "playcount": "1573"
+                            }, 
+                            "title": "Smiley Smile", 
+                            "artistName": "The 77's", 
+                            "mbid": "0677c41f-47d5-4441-a3fa-c40f7f7c1348", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "284", 
+                                "playcount": "1822"
+                            }, 
+                            "title": "Phony Eyes", 
+                            "artistName": "The 77's", 
+                            "mbid": "93fec814-b94c-48c5-aa83-37728b52a64b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "322", 
+                                "playcount": "2123"
+                            }, 
+                            "title": "Kites Without Strings", 
+                            "artistName": "The 77's", 
+                            "mbid": "aa5a36a2-b844-40cc-af17-7354f87e1cf4", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "316", 
+                                "playcount": "1969"
+                            }, 
+                            "title": "Happy Roy", 
+                            "artistName": "The 77's", 
+                            "mbid": "dfb361ba-1400-49d7-a64c-28409b394dbf", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "295", 
+                                "playcount": "1741"
+                            }, 
+                            "title": "Deep End", 
+                            "artistName": "The 77's", 
+                            "mbid": "796f3c53-861d-48f3-9512-ce04bb618708", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "371", 
+                                "playcount": "2359"
+                            }, 
+                            "title": "The Rain Kept Falling in Love", 
+                            "artistName": "The 77's", 
+                            "mbid": "406261d9-1676-453c-b638-44721529918a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "247", 
+                                "playcount": "1368"
+                            }, 
+                            "title": "Holy Hold", 
+                            "artistName": "The 77's", 
+                            "mbid": "158babaa-166c-4999-bc24-238e04c6044f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "265", 
+                                "playcount": "1641"
+                            }, 
+                            "title": "Look", 
+                            "artistName": "The 77's", 
+                            "mbid": "e1ebf166-f997-4bd4-96aa-9cfd4ddfd6ea", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "238", 
+                                "playcount": "1352"
+                            }, 
+                            "title": "Nuts for You", 
+                            "artistName": "The 77's", 
+                            "mbid": "1f7c71db-6dfd-4580-a258-4202aeb0123b", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "249", 
+                                "playcount": "1387"
+                            }, 
+                            "title": "Pray Naked", 
+                            "artistName": "The 77's", 
+                            "mbid": "ce0a12ba-7462-4771-8389-22535d73a08d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "245", 
+                                "playcount": "1545"
+                            }, 
+                            "title": "Self-Made Trap", 
+                            "artistName": "The 77's", 
+                            "mbid": "0363433c-1eab-4dd1-a3c6-d1a9fc65b1ae", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "b1055ec2-7fcd-478c-a398-d843c210fa7e", 
+                    "packaging": null, 
+                    "listeners": "287", 
+                    "date": "1992", 
+                    "artistName": "The 77's", 
+                    "playcount": "10164", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Pray Naked"
+        }, 
+        {
+            "mbid": "896cae74-7303-430e-88ca-d8bdc0651709", 
+            "releases": [
+                {
+                    "name": "123", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "288", 
+                                "playcount": "1282"
+                            }, 
+                            "title": "A Different Kind of Light", 
+                            "artistName": "The 77's", 
+                            "mbid": "a0ae14f8-eedf-4cd8-b3ec-be22d654dcb6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "880"
+                            }, 
+                            "title": "How Can You Love", 
+                            "artistName": "The 77's", 
+                            "mbid": "fa241a04-d92e-4fea-ba79-e84fc0d58a03", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "212", 
+                                "playcount": "799"
+                            }, 
+                            "title": "It's So Sad", 
+                            "artistName": "The 77's", 
+                            "mbid": "c30b7a86-26e1-4bbd-a62a-22b3188da8c4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "216", 
+                                "playcount": "775"
+                            }, 
+                            "title": "Falling Down a Hole", 
+                            "artistName": "The 77's", 
+                            "mbid": "f68b2c2a-5d64-49cf-9067-06a14f6519e6", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "324", 
+                                "playcount": "1657"
+                            }, 
+                            "title": "Someone New", 
+                            "artistName": "The 77's", 
+                            "mbid": "f7950e75-ac4b-49ae-b9f2-753c9784ff81", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "194", 
+                                "playcount": "772"
+                            }, 
+                            "title": "Renaissance Man", 
+                            "artistName": "The 77's", 
+                            "mbid": "d6210d7b-2b0e-4b02-84bd-526804d5e338", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "228", 
+                                "playcount": "1038"
+                            }, 
+                            "title": "Ping Pong Over the Abyss", 
+                            "artistName": "The 77's", 
+                            "mbid": "f5ccd986-28b0-4731-8898-a4dfdfa2a097", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "209", 
+                                "playcount": "891"
+                            }, 
+                            "title": "Time Is Slipping Away", 
+                            "artistName": "The 77's", 
+                            "mbid": "86a007b5-f43a-45ed-9627-a86ab7a8b747", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "507"
+                            }, 
+                            "title": "Denomination Blues", 
+                            "artistName": "The 77's", 
+                            "mbid": "c6527da7-f3ba-45a6-9db8-f3eb7494a8e8", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "402"
+                            }, 
+                            "title": "A Different Kind of Light (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "bfadb9d3-fd61-4c85-885b-7fde8141b42e", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "218"
+                            }, 
+                            "title": "How Can You Love (4-Track demo)", 
+                            "artistName": "The 77's", 
+                            "mbid": "6062256d-b17a-40de-a2a0-4dbb6dc1049e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "245"
+                            }, 
+                            "title": "It's So Sad (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "911003bb-5a02-42cc-bffd-aed0cc4a95f7", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "287"
+                            }, 
+                            "title": "Falling Down a Hole (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "57ec2e07-a992-4b07-8c85-8498526e9b8a", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "97", 
+                                "playcount": "232"
+                            }, 
+                            "title": "Ping Pong Over the Abyss (4-Track demo)", 
+                            "artistName": "The 77's", 
+                            "mbid": "fcadfb33-95f5-4e71-9f1b-dae926921eb6", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "121", 
+                                "playcount": "316"
+                            }, 
+                            "title": "Denomination Blues (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "8dceb13d-2367-4eaa-8d07-0ef9bf4adb6c", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "11cab84f-213f-464f-9214-dcaebe26db9a", 
+                    "packaging": null, 
+                    "listeners": "10", 
+                    "date": "1982", 
+                    "artistName": "The 77's", 
+                    "playcount": "53", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "123"
+        }, 
+        {
+            "mbid": "9d6c45da-2f9a-3861-a8d1-c161143ea5bf", 
+            "releases": [
+                {
+                    "name": "A Golden Field of Radioactive Crows", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "437", 
+                                "playcount": "1686"
+                            }, 
+                            "title": "Genuine", 
+                            "artistName": "The 77's", 
+                            "mbid": "2f3f8c45-5b46-4908-8239-27bdbb36fa21", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "209", 
+                                "playcount": "914"
+                            }, 
+                            "title": "Down From You", 
+                            "artistName": "The 77's", 
+                            "mbid": "0c9f1219-f278-438e-b4cd-cadc80d4ca12", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "260", 
+                                "playcount": "1180"
+                            }, 
+                            "title": "U R Trippin'", 
+                            "artistName": "The 77's", 
+                            "mbid": "fe7814cd-8b63-420f-b143-a67c0b96cc98", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "263", 
+                                "playcount": "1100"
+                            }, 
+                            "title": "One More Time", 
+                            "artistName": "The 77's", 
+                            "mbid": "dfcbf47c-a763-4414-8c07-278875827fad", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "191", 
+                                "playcount": "875"
+                            }, 
+                            "title": "Rise", 
+                            "artistName": "The 77's", 
+                            "mbid": "b5e73761-420f-43c0-b78a-7ed854755c07", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "241", 
+                                "playcount": "1196"
+                            }, 
+                            "title": "Leaving", 
+                            "artistName": "The 77's", 
+                            "mbid": "f0fc207a-fcfd-4520-b559-ffe8077933de", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "192", 
+                                "playcount": "1030"
+                            }, 
+                            "title": "Mr. Magoo", 
+                            "artistName": "The 77's", 
+                            "mbid": "7d31c9df-1605-4332-ae2a-5bf3c66a2c09", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "185", 
+                                "playcount": "1205"
+                            }, 
+                            "title": "Related", 
+                            "artistName": "The 77's", 
+                            "mbid": "9f9907cc-d1e6-427a-a2e6-31294bdeb0e2", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "159", 
+                                "playcount": "771"
+                            }, 
+                            "title": "I've Got", 
+                            "artistName": "The 77's", 
+                            "mbid": "f4f210c4-4c10-4b52-a797-51a29c1b936c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "156", 
+                                "playcount": "744"
+                            }, 
+                            "title": "There Forever", 
+                            "artistName": "The 77's", 
+                            "mbid": "2d00791f-b3de-4b6a-8101-f2743ba18e3f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "176", 
+                                "playcount": "899"
+                            }, 
+                            "title": "Mean Green Season", 
+                            "artistName": "The 77's", 
+                            "mbid": "66a713a9-6fed-4009-a919-18f2d6972390", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "163", 
+                                "playcount": "826"
+                            }, 
+                            "title": "Begin", 
+                            "artistName": "The 77's", 
+                            "mbid": "9df710f0-a5f7-43a0-8e30-35aaca30f591", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "7eff5397-6830-45ab-acb2-d45605085384", 
+                    "packaging": null, 
+                    "listeners": "466", 
+                    "date": "2001", 
+                    "artistName": "The 77's", 
+                    "playcount": "9431", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "A Golden Field of Radioactive Crows"
+        }, 
+        {
+            "mbid": "a30114dc-5250-30cb-8129-4c93f4dc29cc", 
+            "releases": [
+                {
+                    "name": "More Miserable Than You'll Ever Be", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "1219"
+                            }, 
+                            "title": "Miserable", 
+                            "artistName": "The 77's", 
+                            "mbid": "d3e07b92-6e4a-4e14-a945-a1ac61b0ec4a", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "125", 
+                                "playcount": "1263"
+                            }, 
+                            "title": "U U U U", 
+                            "artistName": "The 77's", 
+                            "mbid": "dacca4bf-5f45-4ccd-b62f-c59f7d89ff14", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "149", 
+                                "playcount": "883"
+                            }, 
+                            "title": "The Treasure in You", 
+                            "artistName": "The 77's", 
+                            "mbid": "9898e16b-beb8-48a0-b06d-161690bee655", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84", 
+                                "playcount": "341"
+                            }, 
+                            "title": "Come & Gone", 
+                            "artistName": "The 77's", 
+                            "mbid": "b09d5297-4610-4b37-8b2b-a02a8216ff68", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "268"
+                            }, 
+                            "title": "Jesus (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "999235b6-c79c-45a4-8a2b-02d70dc835f3", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "259"
+                            }, 
+                            "title": "I Can't Get Over It (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "24b3ce39-9a9a-473c-a589-55352d3b3e05", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "141"
+                            }, 
+                            "title": "What Was in That Letter (vocal rehearsal)", 
+                            "artistName": "The 77's", 
+                            "mbid": "76a8159e-8a2c-449a-8015-7eeab4e0bbb6", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "250"
+                            }, 
+                            "title": "Do It for Love (stadium mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "3118777f-39ce-467f-ba36-4c044ecbdd47", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "168", 
+                                "playcount": "576"
+                            }, 
+                            "title": "Don't Say Goodbye (demo)", 
+                            "artistName": "The 77's", 
+                            "mbid": "8a5481f7-2ae2-4d6a-b7db-0d9763cc0cc2", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "228", 
+                                "playcount": "1939"
+                            }, 
+                            "title": "Tattoo", 
+                            "artistName": "The 77's", 
+                            "mbid": "eaffda3c-de9c-4183-b684-37e11e69f115", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "222"
+                            }, 
+                            "title": "Miserable (cover version)", 
+                            "artistName": "The 77's", 
+                            "mbid": "ff71b37a-1744-4b8f-94d4-e6b89016b4d0", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5d4b35eb-a360-43ef-a44a-528fd122c40f", 
+                    "packaging": null, 
+                    "listeners": "62", 
+                    "date": "1990", 
+                    "artistName": "The 77's", 
+                    "playcount": "2062", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "More Miserable Than You'll Ever Be"
+        }, 
+        {
+            "mbid": "bdb360c4-7f8d-4c50-98a4-9332f94525f7", 
+            "releases": [
+                {
+                    "name": "Working on the Building", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "147", 
+                                "playcount": "577"
+                            }, 
+                            "title": "Keep Your Lamps Trimmed and Burning", 
+                            "artistName": "The 77's", 
+                            "mbid": "a3fbed21-f1a5-4dda-b90e-d3cd0d982fd4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "128", 
+                                "playcount": "519"
+                            }, 
+                            "title": "Stranger Won\u2019t You Change Your Sinful Ways", 
+                            "artistName": "The 77's", 
+                            "mbid": "0b89e4db-7443-4b3c-8744-81d8be1dc06f", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115", 
+                                "playcount": "417"
+                            }, 
+                            "title": "When My Blue Moon Turns to Gold Again", 
+                            "artistName": "The 77's", 
+                            "mbid": "4f47f0a3-bb35-4688-935d-cea24f506c8e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "796"
+                            }, 
+                            "title": "I\u2019m Gonna Run to the City of Refuge", 
+                            "artistName": "The 77's", 
+                            "mbid": "f92e6180-13e0-49fe-8604-3c95c7049016", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "114", 
+                                "playcount": "458"
+                            }, 
+                            "title": "Everybody Ought to Pray Sometime", 
+                            "artistName": "The 77's", 
+                            "mbid": "74546fe6-1fd1-442e-b699-a25a65971c8c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "419"
+                            }, 
+                            "title": "A Lifetime Without You", 
+                            "artistName": "The 77's", 
+                            "mbid": "1c1b3141-8d0e-4cfc-921e-e8a1d990204a", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c5ddb1a9-3853-49b7-ad67-841d0768ab4d", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "44", 
+                    "date": "2009", 
+                    "artistName": "The 77's", 
+                    "playcount": "306", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Working on the Building"
+        }, 
+        {
+            "mbid": "c5281566-ba73-4732-a23c-00187cd0f52f", 
+            "releases": [
+                {
+                    "name": "Happy Chrimbo!", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "280"
+                            }, 
+                            "title": "Run Rudolph Run", 
+                            "artistName": "The 77's", 
+                            "mbid": "5b9c53d1-a7a4-4120-b6e5-f819ecaad388", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "37", 
+                                "playcount": "185"
+                            }, 
+                            "title": "Blue Christmas", 
+                            "artistName": "The 77's", 
+                            "mbid": "9f102be9-b951-4a3a-ad6e-62f97a6d156b", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "134"
+                            }, 
+                            "title": "Winter Wonderland", 
+                            "artistName": "The 77's", 
+                            "mbid": "fb675a6c-a323-44dd-b10b-c85a158e4a66", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "185"
+                            }, 
+                            "title": "I'll Be Home For Christmas", 
+                            "artistName": "The 77's", 
+                            "mbid": "625c79fd-0bd2-4e59-8322-778f4c941200", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "93"
+                            }, 
+                            "title": "What Child Is This?", 
+                            "artistName": "The 77's", 
+                            "mbid": "a348ca0e-146a-42e3-ae0b-b3aa88d3918b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "85"
+                            }, 
+                            "title": "Hark the Herald Angels Sing", 
+                            "artistName": "The 77's", 
+                            "mbid": "35d06bd0-458a-4051-b6b2-17443a54cebf", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "31", 
+                                "playcount": "143"
+                            }, 
+                            "title": "Silent Night", 
+                            "artistName": "The 77's", 
+                            "mbid": "e2ea279a-2d64-48de-bbfe-1f44924763ab", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "2dbf2b55-6e0f-4742-b66b-48cf5e73ae65", 
+                    "packaging": null, 
+                    "listeners": "26", 
+                    "date": "2001", 
+                    "artistName": "The 77's", 
+                    "playcount": "669", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Happy Chrimbo!"
+        }, 
+        {
+            "mbid": "cc1e4996-9f89-4498-b41d-e71d323e55b6", 
+            "releases": [
+                {
+                    "name": "Fun With Sound", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "20"
+                            }, 
+                            "title": "Gone in a Moment", 
+                            "artistName": "The 77's", 
+                            "mbid": "d82cc471-693c-4878-a555-e46607ef1b03", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "22"
+                            }, 
+                            "title": "A Quiet Little Place", 
+                            "artistName": "The 77's", 
+                            "mbid": "9965ede6-cf02-4064-aca3-8f388a304ff2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "52"
+                            }, 
+                            "title": "My World Inside", 
+                            "artistName": "The 77's", 
+                            "mbid": "80fd1286-7426-40f1-9f88-11dc75052de7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "121", 
+                                "playcount": "169"
+                            }, 
+                            "title": "Thank You for Your Dreams", 
+                            "artistName": "The 77's", 
+                            "mbid": "138b94be-23e2-4b5e-a9bb-02353b302db2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "35"
+                            }, 
+                            "title": "Say So Long to Your Sad Old Love Song", 
+                            "artistName": "The 77's", 
+                            "mbid": "8ee3e787-9467-4cec-af19-f5dbf98e3a4e", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "40"
+                            }, 
+                            "title": "Ride the Waves", 
+                            "artistName": "The 77's", 
+                            "mbid": "13643feb-4dc3-40ed-9f79-8ade7aaa2f43", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "169"
+                            }, 
+                            "title": "Glory Train", 
+                            "artistName": "The 77's", 
+                            "mbid": "1bbf0886-0ac5-4723-9810-0219b884b758", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "35"
+                            }, 
+                            "title": "Guadalupe", 
+                            "artistName": "The 77's", 
+                            "mbid": "a74a9e05-6c8e-46dd-89ad-e1ac204e37cc", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "12"
+                            }, 
+                            "title": "L'Orbis/Jack Spoiler", 
+                            "artistName": "The 77's", 
+                            "mbid": "dd1b538e-1b48-4fdc-82b0-602ab298df5a", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "17"
+                            }, 
+                            "title": "I'm Gonna Run to the City of Refuge", 
+                            "artistName": "The 77's", 
+                            "mbid": "4fc867b2-fea6-4c35-bed6-959c4866832b", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "bb89fafb-e70b-4549-9abd-5d0e58242ae8", 
+                    "packaging": null, 
+                    "listeners": "212", 
+                    "date": "2004", 
+                    "artistName": "The 77's", 
+                    "playcount": "568", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Fun With Sound"
+        }, 
+        {
+            "mbid": "d28a9f85-0ee4-3907-809b-1e37971f4937", 
+            "releases": [
+                {
+                    "name": "Drowning With Land In Sight", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "575", 
+                                "playcount": "2821"
+                            }, 
+                            "title": "Nobody's Fault but Mine", 
+                            "artistName": "The 77's", 
+                            "mbid": "18b1bbe3-540c-4cf4-876c-44dd4e89fc63", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "345", 
+                                "playcount": "1672"
+                            }, 
+                            "title": "Snowblind", 
+                            "artistName": "The 77's", 
+                            "mbid": "9f8285f3-8bdc-4e75-876f-a887868ff3d0", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "286", 
+                                "playcount": "1319"
+                            }, 
+                            "title": "Snake", 
+                            "artistName": "The 77's", 
+                            "mbid": "26704135-6875-4fc5-81f9-da99c9eccb9e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "262", 
+                                "playcount": "1162"
+                            }, 
+                            "title": "Indian Winter", 
+                            "artistName": "The 77's", 
+                            "mbid": "ad377d30-08e6-4b9a-b5c0-8f3e93f67a8e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "310", 
+                                "playcount": "1719"
+                            }, 
+                            "title": "Film at 11", 
+                            "artistName": "The 77's", 
+                            "mbid": "c7706710-b46b-4cbc-9a11-06fdd4f5c051", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "497", 
+                                "playcount": "2297"
+                            }, 
+                            "title": "Mezzo", 
+                            "artistName": "The 77's", 
+                            "mbid": "b042451f-36ee-4296-99bd-7711cedf5665", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "296", 
+                                "playcount": "1430"
+                            }, 
+                            "title": "Cold Cold Night", 
+                            "artistName": "The 77's", 
+                            "mbid": "10ceb0ac-4676-416c-8ecd-1c1fded09809", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "270", 
+                                "playcount": "1456"
+                            }, 
+                            "title": "Dave's Blues", 
+                            "artistName": "The 77's", 
+                            "mbid": "f4a2ebd5-3a78-4764-b8a5-b53aad775ff3", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "243", 
+                                "playcount": "1070"
+                            }, 
+                            "title": "Sounds o' Autumn", 
+                            "artistName": "The 77's", 
+                            "mbid": "b88fbf06-694f-4e56-af4d-3da733ca5a9c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "276", 
+                                "playcount": "1567"
+                            }, 
+                            "title": "The Jig Is Up", 
+                            "artistName": "The 77's", 
+                            "mbid": "0cc81111-4bb1-40bc-9ebb-3c0f27b607ef", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "295", 
+                                "playcount": "1562"
+                            }, 
+                            "title": "Alone Together", 
+                            "artistName": "The 77's", 
+                            "mbid": "ef546fa5-ab1c-4682-9af3-e3013c91aa3a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "270", 
+                                "playcount": "1395"
+                            }, 
+                            "title": "For Crying Out Loud", 
+                            "artistName": "The 77's", 
+                            "mbid": "c8b3743a-5a5b-488d-a02e-8ecde3bfc263", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "224aa83b-7ed7-4331-9b1d-7f67ee80c7b4", 
+                    "packaging": null, 
+                    "listeners": "747", 
+                    "date": "1994", 
+                    "artistName": "The 77's", 
+                    "playcount": "14468", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Drowning With Land in Sight"
+        }, 
+        {
+            "mbid": "de0cb804-e464-32a9-b620-d7e9b6693e97", 
+            "releases": [
+                {
+                    "name": "Echos O' Faith", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "534", 
+                                "playcount": "2657"
+                            }, 
+                            "title": "MT", 
+                            "artistName": "The 77's", 
+                            "mbid": "7c071407-a9e2-4313-afa2-06a278d9a4af", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "522", 
+                                "playcount": "3617"
+                            }, 
+                            "title": "Nowhere Else", 
+                            "artistName": "The 77's", 
+                            "mbid": "00870989-031b-47b0-9481-498f3d90a2c5", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "502"
+                            }, 
+                            "title": "Ba Ba Ba Ba", 
+                            "artistName": "The 77's", 
+                            "mbid": "70a63d6d-f72b-437e-8209-f101e1d7567b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "149", 
+                                "playcount": "883"
+                            }, 
+                            "title": "The Treasure in You", 
+                            "artistName": "The 77's", 
+                            "mbid": "4c305af9-226e-4c74-9672-82f79be623a5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "233"
+                            }, 
+                            "title": "Hard to Say", 
+                            "artistName": "The 77's", 
+                            "mbid": "a2cf4759-4914-4403-8570-5894e0d79a8d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "371", 
+                                "playcount": "2359"
+                            }, 
+                            "title": "The Rain Kept Falling in Love", 
+                            "artistName": "The 77's", 
+                            "mbid": "306c094d-613f-4e20-8369-182840e29617", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2540", 
+                                "playcount": "6852"
+                            }, 
+                            "title": "Bottom Line", 
+                            "artistName": "The 77's", 
+                            "mbid": "a71161c9-bd19-4f22-8401-5d1b59d09c7f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "288", 
+                                "playcount": "1282"
+                            }, 
+                            "title": "A Different Kind of Light", 
+                            "artistName": "The 77's", 
+                            "mbid": "3667f403-a3f6-4fcb-a227-d52b6b391b9c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1250", 
+                                "playcount": "6241"
+                            }, 
+                            "title": "The Lust, the Flesh, the Eyes & the Pride of Life", 
+                            "artistName": "The 77's", 
+                            "mbid": "f2f68237-b467-43fd-83d0-6f7a81606fbc", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "343", 
+                                "playcount": "1623"
+                            }, 
+                            "title": "Caught in an Unguarded Moment", 
+                            "artistName": "The 77's", 
+                            "mbid": "f69a26e7-b476-4418-9319-ec746366608f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1171", 
+                                "playcount": "4974"
+                            }, 
+                            "title": "Do It For Love", 
+                            "artistName": "The 77's", 
+                            "mbid": "59e16e73-20cd-4765-8663-cd6005d7ccf7", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "265", 
+                                "playcount": "1641"
+                            }, 
+                            "title": "Look", 
+                            "artistName": "The 77's", 
+                            "mbid": "a6bae8f5-faf2-4a5f-9422-269fa40f0849", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "125", 
+                                "playcount": "1263"
+                            }, 
+                            "title": "U U U U", 
+                            "artistName": "The 77's", 
+                            "mbid": "ca69b2f4-e294-45db-849b-4c599cb5b576", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "316", 
+                                "playcount": "1969"
+                            }, 
+                            "title": "Happy Roy", 
+                            "artistName": "The 77's", 
+                            "mbid": "11b81554-2d8f-4ef1-81ab-be40f26a1e3f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "434", 
+                                "playcount": "2508"
+                            }, 
+                            "title": "God Sends Quails", 
+                            "artistName": "The 77's", 
+                            "mbid": "e95c4ef4-244f-492d-96a8-bff6c93548b7", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "322", 
+                                "playcount": "2123"
+                            }, 
+                            "title": "Kites Without Strings", 
+                            "artistName": "The 77's", 
+                            "mbid": "364dc2ef-f8c0-4fba-82f7-936148800c6b", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "cecc4b70-271e-4bed-9216-7b6ef85c1dff", 
+                    "packaging": null, 
+                    "listeners": "59", 
+                    "date": "1996", 
+                    "artistName": "The 77's", 
+                    "playcount": "778", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Echos O' Faith"
+        }, 
+        {
+            "mbid": "e214832c-557f-4e45-94b9-d674284c8a39", 
+            "releases": [
+                {
+                    "name": "Late", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "198", 
+                                "playcount": "1195"
+                            }, 
+                            "title": "Unbalanced", 
+                            "artistName": "The 77's", 
+                            "mbid": "54033243-673b-4cbb-bcfe-b13d2fb41f13", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "242", 
+                                "playcount": "1116"
+                            }, 
+                            "title": "Sevens", 
+                            "artistName": "The 77's", 
+                            "mbid": "819e3b49-e86c-4601-912b-66567e9abed6", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "202", 
+                                "playcount": "1102"
+                            }, 
+                            "title": "The Years Go Down", 
+                            "artistName": "The 77's", 
+                            "mbid": "d5171d89-62c5-4200-be1d-ddf3ac144a22", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "248"
+                            }, 
+                            "title": "Best I Had", 
+                            "artistName": "The 77's", 
+                            "mbid": "c9673572-a1a7-45a2-b288-3bf5e80688e4", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "333", 
+                                "playcount": "1254"
+                            }, 
+                            "title": "Blue Sky", 
+                            "artistName": "The 77's", 
+                            "mbid": "0c9ad8d5-6117-4d13-b6b6-093a2b741473", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "141"
+                            }, 
+                            "title": "Related (Unreleased Jacked version)", 
+                            "artistName": "The 77's", 
+                            "mbid": "daa4f8df-530b-4582-bafa-75eaa3d861ee", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "69", 
+                                "playcount": "178"
+                            }, 
+                            "title": "Mr. Magoo (alternate mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "8d4000c1-d7f6-4c83-b023-1cb40e8b9bdc", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "189"
+                            }, 
+                            "title": "Flowers in the Sand (alternate mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "b20547fa-48f8-4241-852f-88e16b2651a7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "223"
+                            }, 
+                            "title": "Outskirts (alternate mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "f4098e2f-93c3-44cf-9bf3-c6ed0b28b04c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "342"
+                            }, 
+                            "title": "You Still Love Me (alternate mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "95805f48-54b9-40ac-ac17-a77263130ced", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "241"
+                            }, 
+                            "title": "Honey Run (instrumental mix)", 
+                            "artistName": "The 77's", 
+                            "mbid": "3b7b7990-d4b0-4609-bdee-12b4cce71e44", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "121", 
+                                "playcount": "415"
+                            }, 
+                            "title": "Shotgun Angel", 
+                            "artistName": "The 77's", 
+                            "mbid": "35aac200-566c-4069-b550-382325e687c4", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "76"
+                            }, 
+                            "title": "Go With God but Go (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "b20d9e0d-f9fa-4b4c-9244-e6b13e86a83d", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "207"
+                            }, 
+                            "title": "Perfect Blues (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "d4904e73-1f90-44c4-909b-eac7bb282725", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "32", 
+                                "playcount": "90"
+                            }, 
+                            "title": "Dave's Blues (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "9e10f2fc-0632-486f-b999-430509437ece", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "121", 
+                                "playcount": "316"
+                            }, 
+                            "title": "Denomination Blues (live)", 
+                            "artistName": "The 77's", 
+                            "mbid": "4c02ac49-e27c-420f-a8cb-c9ee3088d545", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "34ee2921-8216-4afa-88f8-1b6c420eb17c", 
+                    "packaging": null, 
+                    "listeners": "146", 
+                    "date": "2000", 
+                    "artistName": "The 77's", 
+                    "playcount": "2539", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Late"
+        }, 
+        {
+            "mbid": "e974cda3-7d0e-3fb5-a52e-9ee0741f4c08", 
+            "releases": [
+                {
+                    "name": "Holy Ghost Building", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "183", 
+                                "playcount": "691"
+                            }, 
+                            "title": "I'm Working on a Building", 
+                            "artistName": "The 77's", 
+                            "mbid": "a4c7e40d-4f52-433a-8ec1-789c68b7800b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "147", 
+                                "playcount": "577"
+                            }, 
+                            "title": "Keep Your Lamps Trimmed and Burning", 
+                            "artistName": "The 77's", 
+                            "mbid": "484e3e3b-9192-4d01-ab39-59064fadf37e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "128", 
+                                "playcount": "519"
+                            }, 
+                            "title": "Stranger Won't You Change Your Sinful Ways", 
+                            "artistName": "The 77's", 
+                            "mbid": "a384c3d4-fa9d-4509-a852-c2138b376e87", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "134", 
+                                "playcount": "532"
+                            }, 
+                            "title": "I'll Remember You, Love, in My Prayers", 
+                            "artistName": "The 77's", 
+                            "mbid": "9882960c-e3db-46d6-a258-1616d5f549e1", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "129", 
+                                "playcount": "618"
+                            }, 
+                            "title": "You're Gonna Be Sorry", 
+                            "artistName": "The 77's", 
+                            "mbid": "ec6c2bb8-5be2-425e-92e6-65733bba4566", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "127", 
+                                "playcount": "470"
+                            }, 
+                            "title": "What Would You Give in Exchange for Your Soul", 
+                            "artistName": "The 77's", 
+                            "mbid": "3a1647b0-f586-4b09-8ac9-b757596408dd", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "116", 
+                                "playcount": "459"
+                            }, 
+                            "title": "He's a Mighty Good Leader", 
+                            "artistName": "The 77's", 
+                            "mbid": "54091b6d-f983-44a6-a4cf-eab3e0d0750a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115", 
+                                "playcount": "417"
+                            }, 
+                            "title": "When My Blue Moon Turns to Gold Again", 
+                            "artistName": "The 77's", 
+                            "mbid": "644554f9-4a81-4a4b-9238-41042225a4c9", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "114", 
+                                "playcount": "458"
+                            }, 
+                            "title": "Everybody Ought to Pray Sometime", 
+                            "artistName": "The 77's", 
+                            "mbid": "91743d41-d267-4859-8fac-4e949447c561", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "796"
+                            }, 
+                            "title": "I'm Gonna Run to the City of Refuge", 
+                            "artistName": "The 77's", 
+                            "mbid": "1888e226-b7ce-486b-a973-64d6ac96b13d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "419"
+                            }, 
+                            "title": "A Lifetime Without You", 
+                            "artistName": "The 77's", 
+                            "mbid": "0520ea31-a98a-46e9-aed6-df84764d9b2b", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "6c5bb883-358a-4cf1-8b16-113772e60eb3", 
+                    "packaging": null, 
+                    "listeners": "213", 
+                    "date": "2008", 
+                    "artistName": "The 77's", 
+                    "playcount": "4657", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Holy Ghost Building"
+        }, 
+        {
+            "mbid": "f031348e-fed9-332f-af7f-b18229ae8b48", 
+            "releases": [
+                {
+                    "name": "Direct", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "100", 
+                                "playcount": "636"
+                            }, 
+                            "title": "Born on Separate Days", 
+                            "artistName": "The 77's", 
+                            "mbid": "2c8dbb4a-5940-4b76-8e94-25404bb081af", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "456"
+                            }, 
+                            "title": "Perfect", 
+                            "artistName": "The 77's", 
+                            "mbid": "8a5853cd-387f-4ab5-b8e6-51e0e8335da7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "93", 
+                                "playcount": "427"
+                            }, 
+                            "title": "Roesbud", 
+                            "artistName": "The 77's", 
+                            "mbid": "f684f680-ca70-4546-ba63-e28dcb06464d", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "131", 
+                                "playcount": "868"
+                            }, 
+                            "title": "Dig My Heels", 
+                            "artistName": "The 77's", 
+                            "mbid": "fe90d295-41a8-4093-8736-99301f51052b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "82", 
+                                "playcount": "391"
+                            }, 
+                            "title": "Lifeline", 
+                            "artistName": "The 77's", 
+                            "mbid": "81157af1-4d38-4c67-b32f-b2c17fe64ba9", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Take My Mind Off", 
+                            "artistName": "The 77's", 
+                            "mbid": "08ee8b71-3585-4cef-adf9-2d50c3da9fde", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "7a1f53dc-fe89-4649-9013-d168d6c36cdd", 
+                    "packaging": null, 
+                    "listeners": "135", 
+                    "date": "2002", 
+                    "artistName": "The 77's", 
+                    "playcount": "2557", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Direct"
+        }, 
+        {
+            "mbid": "f2377028-b494-43eb-aa0d-a05094a74c95", 
+            "releases": [
+                {
+                    "name": "Ninety Nine", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "333", 
+                                "playcount": "1254"
+                            }, 
+                            "title": "Blue Sky", 
+                            "artistName": "The 77's", 
+                            "mbid": "b1ea9026-566d-4d84-946a-27e9f22f575d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "237", 
+                                "playcount": "1160"
+                            }, 
+                            "title": "Flowers In the Sand", 
+                            "artistName": "The 77's", 
+                            "mbid": "687d8279-8317-4d7d-8b0f-0cbab7534875", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "267", 
+                                "playcount": "1468"
+                            }, 
+                            "title": "Outskirts", 
+                            "artistName": "The 77's", 
+                            "mbid": "90850c7a-4e6b-42b9-9e61-4289f9a2ff29", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "48", 
+                                "playcount": "115"
+                            }, 
+                            "title": "The Boat Ashore", 
+                            "artistName": "The 77's", 
+                            "mbid": "a773e722-e74d-44b5-8219-3a7a277686a8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "157"
+                            }, 
+                            "title": "The Stellazine Prophecy", 
+                            "artistName": "The 77's", 
+                            "mbid": "9fa4101b-7f91-4e80-a13e-307112f4eebd", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "248"
+                            }, 
+                            "title": "Best I Had", 
+                            "artistName": "The 77's", 
+                            "mbid": "42b25325-5a0f-4af1-b4c3-4d7a8f506d69", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "36", 
+                                "playcount": "93"
+                            }, 
+                            "title": "Blood And Roses/Pearls Before Swine", 
+                            "artistName": "The 77's", 
+                            "mbid": "dfed84b6-9717-44fe-af69-ffb05b927c18", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "345", 
+                                "playcount": "1672"
+                            }, 
+                            "title": "Snowblind", 
+                            "artistName": "The 77's", 
+                            "mbid": "0675e593-ed08-41a5-abec-97bef14df1b3", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "6f56c7c9-6816-4dfd-afb8-e31f0cf09842", 
+                    "packaging": null, 
+                    "listeners": "10", 
+                    "date": "2007", 
+                    "artistName": "The 77's", 
+                    "playcount": "115", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Ninety Nine"
+        }, 
+        {
+            "mbid": "f8052e97-aa82-3083-8bbc-215b23d335f4", 
+            "releases": [
+                {
+                    "name": "When Numbers Get Serious", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "385", 
+                                "playcount": "1655"
+                            }, 
+                            "title": "The Days to Come", 
+                            "artistName": "The 77's", 
+                            "mbid": "1843f82b-f112-461f-bc9d-0fe714cae23e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Paint It Black", 
+                            "artistName": "The 77's", 
+                            "mbid": "51a58a24-2faa-42f2-b017-b88c466774a7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "2681"
+                            }, 
+                            "title": "This Is the Way Love Is", 
+                            "artistName": "The 77's", 
+                            "mbid": "92973bb0-a077-4a3e-80e1-b2e1b9d6ff0b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "295", 
+                                "playcount": "1562"
+                            }, 
+                            "title": "Alone Together", 
+                            "artistName": "The 77's", 
+                            "mbid": "98bac04c-6e99-4f5c-bd29-6946489ff9bf", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "237", 
+                                "playcount": "1160"
+                            }, 
+                            "title": "Flowers in the Sand", 
+                            "artistName": "The 77's", 
+                            "mbid": "1013d6e8-c7c1-45d8-8861-cffd9d12c13a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "345", 
+                                "playcount": "1672"
+                            }, 
+                            "title": "Snowblind", 
+                            "artistName": "The 77's", 
+                            "mbid": "50a6c077-6a83-49c6-95fc-37c074339412", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "267", 
+                                "playcount": "1468"
+                            }, 
+                            "title": "Outskirts", 
+                            "artistName": "The 77's", 
+                            "mbid": "c4d40d87-4459-4613-a139-600e5cbaaaa6", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "342", 
+                                "playcount": "2256"
+                            }, 
+                            "title": "Woody", 
+                            "artistName": "The 77's", 
+                            "mbid": "e488761e-11cd-4ebf-a938-6b154d692fae", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "575", 
+                                "playcount": "2821"
+                            }, 
+                            "title": "Nobody's Fault but Mine", 
+                            "artistName": "The 77's", 
+                            "mbid": "d7f41037-c76a-417b-9fdc-2e76a16e07f8", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "185"
+                            }, 
+                            "title": "Pick Up the Pieces", 
+                            "artistName": "The 77's", 
+                            "mbid": "9280ae92-2480-419a-86a1-9011d337d919", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "235", 
+                                "playcount": "1095"
+                            }, 
+                            "title": "Honesty", 
+                            "artistName": "The 77's", 
+                            "mbid": "faa69ebd-e5f4-411c-bfe2-4ab51ac12db3", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "270", 
+                                "playcount": "1456"
+                            }, 
+                            "title": "Dave's Blues", 
+                            "artistName": "The 77's", 
+                            "mbid": "60aa863a-271a-4ae1-a95b-8dd2670718e1", 
+                            "trackNumber": "12", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "434", 
+                                "playcount": "2508"
+                            }, 
+                            "title": "God Sends Quails", 
+                            "artistName": "The 77's", 
+                            "mbid": "42869561-3218-4742-b3c0-63d62e132068", 
+                            "trackNumber": "13", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2028", 
+                                "playcount": "5421"
+                            }, 
+                            "title": "Pearls Before Swine", 
+                            "artistName": "The 77's", 
+                            "mbid": "d700a170-dd9a-4d81-91fa-08bd0acd1f85", 
+                            "trackNumber": "14", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "179"
+                            }, 
+                            "title": "Bridge of Sighs", 
+                            "artistName": "The 77's", 
+                            "mbid": "7a733963-c189-4ee8-8605-5e752a6707d5", 
+                            "trackNumber": "15", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "140"
+                            }, 
+                            "title": "Saved", 
+                            "artistName": "The 77's", 
+                            "mbid": "839834a3-b712-44cb-8b6b-f563a1b951e5", 
+                            "trackNumber": "16", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "6770ef5c-4ad3-4074-a7c4-89de1b1b5d5a", 
+                    "packaging": null, 
+                    "listeners": "99", 
+                    "date": "2000", 
+                    "artistName": "The 77's", 
+                    "playcount": "1964", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "When Numbers Get Serious"
+        }, 
+        {
+            "mbid": "faa3cf3e-d8e7-3874-b91a-6799d4288285", 
+            "releases": [
+                {
+                    "name": "Eighty Eight", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "523", 
+                                "playcount": "2993"
+                            }, 
+                            "title": "Perfect Blues", 
+                            "artistName": "The 77's", 
+                            "mbid": "29d05c55-8ed6-470d-9604-34763632824c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "942", 
+                                "playcount": "3659"
+                            }, 
+                            "title": "I Can't Get Over It", 
+                            "artistName": "The 77's", 
+                            "mbid": "98ef3f88-bc66-4028-819f-47bb68b58b7d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "698"
+                            }, 
+                            "title": "Wild Blue", 
+                            "artistName": "The 77's", 
+                            "mbid": "38f3cb9c-b0b0-4135-9c6f-9a29fa453df9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "142", 
+                                "playcount": "623"
+                            }, 
+                            "title": "Mary and the Baby Elvis", 
+                            "artistName": "The 77's", 
+                            "mbid": "16d5de29-c944-4f6c-97f3-2c532c9a381f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "153", 
+                                "playcount": "862"
+                            }, 
+                            "title": "Closer", 
+                            "artistName": "The 77's", 
+                            "mbid": "fa4e997e-820a-4c51-86ab-818c41753e59", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "134", 
+                                "playcount": "712"
+                            }, 
+                            "title": "Where It's At", 
+                            "artistName": "The 77's", 
+                            "mbid": "7d3f4a38-606a-48e5-a903-07835404d9a3", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1250", 
+                                "playcount": "6241"
+                            }, 
+                            "title": "The Lust, the Flesh, the Eyes & the Pride of Life", 
+                            "artistName": "The 77's", 
+                            "mbid": "c668e58c-7bb0-4a0e-bdd2-ad0afc5bcd61", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "117", 
+                                "playcount": "562"
+                            }, 
+                            "title": "Over Under Sideways Down", 
+                            "artistName": "The 77's", 
+                            "mbid": "b249d80a-1f0a-4dca-a1e4-b7c6837aa66a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "425", 
+                                "playcount": "2275"
+                            }, 
+                            "title": "Mercy Mercy", 
+                            "artistName": "The 77's", 
+                            "mbid": "053183c0-6ca5-4326-a9c3-75bd4cae27cb", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "326", 
+                                "playcount": "1678"
+                            }, 
+                            "title": "You Don't Scare Me", 
+                            "artistName": "The 77's", 
+                            "mbid": "b915f324-432f-4223-98d8-c33e066cb3f9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "595", 
+                                "playcount": "2011"
+                            }, 
+                            "title": "I Could Laugh", 
+                            "artistName": "The 77's", 
+                            "mbid": "79aefafb-092c-40df-bb7a-d06cf11b1a80", 
+                            "trackNumber": "11", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "10dc48c6-41c2-4c6f-af8f-06221f006f8a", 
+                    "packaging": null, 
+                    "listeners": "148", 
+                    "date": "1991", 
+                    "artistName": "The 77's", 
+                    "playcount": "2925", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Eighty Eight"
+        }, 
+        {
+            "mbid": "fc43d10e-adc8-3e2a-b619-c041748835c3", 
+            "releases": [
+                {
+                    "name": "Tom Tom Blues", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "313", 
+                                "playcount": "1916"
+                            }, 
+                            "title": "Rocks in Your Head", 
+                            "artistName": "The 77's", 
+                            "mbid": "d008706f-989f-4b12-8183-ce7579814c41", 
+                            "trackNumber": "1", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "235", 
+                                "playcount": "1095"
+                            }, 
+                            "title": "Honesty", 
+                            "artistName": "The 77's", 
+                            "mbid": "2bc9db2d-f73a-4245-b8f4-12e7f03c2c65", 
+                            "trackNumber": "2", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "204", 
+                                "playcount": "907"
+                            }, 
+                            "title": "You Still Love Me", 
+                            "artistName": "The 77's", 
+                            "mbid": "63df6582-3593-4488-9ade-6924714d76b6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "267", 
+                                "playcount": "1468"
+                            }, 
+                            "title": "Outskirts", 
+                            "artistName": "The 77's", 
+                            "mbid": "ef487cad-ac64-4dac-85f2-d9a5ffd37d19", 
+                            "trackNumber": "4", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "237", 
+                                "playcount": "1160"
+                            }, 
+                            "title": "Flowers in the Sand", 
+                            "artistName": "The 77's", 
+                            "mbid": "5d67e440-8f66-4d02-9bb1-9a620e7a7e31", 
+                            "trackNumber": "5", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "199", 
+                                "playcount": "829"
+                            }, 
+                            "title": "Don't Leave Me Long", 
+                            "artistName": "The 77's", 
+                            "mbid": "9b8eeaca-c059-4172-9aab-0a3ec1f82009", 
+                            "trackNumber": "6", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "196", 
+                                "playcount": "829"
+                            }, 
+                            "title": "Gravy Chain", 
+                            "artistName": "The 77's", 
+                            "mbid": "651731b7-6168-4e8f-8797-910f65014df5", 
+                            "trackNumber": "7", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "184", 
+                                "playcount": "760"
+                            }, 
+                            "title": "Five in the Nave", 
+                            "artistName": "The 77's", 
+                            "mbid": "ff0fc71b-7803-403f-b260-f85dbd52e571", 
+                            "trackNumber": "8", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "179", 
+                                "playcount": "747"
+                            }, 
+                            "title": "Earache", 
+                            "artistName": "The 77's", 
+                            "mbid": "50adf9b9-e4a4-43f7-976a-a70b3cd54c57", 
+                            "trackNumber": "9", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "188", 
+                                "playcount": "706"
+                            }, 
+                            "title": "Deliverance", 
+                            "artistName": "The 77's", 
+                            "mbid": "3894e272-1da4-4ea1-aba6-983221608fdb", 
+                            "trackNumber": "10", 
+                            "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0a48afbc-6d4a-4a53-86f3-3be8f259e6c5", 
+                    "packaging": null, 
+                    "listeners": "342", 
+                    "date": "1995", 
+                    "artistName": "The 77's", 
+                    "playcount": "7642", 
+                    "artistMBID": "8aad823a-4891-4354-a15a-536274f6736e"
+                }
+            ], 
+            "title": "Tom Tom Blues"
+        }
+    ], 
+    "type": "Group"
+}

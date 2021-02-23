@@ -1,0 +1,2615 @@
+{
+    "genres": [
+        "Grunge", 
+        "new wave", 
+        "indie", 
+        "christian", 
+        "Christian Indie"
+    ], 
+    "taskDuration": {
+        "Task Duration": 92.98559784889221, 
+        "Task End": 1584506643.465772, 
+        "Task Start": 1584506550.480174
+    }, 
+    "stats": {
+        "listeners": "501", 
+        "playcount": "17082"
+    }, 
+    "name": "L.S.U.", 
+    "mbid": "f2b81310-d559-4fd7-957d-2555c3887ab6", 
+    "birthday": "1986", 
+    "date": "2020-03-18", 
+    "albums": [
+        {
+            "mbid": "286afc50-ccca-3649-a3f6-59bfc1afb0b1", 
+            "releases": [
+                {
+                    "name": "Us Kids", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Where You Going", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9b597f47-33bc-4e99-98e8-ee7fdd00eb74", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Jetstream", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "09c6ff69-f7f8-4ad1-b87b-4abcf4d53efb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Life", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "17735a19-839c-4594-8bb3-23e219493d88", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Oh Yeah", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a61e1917-3120-4021-9ac7-0c76255143d6", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "New", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "6ecae266-9f38-43bc-b978-555f25ac37db", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Young", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9b664f44-2985-4529-aa05-6e9bc577c5c8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Blue", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f27055f1-40a9-496f-bded-172b2103f28b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Operation", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "92582152-2454-4abf-a5ba-85fd92bfdafc", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "I Am", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4f104b51-9b17-4e42-954b-71ab3f8d7e03", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Us Kids", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "fa712923-be7e-443a-b3a4-cfddce19bd9c", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Take Me Over", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c3a60e51-60ff-4f12-8099-1f7ad9419c6e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Genocide", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "8af0881d-c797-4252-8cb7-16e9ba500a7a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Isaiah 36", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b87e24f8-3314-48bd-896d-378b92f8fde6", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Christianity", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4d4b2926-abd7-4ddd-9612-a7113d1f1b3f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "In My Room", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c8edb06a-35ef-4c69-9925-dbbb76f804c3", 
+                            "trackNumber": "15", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "I Have a Car", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "964579c1-c67e-40d4-bbdd-79049f921b1a", 
+                            "trackNumber": "16", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Lotsa Girls", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "8c2aec9e-d45a-4636-b376-1818bd72b305", 
+                            "trackNumber": "17", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "A Lot Like You", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9b0941d6-78d4-4bf1-8e65-ad6a580c854c", 
+                            "trackNumber": "18", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "My Life", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f178194e-ddc1-4c63-b604-5dcf75eaecf8", 
+                            "trackNumber": "19", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Down Again", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "943f8183-37e5-4b76-8a1a-31c630f3c422", 
+                            "trackNumber": "20", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Go Around", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "6d150474-d534-43af-ac6d-0f9da915702f", 
+                            "trackNumber": "21", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Little Maids", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "97ec1279-7bd2-47ac-b9dc-d1193a13d374", 
+                            "trackNumber": "22", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Fighter", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a9b029bc-094c-4789-ac30-a0f1ef5088b2", 
+                            "trackNumber": "23", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b1d39048-8616-45fa-887a-76c8af088e1a", 
+                    "packaging": null, 
+                    "listeners": "5", 
+                    "date": "1981", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "25", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Us Kids"
+        }, 
+        {
+            "mbid": "44812dc0-e794-3662-9ba1-a9042cd46ee7", 
+            "releases": [
+                {
+                    "name": "A Kiss of Life", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "22"
+                            }, 
+                            "title": "She's on Fire", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c3c259e8-f6a4-4526-ae2a-e5d5008a5500", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "5"
+                            }, 
+                            "title": "I Pray You Pray", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "933695c9-9812-43af-8ed2-df90e844f31b", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "19"
+                            }, 
+                            "title": "I Can't Wait", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "95bcf135-8fe6-4569-bb3d-05237f4583f9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Choose to Be True", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c9ca0f76-2266-4ae9-9f39-d92bb56b588c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Highway to Zion", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b472879f-7a38-413c-a63a-e09ed9643713", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Dreamin'", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a4a83073-9159-496c-a08a-4e50b1c6e4d3", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Love Boy Love Girl", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "1a90d8a6-a557-4118-b592-953622c9b5e3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Turn, Turn, Turn", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "e19921c9-a512-4b7e-83f9-acbb14c3756a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "We Live for the Son", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "39dbb5fb-b02f-41d3-84a8-781de0fb6297", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "43"
+                            }, 
+                            "title": "Free Her", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "914ff2d5-e793-49e3-b97a-2050d51b6d43", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "8"
+                            }, 
+                            "title": "See Me Fall", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "02b1ad6d-62c5-4a27-b406-b592110fee4a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "42e8fda9-b0e6-4757-918f-33f8e01f6c1c", 
+                    "packaging": null, 
+                    "listeners": "8", 
+                    "date": "1986", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "82", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "A Kiss of Life"
+        }, 
+        {
+            "mbid": "8e61c4a4-1e89-3340-986e-048f8107e2bc", 
+            "releases": [
+                {
+                    "name": "Shaded Pain", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "200"
+                            }, 
+                            "title": "Jordan River", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a7a9f5a9-8386-4869-b1ce-88f7a2616e56", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "181"
+                            }, 
+                            "title": "Bye Bye Colour", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4a1b2619-fbce-4913-89fe-9b01d3daf556", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "226"
+                            }, 
+                            "title": "Die Baby Die", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f62ea4a9-8f11-455c-8528-0ec9591f44b0", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "148"
+                            }, 
+                            "title": "Lonely Boy", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f3ac5ad5-5feb-469a-aa02-3fa11ebfaff8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "150"
+                            }, 
+                            "title": "Our Time Has Come", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "bc1d071e-a97c-4af7-97f1-a7eca1cbf7fa", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "159"
+                            }, 
+                            "title": "Tether to Tassel", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "59f12cbc-57d2-4472-b318-d9bdf2b4f5ff", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "182"
+                            }, 
+                            "title": "I'm Torn", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "009b527f-b662-412b-95d0-c049f0d99a37", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "190"
+                            }, 
+                            "title": "Plague of Flies", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "522af237-681c-4431-a14b-a835e5b47bd9", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "182"
+                            }, 
+                            "title": "More to Life", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "444ec5ac-9cad-46c0-978a-fe3730d64466", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "209"
+                            }, 
+                            "title": "Shaded Pain", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "aee2ff9f-7992-4863-bf42-0795daccff94", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d1343d7d-d84a-4e1a-abb5-7ebbde3dd159", 
+                    "packaging": null, 
+                    "listeners": "84", 
+                    "date": "1987", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "1621", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Shaded Pain"
+        }, 
+        {
+            "mbid": "df77580f-f49d-3231-8e8f-c4d891c30fad", 
+            "releases": [
+                {
+                    "name": "Wakin Up the Dead", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "306"
+                            }, 
+                            "title": "The Bomb", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "edeff43f-7b73-4a6b-ba46-d5daf61dceeb", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "226"
+                            }, 
+                            "title": "Ocean Blue", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b0d93b52-c804-4165-9c49-d13ea43f3fbf", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "201"
+                            }, 
+                            "title": "Touch", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "fde30780-ff05-4e8c-9672-5c9a3daba896", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "69", 
+                                "playcount": "290"
+                            }, 
+                            "title": "House of Love", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d82ae774-3643-47bc-85f0-b658ba935ada", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "166"
+                            }, 
+                            "title": "Revival Nineties", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "5a0486de-387e-478f-99b1-e74fe06c31c3", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "193"
+                            }, 
+                            "title": "Carry Me to Cairo", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "43e4ca56-e86a-4799-a587-3f9fac87fad7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "150"
+                            }, 
+                            "title": "Come ALive Again", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "5d3d3e74-8313-43c9-915d-141ff76df427", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "183"
+                            }, 
+                            "title": "Dancin' in the Kettle", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "03cd8a8e-4289-4f32-8e55-a5f5ca9ba814", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "134"
+                            }, 
+                            "title": "I Need You So", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2ac3ba88-2caa-4d7e-a33e-d4942ec8c997", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "123"
+                            }, 
+                            "title": "Nineties Tease", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2f4af27a-4a68-4fae-a9df-642577ac3dd9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "210"
+                            }, 
+                            "title": "Wakin' Up the Dead", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "e648674c-3e8d-4a1c-b94f-eaf6bb0a3d2d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "3ca2161e-0b46-4472-8500-aa82dac028f8", 
+                    "packaging": null, 
+                    "listeners": "10", 
+                    "date": "1989", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "114", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Wakin Up the Dead"
+        }, 
+        {
+            "mbid": "c86b8e7d-a88f-3e6b-b983-a347857f97e5", 
+            "releases": [
+                {
+                    "name": "This Is the Healing", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "233"
+                            }, 
+                            "title": "Miracle", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "43a6f81a-4d5a-4b19-983f-fb7d261f4778", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "156"
+                            }, 
+                            "title": "War", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "72b8261c-0677-4b4e-ab05-319c1c51acec", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Suicide", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "eb5ebfe9-b780-4f3a-9100-ac489990c961", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "168"
+                            }, 
+                            "title": "Not a Cuss Word", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b94b965b-bc97-4fb1-909a-360c1edbab5c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "157"
+                            }, 
+                            "title": "Hummingbird", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "60a5719e-0bbc-4e85-97ae-12b18bb7b495", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "174"
+                            }, 
+                            "title": "Loved One", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "cb33a88e-62ef-4d1c-bbe7-343504352419", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "147"
+                            }, 
+                            "title": "Shallow", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "62978561-b632-4205-8917-8ab86fd67504", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "160"
+                            }, 
+                            "title": "Chucky", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "855847f2-c64e-49d8-bdbf-a1b63657c6ba", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "150"
+                            }, 
+                            "title": "G.G.G.", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "1a995d9e-2614-4d9f-b544-35cadb701748", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96", 
+                                "playcount": "264"
+                            }, 
+                            "title": "This Is The Healing", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f4978e09-a939-41b9-ab16-7e0e6dab5505", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "19"
+                            }, 
+                            "title": "I Can't Wait", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "be18bf68-918e-413b-a286-9d84e8454b53", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "7fda1122-cc82-479c-824a-ac296dd714da", 
+                    "packaging": null, 
+                    "listeners": "122", 
+                    "date": "1991", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "1360", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }, 
+                {
+                    "name": "This Is the Healing", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "233"
+                            }, 
+                            "title": "Miracle", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "43a6f81a-4d5a-4b19-983f-fb7d261f4778", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "67", 
+                                "playcount": "156"
+                            }, 
+                            "title": "War", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "72b8261c-0677-4b4e-ab05-319c1c51acec", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Suicide", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "eb5ebfe9-b780-4f3a-9100-ac489990c961", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "168"
+                            }, 
+                            "title": "Not a Cuss Word", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b94b965b-bc97-4fb1-909a-360c1edbab5c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "157"
+                            }, 
+                            "title": "Hummingbird", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "60a5719e-0bbc-4e85-97ae-12b18bb7b495", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "174"
+                            }, 
+                            "title": "Loved One", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "cb33a88e-62ef-4d1c-bbe7-343504352419", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "147"
+                            }, 
+                            "title": "Shallow", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "62978561-b632-4205-8917-8ab86fd67504", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "160"
+                            }, 
+                            "title": "Chucky", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "855847f2-c64e-49d8-bdbf-a1b63657c6ba", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "150"
+                            }, 
+                            "title": "G.G.G.", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "1a995d9e-2614-4d9f-b544-35cadb701748", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96", 
+                                "playcount": "264"
+                            }, 
+                            "title": "This Is The Healing", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f4978e09-a939-41b9-ab16-7e0e6dab5505", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "19"
+                            }, 
+                            "title": "I Can't Wait", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "be18bf68-918e-413b-a286-9d84e8454b53", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "7fda1122-cc82-479c-824a-ac296dd714da", 
+                    "packaging": null, 
+                    "listeners": "122", 
+                    "date": "1991", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "1360", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "This Is the Healing"
+        }, 
+        {
+            "mbid": "8a76cb91-6df2-3a13-a403-a5a1b298678a", 
+            "releases": [
+                {
+                    "name": "The Grape Prophet", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Ellis in the Orchard", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "ba979133-9901-446b-a694-22136a966e47", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "201"
+                            }, 
+                            "title": "Travels", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "817d41a2-c919-441c-b5f1-d8b11de2c3b7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "56", 
+                                "playcount": "181"
+                            }, 
+                            "title": "The Fold", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a57b489f-725b-4372-a385-4a548e4a1a50", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "61", 
+                                "playcount": "208"
+                            }, 
+                            "title": "Wino of the Red Is Stained", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a5ac856e-b75e-4210-8289-9fd4fafc71c8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "207"
+                            }, 
+                            "title": "The Grape Prophet Speaks", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2c844d6d-385d-4009-926d-e6c7fbc0bb44", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "232"
+                            }, 
+                            "title": "English Interpreter of English", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "947f20b9-0c68-4f20-ae71-ac842fdbee4e", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "154"
+                            }, 
+                            "title": "Ellis Converses With Prophets", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9e661cfe-af56-41e7-97c8-e269e4325a44", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "138"
+                            }, 
+                            "title": "A Group of Prophets Predict the Pickers' Future Without Them", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "7125389f-a0ad-4a03-87a7-5fed2e674250", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "183"
+                            }, 
+                            "title": "She Said", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b7bc780d-3b73-4ef3-97ad-91807a6b4980", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "126"
+                            }, 
+                            "title": "Back to the Orchard", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "998b3a0a-b8d5-47ea-8b4d-46a1c42f12e8", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "203bb818-932e-44a2-8cdd-09be50296e9e", 
+                    "packaging": null, 
+                    "listeners": "84", 
+                    "date": "1992", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "1502", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "The Grape Prophet"
+        }, 
+        {
+            "mbid": "ec9c1e5e-25ea-3e42-905f-3c1395e03490", 
+            "releases": [
+                {
+                    "name": "Grace Shaker", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "378"
+                            }, 
+                            "title": "Double", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d94ed1f9-3f65-4cd6-9c21-6abcf15eb6e1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "294"
+                            }, 
+                            "title": "Kill Will", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4ed88bac-68a0-458e-bbfb-6f514c7d2cc9", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "134", 
+                                "playcount": "506"
+                            }, 
+                            "title": "Blame", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a3ca2a91-b1e4-4a52-b537-c61505f539d4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "274"
+                            }, 
+                            "title": "Thinkin'", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "72c84c04-7805-4a86-9f6a-d283ab5c1427", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "290"
+                            }, 
+                            "title": "Bad Disease", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "5f1ac7ae-b523-4b85-b47c-1ea0951f5dbc", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "133", 
+                                "playcount": "610"
+                            }, 
+                            "title": "Grace", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "79bd77ee-eac1-4dea-87cc-aa46a87b3661", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "266"
+                            }, 
+                            "title": "Shaker", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "ba086aea-423e-4f3c-b3bc-46371d61e89b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "251"
+                            }, 
+                            "title": "Gift Taker", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d8ffb589-0bcb-40be-9bd6-b5b62aa10fac", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "325"
+                            }, 
+                            "title": "Freedom", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d7ba56fd-4a75-41ee-8d47-57b97b74dbaf", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "69", 
+                                "playcount": "429"
+                            }, 
+                            "title": "Christ Saves", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "106b0185-5e49-43a4-a356-dcb707fd72cf", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "1aa4d017-5638-46d6-8ce0-a595d4ba42bb", 
+                    "packaging": null, 
+                    "listeners": "185", 
+                    "date": "1994", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "3356", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Grace Shaker"
+        }, 
+        {
+            "mbid": "94744f87-a164-4ab3-ba90-c9099b6e908f", 
+            "releases": [
+                {
+                    "name": "Bring It Down Now", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Red Swine", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c0c29350-962e-4986-8319-96a10803c741", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "8"
+                            }, 
+                            "title": "The Bomb / Not a Cussword (live)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f887b119-9bd1-4f8d-9d45-67cb379a3122", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "207"
+                            }, 
+                            "title": "The Grape Prophet Speaks", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "550bb406-5681-4437-abeb-2efde7afa551", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "83"
+                            }, 
+                            "title": "Funky Space Cat", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "881cefc5-05f5-410a-8745-a312195712c2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "69", 
+                                "playcount": "290"
+                            }, 
+                            "title": "House of Love", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "0bee60e8-4515-4722-877a-e1a97266c968", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "18"
+                            }, 
+                            "title": "Radio Swine", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c8da5730-4485-4d14-b0de-b2a8c7bc5cb6", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Ellis in the Orchard", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "6dc45fcd-f708-4e03-81bd-07c6a0fa6a94", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "190"
+                            }, 
+                            "title": "Plague of Flies", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2ba98970-1055-43af-8f17-56eb26e125eb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "68"
+                            }, 
+                            "title": "Baby Flies a Comet", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "ffc40d1f-b2a2-46f7-b20d-026a3710b98f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Die Baby Die (live)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2a7cbe25-0176-4c67-b225-f35e89c55db0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "24"
+                            }, 
+                            "title": "Double Sister", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "08610d7e-2f9f-4e55-ac3d-b5718400ed54", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96", 
+                                "playcount": "264"
+                            }, 
+                            "title": "This Is the Healing", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d56abe09-58b7-46f8-8dcf-18b562e4fe4a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "201"
+                            }, 
+                            "title": "Travels", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "7aa6020e-84ea-4a6f-8f1e-6411ae35a854", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "232"
+                            }, 
+                            "title": "English Interpreter of English", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "6dc8197f-465d-4298-be5b-9e2a44d6935a", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Tether to Tassel (live)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "edef56a6-d912-490e-98f7-59a12ad59f01", 
+                            "trackNumber": "15", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "35"
+                            }, 
+                            "title": "It Fits Inside", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f8a628dc-6eb8-4109-9d36-9f19e638b1b7", 
+                            "trackNumber": "16", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Rocket and a Bomb / Kitty (live)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "fa6b138f-6da2-4354-a3c3-9a769aa3b7d5", 
+                            "trackNumber": "17", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "22"
+                            }, 
+                            "title": "Industry, Inc.", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2882fd7e-0eaf-45c5-a055-542d2ab294bd", 
+                            "trackNumber": "18", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "223a41c6-0119-4a6d-a2f2-965d547c561a", 
+                    "packaging": null, 
+                    "listeners": "24", 
+                    "date": "1995", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "386", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }, 
+                {
+                    "name": "Bring It Down Now", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Red Swine", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c0c29350-962e-4986-8319-96a10803c741", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "8"
+                            }, 
+                            "title": "The Bomb / Not a Cussword (live)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f887b119-9bd1-4f8d-9d45-67cb379a3122", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "207"
+                            }, 
+                            "title": "The Grape Prophet Speaks", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "550bb406-5681-4437-abeb-2efde7afa551", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "83"
+                            }, 
+                            "title": "Funky Space Cat", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "881cefc5-05f5-410a-8745-a312195712c2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "69", 
+                                "playcount": "290"
+                            }, 
+                            "title": "House of Love", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "0bee60e8-4515-4722-877a-e1a97266c968", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "18"
+                            }, 
+                            "title": "Radio Swine", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c8da5730-4485-4d14-b0de-b2a8c7bc5cb6", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Ellis in the Orchard", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "6dc45fcd-f708-4e03-81bd-07c6a0fa6a94", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "190"
+                            }, 
+                            "title": "Plague of Flies", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2ba98970-1055-43af-8f17-56eb26e125eb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "68"
+                            }, 
+                            "title": "Baby Flies a Comet", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "ffc40d1f-b2a2-46f7-b20d-026a3710b98f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Die Baby Die (live)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2a7cbe25-0176-4c67-b225-f35e89c55db0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "24"
+                            }, 
+                            "title": "Double Sister", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "08610d7e-2f9f-4e55-ac3d-b5718400ed54", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96", 
+                                "playcount": "264"
+                            }, 
+                            "title": "This Is the Healing", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d56abe09-58b7-46f8-8dcf-18b562e4fe4a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "201"
+                            }, 
+                            "title": "Travels", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "7aa6020e-84ea-4a6f-8f1e-6411ae35a854", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "70", 
+                                "playcount": "232"
+                            }, 
+                            "title": "English Interpreter of English", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "6dc8197f-465d-4298-be5b-9e2a44d6935a", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Tether to Tassel (live)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "edef56a6-d912-490e-98f7-59a12ad59f01", 
+                            "trackNumber": "15", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "35"
+                            }, 
+                            "title": "It Fits Inside", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f8a628dc-6eb8-4109-9d36-9f19e638b1b7", 
+                            "trackNumber": "16", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Rocket and a Bomb / Kitty (live)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "fa6b138f-6da2-4354-a3c3-9a769aa3b7d5", 
+                            "trackNumber": "17", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "22"
+                            }, 
+                            "title": "Industry, Inc.", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "2882fd7e-0eaf-45c5-a055-542d2ab294bd", 
+                            "trackNumber": "18", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "223a41c6-0119-4a6d-a2f2-965d547c561a", 
+                    "packaging": null, 
+                    "listeners": "24", 
+                    "date": "1995", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "386", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Bring It Down Now"
+        }, 
+        {
+            "mbid": "61b7128a-b945-3cd0-adc5-21223fa14433", 
+            "releases": [
+                {
+                    "name": "Dogfish Jones", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "151"
+                            }, 
+                            "title": "Dogfish Jones", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "e953075b-69d7-4ccb-ba2d-6d5424999210", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "33", 
+                                "playcount": "113"
+                            }, 
+                            "title": "Storm At Sea", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "335e0c70-19ab-4e19-b02c-df8fdae61919", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "38", 
+                                "playcount": "134"
+                            }, 
+                            "title": "Let Me Out", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "46619e75-5483-417b-8458-f038594f3438", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "120"
+                            }, 
+                            "title": "Barnacle Bob", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "ac0c9f0f-aaef-4ee5-a431-1d57f8a84dd0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "129"
+                            }, 
+                            "title": "Down", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9d2cdba1-8510-43b7-85e2-3a121ac7817a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "31", 
+                                "playcount": "105"
+                            }, 
+                            "title": "Greensea Island", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f70944d3-6a0e-4e0c-8a6f-d8df1cc95cbd", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "76"
+                            }, 
+                            "title": "Hated Soul", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "421e5b61-c06f-438c-82d5-78f28e6423d7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "115"
+                            }, 
+                            "title": "Tell Of The Well", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "0d6ac7b6-8d5a-42fc-a3c5-523b2814565c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "141"
+                            }, 
+                            "title": "Mercy Maid", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c596bb71-a844-4053-a83c-d2af0041f0be", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "31", 
+                                "playcount": "119"
+                            }, 
+                            "title": "Magical Rainbow Door", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "f00ce53d-50a2-4b1e-bb62-5328702b4ca6", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "143"
+                            }, 
+                            "title": "Seashell Sally", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b17fb4e4-ad62-4ba1-8727-be7b2d39ac60", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "32", 
+                                "playcount": "123"
+                            }, 
+                            "title": "Edge", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "291aa266-794c-4147-abfc-542f6616c5af", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "36", 
+                                "playcount": "119"
+                            }, 
+                            "title": "Shanghai Overdrive", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "999db23c-a8b6-4836-a012-48621c73119e", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28", 
+                                "playcount": "96"
+                            }, 
+                            "title": "The Boyos", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "5a4b420d-a094-4bf3-8ca5-ca3890a32fdc", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "05dd847e-5b96-4bd4-8383-c2e5547bd21a", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "55", 
+                    "date": "1998", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "1558", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Dogfish Jones"
+        }, 
+        {
+            "mbid": "388daada-d4c0-3323-a356-eb5f4464239e", 
+            "releases": [
+                {
+                    "name": "Finding Angel", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "33"
+                            }, 
+                            "title": "Siren Unseen", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "511b7d3b-e408-4b18-abde-9be9fe03956f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "37"
+                            }, 
+                            "title": "Chaser", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a02a4688-c0d4-4860-94e4-4de75cd0ebbf", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "34"
+                            }, 
+                            "title": "Rubble This", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "98067747-a574-42f5-92ea-ae247bcb9b39", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Stereo/Radio", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "14709671-90ba-467e-a258-ead6d4eddc7b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "24"
+                            }, 
+                            "title": "Finding Angel", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "95786ad2-b186-4c4c-88e7-8c55408f81d7", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "26"
+                            }, 
+                            "title": "Playing Ground", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c832b8d5-cb94-4d76-8ebc-e9431de8fd42", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "28"
+                            }, 
+                            "title": "Yielding Arms", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "41aef272-81d0-470d-8884-b9c382b6dc0d", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Serenade Reprise Haydn", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "1c3ab1ad-1111-4598-a982-83832e39c826", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "32"
+                            }, 
+                            "title": "Pop Goes The World", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "ace3f231-0d40-4c22-b648-eafbbc32f407", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "31"
+                            }, 
+                            "title": "Song", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "8039383e-6bb4-4acd-9f4a-3d8fa941968b", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "24"
+                            }, 
+                            "title": "All The Merry Men", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "e20dbb21-7322-4c18-bff6-6836d54eff8c", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "40"
+                            }, 
+                            "title": "Sun Shine", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "395a621b-d9d8-4bd1-a9d8-7d4d90f38fef", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "47cefad5-917d-440c-8b4a-8231a87ecec3", 
+                    "packaging": null, 
+                    "listeners": "18", 
+                    "date": "2001", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "200", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Finding Angel"
+        }, 
+        {
+            "mbid": "adea4de4-3dfa-3cc4-ae72-d49544c17726", 
+            "releases": [
+                {
+                    "name": "Poplife", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "12"
+                            }, 
+                            "title": "I Don't Know (Sister, Sister)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d021d0d9-9185-4c00-b961-91f7ccf82182", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "18"
+                            }, 
+                            "title": "Queen of the Captive", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9a31d42a-a404-4ea9-b7e4-96fa82f11808", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Jet Plane", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "271db777-b11a-427f-a815-436e6e11ec82", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Skate", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "380122b3-5dc8-4439-b520-97e6324c65e5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "13"
+                            }, 
+                            "title": "It's a Crazy Thing", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a3f7222f-c597-4149-ad57-2b6e1b0ac59c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Surf with God", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c2ddcf06-94d9-490e-a790-bdc7791e00a3", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "10"
+                            }, 
+                            "title": "Comin' up Roses", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4462d47a-2ddf-43ee-b20e-854a1c745993", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Lookin' for a Suit", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4d0a1017-82aa-4950-acb0-989dd7aefe9d", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "14"
+                            }, 
+                            "title": "Surf with God (reprise)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "1ba02594-973d-46eb-a01a-31bf01700cd1", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "54edcbcc-dc73-4ade-a2c3-58958a227790", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "7", 
+                    "date": "", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "123", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }, 
+                {
+                    "name": "Poplife", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "12"
+                            }, 
+                            "title": "I Don't Know (Sister, Sister)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d021d0d9-9185-4c00-b961-91f7ccf82182", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "18"
+                            }, 
+                            "title": "Queen of the Captive", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9a31d42a-a404-4ea9-b7e4-96fa82f11808", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Jet Plane", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "271db777-b11a-427f-a815-436e6e11ec82", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Skate", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "380122b3-5dc8-4439-b520-97e6324c65e5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "13"
+                            }, 
+                            "title": "It's a Crazy Thing", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a3f7222f-c597-4149-ad57-2b6e1b0ac59c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Surf with God", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c2ddcf06-94d9-490e-a790-bdc7791e00a3", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "10"
+                            }, 
+                            "title": "Comin' up Roses", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4462d47a-2ddf-43ee-b20e-854a1c745993", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Lookin' for a Suit", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4d0a1017-82aa-4950-acb0-989dd7aefe9d", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "14"
+                            }, 
+                            "title": "Surf with God (reprise)", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "1ba02594-973d-46eb-a01a-31bf01700cd1", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "54edcbcc-dc73-4ade-a2c3-58958a227790", 
+                    "packaging": null, 
+                    "listeners": "7", 
+                    "date": "", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "123", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Poplife"
+        }, 
+        {
+            "mbid": "98ed22ec-b7f9-3efd-8e13-8b34c81bb589", 
+            "releases": [
+                {
+                    "name": "Cash in Chaos World Tour", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "204"
+                            }, 
+                            "title": "The Shell", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "74cd3a07-f026-4945-967b-25d90b0d0130", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "202"
+                            }, 
+                            "title": "Benny", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "765a3113-2183-4095-b7d6-4542e7577686", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "157"
+                            }, 
+                            "title": "Pound of Flesh", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "c27a377f-4aff-4fbc-ab9d-c4dba4a303e1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "157"
+                            }, 
+                            "title": "Confusion", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "0c31f0af-4d81-4556-a371-b44600dd5bbe", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Red Swine", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "25dd6a8c-f8fe-458e-b79a-f0685b648208", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "208"
+                            }, 
+                            "title": "Radio Satan", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "bfda8750-43b4-450f-8ea0-cce5700644ec", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "146"
+                            }, 
+                            "title": "Yellow Sun", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "037663e1-a6ba-4504-b103-0aa980371d7a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "78"
+                            }, 
+                            "title": "There's a Time", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "75a42ecd-84f8-49cf-81c5-370244c609a8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "141"
+                            }, 
+                            "title": "Spice of Life", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "e5f234e1-012a-4a87-9972-da40db51f3d5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "188"
+                            }, 
+                            "title": "Everything", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "21622152-3af3-4e51-965c-f4f50dbf427a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f6d8a0c4-a4db-4f56-aad2-7efd450a89ff", 
+                    "packaging": null, 
+                    "listeners": "61", 
+                    "date": "1993", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "1217", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Cash in Chaos World Tour"
+        }, 
+        {
+            "mbid": "5744b703-5c4f-3ca3-acc0-458860ee4d2b", 
+            "releases": [
+                {
+                    "name": "Wakin' Up the Dead / Live at Cornerstone, Volume 2", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "306"
+                            }, 
+                            "title": "The Bomb", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9cba40e2-50ac-4e19-918d-2192a59d2623", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "226"
+                            }, 
+                            "title": "Ocean Blue", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "4e512be3-ff06-404a-989f-ce3a681a61fc", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "201"
+                            }, 
+                            "title": "Touch", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "6d8f7c81-a234-4303-92b7-a236004379a1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "69", 
+                                "playcount": "290"
+                            }, 
+                            "title": "House of Love", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "88485439-d3d4-433f-b6f3-3e9e8511b7d9", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "166"
+                            }, 
+                            "title": "Revival Nineties", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "8e598703-a4a1-4d1b-bb1c-969fccf61a6b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "193"
+                            }, 
+                            "title": "Carry Me to Cairo", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "8b647202-801a-4f95-b9ad-10294a874b1f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "150"
+                            }, 
+                            "title": "Come Alive Again", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "fb59794d-798e-4a54-a46a-94b3cfceeb56", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "183"
+                            }, 
+                            "title": "Dancin' in the Kettle", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "6cc57189-bfa0-4b7b-9c69-5ef2ffd174b8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "134"
+                            }, 
+                            "title": "I Need You So", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "09511fc6-4be9-43ed-b81b-cb5b2b9943f1", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "123"
+                            }, 
+                            "title": "Nineties Tease", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9caf209c-c67b-45b2-8b7c-2de5858a42d5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "210"
+                            }, 
+                            "title": "Wakin' Up the Dead", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9125060d-e4a5-41a6-9df0-acbf07d95aa8", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Live Cornerstone Intro", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "d034c556-0b72-4d62-861b-643cee289739", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "43"
+                            }, 
+                            "title": "Free Her", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b9793acf-5b66-413d-b4f9-37a4a270510a", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "59", 
+                                "playcount": "200"
+                            }, 
+                            "title": "Jordan River", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "b76690b8-b9a0-48ab-99bb-17468f06c03a", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "182"
+                            }, 
+                            "title": "I'm Torn", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9ac6645f-3dea-484e-9827-fb4a07ccb664", 
+                            "trackNumber": "15", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "28"
+                            }, 
+                            "title": "Bye Bye Color", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "bce3d938-b2b5-4bd1-9781-7e9efc051cf1", 
+                            "trackNumber": "16", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "226"
+                            }, 
+                            "title": "Die Baby Die", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "5e9d5487-497d-4bc1-88db-bff681ac5a7e", 
+                            "trackNumber": "17", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Ripped Off by Record Companies", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "9da0e82e-fdcb-4fad-b9c0-aca67e7f52d4", 
+                            "trackNumber": "18", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "202"
+                            }, 
+                            "title": "Benny", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "3a245073-3e4c-4af9-bb9d-2e06591cd086", 
+                            "trackNumber": "19", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "22"
+                            }, 
+                            "title": "Hang Me High", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "ec280c09-72f0-4ace-81f0-1b2fc01d3f43", 
+                            "trackNumber": "20", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "209"
+                            }, 
+                            "title": "Shaded Pain", 
+                            "artistName": "L.S.U.", 
+                            "mbid": "a35b828f-d72d-4119-be88-920d715df888", 
+                            "trackNumber": "21", 
+                            "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "4cdd9294-7fde-4f2a-a92d-33aadda4d8e6", 
+                    "packaging": null, 
+                    "listeners": "1", 
+                    "date": "", 
+                    "artistName": "L.S.U.", 
+                    "playcount": "4", 
+                    "artistMBID": "f2b81310-d559-4fd7-957d-2555c3887ab6"
+                }
+            ], 
+            "title": "Wakin' Up the Dead / Live at Cornerstone, Volume 2"
+        }
+    ], 
+    "type": "Group"
+}

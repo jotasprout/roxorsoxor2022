@@ -1,0 +1,35 @@
+{
+    "genres": [
+        "Hip-Hop", 
+        "Christian Rap", 
+        "rap", 
+        "electronica", 
+        "breakbeat"
+    ], 
+    "taskDuration": {
+        "Task Duration": 3.5864968299865723, 
+        "Task End": 1567117292.656128, 
+        "Task Start": 1567117289.069631
+    }, 
+    "stats": {
+        "listeners": "1509", 
+        "playcount": "8939"
+    }, 
+    "name": "E-Roc", 
+    "mbid": "57b28f16-22ac-45a2-a866-58d6f65a087b", 
+    "birthday": null, 
+    "date": "2019-08-29", 
+    "albums": [
+        {
+            "mbid": "a1705088-7b0c-4382-acd1-ccb1366344d5", 
+            "releases": [], 
+            "title": "Avalanche"
+        }, 
+        {
+            "mbid": "e6fd8dfe-08b5-4ba2-ada6-11d51d998e9a", 
+            "releases": [], 
+            "title": "Greatest Hits"
+        }
+    ], 
+    "type": "Person"
+}

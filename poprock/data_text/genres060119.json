@@ -1,0 +1,584 @@
+[
+    {
+        "name": "2Pac",
+        "mbid": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+        "genres": [
+            "rap",
+            "Hip-Hop",
+            "Gangsta Rap",
+            "West Coast Rap",
+            "hip hop"
+        ]
+    },
+    {
+        "name": "Alice Cooper",
+        "mbid": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "rock",
+            "heavy metal",
+            "glam rock"
+        ]
+    },
+    {
+        "name": "Alice Cooper",
+        "mbid": "4d7928cd-7ed2-4282-8c29-c0c9f966f1bd",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "rock",
+            "heavy metal",
+            "glam rock"
+        ]
+    },
+    {
+        "name": "The Amboy Dukes",
+        "mbid": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5",
+        "genres": [
+            "Psychedelic Rock",
+            "psychedelic",
+            "60s",
+            "classic rock",
+            "Garage Rock"
+        ]
+    },
+    {
+        "name": "Anvil",
+        "mbid": "07a85e96-bb72-4930-b41d-24853f4a4ede",
+        "genres": [
+            "heavy metal",
+            "speed metal",
+            "thrash metal",
+            "metal"
+        ]
+    },
+    {
+        "name": "Black Sabbath",
+        "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+        "genres": [
+            "heavy metal",
+            "hard rock",
+            "classic rock",
+            "metal",
+            "rock"
+        ]
+    },
+    {
+        "name": "David Bowie",
+        "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "genres": [
+            "rock",
+            "glam rock",
+            "classic rock",
+            "80s",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Buckingham Nicks",
+        "mbid": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797",
+        "genres": [
+            "classic rock",
+            "rock",
+            "folk rock",
+            "singer-songwriter"
+        ]
+    },
+    {
+        "name": "Lindsey Buckingham",
+        "mbid": "5d12875c-a197-43b2-8f29-41dc0ad895c3",
+        "genres": [
+            "singer-songwriter",
+            "rock",
+            "classic rock",
+            "pop",
+            "male vocalist"
+        ]
+    },
+    {
+        "name": "Eric Clapton",
+        "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+        "genres": [
+            "classic rock",
+            "blues",
+            "rock",
+            "blues rock",
+            "guitar"
+        ]
+    },
+    {
+        "name": "Cream",
+        "mbid": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+        "genres": [
+            "classic rock",
+            "blues rock",
+            "rock",
+            "psychedelic",
+            "blues"
+        ]
+    },
+    {
+        "name": "The Cure",
+        "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+        "genres": [
+            "post-punk",
+            "new wave",
+            "alternative",
+            "80s",
+            "rock"
+        ]
+    },
+    {
+        "name": "Def Leppard",
+        "mbid": "7249b899-8db8-43e7-9e6e-22f1e736024e",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "rock",
+            "80s",
+            "hair metal"
+        ]
+    },
+    {
+        "name": "Dio",
+        "mbid": "c55193fb-f5d2-4839-a263-4c044fca1456",
+        "genres": [
+            "heavy metal",
+            "hard rock",
+            "metal",
+            "classic rock",
+            "rock"
+        ]
+    },
+    {
+        "name": "Ronnie Dio and the Prophets",
+        "mbid": "9f6c4063-ce0a-4b71-a7b7-a32c91997260",
+        "genres": [
+            "classic rock",
+            "oldies",
+            "rock"
+        ]
+    },
+    {
+        "name": "The Electric Elves",
+        "mbid": "30f9591a-778b-40dd-be8f-105589f9c998",
+        "genres": [
+            "rock",
+            "60s",
+            "classic rock",
+            "hard rock"
+        ]
+    },
+    {
+        "name": "Elf",
+        "mbid": "57e0e9f3-24b5-46a6-be00-be793ca26e21",
+        "genres": [
+            "hard rock",
+            "blues rock",
+            "classic rock",
+            "rock",
+            "blues"
+        ]
+    },
+    {
+        "name": "Eminem",
+        "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+        "genres": [
+            "rap",
+            "Hip-Hop",
+            "hip hop",
+            "pop"
+        ]
+    },
+    {
+        "name": "Evil Stig",
+        "mbid": "66bf7876-3898-47fa-8bdd-dc200f946cec",
+        "genres": [
+            "punk",
+            "punk rock",
+            "rock",
+            "female vocalists"
+        ]
+    },
+    {
+        "name": "The Firm",
+        "mbid": "c08ced1f-d248-4368-90e5-bf579b3bf5de",
+        "genres": [
+            "classic rock",
+            "Hip-Hop",
+            "rock",
+            "hard rock",
+            "rap"
+        ]
+    },
+    {
+        "name": "Fleetwood Mac",
+        "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "genres": [
+            "classic rock",
+            "rock",
+            "70s",
+            "blues",
+            "pop"
+        ]
+    },
+    {
+        "name": "Ace Frehley",
+        "mbid": "33d700ce-064f-44f6-ab9e-60f9eed0fca1",
+        "genres": [
+            "hard rock",
+            "rock",
+            "glam rock",
+            "classic rock",
+            "heavy metal"
+        ]
+    },
+    {
+        "name": "Frehley's Comet",
+        "mbid": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a",
+        "genres": [
+            "hard rock",
+            "glam rock",
+            "heavy metal",
+            "classic rock",
+            "hair metal"
+        ]
+    },
+    {
+        "name": "Heaven & Hell",
+        "mbid": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+        "genres": [
+            "heavy metal",
+            "doom metal",
+            "hard rock",
+            "metal"
+        ]
+    },
+    {
+        "name": "The Stooges",
+        "mbid": "1253e5e9-eaa7-4ce6-81b8-09725e8cee43",
+        "genres": [
+            "punk",
+            "proto-punk",
+            "Garage Rock",
+            "rock",
+            "punk rock"
+        ]
+    },
+    {
+        "name": "Janet Jackson",
+        "mbid": "6be2828f-6c0d-4059-99d4-fa18acf1a296",
+        "genres": [
+            "pop",
+            "rnb",
+            "female vocalists",
+            "dance",
+            "soul"
+        ]
+    },
+    {
+        "name": "Joan Jett",
+        "mbid": "f376828a-b438-4fda-bb2e-dcd5fbe81f83",
+        "genres": [
+            "rock",
+            "female vocalists",
+            "classic rock",
+            "80s",
+            "punk"
+        ]
+    },
+    {
+        "name": "Joan Jett and the Blackhearts",
+        "mbid": "46e63d3b-d91b-4791-bb73-e9f638a45ea0",
+        "genres": [
+            "rock",
+            "classic rock",
+            "female vocalists",
+            "80s",
+            "punk"
+        ]
+    },
+    {
+        "name": "Elton John",
+        "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+        "genres": [
+            "pop",
+            "classic rock",
+            "singer-songwriter",
+            "rock",
+            "piano"
+        ]
+    },
+    {
+        "name": "Journey",
+        "mbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b",
+        "genres": [
+            "classic rock",
+            "rock",
+            "80s",
+            "hard rock",
+            "Progressive rock"
+        ]
+    },
+    {
+        "name": "Led Zeppelin",
+        "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+        "genres": [
+            "classic rock",
+            "rock",
+            "hard rock",
+            "70s",
+            "Progressive rock"
+        ]
+    },
+    {
+        "name": "Meat Loaf",
+        "mbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1",
+        "genres": [
+            "rock",
+            "classic rock",
+            "hard rock",
+            "rock opera",
+            "80s"
+        ]
+    },
+    {
+        "name": "Motley Crue",
+        "mbid": "26f07661-e115-471d-a930-206f5c89d17c",
+        "genres": [
+            "hard rock",
+            "heavy metal",
+            "hair metal",
+            "80s",
+            "rock"
+        ]
+    },
+    {
+        "name": "Stevie Nicks",
+        "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7",
+        "genres": [
+            "female vocalists",
+            "classic rock",
+            "rock",
+            "singer-songwriter",
+            "80s"
+        ]
+    },
+    {
+        "name": "Ted Nugent",
+        "mbid": "e491fae8-3a5a-438e-8368-925753fb41a1",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "rock",
+            "70s",
+            "heavy metal"
+        ]
+    },
+    {
+        "name": "Ozzy Osbourne",
+        "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+        "genres": [
+            "heavy metal",
+            "hard rock",
+            "metal",
+            "classic rock",
+            "rock"
+        ]
+    },
+    {
+        "name": "Jimmy Page",
+        "mbid": "519774a4-3b18-4042-b8c0-927845a616c9",
+        "genres": [
+            "classic rock",
+            "blues rock",
+            "rock",
+            "guitar virtuoso",
+            "blues"
+        ]
+    },
+    {
+        "name": "Robert Plant",
+        "mbid": "bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc",
+        "genres": [
+            "classic rock",
+            "rock",
+            "hard rock",
+            "blues",
+            "british"
+        ]
+    },
+    {
+        "name": "Jimmy Page & Robert Plant",
+        "mbid": "4a536dbf-8632-4cfd-b9ea-cdb35cb47c44",
+        "genres": [
+            "hard rock",
+            "rock",
+            "classic rock",
+            "acoustic",
+            "Progressive rock"
+        ]
+    },
+    {
+        "name": "Iggy Pop",
+        "mbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7",
+        "genres": [
+            "punk",
+            "rock",
+            "punk rock",
+            "classic rock",
+            "proto-punk"
+        ]
+    },
+    {
+        "name": "Queen",
+        "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+        "genres": [
+            "classic rock",
+            "rock",
+            "80s",
+            "hard rock",
+            "glam rock"
+        ]
+    },
+    {
+        "name": "Quiet Riot",
+        "mbid": "5c6acb91-4b9b-4245-b92f-e817295c4ed0",
+        "genres": [
+            "heavy metal",
+            "hard rock",
+            "hair metal",
+            "rock",
+            "metal"
+        ]
+    },
+    {
+        "name": "Radiohead",
+        "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "genres": [
+            "alternative",
+            "alternative rock",
+            "rock",
+            "indie",
+            "electronic"
+        ]
+    },
+    {
+        "name": "Rainbow",
+        "mbid": "e3cb4543-210f-499a-b0d1-3882c312dfb9",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "heavy metal",
+            "rock",
+            "metal"
+        ]
+    },
+    {
+        "name": "Roxy Music",
+        "mbid": "331ce348-1b08-40b9-8ed7-0763b92bd003",
+        "genres": [
+            "glam rock",
+            "new wave",
+            "rock",
+            "80s",
+            "classic rock"
+        ]
+    },
+    {
+        "name": "The Runaways",
+        "mbid": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e",
+        "genres": [
+            "hard rock",
+            "rock",
+            "female vocalists",
+            "punk",
+            "glam rock"
+        ]
+    },
+    {
+        "name": "Todd Rundgren",
+        "mbid": "1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d",
+        "genres": [
+            "classic rock",
+            "rock",
+            "Progressive rock",
+            "pop",
+            "power pop"
+        ]
+    },
+    {
+        "name": "Saxon",
+        "mbid": "bbd80354-597e-4d53-94e4-92b3a7cb8f2c",
+        "genres": [
+            "heavy metal",
+            "NWOBHM",
+            "hard rock",
+            "metal",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Stoney & Meatloaf",
+        "mbid": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0",
+        "genres": [
+            "rock",
+            "hard rock"
+        ]
+    },
+    {
+        "name": "The Stooges",
+        "mbid": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b",
+        "genres": [
+            "punk",
+            "proto-punk",
+            "Garage Rock",
+            "rock",
+            "punk rock"
+        ]
+    },
+    {
+        "name": "Utopia",
+        "mbid": "37283116-f2cc-47cb-8806-facd063b564f",
+        "genres": [
+            "Progressive rock",
+            "neurofunk",
+            "rock",
+            "punk"
+        ]
+    },
+    {
+        "name": "Neil Young",
+        "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+        "genres": [
+            "classic rock",
+            "singer-songwriter",
+            "rock",
+            "folk",
+            "folk rock"
+        ]
+    },
+    {
+        "name": "The Yardbirds",
+        "mbid": "191de76f-a224-445d-b041-54df16d65bf7",
+        "genres": [
+            "classic rock",
+            "blues rock",
+            "60s",
+            "rock",
+            "blues"
+        ]
+    },
+    {
+        "name": "The Zombies",
+        "mbid": "230ca093-1d00-4c57-9235-147942f66930",
+        "genres": [
+            "60s",
+            "classic rock",
+            "psychedelic",
+            "rock",
+            "pop"
+        ]
+    }
+]

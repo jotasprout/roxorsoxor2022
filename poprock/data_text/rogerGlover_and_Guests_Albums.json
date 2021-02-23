@@ -1,0 +1,144 @@
+// Albums by Roger Glover and Guests
+
+{
+  "href": "https://api.spotify.com/v1/artists/4SZsrfkRu7ulmfSKWK5wZ0/albums?offset=0&limit=20&include_groups=album,single,compilation,appears_on",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4SZsrfkRu7ulmfSKWK5wZ0"
+          },
+          "href": "https://api.spotify.com/v1/artists/4SZsrfkRu7ulmfSKWK5wZ0",
+          "id": "4SZsrfkRu7ulmfSKWK5wZ0",
+          "name": "Roger Glover and Guests",
+          "type": "artist",
+          "uri": "spotify:artist:4SZsrfkRu7ulmfSKWK5wZ0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NuneeBDaWZspG13LcsYuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV",
+          "id": "5NuneeBDaWZspG13LcsYuV",
+          "name": "Roger Glover",
+          "type": "artist",
+          "uri": "spotify:artist:5NuneeBDaWZspG13LcsYuV"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2T0OraSus8GhD1FI0wYLcK"
+      },
+      "href": "https://api.spotify.com/v1/albums/2T0OraSus8GhD1FI0wYLcK",
+      "id": "2T0OraSus8GhD1FI0wYLcK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e6ba75928864330fe1b80f22c7980933a2af3956",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3aa963baa25a9c18737c6bd7895d6e18ace2dc88",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/22153437d80dbb99ed3097c84024f323a5ed3ed8",
+          "width": 64
+        }
+      ],
+      "name": "The Butterfly Ball and the Grasshopper's Feast",
+      "release_date": "1974-12-31",
+      "release_date_precision": "day",
+      "total_tracks": 29,
+      "type": "album",
+      "uri": "spotify:album:2T0OraSus8GhD1FI0wYLcK"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 1
+}

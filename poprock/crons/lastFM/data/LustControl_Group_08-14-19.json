@@ -1,0 +1,1073 @@
+{
+    "genres": [
+        "punk", 
+        "Christian punk", 
+        "christian", 
+        "crossover", 
+        "hardcore punk"
+    ], 
+    "taskDuration": {
+        "Task Duration": 28.86095094680786, 
+        "Task End": 1565757978.11521, 
+        "Task Start": 1565757949.254259
+    }, 
+    "stats": {
+        "listeners": "756", 
+        "playcount": "8114"
+    }, 
+    "name": "Lust Control", 
+    "mbid": "b6174910-7335-4768-a42d-8e4655f37114", 
+    "birthday": "1988", 
+    "date": "2019-08-14", 
+    "albums": [
+        {
+            "mbid": "b187d55f-9d01-3129-89d1-9e006a82e071", 
+            "releases": [
+                {
+                    "name": "Fun Fun Feeling", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "111"
+                            }, 
+                            "title": "Rebuke", 
+                            "artistName": "Lust Control", 
+                            "mbid": "572f01a6-f1bc-415a-8999-af278ddb430c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "70"
+                            }, 
+                            "title": "Big Bang", 
+                            "artistName": "Lust Control", 
+                            "mbid": "2d0d41bd-9fc1-4060-ab73-3921719e7e84", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "26"
+                            }, 
+                            "title": "Fun, Fun, Feeling", 
+                            "artistName": "Lust Control", 
+                            "mbid": "ffd1bdc8-5d2e-4677-9347-aafdad98e166", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "114"
+                            }, 
+                            "title": "Jesus Washed Judas' Feet", 
+                            "artistName": "Lust Control", 
+                            "mbid": "adf2a731-2eab-40f7-a589-5bf544dc98f8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "92"
+                            }, 
+                            "title": "Dancing Naked", 
+                            "artistName": "Lust Control", 
+                            "mbid": "162961f8-26a0-4ca7-9731-6f63070b2647", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "9"
+                            }, 
+                            "title": "John Styll", 
+                            "artistName": "Lust Control", 
+                            "mbid": "66c25f21-9dac-4354-9985-bc6be49f6206", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "54"
+                            }, 
+                            "title": "That Groove Thang", 
+                            "artistName": "Lust Control", 
+                            "mbid": "0686a6db-c85b-45aa-9c87-5db6b45f7cea", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "33", 
+                                "playcount": "91"
+                            }, 
+                            "title": "Say It Like a Rock Star", 
+                            "artistName": "Lust Control", 
+                            "mbid": "f9b19d21-1469-42a2-9bf5-bb646c4d75f2", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "37"
+                            }, 
+                            "title": "Swimsuit Edition Wallpaper", 
+                            "artistName": "Lust Control", 
+                            "mbid": "a3c962d9-c17b-4ecd-a2ef-f06de7ea0647", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "74"
+                            }, 
+                            "title": "You Too", 
+                            "artistName": "Lust Control", 
+                            "mbid": "bf4dfb58-7ec3-419d-99ec-0e44125a06f9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "30"
+                            }, 
+                            "title": "Circumcised, Baptized, & Moon Pies", 
+                            "artistName": "Lust Control", 
+                            "mbid": "279a14b1-50d6-4419-865e-35a20ed9ea15", 
+                            "trackNumber": "11", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "91"
+                            }, 
+                            "title": "Living in the New Age", 
+                            "artistName": "Lust Control", 
+                            "mbid": "677d1218-d88b-452c-9e3c-fb3b3e7bf249", 
+                            "trackNumber": "12", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Witch Hunt", 
+                            "artistName": "Lust Control", 
+                            "mbid": "1fe76af2-7ee5-4c91-91a0-a2ee724d6383", 
+                            "trackNumber": "13", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "24"
+                            }, 
+                            "title": "What About Your Wife?", 
+                            "artistName": "Lust Control", 
+                            "mbid": "6a478433-426e-49f8-8d62-64056870ec97", 
+                            "trackNumber": "14", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "25"
+                            }, 
+                            "title": "What's Going On", 
+                            "artistName": "Lust Control", 
+                            "mbid": "def64f14-d81d-4230-aaba-7bac77a18995", 
+                            "trackNumber": "15", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "25"
+                            }, 
+                            "title": "Madolyn Murry O'Hair", 
+                            "artistName": "Lust Control", 
+                            "mbid": "b8525cf9-b50a-45fe-a2f6-fa33712c3b4f", 
+                            "trackNumber": "16", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "48", 
+                                "playcount": "118"
+                            }, 
+                            "title": "Apocalyptic Nightmare", 
+                            "artistName": "Lust Control", 
+                            "mbid": "9102aa54-28a7-423f-99e8-add8bac1cc16", 
+                            "trackNumber": "17", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "142"
+                            }, 
+                            "title": "Rude Awakening", 
+                            "artistName": "Lust Control", 
+                            "mbid": "4ffc4bdb-ccd6-4fc5-9af0-f61fe9fbfde6", 
+                            "trackNumber": "18", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "114"
+                            }, 
+                            "title": "I Want to Die", 
+                            "artistName": "Lust Control", 
+                            "mbid": "5dcf83b3-bb74-4342-8d93-7cc30a27b1db", 
+                            "trackNumber": "19", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Wretched", 
+                            "artistName": "Lust Control", 
+                            "mbid": "086793b7-ac2e-4ced-9586-ef6774751a81", 
+                            "trackNumber": "20", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "42"
+                            }, 
+                            "title": "There Is a Fountain", 
+                            "artistName": "Lust Control", 
+                            "mbid": "52dd1fc6-ffd7-4f27-8e58-aeefdb319903", 
+                            "trackNumber": "21", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Madolyn Murry O'Hair (Conerstone live version)", 
+                            "artistName": "Lust Control", 
+                            "mbid": "0522515a-6f46-4b27-a7fe-0d14a00e6228", 
+                            "trackNumber": "22", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Dancing Naked (Cornerstone live version)", 
+                            "artistName": "Lust Control", 
+                            "mbid": "77682943-7fa4-482d-90db-13f86e6f3fe2", 
+                            "trackNumber": "23", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c72e4925-5b9a-404b-b6e9-b30df9b71cef", 
+                    "packaging": null, 
+                    "listeners": "31", 
+                    "date": "1991", 
+                    "artistName": "Lust Control", 
+                    "playcount": "477", 
+                    "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                }
+            ], 
+            "title": "Fun Fun Feeling"
+        }, 
+        {
+            "mbid": "c1f946a8-0466-3768-92f9-f3676693ac0a", 
+            "releases": [
+                {
+                    "name": "Dancing Naked", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "111"
+                            }, 
+                            "title": "Rebuke", 
+                            "artistName": "Lust Control", 
+                            "mbid": "627540a4-ece6-4f24-b82b-b54f7bab3740", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "114"
+                            }, 
+                            "title": "Jesus Washed Judas' Feet", 
+                            "artistName": "Lust Control", 
+                            "mbid": "1c07d8f5-045d-4bf4-8642-e3733bdb5b93", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "92"
+                            }, 
+                            "title": "Dancing Naked", 
+                            "artistName": "Lust Control", 
+                            "mbid": "ac0b4880-3b8f-443c-a173-77924be6ee65", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "24"
+                            }, 
+                            "title": "What About Your Wife?", 
+                            "artistName": "Lust Control", 
+                            "mbid": "e937a0f1-58e5-4b2d-961f-05e6be9d5bfe", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "30"
+                            }, 
+                            "title": "Circumcised, Baptized, & Moon Pies", 
+                            "artistName": "Lust Control", 
+                            "mbid": "f2f93b45-fb88-4e87-b093-f901d617074b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "53"
+                            }, 
+                            "title": "Fun, Fun Feeling", 
+                            "artistName": "Lust Control", 
+                            "mbid": "ac45a30d-5bbc-4f31-9f74-f37a436c91b8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "91"
+                            }, 
+                            "title": "Living in the New Age", 
+                            "artistName": "Lust Control", 
+                            "mbid": "0557fbfe-fdd8-4ea0-9d41-7bc9bf53ab38", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Witch Hunt", 
+                            "artistName": "Lust Control", 
+                            "mbid": "1b5cab72-5a58-4b32-929f-fe245b90bf11", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "5"
+                            }, 
+                            "title": "What's Goin On", 
+                            "artistName": "Lust Control", 
+                            "mbid": "c78b8922-673a-4ed5-a2da-461e44516ca9", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "33", 
+                                "playcount": "91"
+                            }, 
+                            "title": "Say It Like a Rock Star", 
+                            "artistName": "Lust Control", 
+                            "mbid": "4560eae2-e6bb-44ea-abd5-fd6d86f5a646", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Big Bang!", 
+                            "artistName": "Lust Control", 
+                            "mbid": "388a6381-fda2-425a-a566-279b42b24c20", 
+                            "trackNumber": "11", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "233"
+                            }, 
+                            "title": "Deliverance", 
+                            "artistName": "Lust Control", 
+                            "mbid": "f1a5eeae-a1de-4ed7-afef-b544b65069a4", 
+                            "trackNumber": "12", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "9"
+                            }, 
+                            "title": "John Styll", 
+                            "artistName": "Lust Control", 
+                            "mbid": "bd8ab3e2-63a4-4d62-81d6-18c1df7f1d86", 
+                            "trackNumber": "13", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "37"
+                            }, 
+                            "title": "Swimsuit Edition Wallpaper", 
+                            "artistName": "Lust Control", 
+                            "mbid": "50c538a1-0019-4e51-a389-a79cb43d4d6c", 
+                            "trackNumber": "14", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "175"
+                            }, 
+                            "title": "Operation Rescue", 
+                            "artistName": "Lust Control", 
+                            "mbid": "5f616a6c-e01e-4805-a1c2-a31f8bbd7580", 
+                            "trackNumber": "15", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "54"
+                            }, 
+                            "title": "That Groove Thang", 
+                            "artistName": "Lust Control", 
+                            "mbid": "c21fb286-c1e9-432f-adc1-e46469b0efa3", 
+                            "trackNumber": "16", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "74"
+                            }, 
+                            "title": "You Too", 
+                            "artistName": "Lust Control", 
+                            "mbid": "ee367c8d-69ac-4b0f-8883-52ccdfbdef0d", 
+                            "trackNumber": "17", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "18"
+                            }, 
+                            "title": "Planned Parenthood / Grace Reprise", 
+                            "artistName": "Lust Control", 
+                            "mbid": "8249867a-1267-402b-a785-12f8b9a87a02", 
+                            "trackNumber": "18", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "80f5d3d9-a7a6-4f56-9a85-ed978ba06135", 
+                    "packaging": null, 
+                    "listeners": "6", 
+                    "date": "1989", 
+                    "artistName": "Lust Control", 
+                    "playcount": "27", 
+                    "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                }
+            ], 
+            "title": "Dancing Naked"
+        }, 
+        {
+            "mbid": "c6b6f4df-3bd3-3224-8efe-6d7a0fe775dc", 
+            "releases": [
+                {
+                    "name": "The Worst Of...", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "199", 
+                                "playcount": "590"
+                            }, 
+                            "title": "Grace", 
+                            "artistName": "Lust Control", 
+                            "mbid": "a2c37afa-b640-4c36-a799-1b37c63fbdb6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "142"
+                            }, 
+                            "title": "Rude Awakening", 
+                            "artistName": "Lust Control", 
+                            "mbid": "922167b1-3e76-4690-a2b2-3db423c11dd8", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "110"
+                            }, 
+                            "title": "Madolyn Murray O'Hair", 
+                            "artistName": "Lust Control", 
+                            "mbid": "cd626d0c-b843-443f-b74e-d06348c4cf8d", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Wretched", 
+                            "artistName": "Lust Control", 
+                            "mbid": "0a4631ed-8c46-43de-8722-5bb413e1806e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "48", 
+                                "playcount": "118"
+                            }, 
+                            "title": "Apocalyptic Nightmare", 
+                            "artistName": "Lust Control", 
+                            "mbid": "b893d84f-3319-4318-88ec-37bf2b1ded51", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "114"
+                            }, 
+                            "title": "I Want to Die", 
+                            "artistName": "Lust Control", 
+                            "mbid": "aa98e92b-652b-4a59-801c-007d284c17d8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "452"
+                            }, 
+                            "title": "Mad at the Girls", 
+                            "artistName": "Lust Control", 
+                            "mbid": "4565898b-6257-40f7-bea9-72f4a4f80b5a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "26"
+                            }, 
+                            "title": "The Big 'M'", 
+                            "artistName": "Lust Control", 
+                            "mbid": "280ee64a-94f4-4513-ba04-451d6c971855", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "113", 
+                                "playcount": "333"
+                            }, 
+                            "title": "You Make Me Puke", 
+                            "artistName": "Lust Control", 
+                            "mbid": "bf42e294-290b-4af3-a1ba-b4ed9eb84091", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "There Is a Fountain / Grace (reprise)", 
+                            "artistName": "Lust Control", 
+                            "mbid": "f0c9c211-3ad3-435c-97aa-4dd6e6b04a45", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "111"
+                            }, 
+                            "title": "Rebuke", 
+                            "artistName": "Lust Control", 
+                            "mbid": "2bc7d6dc-d2ca-426e-bc28-688b44ffced6", 
+                            "trackNumber": "11", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "114"
+                            }, 
+                            "title": "Jesus Washed Judas' Feet", 
+                            "artistName": "Lust Control", 
+                            "mbid": "efddb716-843e-434e-934b-0d82170d8d81", 
+                            "trackNumber": "12", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "92"
+                            }, 
+                            "title": "Dancing Naked", 
+                            "artistName": "Lust Control", 
+                            "mbid": "d7cfba4f-1c9a-40fa-9255-7f4e498a7ab4", 
+                            "trackNumber": "13", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "24"
+                            }, 
+                            "title": "What About Your Wife?", 
+                            "artistName": "Lust Control", 
+                            "mbid": "69916e95-ce0f-4c42-b20c-f36ea6b77aa6", 
+                            "trackNumber": "14", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "53"
+                            }, 
+                            "title": "Fun, Fun Feeling", 
+                            "artistName": "Lust Control", 
+                            "mbid": "36cc2c3e-7ee9-4603-864e-ec483ef7bc9e", 
+                            "trackNumber": "15", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "91"
+                            }, 
+                            "title": "Living in the New Age", 
+                            "artistName": "Lust Control", 
+                            "mbid": "46e37952-8bee-4c38-86fb-3d26c0c6d880", 
+                            "trackNumber": "16", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Witch Hunt", 
+                            "artistName": "Lust Control", 
+                            "mbid": "eca5166f-5a07-4e9a-8a60-6865e00ddd76", 
+                            "trackNumber": "17", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "33"
+                            }, 
+                            "title": "What's Goin' On", 
+                            "artistName": "Lust Control", 
+                            "mbid": "d8080865-569f-47ad-9319-f8dea602acaf", 
+                            "trackNumber": "18", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "33", 
+                                "playcount": "91"
+                            }, 
+                            "title": "Say It Like a Rock Star", 
+                            "artistName": "Lust Control", 
+                            "mbid": "70aa63f5-13e2-4835-9c4e-4206e2d066d7", 
+                            "trackNumber": "19", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Big Bsng", 
+                            "artistName": "Lust Control", 
+                            "mbid": "17772ce6-daf1-48a1-86ea-7ce5b8ca3fb5", 
+                            "trackNumber": "20", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "233"
+                            }, 
+                            "title": "Deliverance", 
+                            "artistName": "Lust Control", 
+                            "mbid": "215ca66d-302e-4342-94e2-c71905ffcaa7", 
+                            "trackNumber": "21", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "9"
+                            }, 
+                            "title": "John Styll", 
+                            "artistName": "Lust Control", 
+                            "mbid": "7adf6e51-53f5-4572-bf0f-06b86fb8801d", 
+                            "trackNumber": "22", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "175"
+                            }, 
+                            "title": "Operation Rescue", 
+                            "artistName": "Lust Control", 
+                            "mbid": "dd13225f-b09f-4144-880a-21f4d29174a0", 
+                            "trackNumber": "23", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "11"
+                            }, 
+                            "title": "That Groove Thing", 
+                            "artistName": "Lust Control", 
+                            "mbid": "edc9354f-7a3f-43c6-977e-e9a937b5cedc", 
+                            "trackNumber": "24", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "74"
+                            }, 
+                            "title": "You Too", 
+                            "artistName": "Lust Control", 
+                            "mbid": "f2beaf6c-8681-4a1a-9ad2-8af7d15b561d", 
+                            "trackNumber": "25", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Planned Parenthood / Grace (reprise)", 
+                            "artistName": "Lust Control", 
+                            "mbid": "ae4d965d-fcb6-4dee-bb16-0b7f38be274b", 
+                            "trackNumber": "26", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "60"
+                            }, 
+                            "title": "Feminazi", 
+                            "artistName": "Lust Control", 
+                            "mbid": "83b71896-eecf-4eb5-b0a3-82a4b84fa5b8", 
+                            "trackNumber": "27", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "74"
+                            }, 
+                            "title": "Don't Kill You", 
+                            "artistName": "Lust Control", 
+                            "mbid": "269eb2cf-3a90-4a01-8835-08c4ab185b58", 
+                            "trackNumber": "28", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "34"
+                            }, 
+                            "title": "Temptation", 
+                            "artistName": "Lust Control", 
+                            "mbid": "77c27707-e060-4293-9a6e-31394dfb93c0", 
+                            "trackNumber": "29", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "35"
+                            }, 
+                            "title": "I Blew Up the Clinic Real Good", 
+                            "artistName": "Lust Control", 
+                            "mbid": "98acd577-b9c9-4cc6-a6f5-701ce203c3b6", 
+                            "trackNumber": "30", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "eea2ee89-3598-4f85-8004-0685ca3eb584", 
+                    "packaging": null, 
+                    "listeners": "21", 
+                    "date": "2000", 
+                    "artistName": "Lust Control", 
+                    "playcount": "252", 
+                    "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                }
+            ], 
+            "title": "The Worst of..."
+        }, 
+        {
+            "mbid": "d323c284-09a0-3e98-9fd5-9de5c560180e", 
+            "releases": [
+                {
+                    "name": "We Are Not Ashamed", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "199", 
+                                "playcount": "590"
+                            }, 
+                            "title": "Grace", 
+                            "artistName": "Lust Control", 
+                            "mbid": "203dd7e7-8f90-45e0-acb3-c560877ce710", 
+                            "trackNumber": "1", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "193", 
+                                "playcount": "608"
+                            }, 
+                            "title": "Leave Amy Alone", 
+                            "artistName": "Lust Control", 
+                            "mbid": "87c1662c-1582-4c4a-aad3-77bfa800e4e8", 
+                            "trackNumber": "2", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "113", 
+                                "playcount": "333"
+                            }, 
+                            "title": "You Make Me Puke", 
+                            "artistName": "Lust Control", 
+                            "mbid": "e8d2a67e-e7a0-4af0-bbe8-a582a4b97f58", 
+                            "trackNumber": "3", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "209"
+                            }, 
+                            "title": "Return to Vomit", 
+                            "artistName": "Lust Control", 
+                            "mbid": "412b9e55-b3de-4847-95c1-21bf39f9e298", 
+                            "trackNumber": "4", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "319"
+                            }, 
+                            "title": "Planned Parenthood", 
+                            "artistName": "Lust Control", 
+                            "mbid": "1f94ffe2-b3cd-491d-8d28-e2933319e48d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "26"
+                            }, 
+                            "title": "The Big 'M'", 
+                            "artistName": "Lust Control", 
+                            "mbid": "dd242812-aaf2-4e70-a497-53ed6d2966a8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "233"
+                            }, 
+                            "title": "Deliverance", 
+                            "artistName": "Lust Control", 
+                            "mbid": "8865bfe3-69e7-4ca2-882f-1de045f60e89", 
+                            "trackNumber": "7", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "102", 
+                                "playcount": "323"
+                            }, 
+                            "title": "If You Fail", 
+                            "artistName": "Lust Control", 
+                            "mbid": "1f632a06-b6d7-463c-87b6-8c5888a5671f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "191"
+                            }, 
+                            "title": "Virginity Disease", 
+                            "artistName": "Lust Control", 
+                            "mbid": "1ed640f8-be32-4661-9e01-670fc808a14a", 
+                            "trackNumber": "9", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "152"
+                            }, 
+                            "title": "The Secret", 
+                            "artistName": "Lust Control", 
+                            "mbid": "01470efe-9101-4f59-904f-681734ec0d98", 
+                            "trackNumber": "10", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "177"
+                            }, 
+                            "title": "Real Men Cry", 
+                            "artistName": "Lust Control", 
+                            "mbid": "7a8505fa-014c-478d-99cc-182047506991", 
+                            "trackNumber": "11", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "143"
+                            }, 
+                            "title": "Pray for the City", 
+                            "artistName": "Lust Control", 
+                            "mbid": "4fdc0b4d-102c-4d14-8c2d-73425d1e5d74", 
+                            "trackNumber": "12", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "452"
+                            }, 
+                            "title": "Mad at the Girls", 
+                            "artistName": "Lust Control", 
+                            "mbid": "139c5b75-337f-4609-85ee-83e6e04b738b", 
+                            "trackNumber": "13", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "124"
+                            }, 
+                            "title": "Speaking in Tongues", 
+                            "artistName": "Lust Control", 
+                            "mbid": "4c841108-ac55-4e3b-b455-348428fa005d", 
+                            "trackNumber": "14", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "80", 
+                                "playcount": "170"
+                            }, 
+                            "title": "Get Married", 
+                            "artistName": "Lust Control", 
+                            "mbid": "8ef37df3-ae22-48a1-a9c7-aa839270177a", 
+                            "trackNumber": "15", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "175"
+                            }, 
+                            "title": "Operation Rescue", 
+                            "artistName": "Lust Control", 
+                            "mbid": "44212da6-5cc8-491f-bac0-f2d53efde2e2", 
+                            "trackNumber": "16", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "30"
+                            }, 
+                            "title": "Victim of Revolution", 
+                            "artistName": "Lust Control", 
+                            "mbid": "1979fa85-65dd-479d-b476-ecb4b5515ff9", 
+                            "trackNumber": "17", 
+                            "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "2a726011-e048-495d-b7ed-46e13d89b332", 
+                    "packaging": null, 
+                    "listeners": "69", 
+                    "date": "1992", 
+                    "artistName": "Lust Control", 
+                    "playcount": "832", 
+                    "artistMBID": "b6174910-7335-4768-a42d-8e4655f37114"
+                }
+            ], 
+            "title": "We Are Not Ashamed"
+        }
+    ], 
+    "type": "Group"
+}

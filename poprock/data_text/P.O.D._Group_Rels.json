@@ -1,0 +1,49 @@
+{
+    "name": "P.O.D.",
+    "mbid": "57e79d57-b795-475e-9fa2-5dd9d5513b8c",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "96542816-b8ba-4758-b5e6-05d84885b2d9",
+            "name": "Gabe Portillo",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "786c3287-900f-4368-8aaa-b7545e873903",
+            "name": "Marcos Curiel",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "424ffd4a-3efc-40ea-a5c0-5a6b495e4655",
+            "name": "Noah \"Wuv\" Bernardo",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "18511320-ff94-495e-8a48-96be8641caf8",
+            "name": "Sonny Sandoval",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "ce8acbe7-81fc-403e-9b61-62f593a91b75",
+            "name": "Traa Daniels",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "9ae007ca-5f29-4dd0-bbd1-88cd91a5b594",
+            "name": "Jason Truby",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "786c3287-900f-4368-8aaa-b7545e873903",
+            "name": "Marcos Curiel",
+            "attributes": []
+        }
+    ]
+}

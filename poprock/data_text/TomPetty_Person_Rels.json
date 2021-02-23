@@ -1,0 +1,28 @@
+{
+    "name": "Tom Petty",
+    "mbid": "5ca3f318-d028-4151-ac73-78e2b2d6cdcc",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "f93dbc64-6f08-4033-bcc7-8a0bb4689849",
+            "name": "Tom Petty and the Heartbreakers",
+            "attributes": [
+                "eponymous",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c9b3bf7f-e237-4d43-be6b-02bf59b99f90",
+            "name": "Mudcrutch",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6d72bf52-417d-4ca0-84db-dea062bb2fe0",
+            "name": "Peace Choir",
+            "attributes": []
+        }
+    ]
+}

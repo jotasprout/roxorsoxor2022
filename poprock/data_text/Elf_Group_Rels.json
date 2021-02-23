@@ -1,0 +1,63 @@
+{
+    "name": "Elf",
+    "mbid": "57e0e9f3-24b5-46a6-be00-be793ca26e21",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+            "name": "Ronnie James Dio",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6d4cade7-2769-4d54-ba81-3f875f0bcd8c",
+            "name": "Gary Driscoll",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9743778e-7d66-4797-af68-72efb67ae615",
+            "name": "David \"Rock\" Feinstein",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1dd059a6-4c93-4ec4-bd96-7f08617dfee0",
+            "name": "Mickey Lee Soule",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ce0527ef-0b2a-48e1-8c39-646692f954e5",
+            "name": "Steve Edwards",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "969e350a-03eb-4c4a-b049-919ff5ba5a28",
+            "name": "Craig Gruber",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "77f7ee2c-d3dc-4d42-8b0a-13be3e5a70b4",
+            "name": "Mark Nauseef",
+            "attributes": [
+                "membranophone"
+            ]
+        }
+    ]
+}

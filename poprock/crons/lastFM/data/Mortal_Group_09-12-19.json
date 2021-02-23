@@ -1,0 +1,1098 @@
+{
+    "genres": [
+        "industrial", 
+        "christian", 
+        "electronic", 
+        "christian industrial", 
+        "metal"
+    ], 
+    "taskDuration": {
+        "Task Duration": 41.85548210144043, 
+        "Task End": 1568263281.348566, 
+        "Task Start": 1568263239.493084
+    }, 
+    "stats": {
+        "listeners": "6149", 
+        "playcount": "98337"
+    }, 
+    "name": "Mortal", 
+    "mbid": "f0169794-0188-40d4-8031-3fdb2e27db4a", 
+    "birthday": null, 
+    "date": "2019-09-12", 
+    "albums": [
+        {
+            "mbid": "2a0823eb-522b-35ba-be94-439fa6abfc49", 
+            "releases": [
+                {
+                    "name": "Wake", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "1354"
+                            }, 
+                            "title": "Paradigm One", 
+                            "artistName": "Mortal", 
+                            "mbid": "2549360b-f53f-4146-9261-9a439f6cdbd4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "243", 
+                                "playcount": "882"
+                            }, 
+                            "title": "June First", 
+                            "artistName": "Mortal", 
+                            "mbid": "a0936c22-3959-487c-8e86-b68a26dc88c2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "875"
+                            }, 
+                            "title": "Mother's Day", 
+                            "artistName": "Mortal", 
+                            "mbid": "2be88da7-2249-4e99-8343-3e51ae55aa1a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "212", 
+                                "playcount": "1076"
+                            }, 
+                            "title": "Vial", 
+                            "artistName": "Mortal", 
+                            "mbid": "6945943d-ac6a-472c-b736-0a60e51750d0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "205", 
+                                "playcount": "723"
+                            }, 
+                            "title": "Filter", 
+                            "artistName": "Mortal", 
+                            "mbid": "c00ea105-c005-4f75-bb28-80cf49276a67", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "192", 
+                                "playcount": "808"
+                            }, 
+                            "title": "Speed of Sound", 
+                            "artistName": "Mortal", 
+                            "mbid": "91e17a16-3ef8-453f-8516-95d353d67b06", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "179", 
+                                "playcount": "781"
+                            }, 
+                            "title": "Oceanful", 
+                            "artistName": "Mortal", 
+                            "mbid": "e6e369bb-8456-4aab-90c2-e8161146ff67", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "187", 
+                                "playcount": "721"
+                            }, 
+                            "title": "Serpent-Teen", 
+                            "artistName": "Mortal", 
+                            "mbid": "9880c4cf-0667-4a00-8cd8-3afcce0a92de", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "168", 
+                                "playcount": "674"
+                            }, 
+                            "title": "Moons & Suns", 
+                            "artistName": "Mortal", 
+                            "mbid": "6ab4ea89-0c98-48a6-bee2-5be35c49adb5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "181", 
+                                "playcount": "691"
+                            }, 
+                            "title": "Fall", 
+                            "artistName": "Mortal", 
+                            "mbid": "51a12d46-b03c-49a3-a3ca-98f1caf7661a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173", 
+                                "playcount": "628"
+                            }, 
+                            "title": "Sold", 
+                            "artistName": "Mortal", 
+                            "mbid": "0972eaf1-ec7a-4610-99fd-3e0cb0881a12", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "176", 
+                                "playcount": "752"
+                            }, 
+                            "title": "God of 3 Strings", 
+                            "artistName": "Mortal", 
+                            "mbid": "20718070-61e3-4166-94a1-a12efa21dc72", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "239", 
+                                "playcount": "825"
+                            }, 
+                            "title": "Nowhere Man", 
+                            "artistName": "Mortal", 
+                            "mbid": "360ea06f-4959-4644-a909-26975301a7b4", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "163", 
+                                "playcount": "599"
+                            }, 
+                            "title": "To My Darling Whippoorwill", 
+                            "artistName": "Mortal", 
+                            "mbid": "725341db-80bf-4ee7-976c-8320cff39f24", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "48574bd8-a7e5-44cb-807e-ab779ea07e03", 
+                    "packaging": null, 
+                    "listeners": "499", 
+                    "date": "1994-11", 
+                    "artistName": "Mortal", 
+                    "playcount": "9471", 
+                    "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                }
+            ], 
+            "title": "Wake"
+        }, 
+        {
+            "mbid": "4219f362-76bd-3357-bb42-b01aec5262b9", 
+            "releases": [
+                {
+                    "name": "Mortal", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "124", 
+                                "playcount": "519"
+                            }, 
+                            "title": "Mission", 
+                            "artistName": "Mortal", 
+                            "mbid": "302f5b4c-013a-4a09-8d94-9cb66978a69e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "147", 
+                                "playcount": "784"
+                            }, 
+                            "title": "Kingflux", 
+                            "artistName": "Mortal", 
+                            "mbid": "590c9ed5-fc38-4c1e-a60a-630213d6bcfa", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "422"
+                            }, 
+                            "title": "Overmind", 
+                            "artistName": "Mortal", 
+                            "mbid": "9ee76c20-df1e-4fd9-9f49-19056a99a8b9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "132", 
+                                "playcount": "610"
+                            }, 
+                            "title": "Anything", 
+                            "artistName": "Mortal", 
+                            "mbid": "2b012e66-4494-40f4-8314-e555879babc0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "113", 
+                                "playcount": "448"
+                            }, 
+                            "title": "Scalawag", 
+                            "artistName": "Mortal", 
+                            "mbid": "63126f90-98f2-47d5-b0a6-49d2ff0551e2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "113", 
+                                "playcount": "432"
+                            }, 
+                            "title": "Mighty Force", 
+                            "artistName": "Mortal", 
+                            "mbid": "5da8b2b5-2394-4c79-8056-06e21e6af9f8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "186", 
+                                "playcount": "873"
+                            }, 
+                            "title": "Fray Lagoon", 
+                            "artistName": "Mortal", 
+                            "mbid": "da2e07fa-027e-4013-ba38-2dbe8d20d048", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "96", 
+                                "playcount": "512"
+                            }, 
+                            "title": "Rail, Road", 
+                            "artistName": "Mortal", 
+                            "mbid": "a8544c98-5777-4c2f-aaa7-36e38c6ee9ca", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "99", 
+                                "playcount": "440"
+                            }, 
+                            "title": "Run (Atmostrange)", 
+                            "artistName": "Mortal", 
+                            "mbid": "6508d9e5-722f-437e-848b-283176c07ce9", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "422"
+                            }, 
+                            "title": "Streamrunner", 
+                            "artistName": "Mortal", 
+                            "mbid": "0d426b64-a45d-489d-a8b0-9cf755195d79", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "1a0b6ff1-d892-44f5-b9df-4ba2d030bd82", 
+                    "packaging": null, 
+                    "listeners": "190", 
+                    "date": "1996-02-29", 
+                    "artistName": "Mortal", 
+                    "playcount": "4039", 
+                    "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                }
+            ], 
+            "title": "Mortal"
+        }, 
+        {
+            "mbid": "5ea4d88e-0a13-3f09-9f05-3d0202dae4f9", 
+            "releases": [
+                {
+                    "name": "Nu-En-Jin", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "446", 
+                                "playcount": "2208"
+                            }, 
+                            "title": "FMZ4", 
+                            "artistName": "Mortal", 
+                            "mbid": "0076f46a-23af-4bdf-9555-f0ac825c831c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "1172"
+                            }, 
+                            "title": "Teraferma", 
+                            "artistName": "Mortal", 
+                            "mbid": "b35056ef-9685-42ea-be60-c420fd69a9a2", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "974565a9-3748-422c-a073-467a84e2ac82", 
+                    "packaging": null, 
+                    "listeners": "539", 
+                    "date": "2002-09-24", 
+                    "artistName": "Mortal", 
+                    "playcount": "13178", 
+                    "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                }
+            ], 
+            "title": "Nu-En-Jin"
+        }, 
+        {
+            "mbid": "6c6ffdde-c756-4596-95cb-ff87e137c35f", 
+            "releases": [
+                {
+                    "name": "Pura", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "235", 
+                                "playcount": "961"
+                            }, 
+                            "title": "Judah", 
+                            "artistName": "Mortal", 
+                            "mbid": "7fe14854-282d-4dd9-a0b4-85580290c7d7", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "213", 
+                                "playcount": "1158"
+                            }, 
+                            "title": "Grip", 
+                            "artistName": "Mortal", 
+                            "mbid": "15ba2d25-b9e6-4c72-bd3d-22208b73c14c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "182", 
+                                "playcount": "983"
+                            }, 
+                            "title": "Sand Starr", 
+                            "artistName": "Mortal", 
+                            "mbid": "179ef291-3956-4e0d-81df-1faf12eb9ace", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "1210"
+                            }, 
+                            "title": "Solamente", 
+                            "artistName": "Mortal", 
+                            "mbid": "173cdd67-9101-428a-affa-d715b6b47d37", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "181", 
+                                "playcount": "836"
+                            }, 
+                            "title": "Nightfall & Splendor", 
+                            "artistName": "Mortal", 
+                            "mbid": "efcdde24-54d5-4f33-8206-4e33917f9b88", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "192", 
+                                "playcount": "1181"
+                            }, 
+                            "title": "Pura", 
+                            "artistName": "Mortal", 
+                            "mbid": "bad8ed99-5277-49e9-a906-e5b77008b52e", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "161", 
+                                "playcount": "864"
+                            }, 
+                            "title": "Liquid Gift", 
+                            "artistName": "Mortal", 
+                            "mbid": "5440f3c1-d772-48bd-b67f-e75e1f1095d2", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "154", 
+                                "playcount": "934"
+                            }, 
+                            "title": "Gaza", 
+                            "artistName": "Mortal", 
+                            "mbid": "0e66cfb5-c973-4586-96e1-3e41e42d1dff", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "899"
+                            }, 
+                            "title": "Bells", 
+                            "artistName": "Mortal", 
+                            "mbid": "d61c0d31-7a3b-4f35-9e44-32b051e27eb2", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "148", 
+                                "playcount": "839"
+                            }, 
+                            "title": "The Nightfall", 
+                            "artistName": "Mortal", 
+                            "mbid": "5b95864b-c0fd-4b8c-ae69-777414e34ea9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9734e038-014d-4674-b03d-e74f972c3858", 
+                    "packaging": null, 
+                    "listeners": "317", 
+                    "date": "1995-10", 
+                    "artistName": "Mortal", 
+                    "playcount": "6742", 
+                    "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                }
+            ], 
+            "title": "Pura"
+        }, 
+        {
+            "mbid": "7d56aca4-43df-3f72-b1b6-91c36714eaf2", 
+            "releases": [
+                {
+                    "name": "Fathom", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "544", 
+                                "playcount": "2223"
+                            }, 
+                            "title": "Alive and Awake", 
+                            "artistName": "Mortal", 
+                            "mbid": "6e41f281-d5af-4cd5-8da1-793ce8882827", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "390", 
+                                "playcount": "1504"
+                            }, 
+                            "title": "Neplusultra", 
+                            "artistName": "Mortal", 
+                            "mbid": "8f5f2571-5521-49ff-af99-192c4f6ae88d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "473", 
+                                "playcount": "2292"
+                            }, 
+                            "title": "Rift", 
+                            "artistName": "Mortal", 
+                            "mbid": "10db237b-06ac-4986-875b-654669c3f0ce", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "351", 
+                                "playcount": "1568"
+                            }, 
+                            "title": "Jil Sent Me", 
+                            "artistName": "Mortal", 
+                            "mbid": "027d3255-6223-4868-867e-d5349d57a5b9", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "289", 
+                                "playcount": "1045"
+                            }, 
+                            "title": "Ex-Nihilo", 
+                            "artistName": "Mortal", 
+                            "mbid": "b80dfc23-1b32-4756-a993-a344e90f545f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "233", 
+                                "playcount": "917"
+                            }, 
+                            "title": "Above & Beyond", 
+                            "artistName": "Mortal", 
+                            "mbid": "5abd85fe-a08e-49a6-9017-22a28dde8d24", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Mortal", 
+                            "mbid": "d004b3fb-e327-4b19-9256-725c019fb73c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "295", 
+                                "playcount": "1098"
+                            }, 
+                            "title": "Rainlight", 
+                            "artistName": "Mortal", 
+                            "mbid": "3b616a7e-7aab-4ad0-a550-91d091a342ae", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "1366"
+                            }, 
+                            "title": "Bright Wings", 
+                            "artistName": "Mortal", 
+                            "mbid": "cf30a383-d519-4513-8cea-b128dc9e8de3", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "60"
+                            }, 
+                            "title": "XiX", 
+                            "artistName": "Mortal", 
+                            "mbid": "a1b12af8-9b75-4fec-973a-990fbe6dbf3e", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "1316"
+                            }, 
+                            "title": "Promulgate", 
+                            "artistName": "Mortal", 
+                            "mbid": "cbc65285-040e-47f1-b327-9b4f335e513b", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "257", 
+                                "playcount": "1104"
+                            }, 
+                            "title": "Electrify", 
+                            "artistName": "Mortal", 
+                            "mbid": "6cdfaae2-79a4-400b-880d-55763c57df1f", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "265", 
+                                "playcount": "1053"
+                            }, 
+                            "title": "Godspeed", 
+                            "artistName": "Mortal", 
+                            "mbid": "68e229ca-9cf1-40bd-9d00-3e06b536a9ef", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "584baaf7-f868-428f-aeb8-4af2f87e301d", 
+                    "packaging": null, 
+                    "listeners": "780", 
+                    "date": "1993", 
+                    "artistName": "Mortal", 
+                    "playcount": "13520", 
+                    "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                }
+            ], 
+            "title": "Fathom"
+        }, 
+        {
+            "mbid": "886c3f49-6e07-3ff6-ba1a-e8cc2ceb776e", 
+            "releases": [
+                {
+                    "name": "Intense Live Series, Volume 5", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "557"
+                            }, 
+                            "title": "Lift", 
+                            "artistName": "Mortal", 
+                            "mbid": "fa66f19d-d893-4933-9612-b4264c72c5d3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "281", 
+                                "playcount": "1280"
+                            }, 
+                            "title": "Tuesday Assassin", 
+                            "artistName": "Mortal", 
+                            "mbid": "34ab1616-a1ef-4dcf-bd86-289057d113d7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "131", 
+                                "playcount": "509"
+                            }, 
+                            "title": "One Tree Hill", 
+                            "artistName": "Mortal", 
+                            "mbid": "28e0a634-b6f5-46a3-8d07-422a35f76736", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "473", 
+                                "playcount": "2292"
+                            }, 
+                            "title": "Rift", 
+                            "artistName": "Mortal", 
+                            "mbid": "e5e204a3-25c0-4a12-aa85-5456e01495f8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "93", 
+                                "playcount": "348"
+                            }, 
+                            "title": "Thy Word", 
+                            "artistName": "Mortal", 
+                            "mbid": "02a53799-57bd-472a-9ded-c2b8c3f0e881", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "307", 
+                                "playcount": "1635"
+                            }, 
+                            "title": "Cryptic", 
+                            "artistName": "Mortal", 
+                            "mbid": "3e1a70f8-4785-417a-a404-190f52fa6cda", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0660c041-9ca1-40fc-9a96-f78aae665ebb", 
+                    "packaging": null, 
+                    "listeners": "19", 
+                    "date": "1993-07", 
+                    "artistName": "Mortal", 
+                    "playcount": "90", 
+                    "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                }
+            ], 
+            "title": "Intense Live Series, Volume 5"
+        }, 
+        {
+            "mbid": "a50a63e3-3082-3f0c-875b-cf6b41c50bdb", 
+            "releases": [
+                {
+                    "name": "Godspeed", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "1354"
+                            }, 
+                            "title": "Paradigm One", 
+                            "artistName": "Mortal", 
+                            "mbid": "2549360b-f53f-4146-9261-9a439f6cdbd4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "544", 
+                                "playcount": "2223"
+                            }, 
+                            "title": "Alive and Awake", 
+                            "artistName": "Mortal", 
+                            "mbid": "591a1add-c26d-40f4-97e5-9026b60a3b6c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "213", 
+                                "playcount": "1158"
+                            }, 
+                            "title": "Grip", 
+                            "artistName": "Mortal", 
+                            "mbid": "15ba2d25-b9e6-4c72-bd3d-22208b73c14c", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "1175"
+                            }, 
+                            "title": "Mytho-X", 
+                            "artistName": "Mortal", 
+                            "mbid": "38f732f2-e6fa-4bc8-9e88-8a80f2e9accf", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "473", 
+                                "playcount": "2292"
+                            }, 
+                            "title": "Rift", 
+                            "artistName": "Mortal", 
+                            "mbid": "893df1de-760c-4546-919c-9cfd10dd8722", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "159", 
+                                "playcount": "632"
+                            }, 
+                            "title": "Bleeder", 
+                            "artistName": "Mortal", 
+                            "mbid": "af3487d9-1dec-42ea-ac9f-bbb462c95ac5", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "307", 
+                                "playcount": "1635"
+                            }, 
+                            "title": "Cryptic", 
+                            "artistName": "Mortal", 
+                            "mbid": "73fac1ea-735d-406c-af0e-769e997e656c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "557"
+                            }, 
+                            "title": "Lift", 
+                            "artistName": "Mortal", 
+                            "mbid": "663644fc-47a9-4a9a-845f-ff5aae992c4c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "875"
+                            }, 
+                            "title": "Mother's Day", 
+                            "artistName": "Mortal", 
+                            "mbid": "2be88da7-2249-4e99-8343-3e51ae55aa1a", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "1210"
+                            }, 
+                            "title": "Solamente", 
+                            "artistName": "Mortal", 
+                            "mbid": "ed52e27b-a99f-4dfb-bb57-4e7f9e2a30df", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "186", 
+                                "playcount": "873"
+                            }, 
+                            "title": "Fray Lagoon", 
+                            "artistName": "Mortal", 
+                            "mbid": "da2e07fa-027e-4013-ba38-2dbe8d20d048", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "351", 
+                                "playcount": "1568"
+                            }, 
+                            "title": "Jil Sent Me", 
+                            "artistName": "Mortal", 
+                            "mbid": "53c5190e-eb49-4ddc-b52b-a660cbd776dd", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "147", 
+                                "playcount": "784"
+                            }, 
+                            "title": "Kingflux", 
+                            "artistName": "Mortal", 
+                            "mbid": "590c9ed5-fc38-4c1e-a60a-630213d6bcfa", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "245"
+                            }, 
+                            "title": "Enfleshed", 
+                            "artistName": "Mortal", 
+                            "mbid": "318c1648-ef10-4cd9-9397-6eaf30c2b598", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "265", 
+                                "playcount": "1053"
+                            }, 
+                            "title": "Godspeed", 
+                            "artistName": "Mortal", 
+                            "mbid": "996cf290-aea8-4880-9c2a-ec12457057d2", 
+                            "trackNumber": "15", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "37f7235b-2a95-4304-83dd-ae864931ad95", 
+                    "packaging": null, 
+                    "listeners": "71", 
+                    "date": "1998-10", 
+                    "artistName": "Mortal", 
+                    "playcount": "735", 
+                    "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                }
+            ], 
+            "title": "Godspeed"
+        }, 
+        {
+            "mbid": "aa34219d-c718-3f72-bfd3-fe4825f91b5c", 
+            "releases": [
+                {
+                    "name": "Lusis", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "336", 
+                                "playcount": "1340"
+                            }, 
+                            "title": "Enfleshed (The Word Is Alive)", 
+                            "artistName": "Mortal", 
+                            "mbid": "ba0c3729-9ec0-47ee-99e6-a4ee8ada0d5f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "1175"
+                            }, 
+                            "title": "Mytho-X", 
+                            "artistName": "Mortal", 
+                            "mbid": "8f12d86d-8b1f-4cf6-a2db-4293f94d5883", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "250", 
+                                "playcount": "1019"
+                            }, 
+                            "title": "If Ever Maria", 
+                            "artistName": "Mortal", 
+                            "mbid": "7b2b1e7f-4e53-4667-b118-e7d0cfc1d56a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "238", 
+                                "playcount": "853"
+                            }, 
+                            "title": "Fisherman", 
+                            "artistName": "Mortal", 
+                            "mbid": "889b5e75-9ad2-429b-8cf3-4cf6c8488c91", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "244", 
+                                "playcount": "982"
+                            }, 
+                            "title": "Painkiller", 
+                            "artistName": "Mortal", 
+                            "mbid": "16dbcd65-e9fb-4f9f-b683-8b938b33897f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "281", 
+                                "playcount": "1280"
+                            }, 
+                            "title": "Tuesday Assassin", 
+                            "artistName": "Mortal", 
+                            "mbid": "c01746f6-6fb5-49dd-b700-9b7a8783b934", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "264", 
+                                "playcount": "960"
+                            }, 
+                            "title": "Rescinding", 
+                            "artistName": "Mortal", 
+                            "mbid": "25fdf741-1a01-426f-97ab-2d773489b113", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "307", 
+                                "playcount": "1635"
+                            }, 
+                            "title": "Cryptic", 
+                            "artistName": "Mortal", 
+                            "mbid": "73fac1ea-735d-406c-af0e-769e997e656c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "212", 
+                                "playcount": "815"
+                            }, 
+                            "title": "Miracle Man", 
+                            "artistName": "Mortal", 
+                            "mbid": "9bc8250e-87ca-4696-b974-ded875327a0a", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "204", 
+                                "playcount": "737"
+                            }, 
+                            "title": "Santa Cruz", 
+                            "artistName": "Mortal", 
+                            "mbid": "5021b796-90e1-4422-b424-8d792ad9b751", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "193", 
+                                "playcount": "625"
+                            }, 
+                            "title": "S.F.N.", 
+                            "artistName": "Mortal", 
+                            "mbid": "0034de30-91aa-4562-a8ab-1b9bd7fe21ea", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "209", 
+                                "playcount": "957"
+                            }, 
+                            "title": "Sinister", 
+                            "artistName": "Mortal", 
+                            "mbid": "d462adae-9387-465e-a32a-4fad344d6272", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "183", 
+                                "playcount": "626"
+                            }, 
+                            "title": "Enfleshed (Alive Is the Word remix)", 
+                            "artistName": "Mortal", 
+                            "mbid": "1a59e321-7f72-46e8-bd0c-987cbdf033d3", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "aaac4b7d-3b77-483f-8dd6-c697c26fa8b4", 
+                    "packaging": null, 
+                    "listeners": "527", 
+                    "date": "1992-01", 
+                    "artistName": "Mortal", 
+                    "playcount": "10628", 
+                    "artistMBID": "f0169794-0188-40d4-8031-3fdb2e27db4a"
+                }
+            ], 
+            "title": "Lusis"
+        }
+    ], 
+    "type": "Group"
+}

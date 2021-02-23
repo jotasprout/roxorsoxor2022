@@ -1,0 +1,31 @@
+{
+    "name": "Crosby, Stills, Nash & Young",
+    "mbid": "46a782ea-4308-476b-abd1-a91b197f3037",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "e90f9815-221d-4e10-8675-e75c07988113",
+            "name": "David Crosby",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2ed8ecda-5bb9-4d9f-8c99-0bf9b85b3624",
+            "name": "Graham Nash",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5642774a-72c0-4099-8da4-7c1ab36378a8",
+            "name": "Stephen Stills",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+            "name": "Neil Young",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Alice Cooper",
+    "mbid": "4d7928cd-7ed2-4282-8c29-c0c9f966f1bd",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "6e6d6e13-4514-4c86-916d-2c26f295ca9b",
+            "name": "Michael Bruce",
+            "attributes": [
+                "guitar",
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "830aa3af-51bb-4d7c-abda-f991df73b787",
+            "name": "Glen Buxton",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae",
+            "name": "Alice Cooper",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "181f2652-ca5c-4981-a60c-c51c00bbd97a",
+            "name": "Dennis Dunaway",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "3912b016-666b-46f8-a5ec-86806227ba60",
+            "name": "Neal Smith",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        }
+    ]
+}

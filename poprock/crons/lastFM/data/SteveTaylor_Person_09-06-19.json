@@ -1,0 +1,1801 @@
+{
+    "genres": [
+        "christian", 
+        "alternative", 
+        "rock", 
+        "satire", 
+        "seen live"
+    ], 
+    "taskDuration": {
+        "Task Duration": 72.24676489830017, 
+        "Task End": 1567744942.822564, 
+        "Task Start": 1567744870.575799
+    }, 
+    "stats": {
+        "listeners": "10524", 
+        "playcount": "154995"
+    }, 
+    "name": "Steve Taylor", 
+    "mbid": "50809635-76df-4433-b324-b3c5258fb0a3", 
+    "birthday": "1957-12-09", 
+    "date": "2019-09-06", 
+    "albums": [
+        {
+            "mbid": "05157585-d5f2-39fe-b551-bf6b189defff", 
+            "releases": [
+                {
+                    "name": "Squint", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "533", 
+                                "playcount": "3095"
+                            }, 
+                            "title": "Lament of Desmond R. G. Underwood\u2013Frederick IV", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "a29990e3-95b3-457b-9c1c-9ae83242b3a8", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "551", 
+                                "playcount": "3194"
+                            }, 
+                            "title": "Bannerman", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "eae7d8e2-2342-429c-8532-9920b58a5a59", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "480", 
+                                "playcount": "2591"
+                            }, 
+                            "title": "Smug", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "3b174f80-d167-49b8-ac1b-4344ae47c5e5", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "629", 
+                                "playcount": "3668"
+                            }, 
+                            "title": "Jesus Is for Losers", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "5bf99cb7-c974-44fe-ae6c-dc205f6a8edd", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "561", 
+                                "playcount": "3782"
+                            }, 
+                            "title": "The Finish Line", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6df6b64a-4658-45df-a6b0-702ca7599e4e", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "436", 
+                                "playcount": "2312"
+                            }, 
+                            "title": "The Moshing Floor", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d6421b65-85b7-4133-9156-c2fecb4660fb", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "441", 
+                                "playcount": "2192"
+                            }, 
+                            "title": "Easy Listening", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "5e6ddfd8-6fe8-488e-b266-954920031a4a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "427", 
+                                "playcount": "1980"
+                            }, 
+                            "title": "Curses", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "7972f35c-0b14-4791-b28d-4388b3a57ec8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "415", 
+                                "playcount": "2649"
+                            }, 
+                            "title": "Sock Heaven", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "3ab94021-7742-40fe-bb72-84a21f1608f5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "394", 
+                                "playcount": "1829"
+                            }, 
+                            "title": "Cash Cow (A Rock Opera in Three Small Acts)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "98932e22-2e07-423a-92f9-a8b15e0d8ccc", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "3a806d0e-7c4f-49a9-8d7a-5ea5d707e772", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "832", 
+                    "date": "1993-11", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "22013", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }, 
+                {
+                    "name": "Squint", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "533", 
+                                "playcount": "3095"
+                            }, 
+                            "title": "Lament of Desmond R. G. Underwood\u2013Frederick IV", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "a29990e3-95b3-457b-9c1c-9ae83242b3a8", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "551", 
+                                "playcount": "3194"
+                            }, 
+                            "title": "Bannerman", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "eae7d8e2-2342-429c-8532-9920b58a5a59", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "480", 
+                                "playcount": "2591"
+                            }, 
+                            "title": "Smug", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "3b174f80-d167-49b8-ac1b-4344ae47c5e5", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "629", 
+                                "playcount": "3668"
+                            }, 
+                            "title": "Jesus Is for Losers", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "5bf99cb7-c974-44fe-ae6c-dc205f6a8edd", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "561", 
+                                "playcount": "3782"
+                            }, 
+                            "title": "The Finish Line", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6df6b64a-4658-45df-a6b0-702ca7599e4e", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "436", 
+                                "playcount": "2312"
+                            }, 
+                            "title": "The Moshing Floor", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d6421b65-85b7-4133-9156-c2fecb4660fb", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "441", 
+                                "playcount": "2192"
+                            }, 
+                            "title": "Easy Listening", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "5e6ddfd8-6fe8-488e-b266-954920031a4a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "427", 
+                                "playcount": "1980"
+                            }, 
+                            "title": "Curses", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "7972f35c-0b14-4791-b28d-4388b3a57ec8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "415", 
+                                "playcount": "2649"
+                            }, 
+                            "title": "Sock Heaven", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "3ab94021-7742-40fe-bb72-84a21f1608f5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "394", 
+                                "playcount": "1829"
+                            }, 
+                            "title": "Cash Cow (A Rock Opera in Three Small Acts)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "98932e22-2e07-423a-92f9-a8b15e0d8ccc", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "3a806d0e-7c4f-49a9-8d7a-5ea5d707e772", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "832", 
+                    "date": "1993", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "22013", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "Squint"
+        }, 
+        {
+            "mbid": "18409594-ac1a-303b-99cf-8b108eb57abb", 
+            "releases": [
+                {
+                    "name": "Creation Festival 1994", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "436", 
+                                "playcount": "2312"
+                            }, 
+                            "title": "The Moshing Floor", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "1c9e7978-bd53-44f4-a6db-3213139b42be", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "128"
+                            }, 
+                            "title": "The Lament of Desmond R.G. Underwood-Fredrick IV", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "0512a42c-cd55-4d16-9009-b12d711e4e89", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "427", 
+                                "playcount": "1980"
+                            }, 
+                            "title": "Curses", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "4bf03452-51c6-4994-bac1-61bed2faaea9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "16"
+                            }, 
+                            "title": "The Newsboys' Hotel Room", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "f11ce6c6-a3d3-48b4-ac29-c19d5cf8c6f8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2935", 
+                                "playcount": "9238"
+                            }, 
+                            "title": "I Want to Be a Clone", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "0e3ab62b-6ec3-4790-90a6-1f6ad7bcad7b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "441", 
+                                "playcount": "2192"
+                            }, 
+                            "title": "Easy Listening", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d005df76-a188-45e9-9957-60f11316c496", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "480", 
+                                "playcount": "2591"
+                            }, 
+                            "title": "Smug", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "cd122031-4645-41ba-aa2a-64181c066f28", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Bannerman Story", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "c9c78a1e-1a0d-4ae5-a17c-d6df9b3c1625", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "551", 
+                                "playcount": "3194"
+                            }, 
+                            "title": "Bannerman", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "8e74b157-981f-4382-b546-2c77d7e9c421", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "818", 
+                                "playcount": "4052"
+                            }, 
+                            "title": "Jim Morrison's Grave", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "1ae29065-f40f-4ad0-a2d9-5f2e0c6cbbd4", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Jesus Is for Losers (intro)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "752711b0-2270-452c-94f2-628171bd0bb2", 
+                            "trackNumber": "11", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "629", 
+                                "playcount": "3668"
+                            }, 
+                            "title": "Jesus Is for Losers", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "78e631b0-4e37-4b06-9595-096c4b23892c", 
+                            "trackNumber": "12", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "561", 
+                                "playcount": "3782"
+                            }, 
+                            "title": "The Finish Line", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "e888b46b-072e-447c-9e83-45013730e3b6", 
+                            "trackNumber": "13", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "253"
+                            }, 
+                            "title": "Meltdown", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "764e1bb9-7539-4b3c-b587-ee0b6c8ee8a4", 
+                            "trackNumber": "14", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "290", 
+                                "playcount": "1297"
+                            }, 
+                            "title": "Violent Blue", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "5e4c21b0-5b23-4145-b2b3-8b659fb55fe3", 
+                            "trackNumber": "15", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "23"
+                            }, 
+                            "title": "We Don't Need No Colour Code (intro)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "8fd5da0a-954b-4317-9876-245a4d25866c", 
+                            "trackNumber": "16", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1753"
+                            }, 
+                            "title": "We Don't Need No Colour Code", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "4bfa64cc-343b-4e2d-9ea8-6bdadc887cbf", 
+                            "trackNumber": "17", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "cf0bb514-e93a-47ab-ac7e-b16b6db9d200", 
+                    "packaging": null, 
+                    "listeners": "4", 
+                    "date": "", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "37", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "Creation Festival 1994"
+        }, 
+        {
+            "mbid": "1e8e8c6d-2e23-4e49-9efd-35a336f51e6c", 
+            "releases": [], 
+            "title": "Video Works"
+        }, 
+        {
+            "mbid": "2ae96158-ae6b-40a7-b837-4255f6335508", 
+            "releases": [], 
+            "title": "Trans\u2010Atlantic Remixes"
+        }, 
+        {
+            "mbid": "3d96a612-70c6-4481-ae07-0fa64f7a2681", 
+            "releases": [], 
+            "title": "I Blew Up the Clinic Real Good"
+        }, 
+        {
+            "mbid": "48d49771-6885-4473-a28d-3e423898648b", 
+            "releases": [], 
+            "title": "Bannerman"
+        }, 
+        {
+            "mbid": "4c97dd20-aa07-34a1-8cf6-dd5b65c39a6e", 
+            "releases": [
+                {
+                    "name": "Limelight", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "459", 
+                                "playcount": "1969"
+                            }, 
+                            "title": "This Disco (Used to Be a Cute Cathedral)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "30c4b8b9-ffee-4d09-ab18-b961b7058fc3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2935", 
+                                "playcount": "9238"
+                            }, 
+                            "title": "I Want to Be a Clone", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d7e4d985-3bea-4216-a588-15d2b648ca48", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "369", 
+                                "playcount": "1130"
+                            }, 
+                            "title": "You Don\u2019t Owe Me Nothing", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "ebf2a5d6-c3a4-429d-93ca-83c026bb9927", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1280", 
+                                "playcount": "4631"
+                            }, 
+                            "title": "On the Fritz", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "7fc0e09d-9fd8-4075-83a6-1935b5069060", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "64"
+                            }, 
+                            "title": "We Don\u2019t Need No Colour Code", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "75875e0b-4e88-4dae-9059-4613a7198222", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1194", 
+                                "playcount": "3298"
+                            }, 
+                            "title": "Whatever Happened to Sin?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "8e87f395-2da5-4dce-b1d7-1c2a5501418d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "11"
+                            }, 
+                            "title": "Meltdown (At Madam Tussaud\u2019s)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "ce449afe-9ed0-465a-9129-e2988b922d00", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Not Gonna Fall Away", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "e0caf19b-ebeb-4c58-92d3-ca6ae30da39d", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "f0115a89-fd9c-41b9-a92b-35f15efecab7", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "65", 
+                    "date": "", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "1044", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "Limelight"
+        }, 
+        {
+            "mbid": "6dd97e9f-7248-3687-9a64-09932522558b", 
+            "releases": [
+                {
+                    "name": "The Best We Could Find + 3 That Never Escaped", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "280", 
+                                "playcount": "1011"
+                            }, 
+                            "title": "Under the Blood", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "2f90fb6d-1e43-4442-9d99-3353886b6407", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "242", 
+                                "playcount": "754"
+                            }, 
+                            "title": "Down Under", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6dad89df-1c5c-4c85-8db6-b46a76f1166c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1393", 
+                                "playcount": "4477"
+                            }, 
+                            "title": "Meltdown (At Madame Tussaud\u2019s)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "110c0ed2-80a3-4496-b43c-580eeb8569af", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1086", 
+                                "playcount": "3142"
+                            }, 
+                            "title": "To Forgive", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "eb0d758d-430c-4b03-a7a6-5179d8c70505", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1545", 
+                                "playcount": "5261"
+                            }, 
+                            "title": "Hero", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "9ec58375-31a5-4e97-bd66-624d21376e28", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "486", 
+                                "playcount": "1399"
+                            }, 
+                            "title": "Bouquet", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "11f02166-0b53-4bec-8538-004b3a3816ad", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "459", 
+                                "playcount": "1969"
+                            }, 
+                            "title": "This Disco (Used to Be a Cute Cathedral)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "ee94a2f0-cf0c-40e2-9ca2-72f8a7c97a7a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1223", 
+                                "playcount": "3809"
+                            }, 
+                            "title": "Sin for a Season", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "31715e4b-3eb5-4f09-85fe-6de10c4fba76", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1112", 
+                                "playcount": "3214"
+                            }, 
+                            "title": "Guilty by Association", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "769ffdf1-6961-45e1-845e-33b7863a6c87", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1280", 
+                                "playcount": "4631"
+                            }, 
+                            "title": "On the Fritz", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "df063b76-c9a0-426a-8b44-8e31cccfd120", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "786", 
+                                "playcount": "2436"
+                            }, 
+                            "title": "I Just Wanna Know", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "30c99349-16b3-4280-90b8-b527f6eed8a0", 
+                            "trackNumber": "11", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "183", 
+                                "playcount": "720"
+                            }, 
+                            "title": "Steeplechase", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "da1db7e4-64c5-4842-a4b7-27a41044b555", 
+                            "trackNumber": "12", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2935", 
+                                "playcount": "9238"
+                            }, 
+                            "title": "I Want to Be a Clone", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "8365e42a-ae78-4f09-bfc9-77e3f114cfb3", 
+                            "trackNumber": "13", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1194", 
+                                "playcount": "3298"
+                            }, 
+                            "title": "Whatever Happened to Sin?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6fd65626-ac90-4d3b-ac61-de2f3e7a62c1", 
+                            "trackNumber": "14", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1042", 
+                                "playcount": "2719"
+                            }, 
+                            "title": "Written Guarantee", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "ad7701c3-1da0-4aa5-848e-73f941eb75ea", 
+                            "trackNumber": "15", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "248", 
+                                "playcount": "911"
+                            }, 
+                            "title": "Bad Rap (Who You Tryin\u2019 to Kid, Kid?)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6858c8de-8d8b-45b3-9082-09f1ecfbcd7f", 
+                            "trackNumber": "16", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1266", 
+                                "playcount": "3412"
+                            }, 
+                            "title": "Whatcha Gonna Do When Your Number\u2019s Up?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "0557225b-5700-4265-9158-f8dcb58695b2", 
+                            "trackNumber": "17", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "71215946-7cd8-4ba1-ab72-3b2a0a599779", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "94", 
+                    "date": "1988-09", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "1812", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "The Best We Could Find + 3 That Never Escaped"
+        }, 
+        {
+            "mbid": "79438007-f582-3645-bc8d-c82cd58236ea", 
+            "releases": [
+                {
+                    "name": "Now The Truth Can Be Told", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2935", 
+                                "playcount": "9238"
+                            }, 
+                            "title": "I Want to Be a Clone", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "8365e42a-ae78-4f09-bfc9-77e3f114cfb3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1266", 
+                                "playcount": "3412"
+                            }, 
+                            "title": "Whatcha Gonna Do When Your Number\u2019s Up?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "0557225b-5700-4265-9158-f8dcb58695b2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1194", 
+                                "playcount": "3298"
+                            }, 
+                            "title": "Whatever Happened to Sin?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6fd65626-ac90-4d3b-ac61-de2f3e7a62c1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "248", 
+                                "playcount": "911"
+                            }, 
+                            "title": "Bad Rap (Who You Tryin\u2019 to Kid, Kid?)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6858c8de-8d8b-45b3-9082-09f1ecfbcd7f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1393", 
+                                "playcount": "4477"
+                            }, 
+                            "title": "Meltdown (At Madame Tussaud\u2019s)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "2e7a8f40-cc35-4055-8c1d-82436e3a9b9a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1223", 
+                                "playcount": "3809"
+                            }, 
+                            "title": "Sin for a Season", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "46181006-6e80-4cc6-90e3-b18c86fea543", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1112", 
+                                "playcount": "3214"
+                            }, 
+                            "title": "Guilty by Association", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "c0c89414-e452-4177-a3ff-979c17c134ea", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1545", 
+                                "playcount": "5261"
+                            }, 
+                            "title": "Hero", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "9ef126f3-4835-42a8-9530-e543eb1f186c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "905", 
+                                "playcount": "3387"
+                            }, 
+                            "title": "Am I in Sync?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "4c61ca18-1565-43c7-8cf8-9e4738a93782", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "581", 
+                                "playcount": "1761"
+                            }, 
+                            "title": "Baby Doe", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "f40650c9-352d-412f-8c2d-6d97d51ce5e4", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "459", 
+                                "playcount": "1969"
+                            }, 
+                            "title": "This Disco (Used to Be a Cute Cathedral)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "0a77a42f-0d56-4ffb-9011-3674e31bf5f7", 
+                            "trackNumber": "11", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1086", 
+                                "playcount": "3142"
+                            }, 
+                            "title": "To Forgive", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "fbeb2931-538f-43c0-9ae8-857cc23cf007", 
+                            "trackNumber": "12", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "767", 
+                                "playcount": "2341"
+                            }, 
+                            "title": "Drive, He Said", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "20cfe7a5-bb58-4aab-9921-6aa731a3e6c5", 
+                            "trackNumber": "13", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "786", 
+                                "playcount": "2436"
+                            }, 
+                            "title": "I Just Wanna Know", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "c2ba05b6-9cdc-4486-8e65-1397ae69fdfc", 
+                            "trackNumber": "14", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1280", 
+                                "playcount": "4631"
+                            }, 
+                            "title": "On the Fritz", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "e3c02392-aa05-4fd4-8bb4-1325f2e8149f", 
+                            "trackNumber": "15", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "536", 
+                                "playcount": "1830"
+                            }, 
+                            "title": "Lifeboat", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "f41e8a3c-5054-4fe1-aabb-3881f9024f67", 
+                            "trackNumber": "16", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "832a778e-2cca-41b1-adba-64165b3c759f", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "644", 
+                    "date": "1994", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "9477", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "Now the Truth Can Be Told"
+        }, 
+        {
+            "mbid": "85b98ed7-c1f7-31d2-b518-d3a05efa1be1", 
+            "releases": [
+                {
+                    "name": "Meltdown", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "253"
+                            }, 
+                            "title": "Meltdown", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "df20876f-212e-4b6e-86f2-a2dfe090fb1b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1753"
+                            }, 
+                            "title": "We Don\u2019t Need No Colour Code", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "e9359127-d368-41e0-9519-5dabe1041e5a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "905", 
+                                "playcount": "3387"
+                            }, 
+                            "title": "Am I in Sync?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "4c61ca18-1565-43c7-8cf8-9e4738a93782", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "385", 
+                                "playcount": "1351"
+                            }, 
+                            "title": "Meat the Press", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d67e3c25-3633-4806-80b8-ee579a96d6f6", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "353", 
+                                "playcount": "1381"
+                            }, 
+                            "title": "Over My Dead Body", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d132436e-971f-4c9d-87ad-e1c87d536c75", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1223", 
+                                "playcount": "3809"
+                            }, 
+                            "title": "Sin for a Season", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "31715e4b-3eb5-4f09-85fe-6de10c4fba76", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1112", 
+                                "playcount": "3214"
+                            }, 
+                            "title": "Guilty by Association", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "769ffdf1-6961-45e1-845e-33b7863a6c87", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1545", 
+                                "playcount": "5261"
+                            }, 
+                            "title": "Hero", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "9ec58375-31a5-4e97-bd66-624d21376e28", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1194"
+                            }, 
+                            "title": "Jenny", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "928dd3da-6494-464e-b4f5-9dcecf72ea22", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "581", 
+                                "playcount": "1761"
+                            }, 
+                            "title": "Baby Doe", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "f40650c9-352d-412f-8c2d-6d97d51ce5e4", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d94637c3-782e-4db9-852f-b74506a885a0", 
+                    "packaging": null, 
+                    "listeners": "1358", 
+                    "date": "1984-03", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "13975", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "Meltdown"
+        }, 
+        {
+            "mbid": "a135c2b6-87b7-441e-9613-5f49e81cbd24", 
+            "releases": [
+                {
+                    "name": "Meltdown and Meltdown Remixes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1393", 
+                                "playcount": "4477"
+                            }, 
+                            "title": "Meltdown (At Madame Tussaud\u2019s)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "110c0ed2-80a3-4496-b43c-580eeb8569af", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "538", 
+                                "playcount": "1753"
+                            }, 
+                            "title": "We Don\u2019t Need No Colour Code", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "e9359127-d368-41e0-9519-5dabe1041e5a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "905", 
+                                "playcount": "3387"
+                            }, 
+                            "title": "Am I in Sync?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "4c61ca18-1565-43c7-8cf8-9e4738a93782", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "385", 
+                                "playcount": "1351"
+                            }, 
+                            "title": "Meat the Press", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d67e3c25-3633-4806-80b8-ee579a96d6f6", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "353", 
+                                "playcount": "1381"
+                            }, 
+                            "title": "Over My Dead Body", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d132436e-971f-4c9d-87ad-e1c87d536c75", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "253"
+                            }, 
+                            "title": "Meltdown", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "df20876f-212e-4b6e-86f2-a2dfe090fb1b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1223", 
+                                "playcount": "3809"
+                            }, 
+                            "title": "Sin for a Season", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "31715e4b-3eb5-4f09-85fe-6de10c4fba76", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1112", 
+                                "playcount": "3214"
+                            }, 
+                            "title": "Guilty by Association", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "769ffdf1-6961-45e1-845e-33b7863a6c87", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1545", 
+                                "playcount": "5261"
+                            }, 
+                            "title": "Hero", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "9ec58375-31a5-4e97-bd66-624d21376e28", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1194"
+                            }, 
+                            "title": "Jenny", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "928dd3da-6494-464e-b4f5-9dcecf72ea22", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "581", 
+                                "playcount": "1761"
+                            }, 
+                            "title": "Baby Doe", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "f40650c9-352d-412f-8c2d-6d97d51ce5e4", 
+                            "trackNumber": "11", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Meltdown (At Madame Tussaud\u2019s) (instrumental extended version - remix)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "b449013c-2b46-4de8-8f6e-ec388ce81e0f", 
+                            "trackNumber": "12", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Meltdown (At Madame Tussaud\u2019s) (edited version - remix)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "ced95ab7-660a-4a58-bdac-f1c5e7da2d6c", 
+                            "trackNumber": "13", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8826a85f-27b3-4ed3-88bb-c1b9f25589c7", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "74", 
+                    "date": "1988", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "1286", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "Meltdown and Meltdown Remixes"
+        }, 
+        {
+            "mbid": "b4c17d8d-dd29-3819-a994-2b9ab048a583", 
+            "releases": [
+                {
+                    "name": "I Want To Be A Clone", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "183", 
+                                "playcount": "720"
+                            }, 
+                            "title": "Steeplechase", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "da1db7e4-64c5-4842-a4b7-27a41044b555", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2935", 
+                                "playcount": "9238"
+                            }, 
+                            "title": "I Want to Be a Clone", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "8365e42a-ae78-4f09-bfc9-77e3f114cfb3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1194", 
+                                "playcount": "3298"
+                            }, 
+                            "title": "Whatever Happened to Sin?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6fd65626-ac90-4d3b-ac61-de2f3e7a62c1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1042", 
+                                "playcount": "2719"
+                            }, 
+                            "title": "Written Guarantee", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "ad7701c3-1da0-4aa5-848e-73f941eb75ea", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "248", 
+                                "playcount": "911"
+                            }, 
+                            "title": "Bad Rap (Who You Tryin\u2019 to Kid, Kid?)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "6858c8de-8d8b-45b3-9082-09f1ecfbcd7f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1266", 
+                                "playcount": "3412"
+                            }, 
+                            "title": "Whatcha Gonna Do When Your Number\u2019s Up?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "0557225b-5700-4265-9158-f8dcb58695b2", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "fac24fc1-8648-481b-bbfc-06abb8b3299b", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "2671", 
+                    "date": "1983-01", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "10077", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "I Want to Be a Clone!"
+        }, 
+        {
+            "mbid": "c4f5f117-2b79-4cda-9bd3-4002aaaed166", 
+            "releases": [], 
+            "title": "Meltdown Remixes"
+        }, 
+        {
+            "mbid": "c8cc8874-0397-4078-af65-88dc3fcf9c7e", 
+            "releases": [], 
+            "title": "The Race Is On"
+        }, 
+        {
+            "mbid": "d6e7c2c3-24bf-31f8-bf71-0cdf6c5f6eb6", 
+            "releases": [
+                {
+                    "name": "I Predict 1990", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "651", 
+                                "playcount": "2703"
+                            }, 
+                            "title": "I Blew Up the Clinic Real Good", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "40bd977c-9d3f-480f-ae62-fcf25ece6557", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "406", 
+                                "playcount": "1817"
+                            }, 
+                            "title": "What Is the Measure of Your Success?", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "a60be562-3c6e-4202-a452-e07cf03c1bbb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "440", 
+                                "playcount": "2100"
+                            }, 
+                            "title": "Since I Gave Up Hope I Feel a Lot Better", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "ea7b54f3-0849-4fa1-b678-30a918ed0d64", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "310", 
+                                "playcount": "1362"
+                            }, 
+                            "title": "Babylon", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "b69c038b-4611-4ee6-bc3a-92e31833755a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "818", 
+                                "playcount": "4052"
+                            }, 
+                            "title": "Jim Morrison\u2019s Grave", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "d494b312-7b63-4ef7-a5fb-2492c97605f1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "457", 
+                                "playcount": "1852"
+                            }, 
+                            "title": "Svengali", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "b21e2545-953c-447d-bd39-5c59f99434fb", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "299", 
+                                "playcount": "1300"
+                            }, 
+                            "title": "Jung and the Restless", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "7390b189-8c4f-40a7-94ff-32005135ec90", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "467", 
+                                "playcount": "2051"
+                            }, 
+                            "title": "Innocence Lost", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "34e8efdd-9cb6-487f-a871-0ebe69a79845", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "472", 
+                                "playcount": "1931"
+                            }, 
+                            "title": "A Principled Man", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "10fc92ea-49ea-41ea-85cd-7a6f1c4f724e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "483", 
+                                "playcount": "2043"
+                            }, 
+                            "title": "Harder to Believe Than Not To", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "58cd16c5-04a0-4b49-a393-49f8e7fe18c3", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b2271e9b-6819-494c-8875-390482f19cd3", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "957", 
+                    "date": "1987-11", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "15433", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "I Predict 1990"
+        }, 
+        {
+            "mbid": "dac4faa7-5610-4e30-81f3-e5cfec968a59", 
+            "releases": [], 
+            "title": "Lament\u2026"
+        }, 
+        {
+            "mbid": "ea381af0-415b-30a1-957a-045703d93133", 
+            "releases": [
+                {
+                    "name": "Liver", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "818", 
+                                "playcount": "4052"
+                            }, 
+                            "title": "Jim Morrison\u2019s Grave", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "959a7ceb-7cc8-4457-a722-1555afec8741", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "533", 
+                                "playcount": "3095"
+                            }, 
+                            "title": "The Lament of Desmond R. G. Underwood\u2013Frederick IV", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "2ef448cf-1a45-4c89-a1e2-684519b6b95c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2935", 
+                                "playcount": "9238"
+                            }, 
+                            "title": "I Want to Be a Clone", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "964bedba-0c9e-470e-af8d-3403ac378f38", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "319", 
+                                "playcount": "1327"
+                            }, 
+                            "title": "Escher\u2019s World", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "29d3d736-6270-47a4-8ec5-d53bd0799a33", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1280", 
+                                "playcount": "4631"
+                            }, 
+                            "title": "On the Fritz", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "a81b882c-0b76-4dcc-bc19-abb3c6844bb4", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "551", 
+                                "playcount": "3194"
+                            }, 
+                            "title": "Bannerman", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "f8790f9a-3fd2-40dd-92d5-f11d539f8567", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1545", 
+                                "playcount": "5261"
+                            }, 
+                            "title": "Hero", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "b68c9385-4bdb-4a9a-b32f-b849a6bb820f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "629", 
+                                "playcount": "3668"
+                            }, 
+                            "title": "Jesus Is for Losers", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "60c41da0-ff6c-4b39-917c-3ad84f1c8f33", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "561", 
+                                "playcount": "3782"
+                            }, 
+                            "title": "The Finish Line", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "a1da28a8-f651-47da-8bdf-740336472a0c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "290", 
+                                "playcount": "1297"
+                            }, 
+                            "title": "Violent Blue", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "a83ace7d-80d6-43bf-8ce1-de3b0a795a73", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4df56808-271f-4d9b-b5ad-e2aa6a8d6dd8", 
+                    "packaging": "Digipak", 
+                    "listeners": "609", 
+                    "date": "1995-05-23", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "9360", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "Liver"
+        }, 
+        {
+            "mbid": "f68d625f-69df-3099-8fa2-bbc85709d7b2", 
+            "releases": [
+                {
+                    "name": "On the Fritz", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "459", 
+                                "playcount": "1969"
+                            }, 
+                            "title": "This Disco (Used to Be a Cute Cathedral)", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "0a77a42f-0d56-4ffb-9011-3674e31bf5f7", 
+                            "trackNumber": "1", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1280", 
+                                "playcount": "4631"
+                            }, 
+                            "title": "On the Fritz", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "df063b76-c9a0-426a-8b44-8e31cccfd120", 
+                            "trackNumber": "2", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "422", 
+                                "playcount": "1219"
+                            }, 
+                            "title": "It\u2019s a Personal Thing", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "a607627e-e812-44be-9174-1a4cc3337d3c", 
+                            "trackNumber": "3", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1086", 
+                                "playcount": "3142"
+                            }, 
+                            "title": "To Forgive", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "eb0d758d-430c-4b03-a7a6-5179d8c70505", 
+                            "trackNumber": "4", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "380", 
+                                "playcount": "1168"
+                            }, 
+                            "title": "You\u2019ve Been Bought", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "13f816fb-cf5d-48e5-b6e6-f1363f1dcd9c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "369", 
+                                "playcount": "1130"
+                            }, 
+                            "title": "You Don\u2019t Owe Me Nothing", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "80ba7bb5-e1fb-4ff0-9ad6-feb007ebf0c2", 
+                            "trackNumber": "6", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "385", 
+                                "playcount": "1191"
+                            }, 
+                            "title": "I Manipulate", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "4ba73768-37f7-4a21-9450-5d6da2e90152", 
+                            "trackNumber": "7", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "536", 
+                                "playcount": "1830"
+                            }, 
+                            "title": "Lifeboat", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "f41e8a3c-5054-4fe1-aabb-3881f9024f67", 
+                            "trackNumber": "8", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "767", 
+                                "playcount": "2341"
+                            }, 
+                            "title": "Drive, He Said", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "20cfe7a5-bb58-4aab-9921-6aa731a3e6c5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "786", 
+                                "playcount": "2436"
+                            }, 
+                            "title": "I Just Wanna Know", 
+                            "artistName": "Steve Taylor", 
+                            "mbid": "30c99349-16b3-4280-90b8-b527f6eed8a0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "892e1b40-429f-457f-8c5f-9e4e78c32545", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "2736", 
+                    "date": "1985-04", 
+                    "artistName": "Steve Taylor", 
+                    "playcount": "17297", 
+                    "artistMBID": "50809635-76df-4433-b324-b3c5258fb0a3"
+                }
+            ], 
+            "title": "On the Fritz"
+        }
+    ], 
+    "type": "Person"
+}

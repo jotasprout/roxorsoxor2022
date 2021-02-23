@@ -1,0 +1,123 @@
+[
+	{
+		"title": "Black Sabbath",
+		"albumMBID": "d4d6b8d9-413f-3aa6-9f4b-d51be1eb740c",
+		"year": "1970",
+		"plays": "6346256",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_black-sabbath.jpg"
+	}, {
+		"title": "Paranoid",
+		"albumMBID": "2982b682-36ea-3605-b959-04e746736070",
+		"year": "1970",
+		"plays": "14914462",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_paranoid.jpg"
+	}, {
+		"title": "Master of Reality",
+		"albumMBID": "8325eb91-017f-30fa-89d5-bcf461ef5ceb",
+		"year": "1971",
+		"plays": "6463942",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_master-of-reality.jpg"
+	}, {
+		"title": "Vol. 4",
+		"albumMBID": "257c6df7-26b8-4283-908a-3e625e41cdbe",
+		"year": "1972",
+		"plays": "1529020",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_vol-4.jpg"
+	}, {
+		"title": "Sabbath Bloody Sabbath",
+		"albumMBID": "734f7ad8-4e20-435e-a27b-c3b7e0ff3e35",
+		"year": "1973",
+		"plays": "4934130",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_sabbath-bloody-sabbath.jpg"
+	}, {
+		"title": "Sabotage",
+		"albumMBID": "024e45a1-ea0f-4f31-8f06-f0c4fa1e403b",
+		"year": "1975",
+		"plays": "2543419",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_sabotage.jpg"
+    }, {
+		"title": "Technical Ecstasy",
+		"albumMBID": "59f1630b-5f96-4e0e-8f37-cdc78e6589e7",
+		"year": "1976",
+		"plays": "1318126",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_technical-ecstasy.jpg"
+	}, {
+		"title": "Never Say Die!",
+		"albumMBID": "56e16e65-a1fe-39d9-8c97-d41241a80d3d",
+		"year": "1978",
+		"plays": "1253641",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_never-say-die.jpg"
+	}, {
+		"title": "Born Again",
+		"albumMBID": "52c37691-e97e-3959-98c8-8b9a533eaeda",
+		"year": "1983",
+		"plays": "1109966",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_born-again.jpg"
+	}, {
+		"title": "Heaven and Hell",
+		"albumMBID": "8bbe2647-0945-4581-bc33-576e487bd60b",
+		"year": "1980",
+		"plays": "4292107",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_heaven-and-hell.jpg"
+	}, {
+		"title": "Mob Rules",
+		"albumMBID": "e0eff36e-d609-49b1-9719-dc0b884991f6",
+		"year": "1981",
+		"plays": "2023125",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_mob-rules.jpg"
+	}, {
+		"title": "Headless Cross",
+		"albumMBID": "b7ad5ef4-4dd3-4e49-a9e7-e9a298d2f3c3",
+		"year": "1989",
+		"plays": "961397",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_headlessCross.jpg"
+	}, {
+		"title": "Dehumanizer",
+		"albumMBID": "080d8e28-9861-4b6c-a6b6-52c7b0d84118",
+		"year": "1992",
+		"plays": "1684057",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_dehumanizer.jpg"
+	}, {
+		"title": "Cross Purposes",
+		"albumMBID": "5d2e8936-8c36-3ccd-8e8f-916e3b771d49",
+		"year": "1994",
+		"plays": "801403",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_crossPurposes.jpg"
+	}, {
+		"title": "Tyr",
+		"albumMBID": "76c9d8e9-1b81-32a6-ae7f-a9c14ca21c93",
+		"year": "1990",
+		"plays": "783673",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_tyr.jpg"
+	}, {
+		"title": "The Eternal Idol",
+		"albumMBID": "1ea64406-acb2-37ce-a652-b2d7b71f11b8",
+		"year": "1987",
+		"plays": "769743",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_eternal-idol.jpg"
+	}, {
+		"title": "Seventh Star",
+		"albumMBID": "cdf74e55-0a63-42f6-bf96-26360ccb51d2",
+		"year": "1986",
+		"plays": "768752",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_seventh-star.jpg"
+	}, {
+		"title": "Forbidden",
+		"albumMBID": "e5ac81ac-8a7d-4100-8f61-d11257cf32dd",
+		"year": "1995",
+		"plays": "660887",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_forbidden.jpg"
+	}, {
+		"title": "13",
+		"albumMBID": "7dbf4b1f-d3e9-47bc-9194-d15b31017bd6",
+		"year": "2013",
+		"plays": "2672445",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/blackSabbath_13.jpg"
+	}, {
+		"title": "The Devil You Know",
+		"albumMBID": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3",
+		"year": "2009",
+		"plays": "1487835",
+		"art": "https://www.roxorsoxor.com/poprock/cover-art/heavenHell_devil-you-know.jpg"        
+    }
+]

@@ -1,0 +1,47 @@
+{
+    "name": "MC5",
+    "mbid": "08b736bb-1c82-40b4-8b0b-49e2182a067a",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "3cee9641-71e8-462a-8071-71318aed8926",
+            "name": "Handsome Dick Manitoba",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d3e4a16b-4585-44bc-b9fc-87ad9c5cce8f",
+            "name": "Michael Davis",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "17327e1e-4933-4f59-bb6d-1e50078b328b",
+            "name": "Wayne Kramer",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "f6293d3a-036e-47b8-9aa4-ded71d10dead",
+            "name": "Fred \u201cSonic\u201d Smith",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7a5b3e1b-9b66-49b6-9ce4-254b23b7a123",
+            "name": "Dennis Thompson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d0a8fec1-1f71-4d90-aedb-1f6ee4b28e45",
+            "name": "Rob Tyner",
+            "attributes": [
+                "lead vocals"
+            ]
+        }
+    ]
+}

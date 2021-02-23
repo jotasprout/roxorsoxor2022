@@ -1,0 +1,419 @@
+{
+    "genres": [
+        "classic rock", 
+        "rock", 
+        "Fleetwood Mac", 
+        "folk rock", 
+        "singer-songwriter"
+    ], 
+    "stats": {
+        "listeners": "29410", 
+        "playcount": "320234"
+    }, 
+    "name": "Buckingham Nicks", 
+    "mbid": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+    "birthday": "1972", 
+    "date": "2019-05-02", 
+    "albums": [
+        {
+            "mbid": "8aad9050-3780-4dc8-b57f-b8ebcf22d54b", 
+            "releases": [], 
+            "title": "The Beginning"
+        }, 
+        {
+            "mbid": "9dc4a7b2-61cc-318a-bc3f-cf054d0ecf8f", 
+            "releases": [
+                {
+                    "name": "Buckingham Nicks", 
+                    "tracks": [
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "0ff3861e-7b40-4173-97ef-9a6ad9d65fd0", 
+                            "stats": {
+                                "listeners": "7271", 
+                                "playcount": "30689"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Crying in the Night"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "7010e7c9-0024-436a-96ed-011943c3c22f", 
+                            "stats": {
+                                "listeners": "5654", 
+                                "playcount": "20523"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Stephanie"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "f1824936-4342-4984-b284-53c033e62ad9", 
+                            "stats": {
+                                "listeners": "5905", 
+                                "playcount": "22044"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Without a Leg to Stand On"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "96000169-adb3-4f78-b3bd-05537aa91a50", 
+                            "stats": {
+                                "listeners": "6073", 
+                                "playcount": "24856"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Crystal"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "c83f8fbd-a31a-4de8-bea9-507e34196945", 
+                            "stats": {
+                                "listeners": "5746", 
+                                "playcount": "24292"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Long Distance Winner"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "e672069a-3b96-478b-a7ac-bd63d6dd4542", 
+                            "stats": {
+                                "listeners": "5639", 
+                                "playcount": "21709"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Don\u2019t Let Me Down Again"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "08b2cac5-b8ac-4c9a-a5b8-7a9a76be828a", 
+                            "stats": {
+                                "listeners": "4854", 
+                                "playcount": "16195"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Django"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "57de80c6-7829-48f6-9599-593144075184", 
+                            "stats": {
+                                "listeners": "4969", 
+                                "playcount": "18952"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Races Are Run"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "1c46c9b8-ece8-4f89-97e6-379677bc8141", 
+                            "stats": {
+                                "listeners": "4643", 
+                                "playcount": "15607"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Lola (My Love)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "5e85206c-ac08-447c-b7dd-f8e86b5857a6", 
+                            "stats": {
+                                "listeners": "6029", 
+                                "playcount": "27187"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Frozen Love"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b5c6fd3f-0e05-471d-ba51-2824922e3d56", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "9969", 
+                    "date": "1973-09-05", 
+                    "artistName": "Buckingham Nicks", 
+                    "playcount": "194185", 
+                    "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797"
+                }, 
+                {
+                    "name": "Buckingham Nicks", 
+                    "tracks": [
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "0ff3861e-7b40-4173-97ef-9a6ad9d65fd0", 
+                            "stats": {
+                                "listeners": "7271", 
+                                "playcount": "30689"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Crying in the Night"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "7010e7c9-0024-436a-96ed-011943c3c22f", 
+                            "stats": {
+                                "listeners": "5654", 
+                                "playcount": "20523"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Stephanie"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "f1824936-4342-4984-b284-53c033e62ad9", 
+                            "stats": {
+                                "listeners": "5905", 
+                                "playcount": "22044"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Without a Leg to Stand On"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "96000169-adb3-4f78-b3bd-05537aa91a50", 
+                            "stats": {
+                                "listeners": "6073", 
+                                "playcount": "24856"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Crystal"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "c83f8fbd-a31a-4de8-bea9-507e34196945", 
+                            "stats": {
+                                "listeners": "5746", 
+                                "playcount": "24292"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Long Distance Winner"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "e672069a-3b96-478b-a7ac-bd63d6dd4542", 
+                            "stats": {
+                                "listeners": "5639", 
+                                "playcount": "21709"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Don\u2019t Let Me Down Again"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "08b2cac5-b8ac-4c9a-a5b8-7a9a76be828a", 
+                            "stats": {
+                                "listeners": "4854", 
+                                "playcount": "16195"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Django"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "57de80c6-7829-48f6-9599-593144075184", 
+                            "stats": {
+                                "listeners": "4969", 
+                                "playcount": "18952"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Races Are Run"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "1c46c9b8-ece8-4f89-97e6-379677bc8141", 
+                            "stats": {
+                                "listeners": "4643", 
+                                "playcount": "15607"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Lola (My Love)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "5e85206c-ac08-447c-b7dd-f8e86b5857a6", 
+                            "stats": {
+                                "listeners": "6029", 
+                                "playcount": "27187"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Frozen Love"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "Deluxe Edition", 
+                    "mbid": "b5c6fd3f-0e05-471d-ba51-2824922e3d56", 
+                    "packaging": null, 
+                    "listeners": "9969", 
+                    "date": "", 
+                    "artistName": "Buckingham Nicks", 
+                    "playcount": "194185", 
+                    "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797"
+                }
+            ], 
+            "title": "Buckingham Nicks"
+        }, 
+        {
+            "mbid": "ee70e2f9-86d5-3ed7-8c93-4db5e042dd0b", 
+            "releases": [
+                {
+                    "name": "The Coffee Plant Demos", 
+                    "tracks": [
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "5409c408-18af-4d22-9287-4820de5b376b", 
+                            "stats": {
+                                "listeners": "154", 
+                                "playcount": "464"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Without You (acoustic Guitar vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "5e68eec5-4fae-4f2c-a699-4375f84e8b64", 
+                            "stats": {
+                                "listeners": "118", 
+                                "playcount": "328"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Nomad (acoustic Guitar vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "bd62181d-d284-4989-92ed-c95c188c7495", 
+                            "stats": {
+                                "listeners": "108", 
+                                "playcount": "337"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "That's Alright (acoustic Guitar vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "150e0de7-e141-456e-a9b4-19a7598f06b2", 
+                            "stats": {
+                                "listeners": "130", 
+                                "playcount": "340"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Garbo (acoustic Guitar vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "65315dac-d885-4ac7-82bb-477a5f018fda", 
+                            "stats": {
+                                "listeners": "108", 
+                                "playcount": "286"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Sorcerer (acoustic Guitar vocal/No Drum Machine)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "47f2e07a-7a8a-483f-8f4d-56fd30c50c8a", 
+                            "stats": {
+                                "listeners": "125", 
+                                "playcount": "318"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Cathouse Blues (acoustic Guitar vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "0cbb7be2-5bfa-49a5-847a-f7c87d979f13", 
+                            "stats": {
+                                "listeners": "100", 
+                                "playcount": "213"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Goldfish and the Ladybug (acoustic Guitar vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "6f499078-38e9-40e7-bd40-527b84029813", 
+                            "stats": {
+                                "listeners": "102", 
+                                "playcount": "265"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Without You (Bass vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "f4aedaf4-3413-4c45-8781-16441127325b", 
+                            "stats": {
+                                "listeners": "93", 
+                                "playcount": "244"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Nomad (alternate acoustic Guitar vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "c3eb1ba9-5744-41a7-bbd4-ba5d181060db", 
+                            "stats": {
+                                "listeners": "82", 
+                                "playcount": "259"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "That's Alright (Bass vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "56d9efe4-7ea5-4bd8-bdbb-3f9236befe79", 
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "202"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Garbo (Bass vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "ce1c2437-dfdb-4c4f-b1a9-b87109dbaad6", 
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "246"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Sorcerer (Bass Drum Machine vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "9bde144c-6ea7-4ab1-9b85-43e797c6ab6b", 
+                            "stats": {
+                                "listeners": "99", 
+                                "playcount": "253"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Cathouse Blues (Bass vocal)"
+                        }, 
+                        {
+                            "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797", 
+                            "mbid": "8a0d77e0-9182-4ebf-9ac0-31b6b0ab7f9d", 
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "168"
+                            }, 
+                            "artistName": "Buckingham Nicks", 
+                            "title": "Goldfish and the Ladybug (vocal Only)"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "f9f14a22-837d-4b2b-a296-e82c4d83fc54", 
+                    "packaging": null, 
+                    "listeners": "261", 
+                    "date": "", 
+                    "artistName": "Buckingham Nicks", 
+                    "playcount": "4943", 
+                    "artistMBID": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797"
+                }
+            ], 
+            "title": "The Coffee Plant Demos"
+        }
+    ], 
+    "type": "Group"
+}

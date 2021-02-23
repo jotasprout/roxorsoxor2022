@@ -1,0 +1,42 @@
+{
+    "name": "Robert Plant",
+    "mbid": "bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+            "name": "Led Zeppelin",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "847118ac-eec2-4dd3-a953-21fdb4f7c295",
+            "name": "The Fabulous Brill Brothers",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "493f586d-7b50-4112-a894-68add270ca6f",
+            "name": "Priory of Brion",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a8588753-5e1b-4ac0-8030-896b70c78cf4",
+            "name": "Band of Joy",
+            "attributes": [
+                "harmonica",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0",
+            "name": "The Honeydrippers",
+            "attributes": []
+        }
+    ]
+}

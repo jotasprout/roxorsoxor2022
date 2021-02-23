@@ -1,0 +1,61 @@
+{
+    "name": "Cannibal Corpse",
+    "mbid": "af8e4cc5-ef54-458d-a194-7b210acf638f",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "a308400c-8f7b-46ae-aebd-496d19ac1ba6",
+            "name": "Bob Rusay",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "fee5efcb-8692-40fe-95d0-215c237b3489",
+            "name": "Chris Barnes",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "33fa9592-f9bf-4061-94e8-5262c9af3c51",
+            "name": "Jack Owen",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a7251140-ebc1-4872-ad65-e4b446e2588a",
+            "name": "Paul Mazurkiewicz",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "8663d41a-c6fd-4114-966c-4e1b76fc1ea7",
+            "name": "Alex Webster",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5ab39b61-b5be-414e-b164-0a8abfd6df40",
+            "name": "Rob Barrett",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2ded9132-ec61-4b79-9275-b3e0e534a5d5",
+            "name": "George \u201cCorpsegrinder\u201d Fisher",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "049f0b5a-2aec-4350-a93b-cb72d64ef533",
+            "name": "Pat O'Brien",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5ab39b61-b5be-414e-b164-0a8abfd6df40",
+            "name": "Rob Barrett",
+            "attributes": []
+        }
+    ]
+}

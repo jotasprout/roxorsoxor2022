@@ -1,0 +1,754 @@
+{
+    "genres": [
+        "punk", 
+        "christian", 
+        "hardcore", 
+        "hardcore punk", 
+        "Christian punk"
+    ], 
+    "taskDuration": {
+        "Task Duration": 22.84788703918457, 
+        "Task End": 1571892130.003779, 
+        "Task Start": 1571892107.155892
+    }, 
+    "stats": {
+        "listeners": "2777", 
+        "playcount": "44097"
+    }, 
+    "name": "Ninety Pound Wuss", 
+    "mbid": "89630b0c-6801-42f9-b013-3017722433c4", 
+    "birthday": "1994", 
+    "date": "2019-10-24", 
+    "albums": [
+        {
+            "mbid": "03609823-49cf-3563-a5bc-f311e34c4240", 
+            "releases": [
+                {
+                    "name": "Ninety Pound Wuss", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "449", 
+                                "playcount": "1303"
+                            }, 
+                            "title": "Perseverance", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "1f3dd5c5-d397-4770-99a8-8954df63fc84", 
+                            "trackNumber": "1", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "545", 
+                                "playcount": "1464"
+                            }, 
+                            "title": "Act Up", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "f7e3f6c3-facd-4d19-8eec-08d3583d10ee", 
+                            "trackNumber": "2", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "629", 
+                                "playcount": "1812"
+                            }, 
+                            "title": "Girl Song", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "264ed396-5459-4ca0-a9f7-381b215f3b7a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "495", 
+                                "playcount": "1210"
+                            }, 
+                            "title": "Telephone Wire", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "b91c9f93-bacb-4131-bae3-dc86659188fd", 
+                            "trackNumber": "4", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "471", 
+                                "playcount": "1131"
+                            }, 
+                            "title": "Daylight Savings Man", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "6cf6a36c-1b2f-437b-9ca0-9e9d30148aab", 
+                            "trackNumber": "5", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "52"
+                            }, 
+                            "title": "A. S. D.", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "4f05c598-9d8d-4ba7-8a8a-c27c1a95398b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "401", 
+                                "playcount": "1307"
+                            }, 
+                            "title": "Misplaced Society", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "273f778d-7628-4120-9b3a-7ed20b21b5fe", 
+                            "trackNumber": "7", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "879"
+                            }, 
+                            "title": "Shedding Blood", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "e448b5d8-e3ca-46f1-b215-da2b48c8f011", 
+                            "trackNumber": "8", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "270", 
+                                "playcount": "753"
+                            }, 
+                            "title": "Red", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "e6485edc-c18d-4a46-80df-1fba9aed54dc", 
+                            "trackNumber": "9", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "277", 
+                                "playcount": "765"
+                            }, 
+                            "title": "New Age", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "f00a8e93-0e1b-4463-a3ac-edff1be9a589", 
+                            "trackNumber": "10", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "148"
+                            }, 
+                            "title": "Responsability", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "2fae3fae-86a1-46ae-b7a1-b11bb79b1a28", 
+                            "trackNumber": "11", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "888"
+                            }, 
+                            "title": "Olympia", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "aa216f2b-da65-45bd-bacd-40f1bed7aa3e", 
+                            "trackNumber": "12", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "374", 
+                                "playcount": "941"
+                            }, 
+                            "title": "Legalism", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "71789cf8-8d25-4a4d-a4f9-1508d7e1ab5b", 
+                            "trackNumber": "13", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "243", 
+                                "playcount": "686"
+                            }, 
+                            "title": "It All Goes Off", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "f1b34987-c8d1-47b3-8f8b-3cc2305dbf4f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "273", 
+                                "playcount": "740"
+                            }, 
+                            "title": "Freedom", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "7ec9c9bb-78f2-406a-a686-3ea260643833", 
+                            "trackNumber": "15", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "253", 
+                                "playcount": "753"
+                            }, 
+                            "title": "Cut Throat", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "73473050-69e3-495f-aefe-5abb5f1204f5", 
+                            "trackNumber": "16", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "262", 
+                                "playcount": "686"
+                            }, 
+                            "title": "Spiritual Small Guy", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "1a1b214b-8dd9-425e-a4c7-184e634b46b3", 
+                            "trackNumber": "17", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "623", 
+                                "playcount": "1891"
+                            }, 
+                            "title": "Something Must Break", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "5a61f9ca-2dcb-4677-a8fd-85cecfde4c5c", 
+                            "trackNumber": "18", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "291", 
+                                "playcount": "721"
+                            }, 
+                            "title": "I Am (Everything)", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "08944e1a-6f41-42f4-8abe-d82d1c986a3d", 
+                            "trackNumber": "19", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "2ee5f736-8ced-4554-8b16-388da63b594c", 
+                    "packaging": null, 
+                    "listeners": "1612", 
+                    "date": "1995", 
+                    "artistName": "Ninety Pound Wuss", 
+                    "playcount": "17131", 
+                    "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                }
+            ], 
+            "title": "Ninety Pound Wuss"
+        }, 
+        {
+            "mbid": "6bfc566b-738b-305b-9a57-df49d449e55a", 
+            "releases": [
+                {
+                    "name": "Short Hand Operation", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "524", 
+                                "playcount": "1384"
+                            }, 
+                            "title": "Short Hand Operation", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "353110bf-aa88-47a5-b8a3-533e778ce10d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "397", 
+                                "playcount": "1093"
+                            }, 
+                            "title": "Fulfilled", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "0e450d9b-0024-4df3-bf67-899d277e8f91", 
+                            "trackNumber": "2", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "301", 
+                                "playcount": "940"
+                            }, 
+                            "title": "Torment in Tension", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "71a7d5e4-a015-4e5e-8ae7-b2fd346b8b8b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "683", 
+                                "playcount": "2048"
+                            }, 
+                            "title": "Outbreak", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "c2c350ea-8e0d-4733-b13f-61ba141ec5b5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "321", 
+                                "playcount": "1085"
+                            }, 
+                            "title": "Nostalgia", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "be663a68-3bf7-47f4-8e31-fc8ee1400009", 
+                            "trackNumber": "5", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "701"
+                            }, 
+                            "title": "It Seems So Far Away", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "9d5f090d-5daa-4e43-b26f-c976a19f8a7b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "15"
+                            }, 
+                            "title": "No Lo Contendre", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "4172d13e-1ed5-4bd5-ae8f-3c3fc5999ba9", 
+                            "trackNumber": "7", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "265", 
+                                "playcount": "772"
+                            }, 
+                            "title": "Hope", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "adb551e9-f9c8-45d3-9883-1626d9c03aec", 
+                            "trackNumber": "8", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "231", 
+                                "playcount": "723"
+                            }, 
+                            "title": "Letting Loose", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "efb558a8-842d-42a8-9365-0a11efcad9b5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "242", 
+                                "playcount": "775"
+                            }, 
+                            "title": "Not Like Me", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "995696b2-32da-409d-be5c-eb97898b5902", 
+                            "trackNumber": "10", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "229", 
+                                "playcount": "721"
+                            }, 
+                            "title": "Intermediate Laceration", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "870b0327-87c0-41e7-8a70-29a8e080ec70", 
+                            "trackNumber": "11", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "663"
+                            }, 
+                            "title": "What I Am", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "685fdf9d-276c-4557-ab96-068ceda0eb54", 
+                            "trackNumber": "12", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "156", 
+                                "playcount": "516"
+                            }, 
+                            "title": "Second Stage of Adolescence", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "270511e4-47e4-4fc9-bd1b-f1a460b508c4", 
+                            "trackNumber": "13", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "202", 
+                                "playcount": "632"
+                            }, 
+                            "title": "At the End of It All", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "51b48b02-3216-4806-bd48-c3007ab2e983", 
+                            "trackNumber": "14", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "86786218-3f63-4eb3-b44d-6275a382c060", 
+                    "packaging": null, 
+                    "listeners": "1088", 
+                    "date": "1999-05-04", 
+                    "artistName": "Ninety Pound Wuss", 
+                    "playcount": "10828", 
+                    "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                }
+            ], 
+            "title": "Short Hand Operation"
+        }, 
+        {
+            "mbid": "7c791ab6-9743-3b0c-9098-fa05c5c6eac7", 
+            "releases": [
+                {
+                    "name": "Hierarchy of Snakes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "11"
+                            }, 
+                            "title": "Shorthand Operation", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "5e5cb345-32ea-476c-a966-7cccb75aff34", 
+                            "trackNumber": "1", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "401", 
+                                "playcount": "1307"
+                            }, 
+                            "title": "Misplaced Society", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "6c268f7d-8cf8-4cf9-b550-85904ff8abb7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "11"
+                            }, 
+                            "title": "The Dawning of This Night Devine", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "e9ecda0c-5098-4ce3-9c71-6023f8c8bdda", 
+                            "trackNumber": "3", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "301", 
+                                "playcount": "940"
+                            }, 
+                            "title": "Torment in Tension", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "7d332133-cd4b-455f-9599-0a4ea2958fb8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "321", 
+                                "playcount": "1085"
+                            }, 
+                            "title": "Nostalgia", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "0c94943e-56f4-49fd-9078-d8045245a3fe", 
+                            "trackNumber": "5", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "265", 
+                                "playcount": "772"
+                            }, 
+                            "title": "Hope", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "c42caf5b-43c9-4608-9e00-227edf4a93c1", 
+                            "trackNumber": "6", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Double Dare", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "cf3c64b7-81e6-462d-8057-37072cbdc3e7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "[untitled]", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "b3b2b8e0-f5db-498a-850e-73f4f875b792", 
+                            "trackNumber": "8", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "146", 
+                                "playcount": "475"
+                            }, 
+                            "title": "Junk", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "a56ccee8-6f51-4b97-80c7-1634884d87a0", 
+                            "trackNumber": "9", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "19"
+                            }, 
+                            "title": "In Silence (Who Can You Trust)", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "f682a79f-66d1-4b62-aa1a-06572e2bd8a6", 
+                            "trackNumber": "10", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Dead End", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "1895e4b0-d4e9-42a6-9943-392d537991db", 
+                            "trackNumber": "11", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "[untitled]", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "a1ff5737-f180-4c87-bee4-087847c94829", 
+                            "trackNumber": "12", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "addfa5da-4d2d-4437-8e4b-276d8f3510a0", 
+                    "packaging": null, 
+                    "listeners": "20", 
+                    "date": "", 
+                    "artistName": "Ninety Pound Wuss", 
+                    "playcount": "233", 
+                    "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                }
+            ], 
+            "title": "Hierarchy of Snakes"
+        }, 
+        {
+            "mbid": "11acce10-8acf-3004-bf34-063e0cd26d3d", 
+            "releases": [
+                {
+                    "name": "Where Meager Die Of Self Interest", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "208", 
+                                "playcount": "700"
+                            }, 
+                            "title": "Backwards Thinking", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "3de0d140-bdc3-4ee6-a622-8af522a72645", 
+                            "trackNumber": "1", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "169", 
+                                "playcount": "543"
+                            }, 
+                            "title": "Broken Circles", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "94bd3aa9-4d33-41ac-8e4c-4b99f6c0a913", 
+                            "trackNumber": "2", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "356", 
+                                "playcount": "1327"
+                            }, 
+                            "title": "The Dawning of This Night Divine", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "5059dbe0-2bd1-467a-a948-f978d999a114", 
+                            "trackNumber": "3", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "173", 
+                                "playcount": "576"
+                            }, 
+                            "title": "Queen Maggot", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "0cae1a38-3e84-4123-96f1-694b79423511", 
+                            "trackNumber": "4", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "224", 
+                                "playcount": "714"
+                            }, 
+                            "title": "Heresy", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "d4f04410-4f7a-4c0e-8cf3-974372f38629", 
+                            "trackNumber": "5", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "153", 
+                                "playcount": "492"
+                            }, 
+                            "title": "Unscarred Act of Trust", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "f973c75d-0dea-40bb-9e8c-64738fabdb2b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "160", 
+                                "playcount": "497"
+                            }, 
+                            "title": "Senseless Accusations", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "cd145025-853c-4a5a-a956-e177ce318876", 
+                            "trackNumber": "7", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "153", 
+                                "playcount": "499"
+                            }, 
+                            "title": "The Party's Over", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "3f56e0ae-06f5-4046-8507-5cd39f821ee7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "233", 
+                                "playcount": "815"
+                            }, 
+                            "title": "Sick and You're Wrong", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "4ad7337f-7975-42ee-b512-af15a1d2b6eb", 
+                            "trackNumber": "9", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "151", 
+                                "playcount": "472"
+                            }, 
+                            "title": "Premonition", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "dd4e4c2c-edcf-4cf8-b209-d485cbb176c0", 
+                            "trackNumber": "10", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "145", 
+                                "playcount": "497"
+                            }, 
+                            "title": "Last Time Lost Count", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "559715df-2e88-4671-b05a-1f6e0d274858", 
+                            "trackNumber": "11", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "146", 
+                                "playcount": "475"
+                            }, 
+                            "title": "Junk", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "8e29330c-430d-401e-ac3c-7263edad9389", 
+                            "trackNumber": "12", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "149", 
+                                "playcount": "466"
+                            }, 
+                            "title": "One Track Mind", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "b300ad85-d3c7-428a-a2c6-45f004150585", 
+                            "trackNumber": "13", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "121", 
+                                "playcount": "330"
+                            }, 
+                            "title": "Blank Stare", 
+                            "artistName": "Ninety Pound Wuss", 
+                            "mbid": "2201961a-e481-4a93-a46f-65cc08884ac3", 
+                            "trackNumber": "14", 
+                            "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4b309d5f-4450-4089-9063-ca80dab551dd", 
+                    "packaging": null, 
+                    "listeners": "265", 
+                    "date": "1997", 
+                    "artistName": "Ninety Pound Wuss", 
+                    "playcount": "5561", 
+                    "artistMBID": "89630b0c-6801-42f9-b013-3017722433c4"
+                }
+            ], 
+            "title": "Where Meager Die Of Self Interest"
+        }
+    ], 
+    "type": "Group"
+}

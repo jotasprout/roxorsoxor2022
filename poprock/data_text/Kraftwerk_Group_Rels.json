@@ -1,0 +1,99 @@
+{
+    "name": "Kraftwerk",
+    "mbid": "5700dcd4-c139-4f31-aa3e-6382b9af9032",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "d17eeb09-9cee-4965-9370-c082b37e780b",
+            "name": "Andreas Hohmann",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "3b4db0d5-97a8-4aa8-a375-9b8c78a56932",
+            "name": "Michael Rother",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7d13df68-5661-45bd-9aad-75a0d7f88091",
+            "name": "Klaus Dinger",
+            "attributes": [
+                "additional"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "46957dac-b5ff-40a9-a427-ab53bc414f6e",
+            "name": "Florian Schneider",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "da3f4766-628e-4da3-a871-014728993157",
+            "name": "Ralf H\u00fctter",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6c29e868-e40a-4ff0-b251-bc383ba88ba4",
+            "name": "Wolfgang Fl\u00fcr",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7bca0cea-265f-41d3-9e04-8a68507b6f25",
+            "name": "Klaus R\u00f6der",
+            "attributes": [
+                "violin"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7bca0cea-265f-41d3-9e04-8a68507b6f25",
+            "name": "Klaus R\u00f6der",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "34bfcd5d-a76d-4b31-8022-b5ac04d5801b",
+            "name": "Karl Bartos",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "8e1d04bb-2db0-4d95-bdda-1e605a8b8aef",
+            "name": "Falk Grieffenhagen",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "090d8a25-6271-4e51-b5a5-622cf128c7be",
+            "name": "Fritz Hilpert",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "cde6ac66-ffdf-4f80-8dda-7a40e7b16972",
+            "name": "Henning Schmitz",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e47b4862-a587-488f-b7a7-bd329726693d",
+            "name": "Emil Schult",
+            "attributes": [
+                "additional"
+            ]
+        }
+    ]
+}

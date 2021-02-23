@@ -1,0 +1,13 @@
+{
+    "name": "Glenn Kaiser",
+    "mbid": "7a6817e4-c0ca-4021-bb40-accd80181461",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "ef65314c-9f89-4949-9f64-13b2f3f79c44",
+            "name": "Kaiser/Mansfield",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,2153 @@
+{
+    "genres": [
+        "classic rock", 
+        "hard rock", 
+        "Deep Purple family", 
+        "rock", 
+        "70s"
+    ], 
+    "taskDuration": {
+        "Task Duration": 79.61909413337708, 
+        "Task End": 1587442338.851623, 
+        "Task Start": 1587442259.232529
+    }, 
+    "stats": {
+        "listeners": "21761", 
+        "playcount": "191246"
+    }, 
+    "name": "Roger Glover", 
+    "mbid": "583944a8-d43b-42e9-8e3c-29eb89f53587", 
+    "birthday": "1945-11-30", 
+    "date": "2020-04-21", 
+    "albums": [
+        {
+            "mbid": "3364ecf4-b39c-3012-a9be-ea344fd1d40a", 
+            "releases": [
+                {
+                    "name": "Gemini Suite (London Symphony Orchestra Feat. Conductor: Malcolm Arnold, Vocals: Tony Ashton, Yvonne Elliman, Drums: Ian Paice, Piano: Jon Lord, Organ: Jon Lord, Bass Guitar: Roger Glover, Guitar: Albert Lee)", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "32"
+                            }, 
+                            "title": "Guitar", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "ed84edff-5871-45a8-88b3-f22562a31e11", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "25"
+                            }, 
+                            "title": "Piano", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "1d0e4f32-adb0-4031-8b83-af55d9901b0a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Drums", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "04fc98c8-be10-4330-9ddf-3afd0b4fa42b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Vocals", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "70bfd672-17f5-40a6-9a19-1a38db4f8682", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Bass Guitar", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "8f59cb5d-6b31-4c16-8067-6bb3b68aff1a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Organ", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "ba6077b2-bf32-4915-a99b-6d7e4091e830", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "0ab0b364-a378-4427-984b-100d0a4a6998", 
+                    "packaging": null, 
+                    "listeners": "10", 
+                    "date": "1971", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "92", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }, 
+                {
+                    "name": "Gemini Suite (London Symphony Orchestra Feat. Conductor: Malcolm Arnold, Vocals: Tony Ashton, Yvonne Elliman, Drums: Ian Paice, Piano: Jon Lord, Organ: Jon Lord, Bass Guitar: Roger Glover, Guitar: Albert Lee)", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "32"
+                            }, 
+                            "title": "Guitar", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "ed84edff-5871-45a8-88b3-f22562a31e11", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "25"
+                            }, 
+                            "title": "Piano", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "1d0e4f32-adb0-4031-8b83-af55d9901b0a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Drums", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "04fc98c8-be10-4330-9ddf-3afd0b4fa42b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Vocals", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "70bfd672-17f5-40a6-9a19-1a38db4f8682", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Bass Guitar", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "8f59cb5d-6b31-4c16-8067-6bb3b68aff1a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Organ", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "ba6077b2-bf32-4915-a99b-6d7e4091e830", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "white vinyl", 
+                    "mbid": "0ab0b364-a378-4427-984b-100d0a4a6998", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "10", 
+                    "date": "1983", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "92", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }, 
+                {
+                    "name": "Gemini Suite RM", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "210"
+                            }, 
+                            "title": "Libra", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "348eb184-97d9-4d5d-ba80-26836981cb96", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "139"
+                            }, 
+                            "title": "Scorpio", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "44a40e19-f3c5-40fb-aba1-fb101e2b088e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "83"
+                            }, 
+                            "title": "Sagittarius", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "b45510d9-3904-4e75-83ef-74f1067304a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "53", 
+                                "playcount": "112"
+                            }, 
+                            "title": "Capricorn", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "1f7839c4-7a6f-41f1-ad3a-c7fb0c29a191", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "99"
+                            }, 
+                            "title": "Aquarius", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "3e49c7a9-377a-45b8-81e7-6a07ddce70a0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "128"
+                            }, 
+                            "title": "Pisces", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "00374e8d-3427-4871-94ad-54c4ca0ab289", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "66c19143-a663-4ce4-8824-e6e6b2313eb8", 
+                    "packaging": null, 
+                    "listeners": "8", 
+                    "date": "", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "78", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "Gemini Suite"
+        }, 
+        {
+            "mbid": "a4fba61d-0e08-3ca5-9108-53caa9ff972a", 
+            "releases": [
+                {
+                    "name": "The Butterfly Ball and the Grasshopper's Feast", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "f22af74f-dae6-45c8-bf3a-773d653074aa", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1005", 
+                                "playcount": "3239"
+                            }, 
+                            "title": "Harlequin Hare", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cf5fc30f-f4c0-45ac-834a-226524d142e8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "974", 
+                                "playcount": "2941"
+                            }, 
+                            "title": "Old Blind Mole", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "81a90bd4-ddb8-4593-8d1c-30b9c0b93bf1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0774eb19-aa6d-4b46-8cae-b6459eb15e09", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3062"
+                            }, 
+                            "title": "No Solution", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "652acd24-57b2-494f-a1b0-a577b4265a86", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "993", 
+                                "playcount": "2826"
+                            }, 
+                            "title": "Dreams of Sir Bedivere", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "559e4785-bdb8-4061-9e88-8897cb5694cc", 
+                            "trackNumber": "14", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "755", 
+                                "playcount": "2148"
+                            }, 
+                            "title": "Together Again", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0351790b-ac51-4492-ab46-3e2dfc3cb5b7", 
+                            "trackNumber": "15", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "945", 
+                                "playcount": "2574"
+                            }, 
+                            "title": "The Feast", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "39dc60e9-373d-4a22-b1df-8aadc59c7384", 
+                            "trackNumber": "18", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14490", 
+                                "playcount": "65664"
+                            }, 
+                            "title": "Love Is All", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "aee70154-c33c-4054-9763-1032c0c9204c", 
+                            "trackNumber": "19", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "ce9483a7-f5ed-408c-9c04-75f067a6dada", 
+                            "trackNumber": "22", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "2facfae6-348c-4c0f-b1b3-3804174125c5", 
+                            "trackNumber": "23", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1005", 
+                                "playcount": "3239"
+                            }, 
+                            "title": "Harlequin Hare (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "15b4d467-0af0-47df-bf94-df4e0de40412", 
+                            "trackNumber": "24", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "94edf4d6-4dbf-4c5e-b3a9-aeec450f092e", 
+                            "trackNumber": "25", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3062"
+                            }, 
+                            "title": "No Solution (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d7f471ae-3537-4403-8375-562bded934f7", 
+                            "trackNumber": "26", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "884", 
+                                "playcount": "2962"
+                            }, 
+                            "title": "Waiting (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cb11a328-87c8-46a8-b129-e7c49e0ddcc6", 
+                            "trackNumber": "27", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "898", 
+                                "playcount": "3082"
+                            }, 
+                            "title": "Fly Away (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "c66d84ff-6274-40cb-9d35-8c39ca1d64e7", 
+                            "trackNumber": "28", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "907", 
+                                "playcount": "2996"
+                            }, 
+                            "title": "Aranea (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "5b2a3a03-4468-4cac-b458-d47287dc31d4", 
+                            "trackNumber": "29", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "559348c5-e0c3-44f2-ba33-53c90bc88b64", 
+                    "packaging": null, 
+                    "listeners": "6972", 
+                    "date": "1974-12", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "67631", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }, 
+                {
+                    "name": "Love Is All", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "f22af74f-dae6-45c8-bf3a-773d653074aa", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1005", 
+                                "playcount": "3239"
+                            }, 
+                            "title": "Harlequin Hare", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cf5fc30f-f4c0-45ac-834a-226524d142e8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "974", 
+                                "playcount": "2941"
+                            }, 
+                            "title": "Old Blind Mole", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "dcd0c635-a0f2-4ece-ba71-07174455530b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0774eb19-aa6d-4b46-8cae-b6459eb15e09", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3062"
+                            }, 
+                            "title": "No Solution", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "652acd24-57b2-494f-a1b0-a577b4265a86", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1000", 
+                                "playcount": "3831"
+                            }, 
+                            "title": "Behind the Smile", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "11bd8341-ef0c-498c-aef9-3318f7b165ea", 
+                            "trackNumber": "8", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "993", 
+                                "playcount": "2826"
+                            }, 
+                            "title": "Dreams of Sir Bedivere", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "40b8b25c-6f2b-412d-9fe4-fd799df4c8c8", 
+                            "trackNumber": "14", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "945", 
+                                "playcount": "2574"
+                            }, 
+                            "title": "The Feast", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "39dc60e9-373d-4a22-b1df-8aadc59c7384", 
+                            "trackNumber": "17", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14490", 
+                                "playcount": "65664"
+                            }, 
+                            "title": "Love Is All", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "aee70154-c33c-4054-9763-1032c0c9204c", 
+                            "trackNumber": "18", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "FR", 
+                    "disambiguation": "", 
+                    "mbid": "1cc2d143-3ebc-4cb6-b11f-201eb6c949b0", 
+                    "packaging": null, 
+                    "listeners": "6", 
+                    "date": "1992", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "49", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }, 
+                {
+                    "name": "The Butterfly Ball and the Grasshopper's Feast", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "f22af74f-dae6-45c8-bf3a-773d653074aa", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1005", 
+                                "playcount": "3239"
+                            }, 
+                            "title": "Harlequin Hare", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cf5fc30f-f4c0-45ac-834a-226524d142e8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "974", 
+                                "playcount": "2941"
+                            }, 
+                            "title": "Old Blind Mole", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "81a90bd4-ddb8-4593-8d1c-30b9c0b93bf1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0774eb19-aa6d-4b46-8cae-b6459eb15e09", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3062"
+                            }, 
+                            "title": "No Solution", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "652acd24-57b2-494f-a1b0-a577b4265a86", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "993", 
+                                "playcount": "2826"
+                            }, 
+                            "title": "Dreams of Sir Bedivere", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "559e4785-bdb8-4061-9e88-8897cb5694cc", 
+                            "trackNumber": "14", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "755", 
+                                "playcount": "2148"
+                            }, 
+                            "title": "Together Again", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0351790b-ac51-4492-ab46-3e2dfc3cb5b7", 
+                            "trackNumber": "15", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "945", 
+                                "playcount": "2574"
+                            }, 
+                            "title": "The Feast", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "39dc60e9-373d-4a22-b1df-8aadc59c7384", 
+                            "trackNumber": "18", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14490", 
+                                "playcount": "65664"
+                            }, 
+                            "title": "Love Is All", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "aee70154-c33c-4054-9763-1032c0c9204c", 
+                            "trackNumber": "19", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "ce9483a7-f5ed-408c-9c04-75f067a6dada", 
+                            "trackNumber": "22", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "2facfae6-348c-4c0f-b1b3-3804174125c5", 
+                            "trackNumber": "23", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1005", 
+                                "playcount": "3239"
+                            }, 
+                            "title": "Harlequin Hare (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "15b4d467-0af0-47df-bf94-df4e0de40412", 
+                            "trackNumber": "24", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "94edf4d6-4dbf-4c5e-b3a9-aeec450f092e", 
+                            "trackNumber": "25", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3062"
+                            }, 
+                            "title": "No Solution (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d7f471ae-3537-4403-8375-562bded934f7", 
+                            "trackNumber": "26", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "884", 
+                                "playcount": "2962"
+                            }, 
+                            "title": "Waiting (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cb11a328-87c8-46a8-b129-e7c49e0ddcc6", 
+                            "trackNumber": "27", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "898", 
+                                "playcount": "3082"
+                            }, 
+                            "title": "Fly Away (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "c66d84ff-6274-40cb-9d35-8c39ca1d64e7", 
+                            "trackNumber": "28", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "907", 
+                                "playcount": "2996"
+                            }, 
+                            "title": "Aranea (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "5b2a3a03-4468-4cac-b458-d47287dc31d4", 
+                            "trackNumber": "29", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "559348c5-e0c3-44f2-ba33-53c90bc88b64", 
+                    "packaging": null, 
+                    "listeners": "6972", 
+                    "date": "1995", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "67631", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }, 
+                {
+                    "name": "The Butterfly Ball and the Grasshopper's Feast", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "f22af74f-dae6-45c8-bf3a-773d653074aa", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1005", 
+                                "playcount": "3239"
+                            }, 
+                            "title": "Harlequin Hare", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cf5fc30f-f4c0-45ac-834a-226524d142e8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "974", 
+                                "playcount": "2941"
+                            }, 
+                            "title": "Old Blind Mole", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "81a90bd4-ddb8-4593-8d1c-30b9c0b93bf1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0774eb19-aa6d-4b46-8cae-b6459eb15e09", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3062"
+                            }, 
+                            "title": "No Solution", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "652acd24-57b2-494f-a1b0-a577b4265a86", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "993", 
+                                "playcount": "2826"
+                            }, 
+                            "title": "Dreams of Sir Bedivere", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "559e4785-bdb8-4061-9e88-8897cb5694cc", 
+                            "trackNumber": "14", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "755", 
+                                "playcount": "2148"
+                            }, 
+                            "title": "Together Again", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0351790b-ac51-4492-ab46-3e2dfc3cb5b7", 
+                            "trackNumber": "15", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "945", 
+                                "playcount": "2574"
+                            }, 
+                            "title": "The Feast", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "39dc60e9-373d-4a22-b1df-8aadc59c7384", 
+                            "trackNumber": "18", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14490", 
+                                "playcount": "65664"
+                            }, 
+                            "title": "Love Is All", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "aee70154-c33c-4054-9763-1032c0c9204c", 
+                            "trackNumber": "19", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "ce9483a7-f5ed-408c-9c04-75f067a6dada", 
+                            "trackNumber": "22", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "2facfae6-348c-4c0f-b1b3-3804174125c5", 
+                            "trackNumber": "23", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1005", 
+                                "playcount": "3239"
+                            }, 
+                            "title": "Harlequin Hare (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "15b4d467-0af0-47df-bf94-df4e0de40412", 
+                            "trackNumber": "24", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "94edf4d6-4dbf-4c5e-b3a9-aeec450f092e", 
+                            "trackNumber": "25", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3062"
+                            }, 
+                            "title": "No Solution (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d7f471ae-3537-4403-8375-562bded934f7", 
+                            "trackNumber": "26", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "884", 
+                                "playcount": "2962"
+                            }, 
+                            "title": "Waiting (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cb11a328-87c8-46a8-b129-e7c49e0ddcc6", 
+                            "trackNumber": "27", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "898", 
+                                "playcount": "3082"
+                            }, 
+                            "title": "Fly Away (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "c66d84ff-6274-40cb-9d35-8c39ca1d64e7", 
+                            "trackNumber": "28", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "907", 
+                                "playcount": "2996"
+                            }, 
+                            "title": "Aranea (alternative mix)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "5b2a3a03-4468-4cac-b458-d47287dc31d4", 
+                            "trackNumber": "29", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "25th Anniversary Collectors Edition", 
+                    "mbid": "559348c5-e0c3-44f2-ba33-53c90bc88b64", 
+                    "packaging": null, 
+                    "listeners": "6972", 
+                    "date": "1999-03-08", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "67631", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "The Butterfly Ball and the Grasshopper\u2019s Feast"
+        }, 
+        {
+            "mbid": "8b901b97-736b-42a2-9841-ccdf11bffce5", 
+            "releases": [
+                {
+                    "name": "Elements", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "309", 
+                                "playcount": "794"
+                            }, 
+                            "title": "The First Ring Made of Clay", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "21234de0-88a3-41fc-a895-556dc14bba15", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "263", 
+                                "playcount": "650"
+                            }, 
+                            "title": "The Next a Ring of Fire", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "b2c5aeb9-b82f-4be1-8b52-bbf13f642883", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "241", 
+                                "playcount": "674"
+                            }, 
+                            "title": "The Third Ring\u2019s Watery Flow", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "43173ed1-0560-4273-ae1c-70f165499936", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "668"
+                            }, 
+                            "title": "The Fourth Ring\u2019s With the Wind", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "e657f7de-b2b7-4b3f-85d5-900395ae228a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "648"
+                            }, 
+                            "title": "Finale", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "dd109277-5831-4416-a868-85c5c2de65d1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "RU", 
+                    "disambiguation": "", 
+                    "mbid": "71146cb8-57be-4d4c-9e97-d77cd70bcb00", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "273", 
+                    "date": "1999", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "2502", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "Elements"
+        }, 
+        {
+            "mbid": "4d992e3f-5968-348f-a8d0-56f7370953d0", 
+            "releases": [
+                {
+                    "name": "Mask", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "199", 
+                                "playcount": "546"
+                            }, 
+                            "title": "Divided World", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "7f0dd32c-1c15-49bf-ba62-cabab8d44ace", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "194", 
+                                "playcount": "486"
+                            }, 
+                            "title": "Getting Stranger", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d9bf7b20-20a7-4945-80e7-c166cb18cdb4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "309", 
+                                "playcount": "1076"
+                            }, 
+                            "title": "The Mask", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "09016419-2d32-4c23-84f6-5e764537e79f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "181", 
+                                "playcount": "483"
+                            }, 
+                            "title": "Fake It", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "229e7e0d-b65e-4e1c-aefc-318dea3f900c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "265"
+                            }, 
+                            "title": "Dancin\u2019 Again", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "effc6195-b5c5-4ccb-81a2-5fc0af365a0f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "158"
+                            }, 
+                            "title": "(You\u2019re So) Remote", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "86710437-9e9a-4724-8df9-bff2a2f5714a", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "176", 
+                                "playcount": "448"
+                            }, 
+                            "title": "Hip Level", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "fdadd623-40a5-487f-b50d-f4a0adaf3373", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "317"
+                            }, 
+                            "title": "Don\u2019t Look Down", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "c1dfb4c0-546c-405a-8b7d-0bfd2c300399", 
+                            "trackNumber": "8", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "46ab7aab-4a2b-4959-bb09-bcdd20f98255", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "219", 
+                    "date": "2005-02", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "2549", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "Mask"
+        }, 
+        {
+            "mbid": "6b8dd30b-c9cd-376a-a764-f9c4da91d27b", 
+            "releases": [
+                {
+                    "name": "Accidentally on Purpose", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1202", 
+                                "playcount": "3413"
+                            }, 
+                            "title": "Clouds and Rain", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "4a9a4e65-5967-4cf0-87f2-9e78e682efee", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "868", 
+                                "playcount": "2216"
+                            }, 
+                            "title": "Evil Eye", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "adc7f75d-cb69-4032-acd3-e62701b72cb5", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1147", 
+                                "playcount": "3050"
+                            }, 
+                            "title": "She Took My Breath Away", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "e31cf323-807f-4944-bb96-e2a2e11d54aa", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "830", 
+                                "playcount": "2051"
+                            }, 
+                            "title": "Dislocated", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "58818242-4ff6-4640-b04f-ba1c8bda4d1c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1177", 
+                                "playcount": "3050"
+                            }, 
+                            "title": "Via Miami", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "f666a3f8-6564-4172-950e-9d73b116ab8a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "630", 
+                                "playcount": "1720"
+                            }, 
+                            "title": "I Can\u2019t Dance to That", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "6d78715a-3163-4dbf-b085-212b37b3a577", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "153", 
+                                "playcount": "448"
+                            }, 
+                            "title": "I Can\u2019t Believe You Wanna Leave", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "b1fbc138-715e-4640-85fd-b5fba60dd40b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1062", 
+                                "playcount": "3151"
+                            }, 
+                            "title": "Lonely Avenue", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "8e2be7fb-f2b4-4df1-8803-e43bab6b1f00", 
+                            "trackNumber": "8", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "813", 
+                                "playcount": "2155"
+                            }, 
+                            "title": "Telephone Box", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "a9742d51-9789-4631-ab0c-b07b05dd4674", 
+                            "trackNumber": "9", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "707", 
+                                "playcount": "1796"
+                            }, 
+                            "title": "I Thought No", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "b5347eb1-5d2c-481a-a35b-c37b252f8f49", 
+                            "trackNumber": "10", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "705", 
+                                "playcount": "1784"
+                            }, 
+                            "title": "Cayman Island", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "3e38c225-6c31-4415-9efd-f2d8dc0b2220", 
+                            "trackNumber": "11", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "468", 
+                                "playcount": "1547"
+                            }, 
+                            "title": "The Purple People Eater", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "fad59008-15e0-4d14-bc6a-9b1e5b4d29d8", 
+                            "trackNumber": "12", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "523", 
+                                "playcount": "1351"
+                            }, 
+                            "title": "Chet", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "7afd7ef4-7122-458c-915b-4d029e3c279c", 
+                            "trackNumber": "13", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "726edd30-72ba-475c-ab8c-74d7c336762a", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "2121", 
+                    "date": "1988", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "23535", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "Accidentally on Purpose"
+        }, 
+        {
+            "mbid": "a52ff674-78f9-3b06-8be0-b9c1bb399050", 
+            "releases": [
+                {
+                    "name": "Snapshot", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "156", 
+                                "playcount": "391"
+                            }, 
+                            "title": "My Turn", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "b2602195-ff52-462e-b16b-a1663ee1e905", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "377"
+                            }, 
+                            "title": "Burn Me Up Slowly", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "bcdecb4f-0e46-4161-adfd-f449437973bf", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "136"
+                            }, 
+                            "title": "Beyond Emily", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "9f938f7a-772c-4f1d-87d4-4b833e9b0264", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84", 
+                                "playcount": "342"
+                            }, 
+                            "title": "Queen of England", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "82538827-49c7-4e4b-9799-02c5856de5eb", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "68"
+                            }, 
+                            "title": "No Place to Go", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "8861d098-91c8-4a22-b1a8-08350d2ace9e", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "110"
+                            }, 
+                            "title": "The Bargain Basement", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d1a48870-54f1-434a-ba8b-a285083a7339", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "66"
+                            }, 
+                            "title": "What You Don't Say", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "7471c99b-2f2d-4775-88eb-5edd849cfb03", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "70"
+                            }, 
+                            "title": "Nothing Else", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "33428688-84f8-45d5-be81-f9c11586e002", 
+                            "trackNumber": "8", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Could Have Been Me", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "428a2076-e0f7-488f-a153-15784bccfd23", 
+                            "trackNumber": "9", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "50"
+                            }, 
+                            "title": "The More I Find", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "202c5e36-2589-48fb-a051-230d15df41ce", 
+                            "trackNumber": "10", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "82"
+                            }, 
+                            "title": "When It Comes to You", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "8f22b4f5-aad6-4b5d-b9aa-61fa0ee5f182", 
+                            "trackNumber": "11", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "46"
+                            }, 
+                            "title": "Some Hope", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "916efaf2-52b8-4897-a798-c51d14f88ddf", 
+                            "trackNumber": "12", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "50"
+                            }, 
+                            "title": "If I Could Fly", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "96c7c443-2c2c-4db1-89d5-317b3d7e7727", 
+                            "trackNumber": "13", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "52"
+                            }, 
+                            "title": "It's Only Life", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "40da26e9-687a-432c-b090-095f607fcbb7", 
+                            "trackNumber": "14", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "02b2c3b2-5d95-4f27-ac7f-a64e57ad2939", 
+                    "packaging": null, 
+                    "listeners": "53", 
+                    "date": "2002-09-02", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "977", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "Snapshot"
+        }, 
+        {
+            "mbid": "63789569-e385-45eb-b1b6-656c21973af1", 
+            "releases": [
+                {
+                    "name": "If Life Was Easy", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Don't Look Now (Everything Has Changed)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "38f22415-de9d-4080-bbc8-f6a1d864a7dd", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Boy of Tricks", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d2da30ca-644b-45e1-bdb4-79a0697cc39e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "30"
+                            }, 
+                            "title": "Moonlight", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "297d4efb-2616-423a-88f3-109fdb680e29", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "The Car Won't Start", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0ec0be45-24dc-401d-9da1-3f328b38c065", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "26"
+                            }, 
+                            "title": "The Dream I Had", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "41dc28bf-e22b-48f7-8924-422940074a64", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "129"
+                            }, 
+                            "title": "Stand Together", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "c051e3ab-35bd-46cb-b57d-b04e99dce927", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "28"
+                            }, 
+                            "title": "If Life Was Easy", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "045bb161-0d15-493a-a06a-30e3d97ef99d", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "31"
+                            }, 
+                            "title": "Welcome to the Moon", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "bfaf7176-6775-4c31-a399-c6bc2f9923a0", 
+                            "trackNumber": "8", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "36"
+                            }, 
+                            "title": "Set Your Imagination Free", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d305433e-fbcc-453e-987d-479462a47ccd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "21"
+                            }, 
+                            "title": "When Life Gets to the Bone", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "99c22f93-5650-4bc5-9c02-ef2094ac1df8", 
+                            "trackNumber": "10", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "25"
+                            }, 
+                            "title": "When the Day Is Done", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d6489217-ed9f-46fc-9d51-681ca6a0e797", 
+                            "trackNumber": "11", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "36"
+                            }, 
+                            "title": "Staring Into Space", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "250ee419-fcf5-4126-b597-86948dbaf254", 
+                            "trackNumber": "12", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Get Away (Can't Let You)", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "48830777-321a-4aa5-b2fe-65b32df5c5d6", 
+                            "trackNumber": "13", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "39"
+                            }, 
+                            "title": "The Ghost of Your Smile", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "2f0c6170-978e-43d3-8d30-69833e5e6451", 
+                            "trackNumber": "14", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Cruel World", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "2725fad0-91ae-4412-bd38-86220c86d47f", 
+                            "trackNumber": "15", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Feel Like a King", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "3b190bfc-181c-48b1-adf0-c1449e82745a", 
+                            "trackNumber": "16", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "ffc581c3-8506-4dc7-a329-a3ceb3b69c8e", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "68", 
+                    "date": "2011-07-11", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "523", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "If life was easy"
+        }, 
+        {
+            "mbid": "86156ac3-37fa-37b1-ae9f-a8be42d45b81", 
+            "releases": [
+                {
+                    "name": "Elements/The Mask", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "309", 
+                                "playcount": "794"
+                            }, 
+                            "title": "The First Ring Made of Clay", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "21234de0-88a3-41fc-a895-556dc14bba15", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "263", 
+                                "playcount": "650"
+                            }, 
+                            "title": "The Next a Ring of Fire", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "b2c5aeb9-b82f-4be1-8b52-bbf13f642883", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "241", 
+                                "playcount": "674"
+                            }, 
+                            "title": "The Third Ring\u2019s Watery Flow", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "43173ed1-0560-4273-ae1c-70f165499936", 
+                            "trackNumber": "3", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "668"
+                            }, 
+                            "title": "The Fourth Ring\u2019s With the Wind", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "e657f7de-b2b7-4b3f-85d5-900395ae228a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "648"
+                            }, 
+                            "title": "Finale", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "dd109277-5831-4416-a868-85c5c2de65d1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "199", 
+                                "playcount": "546"
+                            }, 
+                            "title": "Divided World", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "7f0dd32c-1c15-49bf-ba62-cabab8d44ace", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "194", 
+                                "playcount": "486"
+                            }, 
+                            "title": "Getting Stranger", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d9bf7b20-20a7-4945-80e7-c166cb18cdb4", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "309", 
+                                "playcount": "1076"
+                            }, 
+                            "title": "The Mask", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "09016419-2d32-4c23-84f6-5e764537e79f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "181", 
+                                "playcount": "483"
+                            }, 
+                            "title": "Fake It", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "229e7e0d-b65e-4e1c-aefc-318dea3f900c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "265"
+                            }, 
+                            "title": "Dancin\u2019 Again", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "effc6195-b5c5-4ccb-81a2-5fc0af365a0f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "158"
+                            }, 
+                            "title": "(You\u2019re So) Remote", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "86710437-9e9a-4724-8df9-bff2a2f5714a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "176", 
+                                "playcount": "448"
+                            }, 
+                            "title": "Hip Level", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "fdadd623-40a5-487f-b50d-f4a0adaf3373", 
+                            "trackNumber": "12", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "317"
+                            }, 
+                            "title": "Don\u2019t Look Down", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "c1dfb4c0-546c-405a-8b7d-0bfd2c300399", 
+                            "trackNumber": "13", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "3b6f35d7-636a-49bf-8070-3ee562eac042", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "51", 
+                    "date": "1983", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "480", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "Elements / The Mask"
+        }, 
+        {
+            "mbid": "b52d2ca0-c652-3cb0-987d-b379d196033f", 
+            "releases": [], 
+            "title": "Butterfly Ball / Wizard\u2019s Convention"
+        }, 
+        {
+            "mbid": "ef36f5b3-8f05-47cc-8cf3-41a86653f5ed", 
+            "releases": [
+                {
+                    "name": "Greatest Hits", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "f22af74f-dae6-45c8-bf3a-773d653074aa", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "120"
+                            }, 
+                            "title": "Loose Ends", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "d38d9bdf-3547-4f93-9177-82f6e84b99df", 
+                            "trackNumber": "2", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "993", 
+                                "playcount": "2826"
+                            }, 
+                            "title": "Dreams of Sir Bedivere", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "559e4785-bdb8-4061-9e88-8897cb5694cc", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "309", 
+                                "playcount": "794"
+                            }, 
+                            "title": "The First Ring Made of Clay", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "21234de0-88a3-41fc-a895-556dc14bba15", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "263", 
+                                "playcount": "650"
+                            }, 
+                            "title": "The Next a Ring of Fire", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "b2c5aeb9-b82f-4be1-8b52-bbf13f642883", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "241", 
+                                "playcount": "674"
+                            }, 
+                            "title": "The Third Ring\u2019s Watery Flow", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "43173ed1-0560-4273-ae1c-70f165499936", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "181", 
+                                "playcount": "483"
+                            }, 
+                            "title": "Fake It", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "229e7e0d-b65e-4e1c-aefc-318dea3f900c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "309", 
+                                "playcount": "1076"
+                            }, 
+                            "title": "The Mask", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "09016419-2d32-4c23-84f6-5e764537e79f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "176", 
+                                "playcount": "448"
+                            }, 
+                            "title": "Hip Level", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "fdadd623-40a5-487f-b50d-f4a0adaf3373", 
+                            "trackNumber": "10", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "51"
+                            }, 
+                            "title": "Evil Eye", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cd414f2c-9ac4-4184-9972-5dde452ed7a1", 
+                            "trackNumber": "11", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Viva Miami", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cf385006-e8af-498a-aae4-8a7725fc51c7", 
+                            "trackNumber": "12", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "45"
+                            }, 
+                            "title": "Chet", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "f5dbb841-66f4-47e7-b70c-47373f3733fb", 
+                            "trackNumber": "13", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "PT", 
+                    "disambiguation": "", 
+                    "mbid": "15801c84-3a50-42a7-b65a-21c3cbc1bd68", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "44", 
+                    "date": "1996", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "519", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "Greatest Hits"
+        }, 
+        {
+            "mbid": "9abd292b-acc4-42da-86d2-44d750a362c9", 
+            "releases": [], 
+            "title": "The Purple People Eater"
+        }, 
+        {
+            "mbid": "c9ec37c3-c15c-3335-97b6-1f11800bcc03", 
+            "releases": [
+                {
+                    "name": "Love Is All", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1966", 
+                                "playcount": "4981"
+                            }, 
+                            "title": "Dawn", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "f22af74f-dae6-45c8-bf3a-773d653074aa", 
+                            "trackNumber": "1", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1005", 
+                                "playcount": "3239"
+                            }, 
+                            "title": "Harlequin Hare", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "cf5fc30f-f4c0-45ac-834a-226524d142e8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "974", 
+                                "playcount": "2941"
+                            }, 
+                            "title": "Old Blind Mole", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "dcd0c635-a0f2-4ece-ba71-07174455530b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1712", 
+                                "playcount": "5116"
+                            }, 
+                            "title": "Magician Moth", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "0774eb19-aa6d-4b46-8cae-b6459eb15e09", 
+                            "trackNumber": "6", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "931", 
+                                "playcount": "3062"
+                            }, 
+                            "title": "No Solution", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "652acd24-57b2-494f-a1b0-a577b4265a86", 
+                            "trackNumber": "7", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1000", 
+                                "playcount": "3831"
+                            }, 
+                            "title": "Behind the Smile", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "11bd8341-ef0c-498c-aef9-3318f7b165ea", 
+                            "trackNumber": "8", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "993", 
+                                "playcount": "2826"
+                            }, 
+                            "title": "Dreams of Sir Bedivere", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "40b8b25c-6f2b-412d-9fe4-fd799df4c8c8", 
+                            "trackNumber": "14", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "945", 
+                                "playcount": "2574"
+                            }, 
+                            "title": "The Feast", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "39dc60e9-373d-4a22-b1df-8aadc59c7384", 
+                            "trackNumber": "17", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14490", 
+                                "playcount": "65664"
+                            }, 
+                            "title": "Love Is All", 
+                            "artistName": "Roger Glover", 
+                            "mbid": "aee70154-c33c-4054-9763-1032c0c9204c", 
+                            "trackNumber": "18", 
+                            "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                        }
+                    ], 
+                    "country": "FR", 
+                    "disambiguation": "", 
+                    "mbid": "b75b3cae-9aa1-4cb9-b08f-452c46fb1d76", 
+                    "packaging": null, 
+                    "listeners": "549", 
+                    "date": "1991", 
+                    "artistName": "Roger Glover", 
+                    "playcount": "2112", 
+                    "artistMBID": "583944a8-d43b-42e9-8e3c-29eb89f53587"
+                }
+            ], 
+            "title": "Love Is All"
+        }
+    ], 
+    "type": "Person"
+}

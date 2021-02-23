@@ -1,0 +1,62 @@
+{
+    "name": "David Bowie",
+    "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "2010f1f2-344e-49ed-baf2-455226deb3df",
+            "name": "David Bowie & The Buzz",
+            "attributes": [
+                "lead vocals",
+                "saxophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "39dfc059-93b1-41a1-af27-3a753c0711d3",
+            "name": "Tin Machine",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "48c82715-4569-43f7-a596-5c5d1f7ef0dc",
+            "name": "Feathers",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "9f132fea-c047-4b5c-a7a3-4996812ce0d0",
+            "name": "Bewlay Bros.",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "732ede83-aa0b-4ea3-a9cd-579b3ddf98f0",
+            "name": "Davy Jones & The Lower Third",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1e18f529-2965-494e-be50-4b2a023148d4",
+            "name": "The Arnold Corns",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "14797449-01d5-431b-9649-ec071c9ac410",
+            "name": "David Bowie & The Lower Third",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "03beedf4-babe-4a7e-82d9-4e5883164812",
+            "name": "The Manish Boys",
+            "attributes": []
+        }
+    ]
+}

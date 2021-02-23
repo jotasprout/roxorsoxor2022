@@ -1,0 +1,42 @@
+{
+    "name": "Lou Reed",
+    "mbid": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "94b0fb9d-a066-4823-b2ec-af1d324bcfcf",
+            "name": "The Velvet Underground",
+            "attributes": [
+                "guitar",
+                "lead vocals",
+                "original",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "94b0fb9d-a066-4823-b2ec-af1d324bcfcf",
+            "name": "The Velvet Underground",
+            "attributes": [
+                "guitar",
+                "lead vocals",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "dd62892b-2835-40ab-9c96-d3032078d6e6",
+            "name": "Metal Machine Trio",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e88fcb22-9c82-4696-ba76-de0b1b5a9c1e",
+            "name": "The Roughnecks",
+            "attributes": []
+        }
+    ]
+}

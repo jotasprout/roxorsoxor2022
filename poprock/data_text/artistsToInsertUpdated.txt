@@ -1,0 +1,168 @@
+﻿OTHERS WAITING
+
+ $ = new artist ("", "Bad Company");
+ $ = new artist ("", "Bjork");
+
+ $ = new artist ("", "Carpenters");
+ $ = new artist ("", "Commodores");
+
+ $ = new artist ("", "Doobie Brothers");
+ $ = new artist ("", "Emerson, Lake & Palmer");
+
+ $ = new artist ("", "Gram Parsons");
+ $ = new artist ("", "Guess Who");
+ $ = new artist ("", "Husker Du");
+ $ = new artist ("", "INXS");
+
+ $ = new artist ("", "Jan & Dean");
+ $ = new artist ("", "Jane's Addiction");
+
+ $ = new artist ("", "King Crimson");
+
+ $ = new artist ("", "Monkees");
+ $ = new artist ("", "Motorhead");
+
+ $ = new artist ("", "New York Dolls");
+
+ $ = new artist ("", "Replacements");
+ $ = new artist ("", "Roxy Music");
+ $ = new artist ("", "Runaways");
+ $ = new artist ("", "Siouxsie & the Banshees");
+
+ $ = new artist ("", "Smashing Pumpkins");
+ $ = new artist ("", "The Specials");
+ $ = new artist ("", "Steppenwolf");
+ $ = new artist ("", "T. Rex");
+ $ = new artist ("", "Thin Lizzy");
+ $ = new artist ("", "Three Dog Night");
+ $ = new artist ("", "Warren Zevon");
+ $ = new artist ("", "Weird Al Yankovic");
+ $ = new artist ("", "X");
+
+OTHERS THAT ARE IN
+
+ $ = new artist ("", "James Brown");
+ $ = new artist ("", "Ray Charles");
+ $ = new artist ("", "Sam Cooke");
+
+ $ = new artist ("", "The Everly Brothers");
+ $ = new artist ("", "Buddy Holly");
+
+ $ = new artist ("", "Elvis Presley");
+ $ = new artist ("", "The Coasters");
+ $ = new artist ("", "Eddie Cochran");
+ $ = new artist ("", "Bo Diddley");
+ $ = new artist ("", "Aretha Franklin");
+ $ = new artist ("", "Marvin Gaye");
+ $ = new artist ("", "Bill Haley");
+ $ = new artist ("", "Clyde McPhatter");
+ $ = new artist ("", "Smokey Robinson");
+ $ = new artist ("", "Big Joe Turner");
+ $ = new artist ("", "Jackie Wilson");
+ $ = new artist ("", "The Beach Boys");
+ $ = new artist ("", "The Beatles");
+ $ = new artist ("", "The Drifters");
+
+ $ = new artist ("", "The Supremes");
+ $ = new artist ("", "Dion");
+ $ = new artist ("", "Otis Redding");
+
+ $ = new artist ("", "The Temptations");
+ $ = new artist ("", "Stevie Wonder");
+ $ = new artist ("", "Hank Ballard");
+ $ = new artist ("", "Bobby Darin");
+ $ = new artist ("", "The Four Seasons");
+ $ = new artist ("", "Four Tops");
+ $ = new artist ("", "The Platters");
+ $ = new artist ("", "Simon & Garfunkel");
+ $ = new artist ("", "LaVern Baker");
+ $ = new artist ("", "The Byrds");
+
+ $ = new artist ("", "The Impressions");
+ $ = new artist ("", "Wilson Pickett");
+ $ = new artist ("", "Jimmy Reed");
+ $ = new artist ("", "Ike & Tina Turner");
+ $ = new artist ("", "Bobby "Blue" Bland");
+ $ = new artist ("", "Booker T, & the M.G.'s");
+
+ $ = new artist ("", "The Jimi Hendrix Experience");
+ $ = new artist ("", "Sam & Dave");
+ $ = new artist ("", "The Yardbirds");
+
+ $ = new artist ("", "Creedence Clearwater Revival");
+
+ $ = new artist ("", "The Animals");
+ $ = new artist ("", "John Lennon");
+
+ $ = new artist ("", "Frank Zappa");
+
+ $ = new artist ("", "Gladys Knight & the Pips");
+ $ = new artist ("", "Jefferson Airplane");
+ $ = new artist ("", "Little Willie John");
+ $ = new artist ("", "Pink Floyd");
+ $ = new artist ("", "Roger Waters");
+ $ = new artist ("", "David Gilmour");
+ $ = new artist ("", "The Velvet Underground");
+ $ = new artist ("", "Bee Gees");
+ $ = new artist ("", "Crosby, Stills & Nash");
+
+ $ = new artist ("", "Eagles");
+
+ $ = new artist ("", "Santana");
+ $ = new artist ("", "Billy Joel");
+ $ = new artist ("", "Paul McCartney");
+ $ = new artist ("", "Eric Clapton");
+ $ = new artist ("", "Earth, Wind & Fire");
+ $ = new artist ("", "The Lovin' Spoonful");
+
+ $ = new artist ("", "George Harrison");
+
+ $ = new artist ("", "Lynyrd Skynyrd");
+ $ = new artist ("", "Sex Pistols");
+ 
+ $ = new artist ("", "Patti Smith");
+
+ $ = new artist ("", "Madonna");
+ $ = new artist ("", "Jeff Beck");
+
+ $ = new artist ("", "Run�D.M.C.");
+ $ = new artist ("", "ABBA");
+
+ $ = new artist ("", "Donovan");
+
+ $ = new artist ("", "Red Hot Chili Peppers");
+ $ = new artist ("", "Small Faces/Faces");
+ $ = new artist ("", "Heart");
+
+ $ = new artist ("", "Lou Reed");
+ $ = new artist ("", "Green Day");
+ $ = new artist ("", "Cheap Trick");
+ $ = new artist ("", "Chicago");
+
+ $ = new artist ("", "Pearl Jam");
+
+CHRISTIAN
+
+IDOL King','
+
+TobyMac','
+T-Bone','
+D-Boy','
+D.O.C.','
+
+Gospel Gangstaz','
+
+Peace 586','
+Michael Peace','
+Ill Harmonics','
+Sevin','
+Sintax the Terrific','
+Switchblade Symphony?','
+L.A. Symphony','
+Soup the Chemist','
+
+Krum (formerly Playdough)','
+
+Heath McNease','
+Soul 4Ur Tribe','
+B. Cooper','

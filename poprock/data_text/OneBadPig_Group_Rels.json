@@ -1,0 +1,21 @@
+{
+    "name": "One Bad Pig",
+    "mbid": "f88dd1a1-8e46-4b89-84af-edeaa479e55a",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "54f52fe6-37bd-4baa-b0ff-e7dd22bade4d",
+            "name": "Paul Q-Pek",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "aca10dfa-b7e6-4bbf-857a-bce60e73d942",
+            "name": "Carey Womack",
+            "attributes": [
+                "lead vocals"
+            ]
+        }
+    ]
+}

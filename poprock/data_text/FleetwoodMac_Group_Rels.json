@@ -1,0 +1,189 @@
+{
+    "name": "Fleetwood Mac",
+    "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "ec166c16-75f7-4312-8308-135c4b6b9e5a",
+            "name": "Bob Brunning",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9a6adb63-10a9-417a-8cd9-3b0fcf5475c5",
+            "name": "Peter Green",
+            "attributes": [
+                "guitar",
+                "harmonica",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6e82e5d9-c7ae-4de1-8691-be6e870b294c",
+            "name": "Jeremy Spencer",
+            "attributes": [
+                "guitar",
+                "lead vocals",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "5191f332-8c44-4775-a070-d517cf7e5ecb",
+            "name": "Mick Fleetwood",
+            "attributes": [
+                "guitar family",
+                "membranophone",
+                "percussion",
+                "spoken vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c78f0746-ea5d-44c0-92ee-f32745951345",
+            "name": "John McVie",
+            "attributes": [
+                "background vocals",
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "2dd16885-93df-4893-85ad-18dca165be6b",
+            "name": "Danny Kirwan",
+            "attributes": [
+                "guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "21551f7d-93f2-4cb7-ba71-7f260058e923",
+            "name": "Christine McVie",
+            "attributes": [
+                "accordion",
+                "keyboard",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c7c6fc3e-4e50-4c43-b0c4-f18a66a1b3c0",
+            "name": "Bob Welch",
+            "attributes": [
+                "guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ed02d3d7-5cf5-4c78-a35e-cda9e7b91581",
+            "name": "Dave Walker",
+            "attributes": [
+                "harmonica",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "24a89258-b86d-47be-9309-a066ee84a419",
+            "name": "Bob Weston",
+            "attributes": [
+                "guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "5d12875c-a197-43b2-8f29-41dc0ad895c3",
+            "name": "Lindsey Buckingham",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "lead vocals",
+                "percussion",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7",
+            "name": "Stevie Nicks",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b17dafcb-d0cf-49b2-9fc8-42ed33bba355",
+            "name": "Rick Vito",
+            "attributes": [
+                "guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "45d9abda-e6db-4c4c-9f39-a3c8e48957ef",
+            "name": "Billy Burnette",
+            "attributes": [
+                "guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fa41ce1d-f3ef-4bda-ad5a-a3c60eb60633",
+            "name": "Bekka Bramlett",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d70c2ae1-911a-4bea-8ef4-63564a150ff2",
+            "name": "Dave Mason",
+            "attributes": [
+                "guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "5d12875c-a197-43b2-8f29-41dc0ad895c3",
+            "name": "Lindsey Buckingham",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "lead vocals",
+                "percussion",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7",
+            "name": "Stevie Nicks",
+            "attributes": [
+                "keyboard",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "37ed89f2-c1e4-4836-8f68-190014a48034",
+            "name": "Mike Campbell",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "3b7c93ab-40a5-4745-ab6b-eaafed2308bb",
+            "name": "Neil Finn",
+            "attributes": []
+        }
+    ]
+}

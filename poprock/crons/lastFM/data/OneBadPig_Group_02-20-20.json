@@ -1,0 +1,1112 @@
+{
+    "genres": [
+        "punk", 
+        "Christian punk", 
+        "christian", 
+        "christian rock", 
+        "rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 36.863633155822754, 
+        "Task End": 1582177455.842802, 
+        "Task Start": 1582177418.979169
+    }, 
+    "stats": {
+        "listeners": "3726", 
+        "playcount": "42982"
+    }, 
+    "name": "One Bad Pig", 
+    "mbid": "f88dd1a1-8e46-4b89-84af-edeaa479e55a", 
+    "birthday": "1985", 
+    "date": "2020-02-20", 
+    "albums": [
+        {
+            "mbid": "eda97539-810a-4aa0-a93c-ebeca60cc1fd", 
+            "releases": [], 
+            "title": "A Christian Banned"
+        }, 
+        {
+            "mbid": "18af2573-9756-3a69-acc7-dc90db9d322c", 
+            "releases": [
+                {
+                    "name": "Smash", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "451", 
+                                "playcount": "1405"
+                            }, 
+                            "title": "Godarchy", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "8eb07988-76fe-46d7-80f7-64d8aeb1c7aa", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "937", 
+                                "playcount": "2618"
+                            }, 
+                            "title": "Isaiah 6", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "8fc667d5-7cfa-45f1-9a90-38235d679f23", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "682", 
+                                "playcount": "1865"
+                            }, 
+                            "title": "Let's Be Frank", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "2cdbf2dd-2917-4259-9808-ce13605f7a64", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "540", 
+                                "playcount": "1528"
+                            }, 
+                            "title": "People Cry Out", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "a6a70768-62d8-432c-9380-8f7e89831b2b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "162", 
+                                "playcount": "560"
+                            }, 
+                            "title": "Frat Rats", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "8691da23-a7fd-4be4-9883-8d1d934c21cc", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "946"
+                            }, 
+                            "title": "Smash the Guitar", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "1da8add8-0aee-4a70-8e43-87eb89351319", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "142", 
+                                "playcount": "501"
+                            }, 
+                            "title": "Kingdom Come", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "0929d500-0376-4aa5-855f-5b2d051004d1", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "171", 
+                                "playcount": "531"
+                            }, 
+                            "title": "Take a Flying Leap", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "7ab01792-cdf5-4852-afe0-91a1be837ef4", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "189", 
+                                "playcount": "655"
+                            }, 
+                            "title": "I'm Not Getting Any Older", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "5a6eb69f-4194-40c8-a9cf-610c232f7af1", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "680", 
+                                "playcount": "1654"
+                            }, 
+                            "title": "Looney Tune", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "344e346f-7ed9-47da-8d9d-15cd66c87216", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "407"
+                            }, 
+                            "title": "Don't Be Fooled", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "15300ef6-e394-4b40-a9e8-e0d6b8e1493d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "185", 
+                                "playcount": "583"
+                            }, 
+                            "title": "Blow and Go", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "437ea5d9-16bd-44fb-b088-6c9b6e414c9d", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "2e4d674d-aaf0-479d-a48d-3a4d39fb99aa", 
+                    "packaging": null, 
+                    "listeners": "2019", 
+                    "date": "1989", 
+                    "artistName": "One Bad Pig", 
+                    "playcount": "11420", 
+                    "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                }
+            ], 
+            "title": "Smash"
+        }, 
+        {
+            "mbid": "4709e8ff-5958-3aaf-ae70-b5519fbc6586", 
+            "releases": [
+                {
+                    "name": "Swine Flew", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "259", 
+                                "playcount": "818"
+                            }, 
+                            "title": "See Me Sweat", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "fd97ae75-fb28-440a-a5e5-2001798fa012", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "782"
+                            }, 
+                            "title": "Altar Ego", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "def864ea-3286-4963-aae3-7a76a2ae37e1", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "391", 
+                                "playcount": "1279"
+                            }, 
+                            "title": "Hey Punk", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "d0cd03ac-4a27-43ef-9a91-1eee3dd7fac9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "646", 
+                                "playcount": "1852"
+                            }, 
+                            "title": "Red River", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "5a24a81e-7933-46b5-803d-cc7554a3fb85", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "300", 
+                                "playcount": "885"
+                            }, 
+                            "title": "Bowl of Wrath", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "87d7c827-d36e-4eb5-91b0-a060bf8b24d0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "200", 
+                                "playcount": "600"
+                            }, 
+                            "title": "Big Stomach", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "bd058169-7527-4bb0-8723-e1dc5e95a41e", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "216", 
+                                "playcount": "625"
+                            }, 
+                            "title": "Christmas Time", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "415f423d-9925-41e7-87d6-55087f0914ce", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "928"
+                            }, 
+                            "title": "Judas\u2019 Kiss", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "5bc2f03d-f794-4867-b9a4-aef2fdbbfbcd", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "172", 
+                                "playcount": "487"
+                            }, 
+                            "title": "Desperation", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "16fa3b24-b142-4b74-ab27-cf23b3248a78", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "243", 
+                                "playcount": "677"
+                            }, 
+                            "title": "Thrash Against Sin", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "0678669d-936f-4340-a41a-178ced563f73", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "286", 
+                                "playcount": "725"
+                            }, 
+                            "title": "Swine Flew", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "3e73555b-a674-4962-9cdc-ba1fbf132243", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "144", 
+                                "playcount": "444"
+                            }, 
+                            "title": "When Your Love Died", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "3e26d90e-0bd7-4a39-b57e-715ce85ac507", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "167", 
+                                "playcount": "461"
+                            }, 
+                            "title": "We Want You", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "d4c8a4e9-1b0d-4c56-9bfc-a26c2887df11", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "51a965af-a04e-410d-a550-6fc0e3ca7f26", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "918", 
+                    "date": "1990", 
+                    "artistName": "One Bad Pig", 
+                    "playcount": "9068", 
+                    "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                }
+            ], 
+            "title": "Swine Flew"
+        }, 
+        {
+            "mbid": "7e076f58-2f67-361f-af74-96a096e9f754", 
+            "releases": [
+                {
+                    "name": "I Scream Sunday", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "234", 
+                                "playcount": "696"
+                            }, 
+                            "title": "Take a Look at Yourself", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "b4e7d2c0-700b-4c46-b8ab-f6e4f34e5835", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "279", 
+                                "playcount": "920"
+                            }, 
+                            "title": "You're a Pagan", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "6312b946-cfa8-474a-a191-eb268749a4ac", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "240", 
+                                "playcount": "777"
+                            }, 
+                            "title": "I Scream Sunday", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "91b4f9f3-e043-4288-8c9d-b9eba0c07730", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Man in Black", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "5ce6ea2b-fb2b-46af-8b14-eaa31f304253", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "159", 
+                                "playcount": "506"
+                            }, 
+                            "title": "Not Love Money", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "2247aecd-1f21-45b9-878b-6e29dff55fa2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "215", 
+                                "playcount": "643"
+                            }, 
+                            "title": "Cut Your Hair", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "909f0265-4569-4c78-a493-fcd1eeca292d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "163", 
+                                "playcount": "506"
+                            }, 
+                            "title": "For a Good Man", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "38a46b93-d9b6-4a92-a07b-c0d75b760639", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "201", 
+                                "playcount": "671"
+                            }, 
+                            "title": "Ice Cream Sundae", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "15d11c03-f67f-47a7-b67f-3158befa0ad8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "167", 
+                                "playcount": "497"
+                            }, 
+                            "title": "Bird Nest", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "fad892a6-ab6a-4fc9-8cca-458f843e2ed9", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "202", 
+                                "playcount": "574"
+                            }, 
+                            "title": "Up the Nose", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "1db95096-46dd-4bcd-a171-edb003cb8e6f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "167", 
+                                "playcount": "476"
+                            }, 
+                            "title": "Spirit of Murder", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "a7496887-6015-4871-99ae-98f28a36575c", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "177", 
+                                "playcount": "511"
+                            }, 
+                            "title": "Sober Up", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "4299b0cf-5b3a-42f5-9150-61850a9458d8", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Pad Thai", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "bf3de9a4-571a-4180-99ec-5141f0c8f25b", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "214", 
+                                "playcount": "658"
+                            }, 
+                            "title": "Never Forget the Cross", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "4c59a51a-dad6-4e23-b542-6994ae8512fd", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "162", 
+                                "playcount": "510"
+                            }, 
+                            "title": "Wholly My Lord", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "43804d05-4c7a-4a97-b977-7f2d3615b8b4", 
+                            "trackNumber": "15", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5a06bfbc-1284-4f07-bd9c-2307993623f5", 
+                    "packaging": null, 
+                    "listeners": "765", 
+                    "date": "1991", 
+                    "artistName": "One Bad Pig", 
+                    "playcount": "8868", 
+                    "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                }
+            ], 
+            "title": "I Scream Sunday"
+        }, 
+        {
+            "mbid": "ef037cf3-3f27-43f0-bd17-d444ed7b2ad5", 
+            "releases": [], 
+            "title": "HIDDEN - Love You to Death"
+        }, 
+        {
+            "mbid": "3822ec70-0edf-363a-8863-b3571ff57640", 
+            "releases": [
+                {
+                    "name": "The Quintessential One Bad Pig, Volume 1", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "540", 
+                                "playcount": "1528"
+                            }, 
+                            "title": "People Cry Out", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "d180cb2f-9c00-4cc0-86fc-e641c3a14d64", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "83", 
+                                "playcount": "314"
+                            }, 
+                            "title": "Lust", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "fcf6f8a6-b234-4247-a3f3-a2e561608b61", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "310"
+                            }, 
+                            "title": "I Am the Chief", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "a7f9780b-7c7c-4e04-84ca-ef6f8772c6ae", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "682", 
+                                "playcount": "1865"
+                            }, 
+                            "title": "Let's Be Frank", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "0b335790-bab1-424b-9433-f7fcc458af80", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "189", 
+                                "playcount": "655"
+                            }, 
+                            "title": "I'm Not Getting Any Older", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "d06014a8-acae-40b0-88dc-e3942f531d0a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "524"
+                            }, 
+                            "title": "The Man in Black", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "44e7f88d-a991-40a3-b318-7ae111320a2b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "378"
+                            }, 
+                            "title": "Life's a Bomb", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "c9f8dcc7-5846-4e4d-b316-c73f4ceb8fa0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "349"
+                            }, 
+                            "title": "Sleepin' With the World", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "12822499-1780-46cc-b116-6422c4ff0d1a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "937", 
+                                "playcount": "2618"
+                            }, 
+                            "title": "Isaiah 6", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "db0d57f9-2b1c-4a9c-b701-ec93af8ce393", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "646", 
+                                "playcount": "1852"
+                            }, 
+                            "title": "Red River", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "24bfd1f3-a5c1-4ee4-acb1-3b01637266fc", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "150"
+                            }, 
+                            "title": "Be Not Alarmed", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "b47bb254-1d62-464e-829a-53f55afc2e81", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "45671d49-2f19-4a4c-b716-282e42f6974d", 
+                    "packaging": null, 
+                    "listeners": "4", 
+                    "date": "1994", 
+                    "artistName": "One Bad Pig", 
+                    "playcount": "11", 
+                    "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                }
+            ], 
+            "title": "The Quintessential One Bad Pig, Volume 1"
+        }, 
+        {
+            "mbid": "82550841-5b54-30ae-981e-a66d4b111c81", 
+            "releases": [
+                {
+                    "name": "Live - Blow the House Down", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "100"
+                            }, 
+                            "title": "Prelude: Green Acres Theme", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "ec94e007-b569-415e-b296-53fd88efd55c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "234", 
+                                "playcount": "696"
+                            }, 
+                            "title": "Take a Look at Yourself", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "35b44af9-bc48-4bdb-92b9-cd9e419b70e3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "391", 
+                                "playcount": "1279"
+                            }, 
+                            "title": "Hey Punk", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "4958ab83-d51f-4c87-b32f-04edab1eea17", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "946"
+                            }, 
+                            "title": "Smash the Guitar", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "c6a0c691-a030-42a6-b715-b19e0cd73b2e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "240", 
+                                "playcount": "777"
+                            }, 
+                            "title": "I Scream Sunday", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "a55d1658-2aec-477e-a50a-ce0799d6317b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "646", 
+                                "playcount": "1852"
+                            }, 
+                            "title": "Red River", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "6abef558-4f27-4c75-9dd9-df77a11273de", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "188"
+                            }, 
+                            "title": "Judas Kiss", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "c78a3d62-e613-47aa-98f8-455c9d909a76", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "215", 
+                                "playcount": "643"
+                            }, 
+                            "title": "Cut Your Hair", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "dcc76ceb-5da3-4c34-ba93-e5c162c91d2a", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "300", 
+                                "playcount": "885"
+                            }, 
+                            "title": "Bowl of Wrath", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "1425b0da-197e-463a-bfe3-92effc87965e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "32", 
+                                "playcount": "64"
+                            }, 
+                            "title": "Isaiah", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "b779dd12-7960-485b-acab-17caa302fe0d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "682", 
+                                "playcount": "1865"
+                            }, 
+                            "title": "Let's Be Frank", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "ebd0e403-de28-4a97-bda8-a86b62958105", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "782"
+                            }, 
+                            "title": "Altar Ego", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "013de30b-b49e-431f-b31a-ccebda995c48", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "286", 
+                                "playcount": "725"
+                            }, 
+                            "title": "Swine Flew", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "a70e5c1b-4367-4d39-b788-82a49f3855eb", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "451", 
+                                "playcount": "1405"
+                            }, 
+                            "title": "Godarchy", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "69de160e-24e8-40f3-ad3e-df5dd534184f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "52"
+                            }, 
+                            "title": "Kosher", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "f5a1de38-8b76-4534-b00b-97f6b6910e99", 
+                            "trackNumber": "15", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "201", 
+                                "playcount": "671"
+                            }, 
+                            "title": "Ice Cream Sundae", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "ecda75b7-dfd0-4cd4-b2d1-c4c50a910272", 
+                            "trackNumber": "16", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "680", 
+                                "playcount": "1654"
+                            }, 
+                            "title": "Looney Tune", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "b6212e0b-da4a-4074-88f9-0f4be54c9b0f", 
+                            "trackNumber": "17", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "68", 
+                                "playcount": "196"
+                            }, 
+                            "title": "Rock the Casbah", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "faf4010e-8dae-49c4-b9b6-54a24da2fb74", 
+                            "trackNumber": "18", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "214", 
+                                "playcount": "658"
+                            }, 
+                            "title": "Never Forget the Cross", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "ddba2031-b758-47a9-8422-e37b9232cb43", 
+                            "trackNumber": "19", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "6e5d5973-0ad2-4eb5-a35d-416f14f46d50", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "59", 
+                    "date": "1992", 
+                    "artistName": "One Bad Pig", 
+                    "playcount": "478", 
+                    "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                }
+            ], 
+            "title": "Live: Blow the House Down"
+        }, 
+        {
+            "mbid": "b13e321d-b9df-38b9-b4b1-da53a47d6688", 
+            "releases": [
+                {
+                    "name": "Live at Cornerstone 2000", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Intro & Take a Look at Yourself", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "329e0a97-ee5f-4a7a-a5a3-ef387ab192be", 
+                            "trackNumber": "1", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "259", 
+                                "playcount": "818"
+                            }, 
+                            "title": "See Me Sweat", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "e6aba092-7e15-4dc6-8197-cfd91fd16ecb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "378"
+                            }, 
+                            "title": "Life's a Bomb", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "61fc6b9e-3ed6-4190-b435-b28f8d42dacc", 
+                            "trackNumber": "3", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "243", 
+                                "playcount": "677"
+                            }, 
+                            "title": "Thrash Against Sin", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "5736545a-2fce-45c0-a807-ba4bd5f99736", 
+                            "trackNumber": "4", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "682", 
+                                "playcount": "1865"
+                            }, 
+                            "title": "Let's Be Frank", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "0b6a2bae-9a90-41e0-8221-31bdd48f5c35", 
+                            "trackNumber": "5", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "18"
+                            }, 
+                            "title": "A Surprise From Paul", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "46f963d6-7901-4bcc-a1c5-c1b130e9a704", 
+                            "trackNumber": "6", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "928"
+                            }, 
+                            "title": "Judas' Kiss", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "eea14cc4-0dc5-48bd-af39-390ca9528c70", 
+                            "trackNumber": "7", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "14"
+                            }, 
+                            "title": "Phillip & Paul Confabulate", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "40174a35-493d-46f3-aa6f-4c2eae537a39", 
+                            "trackNumber": "8", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "540", 
+                                "playcount": "1528"
+                            }, 
+                            "title": "People Cry Out", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "5a0010e7-cb27-4502-b2d5-0603889a170e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "646", 
+                                "playcount": "1852"
+                            }, 
+                            "title": "Red River", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "11b31853-5733-4e3a-8c0b-316947fbb9fc", 
+                            "trackNumber": "10", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "937", 
+                                "playcount": "2618"
+                            }, 
+                            "title": "Isaiah 6", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "656e61af-7e43-493f-aff9-0795a019cb13", 
+                            "trackNumber": "11", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "9"
+                            }, 
+                            "title": "Kosher Exhortation", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "4928af25-9de2-4d6b-af45-799f16e10edd", 
+                            "trackNumber": "12", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Are You Ready for More?", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "d2863972-1392-4367-90e5-9a717b5ad2be", 
+                            "trackNumber": "13", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "201", 
+                                "playcount": "671"
+                            }, 
+                            "title": "Ice Cream Sundae", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "9a9c47fb-3433-4a1e-af75-391b0c88c7c5", 
+                            "trackNumber": "14", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Who's in the Band?", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "3854c462-3b5d-4629-8318-e63c7570b6c4", 
+                            "trackNumber": "15", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "680", 
+                                "playcount": "1654"
+                            }, 
+                            "title": "Looney Tune", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "92a40adb-d9d7-499d-b366-4abf6a6da606", 
+                            "trackNumber": "16", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Smash the Guitar & (outro)", 
+                            "artistName": "One Bad Pig", 
+                            "mbid": "aa3f9c74-ea8e-4de4-8a7a-836c2e6dda94", 
+                            "trackNumber": "17", 
+                            "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d4b4e7e0-7176-4c22-b1aa-4f1ac72baf69", 
+                    "packaging": null, 
+                    "listeners": "11", 
+                    "date": "2000", 
+                    "artistName": "One Bad Pig", 
+                    "playcount": "61", 
+                    "artistMBID": "f88dd1a1-8e46-4b89-84af-edeaa479e55a"
+                }
+            ], 
+            "title": "Live at Cornerstone 2000"
+        }
+    ], 
+    "type": "Group"
+}

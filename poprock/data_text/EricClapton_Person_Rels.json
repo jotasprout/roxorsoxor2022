@@ -1,0 +1,63 @@
+{
+    "name": "Eric Clapton",
+    "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "191de76f-a224-445d-b041-54df16d65bf7",
+            "name": "The Yardbirds",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "4756395c-57ed-4a63-afb2-01117f14dff6",
+            "name": "John Mayall & The Bluesbreakers",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+            "name": "Cream",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "53fa91ca-a2b9-463d-b78e-daca9894082a",
+            "name": "Blind Faith",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "abf42300-50a9-4bc1-aa8d-95aa0f104202",
+            "name": "Eric Clapton and the Powerhouse",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d22d23e8-0ad3-4779-a043-0c566d9a2fef",
+            "name": "The Louisiana Gator Boys",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "1d0e964a-2b91-4dd9-8100-a5a184870382",
+            "name": "Delaney & Bonnie",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7bce1896-1716-4da0-baa2-033fa2cc6be1",
+            "name": "T.D.F.",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2155a81a-f0c6-417a-9b16-2f86f98bb8bc",
+            "name": "Derek and the Dominos",
+            "attributes": [
+                "eponymous"
+            ]
+        }
+    ]
+}

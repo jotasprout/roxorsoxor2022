@@ -1,0 +1,807 @@
+{
+    "genres": [
+        "industrial", 
+        "industrial metal", 
+        "industrial rock", 
+        "electronic", 
+        "christian"
+    ], 
+    "taskDuration": {
+        "Task Duration": 18.471214056015015, 
+        "Task End": 1576087553.331412, 
+        "Task Start": 1576087534.860198
+    }, 
+    "stats": {
+        "listeners": "3402", 
+        "playcount": "91021"
+    }, 
+    "name": "Argyle Park", 
+    "mbid": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015", 
+    "birthday": "1994", 
+    "date": "2019-12-11", 
+    "albums": [
+        {
+            "mbid": "ae11ea9f-16c6-32c1-848f-de713988d58b", 
+            "releases": [
+                {
+                    "name": "Misguided", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1198", 
+                                "playcount": "4030"
+                            }, 
+                            "title": "ReFuGe", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "62ed1ddd-4cb8-4ba8-8a3d-dd07e148a99a", 
+                            "trackNumber": "1", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1343", 
+                                "playcount": "4417"
+                            }, 
+                            "title": "HeAdscRew", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "137b2f45-265e-473b-9ea7-dc855748703c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1156", 
+                                "playcount": "4161"
+                            }, 
+                            "title": "agonY", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "4724c9ff-de70-430e-b0fa-5cb2dd05c733", 
+                            "trackNumber": "3", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1077", 
+                                "playcount": "3501"
+                            }, 
+                            "title": "fuTILe", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "c5ac177e-3b78-4bb5-9fc5-3b35e8fdfb55", 
+                            "trackNumber": "4", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1217", 
+                                "playcount": "4239"
+                            }, 
+                            "title": "SCarrEd FoR liFe", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "04eec7ac-2764-4ffb-9b75-6f5950ea8067", 
+                            "trackNumber": "5", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1100", 
+                                "playcount": "3716"
+                            }, 
+                            "title": "A burDens foLLy", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "234acdb9-daa4-4d01-aef9-1ca8ba3c7a34", 
+                            "trackNumber": "6", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "859", 
+                                "playcount": "2973"
+                            }, 
+                            "title": "CirCle", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "d990f9e4-1869-4583-968e-e5624e3c2890", 
+                            "trackNumber": "7", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1038", 
+                                "playcount": "3411"
+                            }, 
+                            "title": "LEave ME aLONe", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "f07331b8-71c0-44a7-88fa-9709728e43d2", 
+                            "trackNumber": "8", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1108", 
+                                "playcount": "3886"
+                            }, 
+                            "title": "VIOLENT", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "4d46948b-e77c-4757-9858-e97c3e56f131", 
+                            "trackNumber": "9", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1030", 
+                                "playcount": "3157"
+                            }, 
+                            "title": "DieseL", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "5ada1a5c-9767-4be0-817e-cc6783ba74dd", 
+                            "trackNumber": "10", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "668", 
+                                "playcount": "2258"
+                            }, 
+                            "title": "GUTTERbOY (iamiam)", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "126361ce-b26a-4957-b91f-cbeeff9c2f86", 
+                            "trackNumber": "11", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "894", 
+                                "playcount": "2492"
+                            }, 
+                            "title": "og", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "31f066ba-86e5-40bd-9b09-e25fe85ee046", 
+                            "trackNumber": "12", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1036", 
+                                "playcount": "3764"
+                            }, 
+                            "title": "MISanthROPE", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "b669ba74-f8af-4574-80b8-e2c6eb1c7516", 
+                            "trackNumber": "13", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "863", 
+                                "playcount": "3761"
+                            }, 
+                            "title": "Skin Shed", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "f2ee2d38-ea2e-492d-947f-659caf75a3ac", 
+                            "trackNumber": "14", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "863", 
+                                "playcount": "3761"
+                            }, 
+                            "title": "Skin Shed", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "5527b0e3-64c9-43d9-a974-a6dcc481ee5e", 
+                            "trackNumber": "15", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "863", 
+                                "playcount": "3761"
+                            }, 
+                            "title": "Skin Shed", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "b8ad2c69-9174-4b20-94ae-698869e174b0", 
+                            "trackNumber": "16", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "963", 
+                                "playcount": "3431"
+                            }, 
+                            "title": "DOOMsayer", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "35d73e18-33ea-4d39-a4ab-9a075f690744", 
+                            "trackNumber": "17", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "753", 
+                                "playcount": "2202"
+                            }, 
+                            "title": "uFFern", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "ad653b29-39e9-48e7-8df9-1beee6a6eff1", 
+                            "trackNumber": "18", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "8d9109d2-c6ee-49f0-98e1-8c5856bc91b0", 
+                            "trackNumber": "19", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "a0c79810-7dd7-4154-827f-daa30868816b", 
+                            "trackNumber": "20", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "717a583e-f715-49a0-935d-d90f776e18d8", 
+                            "trackNumber": "21", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "959ca5db-39ff-4177-8239-e7c0f4e6cdd2", 
+                            "trackNumber": "22", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "c1534001-e327-4c99-8d0d-e504f713043d", 
+                            "trackNumber": "23", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "625ce5be-fd5a-491d-bc69-c561e8bb15f5", 
+                            "trackNumber": "24", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "4b315ec5-c223-4371-8af1-b1df25bd8d48", 
+                            "trackNumber": "25", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "22"
+                            }, 
+                            "title": "[phone conversation]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "3fdcf149-68fb-4fb3-8386-89cb1463303f", 
+                            "trackNumber": "26", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "7b8ba68b-ba97-4196-b27c-4906a3aedadf", 
+                            "trackNumber": "27", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "c533d82a-9f2e-4ae1-affe-81647d12e6a7", 
+                            "trackNumber": "28", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "18"
+                            }, 
+                            "title": "[distorted vocal noise]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "82f5e2b6-e975-4b15-b7da-d09ff1f1ecff", 
+                            "trackNumber": "29", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "ac571431-b448-4644-a230-2b4870c6bdbd", 
+                            "trackNumber": "30", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "59db8490-d9e6-4526-aadb-02a120868010", 
+                            "trackNumber": "31", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "8615ae8c-d891-498c-ae97-ce025ae22be9", 
+                            "trackNumber": "32", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "c5a39e9f-4840-446d-a658-28790137b2fe", 
+                            "trackNumber": "33", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "100"
+                            }, 
+                            "title": "DOOMsayer (reprise)", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "85618d17-3b78-4277-bd43-6a5caf82e683", 
+                            "trackNumber": "34", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "Reissue", 
+                    "mbid": "7a2c754e-0ea2-407d-a874-a3bc58c27e3e", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "1690", 
+                    "date": "1995-03-21", 
+                    "artistName": "Argyle Park", 
+                    "playcount": "45505", 
+                    "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                }, 
+                {
+                    "name": "Misguided", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1198", 
+                                "playcount": "4030"
+                            }, 
+                            "title": "ReFuGe", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "62ed1ddd-4cb8-4ba8-8a3d-dd07e148a99a", 
+                            "trackNumber": "1", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1343", 
+                                "playcount": "4417"
+                            }, 
+                            "title": "HeAdscRew", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "137b2f45-265e-473b-9ea7-dc855748703c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1156", 
+                                "playcount": "4161"
+                            }, 
+                            "title": "agonY", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "4724c9ff-de70-430e-b0fa-5cb2dd05c733", 
+                            "trackNumber": "3", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1077", 
+                                "playcount": "3501"
+                            }, 
+                            "title": "fuTILe", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "c5ac177e-3b78-4bb5-9fc5-3b35e8fdfb55", 
+                            "trackNumber": "4", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1217", 
+                                "playcount": "4239"
+                            }, 
+                            "title": "SCarrEd FoR liFe", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "04eec7ac-2764-4ffb-9b75-6f5950ea8067", 
+                            "trackNumber": "5", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1100", 
+                                "playcount": "3716"
+                            }, 
+                            "title": "A burDens foLLy", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "234acdb9-daa4-4d01-aef9-1ca8ba3c7a34", 
+                            "trackNumber": "6", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "859", 
+                                "playcount": "2973"
+                            }, 
+                            "title": "CirCle", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "d990f9e4-1869-4583-968e-e5624e3c2890", 
+                            "trackNumber": "7", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1038", 
+                                "playcount": "3411"
+                            }, 
+                            "title": "LEave ME aLONe", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "f07331b8-71c0-44a7-88fa-9709728e43d2", 
+                            "trackNumber": "8", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1108", 
+                                "playcount": "3886"
+                            }, 
+                            "title": "VIOLENT", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "4d46948b-e77c-4757-9858-e97c3e56f131", 
+                            "trackNumber": "9", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1030", 
+                                "playcount": "3157"
+                            }, 
+                            "title": "DieseL", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "5ada1a5c-9767-4be0-817e-cc6783ba74dd", 
+                            "trackNumber": "10", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "668", 
+                                "playcount": "2258"
+                            }, 
+                            "title": "GUTTERbOY (iamiam)", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "126361ce-b26a-4957-b91f-cbeeff9c2f86", 
+                            "trackNumber": "11", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "894", 
+                                "playcount": "2492"
+                            }, 
+                            "title": "og", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "31f066ba-86e5-40bd-9b09-e25fe85ee046", 
+                            "trackNumber": "12", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1036", 
+                                "playcount": "3764"
+                            }, 
+                            "title": "MISanthROPE", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "b669ba74-f8af-4574-80b8-e2c6eb1c7516", 
+                            "trackNumber": "13", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "863", 
+                                "playcount": "3761"
+                            }, 
+                            "title": "Skin Shed", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "f2ee2d38-ea2e-492d-947f-659caf75a3ac", 
+                            "trackNumber": "14", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "863", 
+                                "playcount": "3761"
+                            }, 
+                            "title": "Skin Shed", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "5527b0e3-64c9-43d9-a974-a6dcc481ee5e", 
+                            "trackNumber": "15", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "863", 
+                                "playcount": "3761"
+                            }, 
+                            "title": "Skin Shed", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "b8ad2c69-9174-4b20-94ae-698869e174b0", 
+                            "trackNumber": "16", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "963", 
+                                "playcount": "3431"
+                            }, 
+                            "title": "DOOMsayer", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "35d73e18-33ea-4d39-a4ab-9a075f690744", 
+                            "trackNumber": "17", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "753", 
+                                "playcount": "2202"
+                            }, 
+                            "title": "uFFern", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "ad653b29-39e9-48e7-8df9-1beee6a6eff1", 
+                            "trackNumber": "18", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "8d9109d2-c6ee-49f0-98e1-8c5856bc91b0", 
+                            "trackNumber": "19", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "a0c79810-7dd7-4154-827f-daa30868816b", 
+                            "trackNumber": "20", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "717a583e-f715-49a0-935d-d90f776e18d8", 
+                            "trackNumber": "21", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "959ca5db-39ff-4177-8239-e7c0f4e6cdd2", 
+                            "trackNumber": "22", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "c1534001-e327-4c99-8d0d-e504f713043d", 
+                            "trackNumber": "23", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "625ce5be-fd5a-491d-bc69-c561e8bb15f5", 
+                            "trackNumber": "24", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "4b315ec5-c223-4371-8af1-b1df25bd8d48", 
+                            "trackNumber": "25", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "22"
+                            }, 
+                            "title": "[phone conversation]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "3fdcf149-68fb-4fb3-8386-89cb1463303f", 
+                            "trackNumber": "26", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "7b8ba68b-ba97-4196-b27c-4906a3aedadf", 
+                            "trackNumber": "27", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "c533d82a-9f2e-4ae1-affe-81647d12e6a7", 
+                            "trackNumber": "28", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "18"
+                            }, 
+                            "title": "[distorted vocal noise]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "82f5e2b6-e975-4b15-b7da-d09ff1f1ecff", 
+                            "trackNumber": "29", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "ac571431-b448-4644-a230-2b4870c6bdbd", 
+                            "trackNumber": "30", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "59db8490-d9e6-4526-aadb-02a120868010", 
+                            "trackNumber": "31", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "8615ae8c-d891-498c-ae97-ce025ae22be9", 
+                            "trackNumber": "32", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "654"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "c5a39e9f-4840-446d-a658-28790137b2fe", 
+                            "trackNumber": "33", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "100"
+                            }, 
+                            "title": "DOOMsayer (reprise)", 
+                            "artistName": "Argyle Park", 
+                            "mbid": "85618d17-3b78-4277-bd43-6a5caf82e683", 
+                            "trackNumber": "34", 
+                            "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "7a2c754e-0ea2-407d-a874-a3bc58c27e3e", 
+                    "packaging": null, 
+                    "listeners": "1690", 
+                    "date": "2004", 
+                    "artistName": "Argyle Park", 
+                    "playcount": "45505", 
+                    "artistMBID": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015"
+                }
+            ], 
+            "title": "Misguided"
+        }
+    ], 
+    "type": "Group"
+}

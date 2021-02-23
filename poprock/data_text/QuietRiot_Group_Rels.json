@@ -1,0 +1,157 @@
+{
+    "name": "Quiet Riot",
+    "mbid": "5c6acb91-4b9b-4245-b92f-e817295c4ed0",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "d6910b67-a408-41a2-905e-cffd3cd5e816",
+            "name": "Kelly Garni",
+            "attributes": [
+                "bass guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "19dccaac-efa8-413f-9042-28006792e0f2",
+            "name": "Randy Rhoads",
+            "attributes": [
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ca27d3f5-9280-481a-bcce-601926ecfa52",
+            "name": "Drew Forsyth",
+            "attributes": [
+                "drums (drum set)",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1bd46e69-72af-4fae-9c67-c9b83f77e99f",
+            "name": "Kevin DuBrow",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9e5a9e2c-611a-44b8-a42e-981d20f1d303",
+            "name": "Carlos Cavazo",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "80ab11e0-726a-4d41-8b05-6b560be5e004",
+            "name": "Freddy Villano",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b1650ff7-5566-436a-9337-2220a45e8cd5",
+            "name": "Alex Grossi",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "57727779-9d33-40f8-afe5-74e955e845a5",
+            "name": "Tracii Guns",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7f9e6ef8-47ac-4852-9b11-784c38b9aaf0",
+            "name": "Scott Vokoun",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "1d05d377-7bc7-4c0d-86e7-59e665fb0b25",
+            "name": "Jizzy Pearl",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c0e02814-abda-4423-8fe7-7fb05fcbcdda",
+            "name": "James Durbin",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1d05d377-7bc7-4c0d-86e7-59e665fb0b25",
+            "name": "Jizzy Pearl",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f8ff414c-d443-4e7a-a5d0-53f69b5b1fc5",
+            "name": "Frankie Banali",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "136ee722-41d5-41ff-8e91-7dbf8af8c67e",
+            "name": "Gary Van Dyke",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "5948c6fb-a0fe-42cb-9763-9fb8b7fd6e7d",
+            "name": "Bjorn Englen",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "c531e2fd-2f61-4f74-ba1a-2b7a20ccfd1e",
+            "name": "Greg Leon",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "43bf09ec-467e-4934-8d05-b47f955c2848",
+            "name": "Rudy Sarzo",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "8107d1fc-aa10-4ceb-b899-c2a5d39b0d5a",
+            "name": "Paul Shortino",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "25722097-324b-488e-8f57-681046115c42",
+            "name": "Chuck Wright",
+            "attributes": [
+                "bass guitar"
+            ]
+        }
+    ]
+}

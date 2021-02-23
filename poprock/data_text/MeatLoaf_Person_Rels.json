@@ -1,0 +1,15 @@
+{
+    "name": "Meat Loaf",
+    "mbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "dad3fb79-469f-4892-bb39-56d01a9d2485",
+            "name": "Popcorn Blizzard",
+            "attributes": [
+                "lead vocals"
+            ]
+        }
+    ]
+}

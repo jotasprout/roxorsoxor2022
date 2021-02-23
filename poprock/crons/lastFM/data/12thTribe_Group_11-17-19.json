@@ -1,0 +1,591 @@
+{
+    "genres": [
+        "Hip-Hop", 
+        "rap", 
+        "old school", 
+        "christian hip-hop", 
+        "90's"
+    ], 
+    "taskDuration": {
+        "Task Duration": 18.642098903656006, 
+        "Task End": 1573968377.258714, 
+        "Task Start": 1573968358.616615
+    }, 
+    "stats": {
+        "listeners": "386", 
+        "playcount": "2772"
+    }, 
+    "name": "12th Tribe", 
+    "mbid": "d3a40fec-041f-4f8d-85f3-b325e12f92de", 
+    "birthday": null, 
+    "date": "2019-11-17", 
+    "albums": [
+        {
+            "mbid": "ebbd2aec-6faa-328f-a2fb-c692ef620d1f", 
+            "releases": [
+                {
+                    "name": "Knowledge Is The Tree of Life", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "102"
+                            }, 
+                            "title": "Knowledge is the Tree of Life", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "4395c73a-49da-4d88-a481-63960bde00c4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "I C Thinkgs", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "2e708020-ff50-4870-ab0b-91c661ef1fd0", 
+                            "trackNumber": "2", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Jealous Dialect", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "47c16ce7-46ac-4d52-b391-74fa5c378d5e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28", 
+                                "playcount": "84"
+                            }, 
+                            "title": "Break the Ice", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "3dd8a048-940c-407d-bb7d-fe20f320c130", 
+                            "trackNumber": "4", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "57"
+                            }, 
+                            "title": "Peace and Soul", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "6413b8c9-c8a6-4d7d-9dd9-85d6ca809448", 
+                            "trackNumber": "5", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "79"
+                            }, 
+                            "title": "Sitting in a Restaurant", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "48e9428a-0065-47fa-a6b6-65177b77a840", 
+                            "trackNumber": "6", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "50"
+                            }, 
+                            "title": "Freedom", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "36115386-3b70-489b-a1fc-b827b8f652dc", 
+                            "trackNumber": "7", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "111"
+                            }, 
+                            "title": "White Lie", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "6f620417-dfce-46f9-a667-a3beadc011cc", 
+                            "trackNumber": "8", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "59"
+                            }, 
+                            "title": "12th Tribe Reply", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "3a87a2c5-6007-4779-a4b1-14fe445322bd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "47"
+                            }, 
+                            "title": "Just Chillin'", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "1497df02-82a8-4cbc-bac8-827ca67d6755", 
+                            "trackNumber": "10", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "59"
+                            }, 
+                            "title": "God Rules", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "ce58bda0-d7f6-4737-9e7b-033716087be0", 
+                            "trackNumber": "11", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "33"
+                            }, 
+                            "title": "Tempted", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "6f1f1384-ddab-49ec-ab62-28604119f12d", 
+                            "trackNumber": "12", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "33"
+                            }, 
+                            "title": "Wonders of Christ", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "b054198e-6e16-4e02-8fd4-541dd9f6cd54", 
+                            "trackNumber": "13", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "48"
+                            }, 
+                            "title": "Peace to the Deity", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "90720a12-83e9-49e8-8ef7-bc59f720fac8", 
+                            "trackNumber": "14", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "60"
+                            }, 
+                            "title": "Harvest of the 90's", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "cae4768f-d9fe-4ace-8f1f-2cb773e52b65", 
+                            "trackNumber": "15", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "2c07a2a0-d8a0-4da9-8243-87c6eaeeb437", 
+                    "packaging": null, 
+                    "listeners": "64", 
+                    "date": "1991", 
+                    "artistName": "12th Tribe", 
+                    "playcount": "673", 
+                    "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                }
+            ], 
+            "title": "Knowledge is the Tree of Life"
+        }, 
+        {
+            "mbid": "feb3ee46-752f-3a1a-b9e2-7618dfddcf23", 
+            "releases": [
+                {
+                    "name": "Livin' In Babylon", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "13"
+                            }, 
+                            "title": "Apodokimaza - Intro", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "f7d7b4c0-91f0-41b0-bf4a-f06da3f8e79a", 
+                            "trackNumber": "1", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "75"
+                            }, 
+                            "title": "Livin' In Babylon", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "ced6375c-2ec2-4994-bc1c-a499271616c4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "64"
+                            }, 
+                            "title": "Demons In The Attic", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "e957b014-2ab3-46ef-b59c-e2258e970ac0", 
+                            "trackNumber": "3", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "59"
+                            }, 
+                            "title": "A Dream", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "c051208b-8593-4340-92b5-d01e9975024d", 
+                            "trackNumber": "4", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "83"
+                            }, 
+                            "title": "Black Highway", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "37f3c09e-9022-4fc5-9014-2083462496f3", 
+                            "trackNumber": "5", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "63"
+                            }, 
+                            "title": "Stomach Ache", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "6c499f91-fd6d-493f-82b4-0c4fcb8ba18e", 
+                            "trackNumber": "6", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "57"
+                            }, 
+                            "title": "Abhor Evil", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "d99c6d4e-ffb2-46bd-b645-015ee3441eb2", 
+                            "trackNumber": "7", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "43"
+                            }, 
+                            "title": "B.4. The Storm", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "2f099954-6c3f-4e8f-a8f5-91727d1a93eb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "26"
+                            }, 
+                            "title": "Master Master", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "51ac59d5-52d5-41b1-9784-01bf7a9ef78e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "43"
+                            }, 
+                            "title": "Hush", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "c176cf37-563d-43de-a80f-8822470f0f04", 
+                            "trackNumber": "10", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "49"
+                            }, 
+                            "title": "1 Day At A Time", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "54abd2bd-46ad-460f-9be1-2857d518c51b", 
+                            "trackNumber": "11", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "115"
+                            }, 
+                            "title": "Strings Of Sorrow", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "f231946e-352f-42a3-9e13-8d9ecab3066b", 
+                            "trackNumber": "12", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "53"
+                            }, 
+                            "title": "Madness", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "146b4076-c17b-4774-a332-f86ace752cd7", 
+                            "trackNumber": "13", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "52"
+                            }, 
+                            "title": "Curtains", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "5abf50ab-2bb0-4c54-b7f3-0df148a0b28c", 
+                            "trackNumber": "14", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "56"
+                            }, 
+                            "title": "Run Devil Run", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "a7709642-43b4-42cb-b8d7-6a8cc93973c3", 
+                            "trackNumber": "15", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "99077386-7080-4453-8ce8-898ff5f56a9f", 
+                    "packaging": null, 
+                    "listeners": "47", 
+                    "date": "1992", 
+                    "artistName": "12th Tribe", 
+                    "playcount": "639", 
+                    "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                }
+            ], 
+            "title": "Livin' In Babylon"
+        }, 
+        {
+            "mbid": "a19ec257-8c73-3bcf-b716-e80a9fd21fe6", 
+            "releases": [
+                {
+                    "name": "Gritty Funk Rezidue", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "16"
+                            }, 
+                            "title": "Demons", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "733242c5-ce76-4e8f-a396-909ee93e5abb", 
+                            "trackNumber": "1", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "11"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "8687dfd9-d20c-4591-922b-c411deccadf7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Boot", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "73def2a6-fdd1-4a58-b91d-ed836bbd8cf7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Space", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "3b7dbca7-f7bd-4332-a11e-458aae1093ba", 
+                            "trackNumber": "4", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Ghettos", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "36fe129a-6c34-4272-afeb-71899f7b645b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Story", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "56fdecdf-dc2f-4b7a-a5d5-e0a4a788f05a", 
+                            "trackNumber": "6", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Rhyme", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "56953d4f-3148-4858-a4a7-93ac9ede73bb", 
+                            "trackNumber": "7", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Born", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "ef60a970-24c8-423a-9432-e2bc249a9285", 
+                            "trackNumber": "8", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "15"
+                            }, 
+                            "title": "Soldier", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "2aa54db4-c7af-458e-aa1c-60356b610bd0", 
+                            "trackNumber": "9", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Slave", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "acb31fb1-35dc-4975-8571-665fc220db23", 
+                            "trackNumber": "10", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Deep", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "b12ddf38-fb88-4829-bffd-dfc2949406f2", 
+                            "trackNumber": "11", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Lead", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "fc2933b1-e620-498f-b854-937e86de70f5", 
+                            "trackNumber": "12", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Camp", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "5a3da18a-9bee-4040-8152-2ee0d1868375", 
+                            "trackNumber": "13", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "[heart] Song", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "44451047-da45-48c5-a6de-5c460c42501d", 
+                            "trackNumber": "14", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "title": "Slippen", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "59273482-22f4-4be1-bb40-4932794e73d2", 
+                            "trackNumber": "15", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "7", 
+                                "playcount": "11"
+                            }, 
+                            "title": "Dance", 
+                            "artistName": "12th Tribe", 
+                            "mbid": "c95cfe84-23ae-4cec-9892-d277ad8f5097", 
+                            "trackNumber": "16", 
+                            "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9c1e4bac-870e-4161-ae9f-ad00d4b73052", 
+                    "packaging": null, 
+                    "listeners": "11", 
+                    "date": "1996", 
+                    "artistName": "12th Tribe", 
+                    "playcount": "110", 
+                    "artistMBID": "d3a40fec-041f-4f8d-85f3-b325e12f92de"
+                }
+            ], 
+            "title": "Gritty Funk Rezidue"
+        }
+    ], 
+    "type": "Group"
+}

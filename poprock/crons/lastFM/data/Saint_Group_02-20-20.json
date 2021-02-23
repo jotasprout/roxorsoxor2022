@@ -1,0 +1,642 @@
+{
+    "genres": [
+        "heavy metal", 
+        "christian metal", 
+        "white metal", 
+        "hard and heavy", 
+        "hard rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 22.74040985107422, 
+        "Task End": 1582177664.346844, 
+        "Task Start": 1582177641.606434
+    }, 
+    "stats": {
+        "listeners": "21455", 
+        "playcount": "139381"
+    }, 
+    "name": "Saint", 
+    "mbid": "391d85ad-2130-4732-8145-853908013354", 
+    "birthday": "1981", 
+    "date": "2020-02-20", 
+    "albums": [
+        {
+            "mbid": "96786cd5-cc80-325c-b4d3-80b3a68d7947", 
+            "releases": [
+                {
+                    "name": "Time's End", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "478", 
+                                "playcount": "1528"
+                            }, 
+                            "title": "In the Night", 
+                            "artistName": "Saint", 
+                            "mbid": "bed0b540-e4c8-4861-8d63-e8efdccf63e2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "404", 
+                                "playcount": "1235"
+                            }, 
+                            "title": "Island Prisoner", 
+                            "artistName": "Saint", 
+                            "mbid": "8fee1b02-a408-4a48-a254-e5eb50496af1", 
+                            "trackNumber": "2", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "346", 
+                                "playcount": "1114"
+                            }, 
+                            "title": "Space Cruiser", 
+                            "artistName": "Saint", 
+                            "mbid": "aa76ff06-d613-477d-ad61-b2cb595e3205", 
+                            "trackNumber": "3", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "289", 
+                                "playcount": "948"
+                            }, 
+                            "title": "Through You", 
+                            "artistName": "Saint", 
+                            "mbid": "5859ee71-308f-4661-b43c-a0e2c38ffda8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "335", 
+                                "playcount": "944"
+                            }, 
+                            "title": "Time's End", 
+                            "artistName": "Saint", 
+                            "mbid": "2fc0d224-b3c1-4ced-a83e-f84fcf41b1b3", 
+                            "trackNumber": "5", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "254", 
+                                "playcount": "811"
+                            }, 
+                            "title": "Primed and Ready", 
+                            "artistName": "Saint", 
+                            "mbid": "cf0675cb-47f4-4dde-91b1-ad98929497e3", 
+                            "trackNumber": "6", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "211", 
+                                "playcount": "707"
+                            }, 
+                            "title": "Destroyers", 
+                            "artistName": "Saint", 
+                            "mbid": "2b2ef46c-3c75-45fc-b016-9b18b6baa26a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "245", 
+                                "playcount": "801"
+                            }, 
+                            "title": "Phantom of the Galaxy", 
+                            "artistName": "Saint", 
+                            "mbid": "6706f163-7fe6-4795-8a45-269de9042527", 
+                            "trackNumber": "8", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "258", 
+                                "playcount": "838"
+                            }, 
+                            "title": "Steel Killer", 
+                            "artistName": "Saint", 
+                            "mbid": "ecfc3cd7-d0cf-4dc2-b459-3a524a6515b2", 
+                            "trackNumber": "9", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "65cc3b5c-1df0-4068-af44-b35c4aaa8897", 
+                    "packaging": null, 
+                    "listeners": "512", 
+                    "date": "1986", 
+                    "artistName": "Saint", 
+                    "playcount": "6723", 
+                    "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                }
+            ], 
+            "title": "Time's End"
+        }, 
+        {
+            "mbid": "5ad6188d-a620-359c-8179-30e59104a022", 
+            "releases": [
+                {
+                    "name": "Too Late For Living", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "520", 
+                                "playcount": "2039"
+                            }, 
+                            "title": "Too Late For Living", 
+                            "artistName": "Saint", 
+                            "mbid": "c1bc1139-ee78-4ae5-8146-d961e3e1624f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "467", 
+                                "playcount": "1900"
+                            }, 
+                            "title": "Star Pilot", 
+                            "artistName": "Saint", 
+                            "mbid": "b4543fdd-fe8a-46ea-a11a-0d903355e6b2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "388", 
+                                "playcount": "1361"
+                            }, 
+                            "title": "Accuser", 
+                            "artistName": "Saint", 
+                            "mbid": "05212899-e1bf-4cec-bec8-2ad65b32c454", 
+                            "trackNumber": "3", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "373", 
+                                "playcount": "1321"
+                            }, 
+                            "title": "The Rock", 
+                            "artistName": "Saint", 
+                            "mbid": "f1d14259-d62d-4d46-af6b-6ba02e98d822", 
+                            "trackNumber": "4", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "351", 
+                                "playcount": "1400"
+                            }, 
+                            "title": "On The Street", 
+                            "artistName": "Saint", 
+                            "mbid": "1dd0bc8f-f8c3-4658-b397-ec9ec87e618f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "253", 
+                                "playcount": "911"
+                            }, 
+                            "title": "Returning", 
+                            "artistName": "Saint", 
+                            "mbid": "2e2d697e-7f5f-4767-be31-3dae762c7633", 
+                            "trackNumber": "6", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "348", 
+                                "playcount": "1209"
+                            }, 
+                            "title": "The Path", 
+                            "artistName": "Saint", 
+                            "mbid": "fd7ac107-4aea-4b2f-a40a-32ed5b3e97dd", 
+                            "trackNumber": "7", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "322", 
+                                "playcount": "1070"
+                            }, 
+                            "title": "Through The Sky", 
+                            "artistName": "Saint", 
+                            "mbid": "47cc1a1c-89ef-4253-ad6d-26f70e997510", 
+                            "trackNumber": "8", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "294", 
+                                "playcount": "1079"
+                            }, 
+                            "title": "The War Is Over", 
+                            "artistName": "Saint", 
+                            "mbid": "903867d9-ab07-40c8-b84f-05c59a414411", 
+                            "trackNumber": "9", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b3d434a0-9176-45c6-8a9f-af57e1ab905a", 
+                    "packaging": null, 
+                    "listeners": "656", 
+                    "date": "1988", 
+                    "artistName": "Saint", 
+                    "playcount": "9188", 
+                    "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                }
+            ], 
+            "title": "Too Late For Living"
+        }, 
+        {
+            "mbid": "242b2981-87e3-37ed-ad35-a0b6e0eb5751", 
+            "releases": [
+                {
+                    "name": "Crime Scene Earth", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Conquest", 
+                            "artistName": "Saint", 
+                            "mbid": "f9e25ecc-5f00-410d-a3f1-ef269fa21ad4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "228", 
+                                "playcount": "514"
+                            }, 
+                            "title": "Half a Time's Measure", 
+                            "artistName": "Saint", 
+                            "mbid": "c0e6ca45-1fbd-4839-afc5-ff939eb91a7c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "273", 
+                                "playcount": "703"
+                            }, 
+                            "title": "Terror in the Sky", 
+                            "artistName": "Saint", 
+                            "mbid": "5ba289af-e979-4446-9073-8354911e784d", 
+                            "trackNumber": "3", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "481"
+                            }, 
+                            "title": "Everlasting God", 
+                            "artistName": "Saint", 
+                            "mbid": "1ae9a8b3-8079-494d-aaa0-dda25bca69aa", 
+                            "trackNumber": "4", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "231", 
+                                "playcount": "475"
+                            }, 
+                            "title": "Crime Scene Earth", 
+                            "artistName": "Saint", 
+                            "mbid": "36c18852-1893-4a09-a7d8-dafac225057b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "192", 
+                                "playcount": "406"
+                            }, 
+                            "title": "The Judas in Me", 
+                            "artistName": "Saint", 
+                            "mbid": "9c2c9355-62ae-4b37-aaa0-11ec1ab0b6b2", 
+                            "trackNumber": "6", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "178", 
+                                "playcount": "364"
+                            }, 
+                            "title": "Too Many", 
+                            "artistName": "Saint", 
+                            "mbid": "f22320d5-3d23-4789-8e51-fc70891c51f2", 
+                            "trackNumber": "7", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "169", 
+                                "playcount": "371"
+                            }, 
+                            "title": "Invader", 
+                            "artistName": "Saint", 
+                            "mbid": "25a35f45-0bb7-4e31-a3c3-58323a384e6e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "181", 
+                                "playcount": "365"
+                            }, 
+                            "title": "Bended Knee", 
+                            "artistName": "Saint", 
+                            "mbid": "510ea794-0a5a-4eda-9971-db352cc10fae", 
+                            "trackNumber": "9", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "189", 
+                                "playcount": "400"
+                            }, 
+                            "title": "Lost", 
+                            "artistName": "Saint", 
+                            "mbid": "c86a4f32-49a5-4ddc-8299-18b620a6d5d4", 
+                            "trackNumber": "10", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "aab1e7d6-dd8b-45b5-a9bb-860e1809e3a3", 
+                    "packaging": null, 
+                    "listeners": "244", 
+                    "date": "2008-03-11", 
+                    "artistName": "Saint", 
+                    "playcount": "1600", 
+                    "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                }
+            ], 
+            "title": "Crime Scene Earth"
+        }, 
+        {
+            "mbid": "5c9da991-2920-3e7e-8a9d-e136be9b1dc3", 
+            "releases": [
+                {
+                    "name": "In The Battle", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "525"
+                            }, 
+                            "title": "In The Battle", 
+                            "artistName": "Saint", 
+                            "mbid": "28a57fcd-8ae1-49d0-95de-31a891f9b85f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "113", 
+                                "playcount": "372"
+                            }, 
+                            "title": "Star Pilot's Return", 
+                            "artistName": "Saint", 
+                            "mbid": "a9582a47-0581-4174-a341-ab8c19c6e870", 
+                            "trackNumber": "2", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "121", 
+                                "playcount": "404"
+                            }, 
+                            "title": "Here We Are", 
+                            "artistName": "Saint", 
+                            "mbid": "d4b92e7f-f801-49e9-b760-3dc0a1ddd16e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "272"
+                            }, 
+                            "title": "Sacrifice", 
+                            "artistName": "Saint", 
+                            "mbid": "0d75333e-d714-4293-91b5-ccb0b7a0af62", 
+                            "trackNumber": "4", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "232"
+                            }, 
+                            "title": "Holy Rollin'", 
+                            "artistName": "Saint", 
+                            "mbid": "154bba74-a6ac-4346-9d00-471a259f2448", 
+                            "trackNumber": "5", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "424"
+                            }, 
+                            "title": "Riders", 
+                            "artistName": "Saint", 
+                            "mbid": "7ad38877-3021-4d9c-a29c-02ed1443810f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "102", 
+                                "playcount": "257"
+                            }, 
+                            "title": "The Choice", 
+                            "artistName": "Saint", 
+                            "mbid": "06364725-3fd1-476f-ae5c-44688af50faf", 
+                            "trackNumber": "7", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "80", 
+                                "playcount": "210"
+                            }, 
+                            "title": "When", 
+                            "artistName": "Saint", 
+                            "mbid": "3ea4c7d8-a2d2-4340-85e7-5ee2bd9ef80d", 
+                            "trackNumber": "8", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "112"
+                            }, 
+                            "title": "Acid Rain / Armor On", 
+                            "artistName": "Saint", 
+                            "mbid": "587d44cb-8912-4d28-91a1-378c044a0586", 
+                            "trackNumber": "9", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "e504555a-838b-4ae8-8bc9-92b23f567221", 
+                    "packaging": null, 
+                    "listeners": "196", 
+                    "date": "", 
+                    "artistName": "Saint", 
+                    "playcount": "2125", 
+                    "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                }
+            ], 
+            "title": "In The Battle"
+        }, 
+        {
+            "mbid": "63fb0071-c854-3717-b5e8-9789e73c41e5", 
+            "releases": [
+                {
+                    "name": "Warriors Of The Son & The Gentiles Demo", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "187", 
+                                "playcount": "672"
+                            }, 
+                            "title": "Plan II", 
+                            "artistName": "Saint", 
+                            "mbid": "dc2ffbf2-dd4d-4338-8dbc-d9b284f4abb9", 
+                            "trackNumber": "1", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "185", 
+                                "playcount": "615"
+                            }, 
+                            "title": "Legions of the Dead", 
+                            "artistName": "Saint", 
+                            "mbid": "8e732eee-f92f-4709-8c8f-98f8af02953f", 
+                            "trackNumber": "2", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "182", 
+                                "playcount": "604"
+                            }, 
+                            "title": "Abyss", 
+                            "artistName": "Saint", 
+                            "mbid": "0bf910cf-dee8-4bdf-b557-5de623b9ba4b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "181", 
+                                "playcount": "703"
+                            }, 
+                            "title": "Warriors of the Son", 
+                            "artistName": "Saint", 
+                            "mbid": "bdec45ea-9d29-4f0a-88cc-d096d1b39441", 
+                            "trackNumber": "4", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "526"
+                            }, 
+                            "title": "Vicars of Fate", 
+                            "artistName": "Saint", 
+                            "mbid": "6fbd9606-d907-4b4f-a2dc-35cb9f3db458", 
+                            "trackNumber": "5", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "152", 
+                                "playcount": "557"
+                            }, 
+                            "title": "Time's Wasting", 
+                            "artistName": "Saint", 
+                            "mbid": "ad3f0f7a-207f-4479-967f-7119d8d33ee8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "182", 
+                                "playcount": "604"
+                            }, 
+                            "title": "Abyss", 
+                            "artistName": "Saint", 
+                            "mbid": "14686f5c-6aa2-41d2-8b92-e5de9bb7ea6c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "52"
+                            }, 
+                            "title": "Worrying World", 
+                            "artistName": "Saint", 
+                            "mbid": "2fcc3863-235c-4e19-b0f4-ee5f9e03d898", 
+                            "trackNumber": "8", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "52"
+                            }, 
+                            "title": "Self Made Man", 
+                            "artistName": "Saint", 
+                            "mbid": "bd576690-5cc4-43fc-ab9c-ec66f34d2df0", 
+                            "trackNumber": "9", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "346", 
+                                "playcount": "1114"
+                            }, 
+                            "title": "Space Cruiser", 
+                            "artistName": "Saint", 
+                            "mbid": "6075efdd-2a08-4437-8b8a-685b6fe332ef", 
+                            "trackNumber": "10", 
+                            "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "30b864dd-a615-4eaa-8eac-f0d7676a1fb4", 
+                    "packaging": null, 
+                    "listeners": "9", 
+                    "date": "", 
+                    "artistName": "Saint", 
+                    "playcount": "96", 
+                    "artistMBID": "391d85ad-2130-4732-8145-853908013354"
+                }
+            ], 
+            "title": "Warriors of the Son & The Gentiles Demo"
+        }
+    ], 
+    "type": "Group"
+}

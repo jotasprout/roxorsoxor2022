@@ -1,0 +1,29 @@
+{
+    "name": "2Pac",
+    "mbid": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "a3405320-d962-4b6f-bc73-f79bb1d1522f",
+            "name": "Stricktly Dope",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ff6cb06c-a6e5-4ab9-a5ce-fa2095be45b9",
+            "name": "Digital Underground",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "703f9c8c-32c8-482a-900d-a12fd8f20360",
+            "name": "Thug Life",
+            "attributes": [
+                "original"
+            ]
+        }
+    ]
+}

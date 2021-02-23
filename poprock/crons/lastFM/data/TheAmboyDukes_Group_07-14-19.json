@@ -1,0 +1,2975 @@
+{
+    "genres": [
+        "Psychedelic Rock", 
+        "psychedelic", 
+        "60s", 
+        "classic rock", 
+        "Garage Rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 96.31556010246277, 
+        "Task End": 1563078985.957391, 
+        "Task Start": 1563078889.641831
+    }, 
+    "stats": {
+        "listeners": "59525", 
+        "playcount": "346780"
+    }, 
+    "name": "The Amboy Dukes", 
+    "mbid": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5", 
+    "birthday": "1965", 
+    "date": "2019-07-14", 
+    "albums": [
+        {
+            "mbid": "2007a79a-6bf9-35c0-a125-f2d724c21885", 
+            "releases": [
+                {
+                    "name": "Migration", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1041", 
+                                "playcount": "3720"
+                            }, 
+                            "title": "Migration", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8ef818d6-0116-4359-815b-0f837ae1914c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "4259"
+                            }, 
+                            "title": "Prodigal Man", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "01ebfa99-aa97-4b9c-b5f5-137753da93fb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "933", 
+                                "playcount": "2059"
+                            }, 
+                            "title": "For His Namesake", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6a4a6085-9262-44a2-a80e-87d305828962", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "501", 
+                                "playcount": "1283"
+                            }, 
+                            "title": "I\u2019m Not a Juvenile Delinquent", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "54c094f3-54d1-49fe-bb22-08e4e694ba94", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2170"
+                            }, 
+                            "title": "Good Natured Emma", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "bcb1b2fa-4411-454f-b3e7-9389a0c1857c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "820", 
+                                "playcount": "1867"
+                            }, 
+                            "title": "Inside the Outside", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "52c5d766-2aca-4b5c-8e5f-0a372f718556", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "487", 
+                                "playcount": "1122"
+                            }, 
+                            "title": "Shades of Green and Grey", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "1ff2f56d-2112-496d-b275-cad45240eacf", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "567", 
+                                "playcount": "1192"
+                            }, 
+                            "title": "Curb Your Elephant", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4cf0ab75-c7e8-4c5c-9e74-8a726c12a535", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8364", 
+                                "playcount": "17577"
+                            }, 
+                            "title": "Loaded for Bear", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d3fa4095-6c94-4255-b384-ee155618fd8c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "90b4cb05-575b-48a9-bdbc-37896ceae255", 
+                    "packaging": null, 
+                    "listeners": "2599", 
+                    "date": "1968", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "15154", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Migration", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1041", 
+                                "playcount": "3720"
+                            }, 
+                            "title": "Migration", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8ef818d6-0116-4359-815b-0f837ae1914c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "4259"
+                            }, 
+                            "title": "Prodigal Man", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "01ebfa99-aa97-4b9c-b5f5-137753da93fb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "933", 
+                                "playcount": "2059"
+                            }, 
+                            "title": "For His Namesake", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6a4a6085-9262-44a2-a80e-87d305828962", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "501", 
+                                "playcount": "1283"
+                            }, 
+                            "title": "I\u2019m Not a Juvenile Delinquent", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "54c094f3-54d1-49fe-bb22-08e4e694ba94", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2170"
+                            }, 
+                            "title": "Good Natured Emma", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "bcb1b2fa-4411-454f-b3e7-9389a0c1857c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "820", 
+                                "playcount": "1867"
+                            }, 
+                            "title": "Inside the Outside", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "52c5d766-2aca-4b5c-8e5f-0a372f718556", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "487", 
+                                "playcount": "1122"
+                            }, 
+                            "title": "Shades of Green and Grey", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "1ff2f56d-2112-496d-b275-cad45240eacf", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "567", 
+                                "playcount": "1192"
+                            }, 
+                            "title": "Curb Your Elephant", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4cf0ab75-c7e8-4c5c-9e74-8a726c12a535", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8364", 
+                                "playcount": "17577"
+                            }, 
+                            "title": "Loaded for Bear", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d3fa4095-6c94-4255-b384-ee155618fd8c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "90b4cb05-575b-48a9-bdbc-37896ceae255", 
+                    "packaging": null, 
+                    "listeners": "2599", 
+                    "date": "1991", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "15154", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Migration", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1041", 
+                                "playcount": "3720"
+                            }, 
+                            "title": "Migration", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8ef818d6-0116-4359-815b-0f837ae1914c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "4259"
+                            }, 
+                            "title": "Prodigal Man", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "01ebfa99-aa97-4b9c-b5f5-137753da93fb", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "933", 
+                                "playcount": "2059"
+                            }, 
+                            "title": "For His Namesake", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6a4a6085-9262-44a2-a80e-87d305828962", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "501", 
+                                "playcount": "1283"
+                            }, 
+                            "title": "I\u2019m Not a Juvenile Delinquent", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "54c094f3-54d1-49fe-bb22-08e4e694ba94", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2170"
+                            }, 
+                            "title": "Good Natured Emma", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "bcb1b2fa-4411-454f-b3e7-9389a0c1857c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "820", 
+                                "playcount": "1867"
+                            }, 
+                            "title": "Inside the Outside", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "52c5d766-2aca-4b5c-8e5f-0a372f718556", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "487", 
+                                "playcount": "1122"
+                            }, 
+                            "title": "Shades of Green and Grey", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "1ff2f56d-2112-496d-b275-cad45240eacf", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "567", 
+                                "playcount": "1192"
+                            }, 
+                            "title": "Curb Your Elephant", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4cf0ab75-c7e8-4c5c-9e74-8a726c12a535", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8364", 
+                                "playcount": "17577"
+                            }, 
+                            "title": "Loaded for Bear", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d3fa4095-6c94-4255-b384-ee155618fd8c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "KR", 
+                    "disambiguation": "", 
+                    "mbid": "90b4cb05-575b-48a9-bdbc-37896ceae255", 
+                    "packaging": null, 
+                    "listeners": "2599", 
+                    "date": "2001", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "15154", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "Migration"
+        }, 
+        {
+            "mbid": "4594c223-b6ab-3157-a10a-6945067ed80c", 
+            "releases": [
+                {
+                    "name": "Marriage On The Rocks / Rock Bottom", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Marriage (Part 1: Man / Part 2: Womain / Part 3: Music)", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5e5c7ec6-941f-4748-9487-885f7506625f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "20"
+                            }, 
+                            "title": "Breast-Fed Gator (Bait)", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9caf66d2-9f85-47b5-a512-0cf46c1e17e6", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "353", 
+                                "playcount": "714"
+                            }, 
+                            "title": "Get Yer Guns", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "3b108ecc-a979-4727-af37-43c060f2059b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Non-Conformist Wildebeast Man / Today's Lesson (Ladies & Gentlemen)", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "61b09df5-3986-44a9-b6ea-c92622cd2316", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "325", 
+                                "playcount": "678"
+                            }, 
+                            "title": "Children of the Woods", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "63f84f49-0e4b-48ec-a8f8-9f8be7c19778", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "305", 
+                                "playcount": "557"
+                            }, 
+                            "title": "Brain Games of Yesteryear", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "cf28175b-22ba-4059-9c62-0242e7df995d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "The Inexaustible Quest for the Cosmic Cabbage, Parts 1 & 2", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "7c453263-5229-446c-8ce1-282478eedcfd", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "ab12533c-f393-4e68-85f7-ecfad8284d96", 
+                    "packaging": null, 
+                    "listeners": "382", 
+                    "date": "2004", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "2007", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Marriage On The Rocks / Rock Bottom", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Marriage (Part 1: Man / Part 2: Womain / Part 3: Music)", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5e5c7ec6-941f-4748-9487-885f7506625f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "20"
+                            }, 
+                            "title": "Breast-Fed Gator (Bait)", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9caf66d2-9f85-47b5-a512-0cf46c1e17e6", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "353", 
+                                "playcount": "714"
+                            }, 
+                            "title": "Get Yer Guns", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "3b108ecc-a979-4727-af37-43c060f2059b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Non-Conformist Wildebeast Man / Today's Lesson (Ladies & Gentlemen)", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "61b09df5-3986-44a9-b6ea-c92622cd2316", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "325", 
+                                "playcount": "678"
+                            }, 
+                            "title": "Children of the Woods", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "63f84f49-0e4b-48ec-a8f8-9f8be7c19778", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "305", 
+                                "playcount": "557"
+                            }, 
+                            "title": "Brain Games of Yesteryear", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "cf28175b-22ba-4059-9c62-0242e7df995d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "2"
+                            }, 
+                            "title": "The Inexaustible Quest for the Cosmic Cabbage, Parts 1 & 2", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "7c453263-5229-446c-8ce1-282478eedcfd", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ab12533c-f393-4e68-85f7-ecfad8284d96", 
+                    "packaging": null, 
+                    "listeners": "382", 
+                    "date": "1970", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "2007", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "Marriage on the Rocks / Rock Bottom"
+        }, 
+        {
+            "mbid": "4aae8ff2-36d1-3b1f-8854-b841ca6138e9", 
+            "releases": [
+                {
+                    "name": "Loaded for Bear: The Best of Ted Nugent and the Amboy Dukes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "26875", 
+                                "playcount": "94222"
+                            }, 
+                            "title": "Journey to the Center of the Mind", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "aecd5187-825e-4f64-9107-609c93c1cfd4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20863", 
+                                "playcount": "63663"
+                            }, 
+                            "title": "Baby Please Don't Go", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b4c32e3d-8e01-4ec2-a9a8-86502ebcefa1", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1896", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Psalms of Aftermath", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c4fab26a-c5f3-43b8-89a9-60758a9b4ab6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1622", 
+                                "playcount": "3432"
+                            }, 
+                            "title": "Colors", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8756de80-b326-449e-a1af-41ee43475fe2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "586", 
+                                "playcount": "1421"
+                            }, 
+                            "title": "Down on Phillips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "49518663-88ca-4c9a-8c6d-25849d073ff0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "3800"
+                            }, 
+                            "title": "Night Time", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5787aee9-30f5-4bcb-882a-61bee4321ae7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2829", 
+                                "playcount": "6747"
+                            }, 
+                            "title": "Mississippi Murderer", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f8defc2e-19e7-448c-bb95-d2c758c01c2b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2882", 
+                                "playcount": "7140"
+                            }, 
+                            "title": "Scottish Tea", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "75d39819-7fbf-443f-a7f4-397f5b74ea62", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2621", 
+                                "playcount": "6156"
+                            }, 
+                            "title": "Dr. Slingshot", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c3a8c972-8c8d-4193-aa75-3481e47376b7", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "663", 
+                                "playcount": "1537"
+                            }, 
+                            "title": "Flight of the Bird", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "2134c5b3-eab7-4722-8462-f374a1cb9058", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "203", 
+                                "playcount": "510"
+                            }, 
+                            "title": "Why Is a Carrot More Orange Than a Orange", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "dd9a712c-2da6-41a6-a90a-56524b93d7d0", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2246"
+                            }, 
+                            "title": "Saint Philips Friend", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "17d3f636-6507-4399-86bb-a7dd64678c47", 
+                            "trackNumber": "12", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1302", 
+                                "playcount": "3488"
+                            }, 
+                            "title": "You Talk Sunshine, I Breathe Fire", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "efa02ded-1168-4234-b896-12bb6ca7324a", 
+                            "trackNumber": "13", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1041", 
+                                "playcount": "3720"
+                            }, 
+                            "title": "Migration", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5015de19-5e0d-4c3e-b46d-a96a965989ea", 
+                            "trackNumber": "14", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "4259"
+                            }, 
+                            "title": "Prodigal Man", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "a9dfc98d-044f-47b8-a282-a2549e5ffdb8", 
+                            "trackNumber": "15", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2170"
+                            }, 
+                            "title": "Good Natured Emma", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "160bab2e-53af-4625-bf43-f41ba2d2e05f", 
+                            "trackNumber": "16", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "933", 
+                                "playcount": "2059"
+                            }, 
+                            "title": "For His Namesake", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "139c8513-e22e-484d-93b0-9f2cdcad7c77", 
+                            "trackNumber": "17", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8364", 
+                                "playcount": "17577"
+                            }, 
+                            "title": "Loaded for Bear", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "ec17a2ca-112c-48ed-ac86-e46b584cf3f1", 
+                            "trackNumber": "18", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "2405fd4d-5253-423b-9f62-2a76dafd330d", 
+                    "packaging": null, 
+                    "listeners": "290", 
+                    "date": "", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "1003", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "Loaded for Bear: The Best of Ted Nugent and The Amboy Dukes"
+        }, 
+        {
+            "mbid": "54ca29a8-9067-39f5-8184-af525986b656", 
+            "releases": [
+                {
+                    "name": "The Ultimate Collection", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "26875", 
+                                "playcount": "94222"
+                            }, 
+                            "title": "Journey to the Center of the Mind", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "aecd5187-825e-4f64-9107-609c93c1cfd4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1907", 
+                                "playcount": "4978"
+                            }, 
+                            "title": "Flight of the Byrd", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "3cff5f94-483a-4c69-9cfd-5bad931d4da4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20863", 
+                                "playcount": "63663"
+                            }, 
+                            "title": "Baby Please Don\u2019t Go", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d8468aab-a420-47ef-9a04-f72f387655b9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "820", 
+                                "playcount": "1867"
+                            }, 
+                            "title": "Inside the Outside", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "52c5d766-2aca-4b5c-8e5f-0a372f718556", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8364", 
+                                "playcount": "17577"
+                            }, 
+                            "title": "Loaded for Bear", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d3fa4095-6c94-4255-b384-ee155618fd8c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "40", 
+                                "playcount": "82"
+                            }, 
+                            "title": "Down on the Philips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "46b79a19-088e-4c18-9ff8-83dd99cfdf0c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "550", 
+                                "playcount": "1527"
+                            }, 
+                            "title": "Surrender to Your Kings", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "75fc8c56-0e51-4ee8-a231-2995aca41c1b", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "849", 
+                                "playcount": "2048"
+                            }, 
+                            "title": "Gimme Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "bc5c025a-ba0a-42de-ba43-176541d1dfd4", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "933", 
+                                "playcount": "2059"
+                            }, 
+                            "title": "For His Namesake", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d8cbeb25-7bbe-4fe3-b445-d6553a983cff", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2621", 
+                                "playcount": "6156"
+                            }, 
+                            "title": "Dr. Slingshot", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c3a8c972-8c8d-4193-aa75-3481e47376b7", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "3800"
+                            }, 
+                            "title": "Night Time", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5787aee9-30f5-4bcb-882a-61bee4321ae7", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1302", 
+                                "playcount": "3488"
+                            }, 
+                            "title": "You Talk Sunshine, I Breathe Fire", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "efa02ded-1168-4234-b896-12bb6ca7324a", 
+                            "trackNumber": "12", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2882", 
+                                "playcount": "7140"
+                            }, 
+                            "title": "Scottish Tea", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "75d39819-7fbf-443f-a7f4-397f5b74ea62", 
+                            "trackNumber": "13", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2170"
+                            }, 
+                            "title": "Good Natured Emma", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "55630073-ee80-4f0a-a047-3061bba0dc34", 
+                            "trackNumber": "14", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "4259"
+                            }, 
+                            "title": "Prodigal Man", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "bcca0d07-7796-4a1f-8016-6060211415ad", 
+                            "trackNumber": "15", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1510", 
+                                "playcount": "4115"
+                            }, 
+                            "title": "Missionary Mary", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "dfea5188-86e3-4d6b-bb5b-b6e7cdd5fdb0", 
+                            "trackNumber": "16", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2246"
+                            }, 
+                            "title": "Saint Philips Friend", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "dbb95d3a-1253-42e2-b138-1d15563546b8", 
+                            "trackNumber": "17", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "2"
+                            }, 
+                            "title": "I'll Prove I'm Right / Conclusion of Journey", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "1f8742f6-da28-4094-b16c-cf62a5818b82", 
+                            "trackNumber": "18", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f3b5ada9-c542-46a4-aba6-b0c80a16dc5a", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "87", 
+                    "date": "1987", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "590", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "The Ultimate Collection"
+        }, 
+        {
+            "mbid": "7dffbb0a-c65d-3b4d-a3f1-25408b9670cf", 
+            "releases": [
+                {
+                    "name": "Tooth, Fang, & Claw", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "406", 
+                                "playcount": "964"
+                            }, 
+                            "title": "Lady Luck", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d71e6889-a535-4c74-b468-22efdd16d494", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "439", 
+                                "playcount": "934"
+                            }, 
+                            "title": "Living in the Woods", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9d9a0b26-aae2-4069-95f7-0c41aa5927a7", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "194"
+                            }, 
+                            "title": "Hibernation", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6d126644-2cb0-48cf-8cb7-38a54bc3d212", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "766"
+                            }, 
+                            "title": "Free Flight", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "275d7d7b-d7a9-49e2-bcd8-7c48449f3a31", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "390", 
+                                "playcount": "860"
+                            }, 
+                            "title": "Maybelline", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "bceac637-4e91-49e4-b820-b0b98a6fe114", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3737", 
+                                "playcount": "10141"
+                            }, 
+                            "title": "The Great White Buffalo", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "cd74cd49-d205-4bc6-b42c-655988c7ad8f", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "311", 
+                                "playcount": "640"
+                            }, 
+                            "title": "Sasha", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "a147a166-8fbc-4d85-90cb-d00de4e35ca6", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "269", 
+                                "playcount": "615"
+                            }, 
+                            "title": "No Holds Barred", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b7e56866-f454-45bc-8a8b-912e1fb92158", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f7713e8c-401a-4139-96a3-37c7771379ce", 
+                    "packaging": null, 
+                    "listeners": "404", 
+                    "date": "1991-11-05", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "1929", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Tooth, Fang, & Claw", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "406", 
+                                "playcount": "964"
+                            }, 
+                            "title": "Lady Luck", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d71e6889-a535-4c74-b468-22efdd16d494", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "439", 
+                                "playcount": "934"
+                            }, 
+                            "title": "Living in the Woods", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9d9a0b26-aae2-4069-95f7-0c41aa5927a7", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "194"
+                            }, 
+                            "title": "Hibernation", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6d126644-2cb0-48cf-8cb7-38a54bc3d212", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "766"
+                            }, 
+                            "title": "Free Flight", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "275d7d7b-d7a9-49e2-bcd8-7c48449f3a31", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "390", 
+                                "playcount": "860"
+                            }, 
+                            "title": "Maybelline", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "bceac637-4e91-49e4-b820-b0b98a6fe114", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3737", 
+                                "playcount": "10141"
+                            }, 
+                            "title": "The Great White Buffalo", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "cd74cd49-d205-4bc6-b42c-655988c7ad8f", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "311", 
+                                "playcount": "640"
+                            }, 
+                            "title": "Sasha", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "a147a166-8fbc-4d85-90cb-d00de4e35ca6", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "269", 
+                                "playcount": "615"
+                            }, 
+                            "title": "No Holds Barred", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b7e56866-f454-45bc-8a8b-912e1fb92158", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f7713e8c-401a-4139-96a3-37c7771379ce", 
+                    "packaging": null, 
+                    "listeners": "404", 
+                    "date": "1974", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "1929", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "Tooth, Fang & Claw"
+        }, 
+        {
+            "mbid": "9214843f-2e7b-46ce-9f98-e54a13fcb2f7", 
+            "releases": [], 
+            "title": "Decades of Destruction"
+        }, 
+        {
+            "mbid": "b1d56c7b-7698-31f8-a934-0d58ea682993", 
+            "releases": [
+                {
+                    "name": "Historia de la M\u0102\u015fsica Rock - 51", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "460"
+                            }, 
+                            "title": "Survival of the Fittest", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "aacdaa9e-cfca-4005-abca-8abc8d09c209", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "222"
+                            }, 
+                            "title": "Rattle My Snake", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "43515637-b25c-4406-ad60-27c9d392bd24", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "87", 
+                                "playcount": "164"
+                            }, 
+                            "title": "Mr. Jones\u2019 Hanging Party", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f6c2a5b1-4d9d-4324-a31a-5fce78bd41e8", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "114", 
+                                "playcount": "350"
+                            }, 
+                            "title": "Papa\u2019s Will", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6db4829e-aad7-456e-8c56-7f15ede58206", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "102", 
+                                "playcount": "264"
+                            }, 
+                            "title": "Slidin\u2019 On", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "1a5ee5c7-d0a6-4b3a-ab29-fc1fd397691e", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "4259"
+                            }, 
+                            "title": "Prodigal Man", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "fdbeb106-7f6a-4fa9-8a55-b364f2ba9499", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "ES", 
+                    "disambiguation": "", 
+                    "mbid": "41c56ff3-70f6-40de-a4b6-1af1b271ea0a", 
+                    "packaging": null, 
+                    "listeners": "0", 
+                    "date": "1982", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "0", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Survival of the Fittest - Live", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "460"
+                            }, 
+                            "title": "Survival of the Fittest", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "aacdaa9e-cfca-4005-abca-8abc8d09c209", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "222"
+                            }, 
+                            "title": "Rattle My Snake", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "43515637-b25c-4406-ad60-27c9d392bd24", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "87", 
+                                "playcount": "164"
+                            }, 
+                            "title": "Mr. Jones\u2019 Hanging Party", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f6c2a5b1-4d9d-4324-a31a-5fce78bd41e8", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "114", 
+                                "playcount": "350"
+                            }, 
+                            "title": "Papa\u2019s Will", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6db4829e-aad7-456e-8c56-7f15ede58206", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "102", 
+                                "playcount": "264"
+                            }, 
+                            "title": "Slidin\u2019 On", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "1a5ee5c7-d0a6-4b3a-ab29-fc1fd397691e", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1666", 
+                                "playcount": "4259"
+                            }, 
+                            "title": "Prodigal Man", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "fdbeb106-7f6a-4fa9-8a55-b364f2ba9499", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "red text on front cover", 
+                    "mbid": "557a7645-b0df-481e-8743-90dca21e77dc", 
+                    "packaging": null, 
+                    "listeners": "61", 
+                    "date": "1971", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "521", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "Survival of the Fittest \u2013 Live"
+        }, 
+        {
+            "mbid": "b88b86bf-fbf0-3f7b-8ebc-774653be23e7", 
+            "releases": [
+                {
+                    "name": "Journey to the Center of the Mind", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2829", 
+                                "playcount": "6747"
+                            }, 
+                            "title": "Mississippi Murderer", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d861bc41-bf6e-43e9-9670-7a9f63d60fa3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "550", 
+                                "playcount": "1527"
+                            }, 
+                            "title": "Surrender to Your Kings", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6980a79c-4247-48d6-b477-39655d26669e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1907", 
+                                "playcount": "4978"
+                            }, 
+                            "title": "Flight of the Byrd", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f5495309-dc1a-48c9-b34a-f6c84766d92f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2882", 
+                                "playcount": "7140"
+                            }, 
+                            "title": "Scottish Tea", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "eb66de78-640b-4f61-b117-78385b3de9d0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2621", 
+                                "playcount": "6156"
+                            }, 
+                            "title": "Dr. Slingshot", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "01b47596-7230-4aeb-9d3f-5de8aab017d1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26875", 
+                                "playcount": "94222"
+                            }, 
+                            "title": "Journey to the Center of the Mind", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "aecd5187-825e-4f64-9107-609c93c1cfd4", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1373", 
+                                "playcount": "3989"
+                            }, 
+                            "title": "Ivory Castles", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "44c3e61a-dad3-4ab7-a0c2-1002f5effa97", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1216", 
+                                "playcount": "3591"
+                            }, 
+                            "title": "Why is a Carrot More Orange than an Orange", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4b397f15-7724-4de6-bdee-863852f54c56", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1510", 
+                                "playcount": "4115"
+                            }, 
+                            "title": "Missionary Mary", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "316045ea-ce6a-400a-883c-7d3deabd0441", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1195", 
+                                "playcount": "3233"
+                            }, 
+                            "title": "Death is Life", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4a44ca5e-8460-4794-9953-7e08fee19f62", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2246"
+                            }, 
+                            "title": "Saint Philips Friend", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4396c75c-cf86-4a6a-b902-13efdb9dd65d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1173", 
+                                "playcount": "3127"
+                            }, 
+                            "title": "I'll Prove I'm Right", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "699b5bf8-6ebf-4525-801d-6cb0a6c794d5", 
+                            "trackNumber": "12", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1168", 
+                                "playcount": "3037"
+                            }, 
+                            "title": "Conclusion", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "184f387a-1ea2-4f33-82d2-dc53f5c92f14", 
+                            "trackNumber": "13", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "cd6b6cd7-65fb-43b3-8ec1-c2110fcf5fb9", 
+                    "packaging": null, 
+                    "listeners": "13447", 
+                    "date": "1968", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "87278", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Journey to the Center of the Mind", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2829", 
+                                "playcount": "6747"
+                            }, 
+                            "title": "Mississippi Murderer", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d861bc41-bf6e-43e9-9670-7a9f63d60fa3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "550", 
+                                "playcount": "1527"
+                            }, 
+                            "title": "Surrender to Your Kings", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6980a79c-4247-48d6-b477-39655d26669e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1907", 
+                                "playcount": "4978"
+                            }, 
+                            "title": "Flight of the Byrd", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f5495309-dc1a-48c9-b34a-f6c84766d92f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2882", 
+                                "playcount": "7140"
+                            }, 
+                            "title": "Scottish Tea", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "eb66de78-640b-4f61-b117-78385b3de9d0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2621", 
+                                "playcount": "6156"
+                            }, 
+                            "title": "Dr. Slingshot", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "01b47596-7230-4aeb-9d3f-5de8aab017d1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26875", 
+                                "playcount": "94222"
+                            }, 
+                            "title": "Journey to the Center of the Mind", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "aecd5187-825e-4f64-9107-609c93c1cfd4", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1373", 
+                                "playcount": "3989"
+                            }, 
+                            "title": "Ivory Castles", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "44c3e61a-dad3-4ab7-a0c2-1002f5effa97", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1216", 
+                                "playcount": "3591"
+                            }, 
+                            "title": "Why is a Carrot More Orange than an Orange", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4b397f15-7724-4de6-bdee-863852f54c56", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1510", 
+                                "playcount": "4115"
+                            }, 
+                            "title": "Missionary Mary", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "316045ea-ce6a-400a-883c-7d3deabd0441", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1195", 
+                                "playcount": "3233"
+                            }, 
+                            "title": "Death is Life", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4a44ca5e-8460-4794-9953-7e08fee19f62", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2246"
+                            }, 
+                            "title": "Saint Philips Friend", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4396c75c-cf86-4a6a-b902-13efdb9dd65d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1173", 
+                                "playcount": "3127"
+                            }, 
+                            "title": "I'll Prove I'm Right", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "699b5bf8-6ebf-4525-801d-6cb0a6c794d5", 
+                            "trackNumber": "12", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1168", 
+                                "playcount": "3037"
+                            }, 
+                            "title": "Conclusion", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "184f387a-1ea2-4f33-82d2-dc53f5c92f14", 
+                            "trackNumber": "13", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "cd6b6cd7-65fb-43b3-8ec1-c2110fcf5fb9", 
+                    "packaging": null, 
+                    "listeners": "13447", 
+                    "date": "", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "87278", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Journey to the Center of the Mind", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2829", 
+                                "playcount": "6747"
+                            }, 
+                            "title": "Mississippi Murderer", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d861bc41-bf6e-43e9-9670-7a9f63d60fa3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "550", 
+                                "playcount": "1527"
+                            }, 
+                            "title": "Surrender to Your Kings", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6980a79c-4247-48d6-b477-39655d26669e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1907", 
+                                "playcount": "4978"
+                            }, 
+                            "title": "Flight of the Byrd", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f5495309-dc1a-48c9-b34a-f6c84766d92f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2882", 
+                                "playcount": "7140"
+                            }, 
+                            "title": "Scottish Tea", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "eb66de78-640b-4f61-b117-78385b3de9d0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2621", 
+                                "playcount": "6156"
+                            }, 
+                            "title": "Dr. Slingshot", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "01b47596-7230-4aeb-9d3f-5de8aab017d1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26875", 
+                                "playcount": "94222"
+                            }, 
+                            "title": "Journey to the Center of the Mind", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "aecd5187-825e-4f64-9107-609c93c1cfd4", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1373", 
+                                "playcount": "3989"
+                            }, 
+                            "title": "Ivory Castles", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "44c3e61a-dad3-4ab7-a0c2-1002f5effa97", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1216", 
+                                "playcount": "3591"
+                            }, 
+                            "title": "Why is a Carrot More Orange than an Orange", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4b397f15-7724-4de6-bdee-863852f54c56", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1510", 
+                                "playcount": "4115"
+                            }, 
+                            "title": "Missionary Mary", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "316045ea-ce6a-400a-883c-7d3deabd0441", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1195", 
+                                "playcount": "3233"
+                            }, 
+                            "title": "Death is Life", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4a44ca5e-8460-4794-9953-7e08fee19f62", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2246"
+                            }, 
+                            "title": "Saint Philips Friend", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "4396c75c-cf86-4a6a-b902-13efdb9dd65d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1173", 
+                                "playcount": "3127"
+                            }, 
+                            "title": "I'll Prove I'm Right", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "699b5bf8-6ebf-4525-801d-6cb0a6c794d5", 
+                            "trackNumber": "12", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1168", 
+                                "playcount": "3037"
+                            }, 
+                            "title": "Conclusion", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "184f387a-1ea2-4f33-82d2-dc53f5c92f14", 
+                            "trackNumber": "13", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "cd6b6cd7-65fb-43b3-8ec1-c2110fcf5fb9", 
+                    "packaging": null, 
+                    "listeners": "13447", 
+                    "date": "1993-03-16", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "87278", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "Journey to the Center of the Mind"
+        }, 
+        {
+            "mbid": "f07fb5d7-ea40-462f-be9e-dff60cec7c47", 
+            "releases": [
+                {
+                    "name": "The Amboy Dukes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "20863", 
+                                "playcount": "63663"
+                            }, 
+                            "title": "Baby Please Don\u2019t Go", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d8468aab-a420-47ef-9a04-f72f387655b9", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1151", 
+                                "playcount": "3034"
+                            }, 
+                            "title": "I Feel Free", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f7cb51f3-a1b4-46e7-bce0-6e5217fbdf4e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "965", 
+                                "playcount": "2303"
+                            }, 
+                            "title": "Young Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "a251bc0c-820f-41a6-a13a-49f9e5ccaa70", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1896", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Psalms of Aftermath", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "45cda8c8-4f30-4a47-9729-c65ca60f06c7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1622", 
+                                "playcount": "3432"
+                            }, 
+                            "title": "Colors", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8756de80-b326-449e-a1af-41ee43475fe2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1004", 
+                                "playcount": "2865"
+                            }, 
+                            "title": "Let\u2019s Go Get Stoned", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b5fda0d6-48ba-49b8-8c57-1ae03919f45d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "653", 
+                                "playcount": "1752"
+                            }, 
+                            "title": "Down on Philips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "79d12b07-24e7-4b8d-b95b-d0cad7a4c06f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "886", 
+                                "playcount": "2008"
+                            }, 
+                            "title": "The Lovely Lady", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9c6590c7-3335-4ca2-b7aa-a2853a00a666", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "3800"
+                            }, 
+                            "title": "Night Time", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5787aee9-30f5-4bcb-882a-61bee4321ae7", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "1897"
+                            }, 
+                            "title": "It\u2019s Not True", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c18ba8d9-3296-4f97-9390-cfce641fea40", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "849", 
+                                "playcount": "2048"
+                            }, 
+                            "title": "Gimme Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "3c14e794-f9f3-4fe7-a8ad-affaafd92f35", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "KR", 
+                    "disambiguation": "", 
+                    "mbid": "a1dca06d-ee5e-4aeb-a651-854f97e28e50", 
+                    "packaging": null, 
+                    "listeners": "5793", 
+                    "date": "2001", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "37453", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "The Amboy Dukes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "20863", 
+                                "playcount": "63663"
+                            }, 
+                            "title": "Baby Please Don\u2019t Go", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d8468aab-a420-47ef-9a04-f72f387655b9", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1151", 
+                                "playcount": "3034"
+                            }, 
+                            "title": "I Feel Free", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f7cb51f3-a1b4-46e7-bce0-6e5217fbdf4e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "965", 
+                                "playcount": "2303"
+                            }, 
+                            "title": "Young Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "a251bc0c-820f-41a6-a13a-49f9e5ccaa70", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1896", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Psalms of Aftermath", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "45cda8c8-4f30-4a47-9729-c65ca60f06c7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1622", 
+                                "playcount": "3432"
+                            }, 
+                            "title": "Colors", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8756de80-b326-449e-a1af-41ee43475fe2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1004", 
+                                "playcount": "2865"
+                            }, 
+                            "title": "Let\u2019s Go Get Stoned", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b5fda0d6-48ba-49b8-8c57-1ae03919f45d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "653", 
+                                "playcount": "1752"
+                            }, 
+                            "title": "Down on Philips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "79d12b07-24e7-4b8d-b95b-d0cad7a4c06f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "886", 
+                                "playcount": "2008"
+                            }, 
+                            "title": "The Lovely Lady", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9c6590c7-3335-4ca2-b7aa-a2853a00a666", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "3800"
+                            }, 
+                            "title": "Night Time", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5787aee9-30f5-4bcb-882a-61bee4321ae7", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "1897"
+                            }, 
+                            "title": "It\u2019s Not True", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c18ba8d9-3296-4f97-9390-cfce641fea40", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "849", 
+                                "playcount": "2048"
+                            }, 
+                            "title": "Gimme Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "3c14e794-f9f3-4fe7-a8ad-affaafd92f35", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a1dca06d-ee5e-4aeb-a651-854f97e28e50", 
+                    "packaging": null, 
+                    "listeners": "5793", 
+                    "date": "1967-11", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "37453", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "The Amboy Dukes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "20863", 
+                                "playcount": "63663"
+                            }, 
+                            "title": "Baby Please Don\u2019t Go", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d8468aab-a420-47ef-9a04-f72f387655b9", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1151", 
+                                "playcount": "3034"
+                            }, 
+                            "title": "I Feel Free", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f7cb51f3-a1b4-46e7-bce0-6e5217fbdf4e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "965", 
+                                "playcount": "2303"
+                            }, 
+                            "title": "Young Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "a251bc0c-820f-41a6-a13a-49f9e5ccaa70", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1896", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Psalms of Aftermath", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "45cda8c8-4f30-4a47-9729-c65ca60f06c7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1622", 
+                                "playcount": "3432"
+                            }, 
+                            "title": "Colors", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8756de80-b326-449e-a1af-41ee43475fe2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1004", 
+                                "playcount": "2865"
+                            }, 
+                            "title": "Let\u2019s Go Get Stoned", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b5fda0d6-48ba-49b8-8c57-1ae03919f45d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "653", 
+                                "playcount": "1752"
+                            }, 
+                            "title": "Down on Philips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "79d12b07-24e7-4b8d-b95b-d0cad7a4c06f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "886", 
+                                "playcount": "2008"
+                            }, 
+                            "title": "The Lovely Lady", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9c6590c7-3335-4ca2-b7aa-a2853a00a666", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "3800"
+                            }, 
+                            "title": "Night Time", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5787aee9-30f5-4bcb-882a-61bee4321ae7", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "1897"
+                            }, 
+                            "title": "It\u2019s Not True", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c18ba8d9-3296-4f97-9390-cfce641fea40", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "849", 
+                                "playcount": "2048"
+                            }, 
+                            "title": "Gimme Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "3c14e794-f9f3-4fe7-a8ad-affaafd92f35", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a1dca06d-ee5e-4aeb-a651-854f97e28e50", 
+                    "packaging": null, 
+                    "listeners": "5793", 
+                    "date": "2005-05-02", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "37453", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "The Amboy Dukes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "20863", 
+                                "playcount": "63663"
+                            }, 
+                            "title": "Baby Please Don\u2019t Go", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d8468aab-a420-47ef-9a04-f72f387655b9", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1151", 
+                                "playcount": "3034"
+                            }, 
+                            "title": "I Feel Free", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f7cb51f3-a1b4-46e7-bce0-6e5217fbdf4e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "965", 
+                                "playcount": "2303"
+                            }, 
+                            "title": "Young Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "a251bc0c-820f-41a6-a13a-49f9e5ccaa70", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1896", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Psalms of Aftermath", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "45cda8c8-4f30-4a47-9729-c65ca60f06c7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1622", 
+                                "playcount": "3432"
+                            }, 
+                            "title": "Colors", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8756de80-b326-449e-a1af-41ee43475fe2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1004", 
+                                "playcount": "2865"
+                            }, 
+                            "title": "Let\u2019s Go Get Stoned", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b5fda0d6-48ba-49b8-8c57-1ae03919f45d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "653", 
+                                "playcount": "1752"
+                            }, 
+                            "title": "Down on Philips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "79d12b07-24e7-4b8d-b95b-d0cad7a4c06f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "886", 
+                                "playcount": "2008"
+                            }, 
+                            "title": "The Lovely Lady", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9c6590c7-3335-4ca2-b7aa-a2853a00a666", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "3800"
+                            }, 
+                            "title": "Night Time", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5787aee9-30f5-4bcb-882a-61bee4321ae7", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "1897"
+                            }, 
+                            "title": "It\u2019s Not True", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c18ba8d9-3296-4f97-9390-cfce641fea40", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "849", 
+                                "playcount": "2048"
+                            }, 
+                            "title": "Gimme Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "3c14e794-f9f3-4fe7-a8ad-affaafd92f35", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "a1dca06d-ee5e-4aeb-a651-854f97e28e50", 
+                    "packaging": null, 
+                    "listeners": "5793", 
+                    "date": "1992", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "37453", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "The Amboy Dukes", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "20863", 
+                                "playcount": "63663"
+                            }, 
+                            "title": "Baby Please Don\u2019t Go", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "d8468aab-a420-47ef-9a04-f72f387655b9", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1151", 
+                                "playcount": "3034"
+                            }, 
+                            "title": "I Feel Free", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f7cb51f3-a1b4-46e7-bce0-6e5217fbdf4e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "965", 
+                                "playcount": "2303"
+                            }, 
+                            "title": "Young Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "a251bc0c-820f-41a6-a13a-49f9e5ccaa70", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1896", 
+                                "playcount": "4429"
+                            }, 
+                            "title": "Psalms of Aftermath", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "45cda8c8-4f30-4a47-9729-c65ca60f06c7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1622", 
+                                "playcount": "3432"
+                            }, 
+                            "title": "Colors", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "8756de80-b326-449e-a1af-41ee43475fe2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1004", 
+                                "playcount": "2865"
+                            }, 
+                            "title": "Let\u2019s Go Get Stoned", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b5fda0d6-48ba-49b8-8c57-1ae03919f45d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "653", 
+                                "playcount": "1752"
+                            }, 
+                            "title": "Down on Philips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "79d12b07-24e7-4b8d-b95b-d0cad7a4c06f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "886", 
+                                "playcount": "2008"
+                            }, 
+                            "title": "The Lovely Lady", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9c6590c7-3335-4ca2-b7aa-a2853a00a666", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1597", 
+                                "playcount": "3800"
+                            }, 
+                            "title": "Night Time", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5787aee9-30f5-4bcb-882a-61bee4321ae7", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "1897"
+                            }, 
+                            "title": "It\u2019s Not True", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c18ba8d9-3296-4f97-9390-cfce641fea40", 
+                            "trackNumber": "10", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "849", 
+                                "playcount": "2048"
+                            }, 
+                            "title": "Gimme Love", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "3c14e794-f9f3-4fe7-a8ad-affaafd92f35", 
+                            "trackNumber": "11", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "DE", 
+                    "disambiguation": "", 
+                    "mbid": "a1dca06d-ee5e-4aeb-a651-854f97e28e50", 
+                    "packaging": null, 
+                    "listeners": "5793", 
+                    "date": "1991", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "37453", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "The Amboy Dukes"
+        }, 
+        {
+            "mbid": "f44d0a45-91de-40af-b89b-404488a27e47", 
+            "releases": [
+                {
+                    "name": "Call of the wild", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "911", 
+                                "playcount": "2045"
+                            }, 
+                            "title": "Call of the Wild", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "1a38dcce-101b-4c3d-9425-ec1b9098ae33", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "554", 
+                                "playcount": "1046"
+                            }, 
+                            "title": "Sweet Revenge", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "af484b6f-4d8f-471b-b6db-42b90eaec4b0", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "949", 
+                                "playcount": "2297"
+                            }, 
+                            "title": "Pony Express", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "43954b00-f5a8-47f9-82f1-a88464fc1f3d", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "449", 
+                                "playcount": "847"
+                            }, 
+                            "title": "Ain\u2019t It the Truth", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "0e13ecea-d1fe-48c7-aeba-2e9d05833e17", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "588", 
+                                "playcount": "1193"
+                            }, 
+                            "title": "Renegade", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "da453cf7-ed48-4557-8c85-1ba4853318a5", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "424", 
+                                "playcount": "821"
+                            }, 
+                            "title": "Rot Gut", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f72bdd26-3121-4f64-88d2-34537a648e77", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "413", 
+                                "playcount": "877"
+                            }, 
+                            "title": "Below the Belt", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b09dbc28-4e81-46e9-85b7-c023bde605dd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "391", 
+                                "playcount": "693"
+                            }, 
+                            "title": "Cannon Balls", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5dfb0bf8-77ba-429d-96e1-7ebe009699f8", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8ecdb9cf-85d2-4d42-b737-859e8871e407", 
+                    "packaging": null, 
+                    "listeners": "425", 
+                    "date": "1989", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "4199", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Call of the Wild", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "911", 
+                                "playcount": "2045"
+                            }, 
+                            "title": "Call of the Wild", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "1a38dcce-101b-4c3d-9425-ec1b9098ae33", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "554", 
+                                "playcount": "1046"
+                            }, 
+                            "title": "Sweet Revenge", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "af484b6f-4d8f-471b-b6db-42b90eaec4b0", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "949", 
+                                "playcount": "2297"
+                            }, 
+                            "title": "Pony Express", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "43954b00-f5a8-47f9-82f1-a88464fc1f3d", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "449", 
+                                "playcount": "847"
+                            }, 
+                            "title": "Ain\u2019t It the Truth", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "0e13ecea-d1fe-48c7-aeba-2e9d05833e17", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "588", 
+                                "playcount": "1193"
+                            }, 
+                            "title": "Renegade", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "da453cf7-ed48-4557-8c85-1ba4853318a5", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "424", 
+                                "playcount": "821"
+                            }, 
+                            "title": "Rot Gut", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f72bdd26-3121-4f64-88d2-34537a648e77", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "413", 
+                                "playcount": "877"
+                            }, 
+                            "title": "Below the Belt", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b09dbc28-4e81-46e9-85b7-c023bde605dd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "391", 
+                                "playcount": "693"
+                            }, 
+                            "title": "Cannon Balls", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "5dfb0bf8-77ba-429d-96e1-7ebe009699f8", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "e662b7be-d862-4622-943b-5d9ae7723caf", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "1761", 
+                    "date": "1973-07", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "8067", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "Call of the Wild"
+        }, 
+        {
+            "mbid": "f948d54c-990f-42b6-8eb2-cb0ae7da561e", 
+            "releases": [
+                {
+                    "name": "Dr. Slingshot", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1907", 
+                                "playcount": "4978"
+                            }, 
+                            "title": "Flight of the Byrd", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f5495309-dc1a-48c9-b34a-f6c84766d92f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "550", 
+                                "playcount": "1527"
+                            }, 
+                            "title": "Surrender to Your Kings", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6980a79c-4247-48d6-b477-39655d26669e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2621", 
+                                "playcount": "6156"
+                            }, 
+                            "title": "Dr. Slingshot", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6641fb4c-b8e9-4e7b-a5cf-d698cf2f54e9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2882", 
+                                "playcount": "7140"
+                            }, 
+                            "title": "Scottish Tea", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "eb66de78-640b-4f61-b117-78385b3de9d0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "886", 
+                                "playcount": "2008"
+                            }, 
+                            "title": "The Lovely Lady", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9c6590c7-3335-4ca2-b7aa-a2853a00a666", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2829", 
+                                "playcount": "6747"
+                            }, 
+                            "title": "Mississippi Murderer", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f8defc2e-19e7-448c-bb95-d2c758c01c2b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1004", 
+                                "playcount": "2865"
+                            }, 
+                            "title": "Let\u2019s Go Get Stoned", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b5fda0d6-48ba-49b8-8c57-1ae03919f45d", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "653", 
+                                "playcount": "1752"
+                            }, 
+                            "title": "Down on Philips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "79d12b07-24e7-4b8d-b95b-d0cad7a4c06f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "1897"
+                            }, 
+                            "title": "It\u2019s Not True", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c18ba8d9-3296-4f97-9390-cfce641fea40", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "76b525be-60ba-4858-8f31-6a3a7b30e6ec", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "37", 
+                    "date": "1974", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "389", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }, 
+                {
+                    "name": "Dr. Slingshot", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1907", 
+                                "playcount": "4978"
+                            }, 
+                            "title": "Flight of the Byrd", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f5495309-dc1a-48c9-b34a-f6c84766d92f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "550", 
+                                "playcount": "1527"
+                            }, 
+                            "title": "Surrender to Your Kings", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6980a79c-4247-48d6-b477-39655d26669e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2621", 
+                                "playcount": "6156"
+                            }, 
+                            "title": "Dr. Slingshot", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "6641fb4c-b8e9-4e7b-a5cf-d698cf2f54e9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2882", 
+                                "playcount": "7140"
+                            }, 
+                            "title": "Scottish Tea", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "eb66de78-640b-4f61-b117-78385b3de9d0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "886", 
+                                "playcount": "2008"
+                            }, 
+                            "title": "The Lovely Lady", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "9c6590c7-3335-4ca2-b7aa-a2853a00a666", 
+                            "trackNumber": "5", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2829", 
+                                "playcount": "6747"
+                            }, 
+                            "title": "Mississippi Murderer", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "f8defc2e-19e7-448c-bb95-d2c758c01c2b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1004", 
+                                "playcount": "2865"
+                            }, 
+                            "title": "Let\u2019s Go Get Stoned", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "b5fda0d6-48ba-49b8-8c57-1ae03919f45d", 
+                            "trackNumber": "7", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "653", 
+                                "playcount": "1752"
+                            }, 
+                            "title": "Down on Philips Escalator", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "79d12b07-24e7-4b8d-b95b-d0cad7a4c06f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "1897"
+                            }, 
+                            "title": "It\u2019s Not True", 
+                            "artistName": "The Amboy Dukes", 
+                            "mbid": "c18ba8d9-3296-4f97-9390-cfce641fea40", 
+                            "trackNumber": "9", 
+                            "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "76b525be-60ba-4858-8f31-6a3a7b30e6ec", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "37", 
+                    "date": "2002", 
+                    "artistName": "The Amboy Dukes", 
+                    "playcount": "389", 
+                    "artistMBID": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5"
+                }
+            ], 
+            "title": "Dr. Slingshot"
+        }
+    ], 
+    "type": "Group"
+}

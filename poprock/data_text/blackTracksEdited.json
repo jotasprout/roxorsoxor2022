@@ -1,0 +1,327 @@
+{
+    "name": "Black Sabbath",
+    "dataDate": "2019-08-12",
+    "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+    "tracks": [
+        {
+            "albumName": "Tyr",
+            "albumSpotID": "",
+            "albumMBID": "76c9d8e9-1b81-32a6-ae7f-a9c14ca21c93",
+            "albumReleased": "1990",
+            "title": "Anno Mundi (The Vision)",
+            "trackSpotID": "",
+            "trackMBID": "562f2b63-d990-4b89-994a-af8f525c5ca6",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "",
+                "listeners": "59",
+                "playcount": "138"
+            }
+        },
+        {
+            "albumName": "Cross Purposes",
+            "albumSpotID": "",
+            "albumMBID": "5d2e8936-8c36-3ccd-8e8f-916e3b771d49",
+            "albumReleased": "1994-01-26",
+            "title": "I Witness",
+            "trackSpotID": "",
+            "trackMBID": "8e3c0f76-2bf5-4844-bd0f-05fecd47cb37",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "",
+                "listeners": "27998",
+                "playcount": "105862"
+            }
+        },
+        {
+            "albumName": "Dehumanizer",
+            "albumSpotID": "3QCq4xwC3SZp38Y2cBsHdI",
+            "albumMBID": "080d8e28-9861-4b6c-a6b6-52c7b0d84118",
+            "albumReleased": "1992",
+            "title": "Computer God",
+            "trackSpotID": "4ZaEDNUZFE3mJGMeFd9n7P",
+            "trackMBID": "c9331118-ce0a-41a1-b1f6-30235ed61b3e",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "29",
+                "listeners": "50623",
+                "playcount": "212784"
+            }
+        },
+        {
+            "albumName": "Headless Cross",
+            "albumSpotID": "",
+            "albumMBID": "b7ad5ef4-4dd3-4e49-a9e7-e9a298d2f3c3",
+            "albumReleased": "1989",
+            "title": "The Gates of Hell",
+            "trackSpotID": "",
+            "trackMBID": "a725b61d-0762-40ad-bd2c-fca4ab42ac3f",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "",
+                "listeners": "34693",
+                "playcount": "115359"
+            }
+        },
+        {
+            "albumName": "Mob Rules",
+            "albumSpotID": "2iaECLD2YLSEOkSfi7BRaC",
+            "albumMBID": "e0eff36e-d609-49b1-9719-dc0b884991f6",
+            "albumReleased": "1981-11-04",
+            "title": "Turn Up the Night",
+            "trackSpotID": "30rVkfX5VqUXycH0V9q66V",
+            "trackMBID": "2249f42f-b4a9-4fac-b1bd-0d1edcd9c886",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "32",
+                "listeners": "113797",
+                "playcount": "471957"
+            }
+        },
+        {
+            "albumName": "Heaven and Hell",
+            "albumSpotID": "0Dj2B19o99FcJii6aPvMTr",
+            "albumMBID": "8bbe2647-0945-4581-bc33-576e487bd60b",
+            "albumReleased": "1980-04-25",
+            "title": "Neon Knights",
+            "trackSpotID": "5HliE2uVg7pt9hNnfi0pms",
+            "trackMBID": "0e8c9144-bd63-4cd6-9ed8-2d39690c0f87",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "44",
+                "listeners": "187524",
+                "playcount": "1062667"
+            }
+        },
+        {
+            "albumName": "13",
+            "albumSpotID": "5WXL9YjbNd4GIqWc9mZOOq",
+            "albumMBID": "7dbf4b1f-d3e9-47bc-9194-d15b31017bd6",
+            "albumReleased": "2013-06-11",
+            "title": "End of the Beginning",
+            "trackSpotID": "3QbnMRadaXqmlghaglLAit",
+            "trackMBID": "7dfd68dc-2d13-4294-a857-6e7c93c9c9be",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "41",
+                "listeners": "110448",
+                "playcount": "470485"
+            }
+        },
+        {
+            "albumName": "Black Sabbath",
+            "albumSpotID": "2T6jeELx5BqH4GMLObBy10",
+            "albumMBID": "d4d6b8d9-413f-3aa6-9f4b-d51be1eb740c",
+            "albumReleased": "1970-06-01",
+            "title": "Black Sabbath",
+            "trackSpotID": "0xIZPPBfLqQEAj1BLmGrNc",
+            "trackMBID": "533d5cbb-3ec6-4226-994b-844bc2173ac3",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "48",
+                "listeners": "416011",
+                "playcount": "2138167"
+            }
+        },
+        {
+            "albumName": "Vol 4",
+            "albumSpotID": "3iRW4cZOM90lX9Rtc2Qglh",
+            "albumMBID": "257c6df7-26b8-4283-908a-3e625e41cdbe",
+            "albumReleased": "1972",
+            "title": "Wheels of Confusion",
+            "trackSpotID": "0zALOXEZdMLsuFAW8P8PUC",
+            "trackMBID": "594fae3f-23f0-4338-a62c-4bd6141ca878",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "43",
+                "listeners": "66972",
+                "playcount": "303292"
+            }
+        },
+        {
+            "albumName": "Sabotage",
+            "albumSpotID": "2hurj4babJXt1cIxmYFqqo",
+            "albumMBID": "024e45a1-ea0f-4f31-8f06-f0c4fa1e403b",
+            "albumReleased": "1975",
+            "title": "Hole in the Sky",
+            "trackSpotID": "0nZo81fP0160JSlseejfX6",
+            "trackMBID": "6f97b6f6-c17d-4757-94b0-5c0e4798e3f7",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "42",
+                "listeners": "185996",
+                "playcount": "850559"
+            }
+        },
+        {
+            "albumName": "Seventh Star",
+            "albumSpotID": "557z9zU5A2g5jhZBiu8obi",
+            "albumMBID": "cdf74e55-0a63-42f6-bf96-26360ccb51d2",
+            "albumReleased": "1986-08",
+            "title": "In for the Kill",
+            "trackSpotID": "4JbQ5sFm5iPxP6jkRol74p",
+            "trackMBID": "dcda9f76-0161-4091-8902-a5c17b3010c5",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "21",
+                "listeners": "30687",
+                "playcount": "98559"
+            }
+        },
+        {
+            "albumName": "Paranoid",
+            "albumSpotID": "132qAo1cDiEJdA3fv4xyNK",
+            "albumMBID": "2982b682-36ea-3605-b959-04e746736070",
+            "albumReleased": "1970",
+            "title": "War Pigs / Luke\u2019s Wall",
+            "trackSpotID": "2rd9ETlulTbz6BYZcdvIE1",
+            "trackMBID": "6db17e6e-94d8-4794-9364-c761ad667fb1",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "65",
+                "listeners": "612539",
+                "playcount": "3324368"
+            }
+        },
+        {
+            "albumName": "Forbidden",
+            "albumSpotID": "",
+            "albumMBID": "e5ac81ac-8a7d-4100-8f61-d11257cf32dd",
+            "albumReleased": "1995-06-07",
+            "title": "The Illusion of Power",
+            "trackSpotID": "",
+            "trackMBID": "c1dba569-7ba5-4648-9210-50597e5c1a37",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "",
+                "listeners": "23365",
+                "playcount": "72758"
+            }
+        },
+        {
+            "albumName": "Sabbath Bloody Sabbath",
+            "albumSpotID": "6vKZWeBFGy7phxXP727tOa",
+            "albumMBID": "734f7ad8-4e20-435e-a27b-c3b7e0ff3e35",
+            "albumReleased": "1973",
+            "title": "Sabbath Bloody Sabbath",
+            "trackSpotID": "2bku1YWarHpKlxVC2FB9dH",
+            "trackMBID": "0228afad-4f8d-4502-95da-3288347f67e1",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "52",
+                "listeners": "366422",
+                "playcount": "1869017"
+            }
+        },
+        {
+            "albumName": "Technical Ecstasy",
+            "albumSpotID": "6KSQLHjRof63DtaUu55SMm",
+            "albumMBID": "59f1630b-5f96-4e0e-8f37-cdc78e6589e7",
+            "albumReleased": "1976-09",
+            "title": "Back Street Kids",
+            "trackSpotID": "4sBQfk8gr2hhX93zpULTQM",
+            "trackMBID": "57397dfa-172f-40d4-be9e-6177a8f36e00",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "31",
+                "listeners": "67223",
+                "playcount": "240900"
+            }
+        },
+        {
+            "albumName": "Born Again",
+            "albumSpotID": "0nfG16SkgyQ3bQwZyfzwzP",
+            "albumMBID": "52c37691-e97e-3959-98c8-8b9a533eaeda",
+            "albumReleased": "1983-08",
+            "title": "Trashed",
+            "trackSpotID": "2foi8JM7yt5iuwWckMhIqa",
+            "trackMBID": "e8455369-35a9-4872-8439-72b8fe19d428",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "26",
+                "listeners": "48590",
+                "playcount": "174438"
+            }
+        },
+        {
+            "albumName": "Master of Reality",
+            "albumSpotID": "3kBG6q0aXKxzn01wKTwZr5",
+            "albumMBID": "8325eb91-017f-30fa-89d5-bcf461ef5ceb",
+            "albumReleased": "1971",
+            "title": "Sweet Leaf",
+            "trackSpotID": "2FZ0yrA5aPClG5ZPBlV7n4",
+            "trackMBID": "700219b2-78a7-44ec-813a-a070dd988aff",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "55",
+                "listeners": "398571",
+                "playcount": "2036013"
+            }
+        },
+        {
+            "albumName": "Never Say Die!",
+            "albumSpotID": "35He10lZFJROpQBT16z54R",
+            "albumMBID": "56e16e65-a1fe-39d9-8c97-d41241a80d3d",
+            "albumReleased": "1978-09-28",
+            "title": "Never Say Die",
+            "trackSpotID": "0w24uOUM9O7Jli66Mx5RIf",
+            "trackMBID": "4bad78ec-2f45-43fd-892e-311798774d58",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "41",
+                "listeners": "179494",
+                "playcount": "773644"
+            }
+        },
+        {
+            "albumName": "The Eternal Idol",
+            "albumSpotID": "",
+            "albumMBID": "1ea64406-acb2-37ce-a652-b2d7b71f11b8",
+            "albumReleased": "1987-11-01",
+            "title": "The Shining",
+            "trackSpotID": "3Hp0IZDhPcC14byUYAcv35",
+            "trackMBID": "2d1d177c-3955-4a1d-91a6-40d8420cd1d9",
+            "trackNumber": "1",
+            "artist": "Black Sabbath",
+            "stats": {
+                "popularity": "24",
+                "listeners": "36715",
+                "playcount": "149919"
+            }
+        },
+        {
+            "albumName": "The Devil You Know",
+            "albumSpotID": "3JmPp3x81f3Be5e3GIFbmq",
+            "albumMBID": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3",
+            "albumReleased": "2009-05-12",
+            "title": "Atom and Evil",
+            "trackSpotID": "7xKJ0Lrukkx6BsvR0BXxTa",
+            "trackMBID": "0a039f0b-e0ab-403b-b770-ee9b9b1d9e33",
+            "trackNumber": "1",
+            "artist": "Heaven & Hell",
+            "stats": {
+                "popularity": "20",
+                "listeners": "40166",
+                "playcount": "180081"
+            }
+        }      
+    ]
+}

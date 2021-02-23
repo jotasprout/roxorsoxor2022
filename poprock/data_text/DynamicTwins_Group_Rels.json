@@ -1,0 +1,19 @@
+{
+    "name": "Dynamic Twins",
+    "mbid": "43065953-0174-46c4-bb93-828fb170b95b",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "e44ffb79-9dca-4024-b8a9-9d503ffaec98",
+            "name": "Noel Arthurton",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "b79e0693-4ced-4e3f-a644-f6ec87e32a3c",
+            "name": "Robby Arthurton",
+            "attributes": []
+        }
+    ]
+}

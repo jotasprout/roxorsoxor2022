@@ -1,0 +1,117 @@
+{
+    "name": "The Cure",
+    "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "2b2a7e94-fdc6-4c2e-859c-441faa4089cd",
+            "name": "Porl Thompson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7d1a1624-784b-4f89-8ff9-b9b493cd059d",
+            "name": "Robert Smith",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e1fcd5e6-99e8-43f5-badc-4001cd299872",
+            "name": "Michael Dempsey",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d7557f83-02a4-47c4-b48e-ac9d49f9c92c",
+            "name": "Laurence Tolhurst",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "b0bfc991-701a-4a08-a384-8af91aa53c16",
+            "name": "Matthieu Hartley",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "48555d10-ded8-4172-a737-33bffc0125d5",
+            "name": "Simon Gallup",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "9d09af2f-8fd6-4e5f-af0d-d8cc9e27eb7a",
+            "name": "Andy Anderson",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d14c1df9-3ab0-42af-b487-3c1b10c31a40",
+            "name": "Clifford Leon Anderson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7bab9275-c661-4b9b-b1fe-4ed9fd8cffe6",
+            "name": "Phil Thornalley",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2b2a7e94-fdc6-4c2e-859c-441faa4089cd",
+            "name": "Porl Thompson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e8c7f193-0db6-4175-a469-ebce1c340429",
+            "name": "Boris Williams",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "48555d10-ded8-4172-a737-33bffc0125d5",
+            "name": "Simon Gallup",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "23ac4aa8-5af1-4890-b7b9-2c6553b75de3",
+            "name": "Roger O\u2019Donnell",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6202014c-9c05-45a4-a23f-21d27abcb0df",
+            "name": "Perry Bamonte",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "23ac4aa8-5af1-4890-b7b9-2c6553b75de3",
+            "name": "Roger O\u2019Donnell",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e83e045f-2191-4ccd-b8ba-7d93852b6f9b",
+            "name": "Jason Cooper",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2b2a7e94-fdc6-4c2e-859c-441faa4089cd",
+            "name": "Porl Thompson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "23ac4aa8-5af1-4890-b7b9-2c6553b75de3",
+            "name": "Roger O\u2019Donnell",
+            "attributes": []
+        }
+    ]
+}

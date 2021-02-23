@@ -1,0 +1,108 @@
+{
+    "genres": [], 
+    "taskDuration": {
+        "Task Duration": 7.227200984954834, 
+        "Task End": 1581397494.448601, 
+        "Task Start": 1581397487.2214
+    }, 
+    "stats": {
+        "listeners": "83", 
+        "playcount": "159"
+    }, 
+    "name": "Ronnie Dio and the Red Caps", 
+    "mbid": "883871a1-f154-4df8-a7f7-558ea456dd0a", 
+    "birthday": "1958", 
+    "date": "2020-02-11", 
+    "albums": [
+        {
+            "mbid": "b25cff85-df41-336b-ba16-e71dd6e82e83", 
+            "releases": [
+                {
+                    "name": "Conquest", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Conquest", 
+                            "artistName": "Ronnie Dio and the Red Caps", 
+                            "mbid": "30f71bcb-852b-4fc6-a9cb-9e2e2722b72d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "883871a1-f154-4df8-a7f7-558ea456dd0a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Lover", 
+                            "artistName": "Ronnie Dio and the Red Caps", 
+                            "mbid": "52fc8ad2-e78d-4805-8c9a-069723ca4141", 
+                            "trackNumber": "2", 
+                            "artistMBID": "883871a1-f154-4df8-a7f7-558ea456dd0a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "bded0bf1-bb45-4e5e-b327-64bedf0102b6", 
+                    "packaging": null, 
+                    "listeners": "1", 
+                    "date": "1958", 
+                    "artistName": "Ronnie Dio and the Red Caps", 
+                    "playcount": "2", 
+                    "artistMBID": "883871a1-f154-4df8-a7f7-558ea456dd0a"
+                }
+            ], 
+            "title": "Conquest"
+        }, 
+        {
+            "mbid": "f335fb28-9af3-46b1-8dd7-7ad22f35f09f", 
+            "releases": [], 
+            "title": "Lover"
+        }, 
+        {
+            "mbid": "83117edd-557e-324a-a619-373f4e0eb451", 
+            "releases": [
+                {
+                    "name": "An Angel Is Missing", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "114"
+                            }, 
+                            "title": "An Angel Is Missing", 
+                            "artistName": "Ronnie Dio and the Red Caps", 
+                            "mbid": "c7114b3e-41c6-4f3c-bb3e-3de87823a51f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "883871a1-f154-4df8-a7f7-558ea456dd0a"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "10"
+                            }, 
+                            "title": "What'd I Say", 
+                            "artistName": "Ronnie Dio and the Red Caps", 
+                            "mbid": "b8b9a9f4-0eb7-4ef2-8918-f3fdd1df78b4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "883871a1-f154-4df8-a7f7-558ea456dd0a"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "452478d7-0a6b-4ee0-8daf-ddd98722517e", 
+                    "packaging": null, 
+                    "listeners": "24", 
+                    "date": "1960", 
+                    "artistName": "Ronnie Dio and the Red Caps", 
+                    "playcount": "31", 
+                    "artistMBID": "883871a1-f154-4df8-a7f7-558ea456dd0a"
+                }
+            ], 
+            "title": "An Angel Is Missing"
+        }
+    ], 
+    "type": "Group"
+}

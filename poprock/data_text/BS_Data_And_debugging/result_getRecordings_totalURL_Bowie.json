@@ -1,0 +1,682 @@
+{
+    "releases": [{
+        "title": "Love You Till Tuesday",
+        "packaging-id": null,
+        "date": "1967-07-14",
+        "barcode": "",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "id": "0472323b-c058-4c91-b961-fdbed27c3e0f",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "quality": "normal",
+        "release-events": [{
+            "date": "1967-07-14",
+            "area": {
+                "name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["GB"]
+            }
+        }],
+        "country": "GB",
+        "disambiguation": "",
+        "status": "Official",
+        "packaging": null
+    }, {
+        "quality": "normal",
+        "text-representation": {
+            "language": "mul",
+            "script": "Latn"
+        },
+        "id": "28b3f643-2164-4b53-9fde-d51d6647f5c0",
+        "barcode": "",
+        "date": "1970",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "title": "Ragazzo Solo, Ragazza Sola (versione italiana di “Space Oddity”)",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "disambiguation": "",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "release-events": [{
+            "date": "1970",
+            "area": {
+                "iso-3166-1-codes": ["IT"],
+                "disambiguation": "",
+                "sort-name": "Italy",
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy"
+            }
+        }],
+        "country": "IT"
+    }, {
+        "id": "3f3153b3-d3fb-47c9-8dc7-16d7c65afdb4",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "quality": "normal",
+        "packaging-id": null,
+        "title": "Bombers / Eight Line Poem (alternate version)",
+        "barcode": null,
+        "date": "1971-11",
+        "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+        "packaging": null,
+        "status": "Promotion",
+        "disambiguation": "",
+        "country": "US",
+        "release-events": [{
+            "area": {
+                "name": "United States",
+                "iso-3166-1-codes": ["US"],
+                "disambiguation": "",
+                "sort-name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98"
+            },
+            "date": "1971-11"
+        }]
+    }, {
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": "Cardboard/Paper Sleeve",
+        "release-events": [{
+            "area": {
+                "iso-3166-1-codes": ["GB"],
+                "disambiguation": "",
+                "sort-name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom"
+            },
+            "date": "1971-12-17"
+        }],
+        "country": "GB",
+        "id": "4800c809-f22f-4aee-8533-d3fb5884ac5f",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "quality": "normal",
+        "title": "Hunky Dory",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "date": "1971-12-17",
+        "barcode": null,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    }, {
+        "release-events": [{
+            "area": {
+                "name": "United States",
+                "disambiguation": "",
+                "sort-name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "iso-3166-1-codes": ["US"]
+            },
+            "date": "1969"
+        }],
+        "country": "US",
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": "Cardboard/Paper Sleeve",
+        "title": "Man of Words/Man of Music",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "barcode": null,
+        "date": "1969",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "id": "63027a5d-8b94-4a6b-a3bb-cd5d55134214",
+        "quality": "normal",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        }
+    }, {
+        "packaging": null,
+        "status": "Official",
+        "disambiguation": "",
+        "country": "US",
+        "release-events": [{
+            "area": {
+                "name": "United States",
+                "iso-3166-1-codes": ["US"],
+                "sort-name": "United States",
+                "disambiguation": "",
+                "id": "489ce91b-6658-3307-9877-795b68554c98"
+            },
+            "date": "1967-08"
+        }],
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "quality": "normal",
+        "id": "63fb3f61-ae89-4a19-8c7d-1f288af9bd5e",
+        "date": "1967-08",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": null,
+        "title": "David Bowie",
+        "packaging-id": null
+    }, {
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "date": "1966-04",
+        "barcode": null,
+        "title": "Do Anything You Say / Good Morning Girl",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "quality": "normal",
+        "id": "698f92bb-db14-46dc-ac05-303ab6c97fcb",
+        "country": "GB",
+        "release-events": [{
+            "date": "1966-04",
+            "area": {
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "iso-3166-1-codes": ["GB"]
+            }
+        }],
+        "packaging": "Cardboard/Paper Sleeve",
+        "disambiguation": "",
+        "status": "Official"
+    }, {
+        "packaging": "Cardboard/Paper Sleeve",
+        "disambiguation": "",
+        "status": "Official",
+        "country": "US",
+        "release-events": [{
+            "date": "1971-12",
+            "area": {
+                "iso-3166-1-codes": ["US"],
+                "disambiguation": "",
+                "sort-name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States"
+            }
+        }],
+        "quality": "normal",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "id": "71b6f97a-cd7e-3537-9118-1a3cd633f465",
+        "barcode": "",
+        "date": "1971-12",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "title": "Hunky Dory",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f"
+    }, {
+        "title": "Space Oddity",
+        "packaging-id": null,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "date": "1969-11-14",
+        "barcode": null,
+        "id": "73170779-d53e-48ba-ab75-d39aed125c8a",
+        "text-representation": {
+            "language": null,
+            "script": null
+        },
+        "quality": "normal",
+        "release-events": [{
+            "area": {
+                "disambiguation": "",
+                "sort-name": "[Worldwide]",
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "iso-3166-1-codes": ["XW"],
+                "name": "[Worldwide]"
+            },
+            "date": "1969-11-14"
+        }],
+        "country": "XW",
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": null
+    }, {
+        "barcode": "",
+        "date": "1969-11-04",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "title": "David Bowie",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "quality": "normal",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "id": "767ee61d-6395-4ba9-bf79-ab0bf6701669",
+        "release-events": [{
+            "date": "1969-11-04",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["GB"],
+                "name": "United Kingdom"
+            }
+        }],
+        "country": "GB",
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": "Cardboard/Paper Sleeve"
+    }, {
+        "title": "The World of David Bowie",
+        "packaging-id": null,
+        "barcode": null,
+        "date": "1970",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "id": "7ae8fe60-6bae-4749-b09f-903e9c59b498",
+        "quality": "normal",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "release-events": [{
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "disambiguation": "",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": ["GB"],
+                "name": "United Kingdom"
+            },
+            "date": "1970"
+        }],
+        "country": "GB",
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": null
+    }, {
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "quality": "normal",
+        "id": "8784de2f-5754-3bcf-8b2a-35d327ef74a1",
+        "barcode": "",
+        "date": "1970-11-04",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "title": "The Man Who Sold the World",
+        "packaging": "Cardboard/Paper Sleeve",
+        "disambiguation": "",
+        "status": "Official",
+        "country": "US",
+        "release-events": [{
+            "date": "1970-11-04",
+            "area": {
+                "name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "disambiguation": "",
+                "sort-name": "United States",
+                "iso-3166-1-codes": ["US"]
+            }
+        }]
+    }, {
+        "disambiguation": "",
+        "status": "Official",
+        "packaging": null,
+        "release-events": [{
+            "date": "1970-06",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["GB"],
+                "name": "United Kingdom"
+            }
+        }],
+        "country": "GB",
+        "id": "9a4d868a-88cd-4be5-b0c8-a18c769ddabd",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "quality": "normal",
+        "packaging-id": null,
+        "title": "Memory of a Free Festival",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "date": "1970-06",
+        "barcode": null
+    }, {
+        "title": "David Bowie",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "date": "1967-06",
+        "barcode": "",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "id": "9d6d8272-55fd-4b7b-a71e-4d9df6ee8f00",
+        "quality": "normal",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "release-events": [{
+            "area": {
+                "name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["GB"]
+            },
+            "date": "1967-06"
+        }],
+        "country": "GB",
+        "disambiguation": "stereo",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve"
+    }, {
+        "country": "GB",
+        "release-events": [{
+            "date": "1971",
+            "area": {
+                "disambiguation": "",
+                "sort-name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "iso-3166-1-codes": ["GB"],
+                "name": "United Kingdom"
+            }
+        }],
+        "packaging": "Cardboard/Paper Sleeve",
+        "disambiguation": "BOWPROMO1",
+        "status": "Bootleg",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "title": "Sampler",
+        "barcode": "",
+        "date": "1971",
+        "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+        "id": "9e81f78f-76c8-4ed1-b097-c43dcdbaa2ca",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "quality": "normal"
+    }, {
+        "title": "The Laughing Gnome",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "date": "1967-04-14",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": "",
+        "id": "a0c4bd61-88ad-3b41-8c14-63d820bb2b26",
+        "quality": "normal",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "country": "GB",
+        "release-events": [{
+            "area": {
+                "name": "United Kingdom",
+                "iso-3166-1-codes": ["GB"],
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "disambiguation": "",
+                "sort-name": "United Kingdom"
+            },
+            "date": "1967-04-14"
+        }],
+        "packaging": "Cardboard/Paper Sleeve",
+        "disambiguation": "inverted label matrix",
+        "status": "Official"
+    }, {
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": null,
+        "release-events": [{
+            "area": null,
+            "date": "1967"
+        }],
+        "country": null,
+        "id": "a3165409-a230-4032-90d8-c8f0f18100ab",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "quality": "normal",
+        "title": "Everything Is You / Social Girl",
+        "packaging-id": null,
+        "barcode": null,
+        "date": "1967",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    }, {
+        "country": "GB",
+        "release-events": [{
+            "date": "1971-04",
+            "area": {
+                "name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["GB"]
+            }
+        }],
+        "packaging": null,
+        "disambiguation": "",
+        "status": "Official",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": null,
+        "date": "1971-04",
+        "title": "The Man Who Sold the World",
+        "packaging-id": null,
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "quality": "normal",
+        "id": "a755977c-6265-4db1-9100-50e71b5ffa73"
+    }, {
+        "packaging": "Cardboard/Paper Sleeve",
+        "status": "Official",
+        "disambiguation": "mono",
+        "country": "GB",
+        "release-events": [{
+            "area": {
+                "disambiguation": "",
+                "sort-name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "iso-3166-1-codes": ["GB"],
+                "name": "United Kingdom"
+            },
+            "date": "1970-03-06"
+        }],
+        "quality": "normal",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "id": "ba3a73bc-ad40-40c0-a8f6-16abdfc2fafd",
+        "date": "1970-03-06",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": null,
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "title": "The Prettiest Star"
+    }, {
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "date": "1966-08",
+        "barcode": null,
+        "title": "I Dig Everything / I’m Not Losing Sleep",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "quality": "normal",
+        "id": "bf43fa2f-19ba-4977-bf08-733768b189c2",
+        "release-events": [{
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["GB"],
+                "name": "United Kingdom"
+            },
+            "date": "1966-08"
+        }],
+        "country": "GB",
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": "Cardboard/Paper Sleeve"
+    }, {
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "date": "1969",
+        "barcode": "",
+        "title": "Space Oddity",
+        "packaging-id": null,
+        "quality": "normal",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "id": "dfd16992-b348-4cc9-9bdb-6c41ce423de7",
+        "release-events": [{
+            "area": {
+                "name": "United States",
+                "iso-3166-1-codes": ["US"],
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "disambiguation": "",
+                "sort-name": "United States"
+            },
+            "date": "1969"
+        }],
+        "country": "US",
+        "disambiguation": "",
+        "status": "Official",
+        "packaging": null
+    }, {
+        "release-events": [{
+            "date": "1965-08-20",
+            "area": {
+                "name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["GB"]
+            }
+        }],
+        "country": "GB",
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": "Cardboard/Paper Sleeve",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "title": "You’ve Got a Habit of Leaving",
+        "barcode": "",
+        "date": "1965-08-20",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "id": "ef69e184-ac10-48a1-b2d5-bcdca2ac1694",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "quality": "normal"
+    }, {
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "date": "1967-06",
+        "barcode": "",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "title": "David Bowie",
+        "quality": "normal",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "id": "f4678eec-fabf-42a3-bcc5-99d2e243bc11",
+        "country": "GB",
+        "release-events": [{
+            "area": {
+                "name": "United Kingdom",
+                "iso-3166-1-codes": ["GB"],
+                "sort-name": "United Kingdom",
+                "disambiguation": "",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+            },
+            "date": "1967-06"
+        }],
+        "packaging": "Cardboard/Paper Sleeve",
+        "status": "Official",
+        "disambiguation": "mono"
+    }, {
+        "release-events": [{
+            "area": {
+                "name": "United Kingdom",
+                "iso-3166-1-codes": ["GB"],
+                "disambiguation": "",
+                "sort-name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+            },
+            "date": "1966-12-02"
+        }],
+        "country": "GB",
+        "disambiguation": "",
+        "status": "Official",
+        "packaging": null,
+        "title": "Rubber Band",
+        "packaging-id": null,
+        "barcode": null,
+        "date": "1966-12-02",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "id": "fe3c49a4-3087-42ad-bab4-9f6d8ce06880",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "quality": "normal"
+    }, {
+        "quality": "normal",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "id": "fec0da1b-b23f-3a96-9e86-e1fcc3d7c827",
+        "date": "1971-12",
+        "barcode": null,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "title": "Hunky Dory",
+        "packaging-id": null,
+        "status": "Official",
+        "disambiguation": "",
+        "packaging": null,
+        "release-events": [{
+            "date": "1971-12",
+            "area": {
+                "iso-3166-1-codes": ["NZ"],
+                "sort-name": "New Zealand",
+                "disambiguation": "",
+                "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+                "name": "New Zealand"
+            }
+        }],
+        "country": "NZ"
+    }],
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "area": {
+        "sort-name": "United Kingdom",
+        "disambiguation": "",
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "iso-3166-1-codes": ["GB"],
+        "name": "United Kingdom"
+    },
+    "name": "David Bowie",
+    "end_area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "disambiguation": "",
+        "sort-name": "New York",
+        "name": "New York"
+    },
+    "ipis": ["00003960406", "00015471209"],
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "isnis": ["0000000114448576"],
+    "begin_area": {
+        "disambiguation": "",
+        "sort-name": "Brixton",
+        "id": "61941444-5a83-43e2-ba48-4db7438e0f26",
+        "name": "Brixton"
+    },
+    "type": "Person",
+    "disambiguation": "",
+    "country": "GB",
+    "sort-name": "Bowie, David",
+    "life-span": {
+        "ended": true,
+        "end": "2016-01-10",
+        "begin": "1947-01-08"
+    },
+    "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+    "gender": "Male"
+}

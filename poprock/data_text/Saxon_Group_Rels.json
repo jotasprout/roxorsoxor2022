@@ -1,0 +1,97 @@
+{
+    "name": "Saxon",
+    "mbid": "bbd80354-597e-4d53-94e4-92b3a7cb8f2c",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "509257a9-c5b0-43ff-b097-372d609d5515",
+            "name": "Biff Byford",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "fe051ca9-4ec9-4aeb-bc90-6266496ef8f3",
+            "name": "Pete Gill",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e904ba83-6432-40d3-9921-005eeb596b1c",
+            "name": "Steve Dawson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "71a38c03-2bfc-4dda-be85-8ba4966ad603",
+            "name": "Graham Oliver",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "b4c7eade-40ed-40ac-b76d-1aebc34af7b5",
+            "name": "Paul Quinn",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "78c24641-296e-4bf5-ad07-cea767a4edf1",
+            "name": "Nigel Glockler",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0ae3aaf5-5f65-49b4-8aca-fe7a76108f09",
+            "name": "Paul Johnson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "4d57d2ea-6e0a-4228-b301-f464baf99e9f",
+            "name": "Nigel Durham",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "78c24641-296e-4bf5-ad07-cea767a4edf1",
+            "name": "Nigel Glockler",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "50471685-b5b3-4686-b16a-60ad1c13c4a3",
+            "name": "Nibbs Carter",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "bc032a6b-c612-4145-affd-682d78b8db11",
+            "name": "Doug Scarratt",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "c031cd73-4411-4034-a23a-4652d40093b4",
+            "name": "Fritz Randow",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "12c62fd5-dfbb-4355-883e-d4a448473358",
+            "name": "J\u00f6rg Michael",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "78c24641-296e-4bf5-ad07-cea767a4edf1",
+            "name": "Nigel Glockler",
+            "attributes": [
+                "membranophone"
+            ]
+        }
+    ]
+}

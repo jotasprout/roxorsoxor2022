@@ -1,0 +1,68 @@
+{
+    "name": "Queen",
+    "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "8d1a38a7-7e7b-4673-ad32-b4833f88842f",
+            "name": "Mike Grose",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ad040bd7-b175-4c3a-ab93-d27f4d541235",
+            "name": "Barry Mitchell",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "022589ac-7177-460d-a178-9976cf70e29f",
+            "name": "Freddie Mercury",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6d24f102-5c43-453a-8664-4ee092f441cf",
+            "name": "Brian May",
+            "attributes": [
+                "background vocals",
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+            "name": "Roger Taylor",
+            "attributes": [
+                "background vocals",
+                "membranophone",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "8201ee6e-a7d8-4e10-aebd-60699d7e91cf",
+            "name": "Doug Bogie",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+            "name": "John Deacon",
+            "attributes": [
+                "bass guitar"
+            ]
+        }
+    ]
+}

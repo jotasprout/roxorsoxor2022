@@ -1,0 +1,57 @@
+{
+    "name": "Heaven & Hell",
+    "mbid": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "78692212-af57-402a-a291-3938ca356500",
+            "name": "Glenn Hughes",
+            "attributes": [
+                "additional",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "23138027-4a06-4383-8414-d5839ee2d227",
+            "name": "J\u00f8rn Lande",
+            "attributes": [
+                "additional",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40d1ad2f-e190-4d1e-9f9b-ba88144ac017",
+            "name": "Vinny Appice",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "123814ce-f7f7-44c9-b84d-0088b1e230a4",
+            "name": "Geezer Butler",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+            "name": "Ronnie James Dio",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e5fa0175-2e93-4ca7-90c3-33f239381252",
+            "name": "Tony Iommi",
+            "attributes": [
+                "original"
+            ]
+        }
+    ]
+}

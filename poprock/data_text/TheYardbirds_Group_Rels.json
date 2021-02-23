@@ -1,0 +1,73 @@
+{
+    "name": "The Yardbirds",
+    "mbid": "191de76f-a224-445d-b041-54df16d65bf7",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "a0114721-2910-4fc0-80c4-68b5969ae0a3",
+            "name": "Paul Samwell-Smith",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "97cc1c6b-d6e2-4fb8-875c-78da893773d1",
+            "name": "Chris Dreja",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "ba900218-68b3-434d-8552-989d8441bba3",
+            "name": "Jim McCarty",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "eb50ad40-3f3e-4a8a-8c59-924079a98d28",
+            "name": "Top Topham",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+            "name": "Eric Clapton",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17",
+            "name": "Jeff Beck",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "519774a4-3b18-4042-b8c0-927845a616c9",
+            "name": "Jimmy Page",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "4de2a9e9-81f2-4482-98a9-85b95981741e",
+            "name": "John Idan",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "4de2a9e9-81f2-4482-98a9-85b95981741e",
+            "name": "John Idan",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "226e9083-fe45-4588-acbd-ad5df3ec9e59",
+            "name": "Alan Glen",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d87650ec-2dc4-49a1-846d-9f76f7970f82",
+            "name": "Keith Relf",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Ronnie Dio and the Prophets",
+    "mbid": "9f6c4063-ce0a-4b71-a7b7-a32c91997260",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "5d0d95ac-171a-4a2e-8747-d53a3066d0b3",
+            "name": "Ronnie Dio",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+            "name": "Ronnie James Dio",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6d4cade7-2769-4d54-ba81-3f875f0bcd8c",
+            "name": "Gary Driscoll",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "9743778e-7d66-4797-af68-72efb67ae615",
+            "name": "David \"Rock\" Feinstein",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "715dc0e8-046b-4cd8-9d3a-dad4ffceed3b",
+            "name": "Nick Pantas",
+            "attributes": []
+        }
+    ]
+}

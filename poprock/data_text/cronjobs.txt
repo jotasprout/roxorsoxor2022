@@ -1,0 +1,1 @@
+cd /home/roxorsox/public_html/poprock/crons; php -q cron_artists_01.php

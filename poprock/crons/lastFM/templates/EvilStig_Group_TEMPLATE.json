@@ -1,0 +1,18 @@
+{
+    "genres": [
+        "punk", 
+        "punk rock", 
+        "gits live", 
+        "rock", 
+        "female vocalists"
+    ], 
+    "stats": {
+        "listeners": "", 
+        "playcount": ""
+    }, 
+    "name": "Evil Stig", 
+    "mbid": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+    "birthday": "1995", 
+    "albums": [], 
+    "type": "Group"
+}

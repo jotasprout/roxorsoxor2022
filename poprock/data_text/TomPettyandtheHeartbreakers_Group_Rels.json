@@ -1,0 +1,72 @@
+{
+    "name": "Tom Petty and the Heartbreakers",
+    "mbid": "f93dbc64-6f08-4033-bcc7-8a0bb4689849",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "9df17bdb-891b-4b4d-83de-b366f31ea73f",
+            "name": "Ron Blair",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f89f56cd-9fd0-4b47-8ba1-c31cb1860be4",
+            "name": "Stan Lynch",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "37ed89f2-c1e4-4836-8f68-190014a48034",
+            "name": "Mike Campbell",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "5ca3f318-d028-4151-ac73-78e2b2d6cdcc",
+            "name": "Tom Petty",
+            "attributes": [
+                "eponymous",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a15face4-36a4-472a-992a-45eaeb285eb0",
+            "name": "Benmont Tench",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bf1a5f71-c97e-4745-a08e-85890832aaf0",
+            "name": "Howie Epstein",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e1e18c08-bd7f-458f-bbe1-4cc4b371619a",
+            "name": "Scott Thurston",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a550d8b5-fca6-480a-acba-2ea18aec7981",
+            "name": "Steve Ferrone",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "9df17bdb-891b-4b4d-83de-b366f31ea73f",
+            "name": "Ron Blair",
+            "attributes": []
+        }
+    ]
+}

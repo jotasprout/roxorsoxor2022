@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>My FCC treeMap Layout Chart</title>
+		<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+		<style type="text/css">
+			.tile {
+                /*
+                fill: blue;
+                */
+                stroke: white;
+                opacity: 0.5;
+            }		
+            .tile:hover {
+                /*
+                fill: violet;
+                */
+                stroke: white;
+                opacity: 0.5;
+            }
+            #tooltip {
+                position: absolute;
+                background-color: yellow;
+                padding: 10px;
+                pointer-events: none;
+                height: auto;
+            }
+            #tooltip.hidden {
+                display: none;
+            }
+            #tooltip p {
+                font-family: sans-serif;
+                font-size: 16px;
+                margin: 0;
+            }
+            #title {
+                font-size: 24px;
+                font-weight: bold;
+                fill: rgb(0, 0, 0);
+            }
+            #description {
+                font-size: 18px;
+                font-weight: bold;
+                fill: rgb(0, 0, 0);
+            }
+            .foreignText {
+                text-overflow: ellipsis;
+                word-wrap: break-word;
+            }
+            .foreignLabel {
+                overflow: hidden;
+                margin: 2px;
+            }
+            .legend {
+                font-size: 18px;
+            }
+            .legend-item {
+                font-size: 12px;
+            }
+		</style>
+	</head>
+
+<body>
+
+<div id="tooltip" class="hidden">
+    <p id="tipName"></p>
+    <p id="tipCategory"></p>
+    <p id="tipValue"></p>
+</div>
+
+<script type="text/javascript">
+const datafile = 'FCC/data/movie-data.json';
+const w = 1500;
+const h = 1500;
+margin = {
+    top: 50,
+    right: 50,
+    bottom: 150,
+    left: 50
+};
+const svg = d3.select("body")
+              .append("svg")
+              .attr("width", w)
+              .attr("height", h)
+              .append("g");
+d3.json(datafile, function (dataset) {
+    const color = d3.scaleOrdinal(d3.schemeCategory20);
+    console.log(dataset);
+    const treemapLayout = d3.treemap();
+    treemapLayout
+        .size([w - margin.right - margin.left, h - margin.top - margin.bottom])
+        .paddingOuter(30);
+    const root = d3.hierarchy (dataset);
+    console.log(root);
+    root.sum(function(d){
+        return d.value;
+    });    
+    treemapLayout(root);
+    const nodes = d3.select('svg g')
+      .selectAll('g')
+      .data(root.descendants())
+      .enter()
+      .append('g')
+      .attr('transform', (d) => ('translate(' + [d.x0, (d.y0 + margin.top)] + ')'));
+    nodes
+      .append('rect')
+         .attr("class", "tile")
+         .attr("fill", (d) => {
+             while (d.depth > 1) d = d.parent; 
+             return color (d.data.name);
+         })
+         .attr("data-name", (d) => (d.name))
+         .attr("data-category", (d) => (d.category))
+         .attr("data-value", (d) => (d.value))
+         .attr('width', (d) => (d.x1 - d.x0))
+         .attr('height', (d) => (d.y1 - d.y0));
+
+    nodes
+         .append("foreignObject")
+         .attr("class", "foreignText")
+         .attr("width", (d) => (d.x1 - d.x0))
+         .attr("height", (d) => (d.y1 - d.y0))
+         .append("xhtml:div")
+         .attr("class", "foreignLabel")
+         .attr("width", (d) => (d.x1 - d.x0))
+         .attr("height", (d) => (d.y1 - d.y0))
+         .text((d) => (d.data.name));
+
+    /*
+    nodes
+         .append("text")
+         .text((d) => (d.data.name))
+         .attr("dx", 10)
+         .attr("dy", 20);
+      // after confirming it all works, try refactoring next as ES6
+    */
+
+    nodes.on("mouseover", function(d) {
+          const xPos = w / 2;
+          const yPos = h / 2;
+          const tipValue = d.value;
+          const tipName = d.data.name;
+          const tipCategory = d.data.category;
+          console.log(tipName);
+          d3.select("#tooltip")
+            .style("left", xPos + "px")
+            .style("top", yPos + "px")
+            .attr("data-value", tipValue);
+          d3.select("#tipValue")
+            .text(tipValue);
+          d3.select("#tipName")
+            .text(tipName);
+          d3.select("#tipCategory")
+            .text(tipCategory);            
+          d3.select("#tooltip").classed("hidden", false);
+      })
+      .on("mouseout", function(){
+          d3.select("#tooltip").classed("hidden", true);
+      });
+/**/
+    const title = "Movie Data";
+    svg.append("text")
+       .style("text-anchor", "middle")
+       .attr("id", "title")
+       .attr("x", w/2)
+       .attr("y", 20)
+       .text(`${title}`);
+    const description = "For Movie Nerds";
+    svg.append("text")
+       .style("text-anchor", "middle")
+       .attr("id", "description")
+       .attr("x", w/2)
+       .attr("y", 40)
+       .text(`${description}`);
+    const legend = svg.append("g")
+                      .attr("id", "legend")
+                      .attr("transform", "translate(" + [margin.left , (h - margin.bottom + 20)] + ")");
+    legend.selectAll("rect")
+          .data(root.children)
+          .enter()
+          .append("rect")
+          .attr("class", "legend-item")
+          .attr("x", (d,i) => i * 100)
+          .attr("width", 30)
+          .attr("height", 30)
+          .style("fill", (d) => color (d.data.name));
+    legend.selectAll("text")
+          .data(root.children)
+          .enter()
+          .append("text")
+          .style("text-anchor", "middle")
+          .attr("x", (d,i) => i * 100 + 15)
+          .attr("y", 50)
+          .text(d => d.data.name);
+});
+</script>
+</body>
+</html>

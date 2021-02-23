@@ -1,0 +1,15 @@
+{
+    "name": "Suzi Quatro",
+    "mbid": "2c16cb3f-e85f-4158-889f-ffc038f5792d",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "91b62937-a4eb-4033-b5c3-dfde59517799",
+            "name": "QSP",
+            "attributes": [
+                "bass guitar"
+            ]
+        }
+    ]
+}

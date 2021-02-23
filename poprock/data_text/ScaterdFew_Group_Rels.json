@@ -1,0 +1,33 @@
+{
+    "name": "Scaterd Few",
+    "mbid": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "b1c89a15-3a8b-4b6f-b8ea-c7b66fb6444c",
+            "name": "Allan Aguirre",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "3b9190fe-f87a-45a9-ac0c-f30cd83f4a72",
+            "name": "Sam West",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "958bb6d2-0012-41ca-90ae-93cc3d7a69a4",
+            "name": "Jamie Mitchell",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7a929fb3-b7cd-4bb9-bd29-f1c92d407662",
+            "name": "Drew Domkus",
+            "attributes": [
+                "additional"
+            ]
+        }
+    ]
+}

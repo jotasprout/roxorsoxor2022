@@ -1,0 +1,901 @@
+{
+    "genres": [
+        "industrial", 
+        "industrial metal", 
+        "electronic", 
+        "industrial rock", 
+        "christian"
+    ], 
+    "taskDuration": {
+        "Task Duration": 30.692726135253906, 
+        "Task End": 1570424202.506828, 
+        "Task Start": 1570424171.814102
+    }, 
+    "stats": {
+        "listeners": "23894", 
+        "playcount": "552437"
+    }, 
+    "name": "Circle of Dust", 
+    "mbid": "9b39533c-4432-4055-811b-6773e0c6c3a5", 
+    "birthday": "1988", 
+    "date": "2019-10-07", 
+    "albums": [
+        {
+            "mbid": "082dfd7e-b6fd-3d2a-8a5d-46248a99f827", 
+            "releases": [
+                {
+                    "name": "Disengage", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2615", 
+                                "playcount": "14304"
+                            }, 
+                            "title": "Waste of Time", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "d6fc486a-daad-4b62-ba7c-33857ebf376f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2408", 
+                                "playcount": "13553"
+                            }, 
+                            "title": "Refractor", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "a6107b6c-20e8-4cb2-b92e-0a3346eca345", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1962", 
+                                "playcount": "9598"
+                            }, 
+                            "title": "Yurasuka", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "7ffd5ddc-a903-4e35-a858-329b71cf31ce", 
+                            "trackNumber": "3", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1884", 
+                                "playcount": "7020"
+                            }, 
+                            "title": "Babylon", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "642e1c90-edae-4600-b5b4-8c4409997361", 
+                            "trackNumber": "4", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2563", 
+                                "playcount": "16086"
+                            }, 
+                            "title": "Chasm", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "b2202204-77c4-46f5-a1f1-199d8753a707", 
+                            "trackNumber": "5", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1669", 
+                                "playcount": "6267"
+                            }, 
+                            "title": "Thulcandra", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "409ec236-c338-4e43-a3e8-cad612ee0590", 
+                            "trackNumber": "6", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1723", 
+                                "playcount": "6993"
+                            }, 
+                            "title": "Blindeye", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "6798511b-afcd-4398-9e65-0dcff4eccba7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2045", 
+                                "playcount": "10687"
+                            }, 
+                            "title": "Mesmerized", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "907259ca-5177-49ab-8f85-c7987b73a30f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1623", 
+                                "playcount": "6415"
+                            }, 
+                            "title": "Perelandra", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "de8d7ddb-91ad-49e8-8718-1c13649d0a12", 
+                            "trackNumber": "9", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1392", 
+                                "playcount": "4860"
+                            }, 
+                            "title": "You Are Fragile", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "c0d01fa2-7438-4308-bd8f-6cbe034644ee", 
+                            "trackNumber": "10", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1271", 
+                                "playcount": "5595"
+                            }, 
+                            "title": "Chasm (version 2.1.0)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "f542441e-4177-4238-ac59-562bc08ce707", 
+                            "trackNumber": "11", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1257", 
+                                "playcount": "6424"
+                            }, 
+                            "title": "Refractor (version 3.2.1)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "fe014c9f-8129-40cb-85be-2953082ccdf7", 
+                            "trackNumber": "12", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1019", 
+                                "playcount": "3505"
+                            }, 
+                            "title": "Levler 1 (Easier to Hate)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "1516f5ea-ac04-4b7d-813f-c4fba2bc25be", 
+                            "trackNumber": "13", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1497", 
+                                "playcount": "6223"
+                            }, 
+                            "title": "Hate Opened Wide", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "f18c41d7-6023-4f86-97ff-a44c4e121c91", 
+                            "trackNumber": "14", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1012", 
+                                "playcount": "3675"
+                            }, 
+                            "title": "Levler 2 (Alone to Die)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "77607775-e517-43c2-921d-c40ee9a75493", 
+                            "trackNumber": "15", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1003", 
+                                "playcount": "3457"
+                            }, 
+                            "title": "Deadly Love (Censored version)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "5cee8907-41a8-4690-9c96-dcc7e5badeba", 
+                            "trackNumber": "16", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "92bfedce-1a4d-341e-bf73-1e669b988514", 
+                    "packaging": null, 
+                    "listeners": "3201", 
+                    "date": "1998", 
+                    "artistName": "Circle of Dust", 
+                    "playcount": "94587", 
+                    "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                }, 
+                {
+                    "name": "Disengage", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2615", 
+                                "playcount": "14304"
+                            }, 
+                            "title": "Waste of Time", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "d6fc486a-daad-4b62-ba7c-33857ebf376f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2408", 
+                                "playcount": "13553"
+                            }, 
+                            "title": "Refractor", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "a6107b6c-20e8-4cb2-b92e-0a3346eca345", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1962", 
+                                "playcount": "9598"
+                            }, 
+                            "title": "Yurasuka", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "7ffd5ddc-a903-4e35-a858-329b71cf31ce", 
+                            "trackNumber": "3", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1884", 
+                                "playcount": "7020"
+                            }, 
+                            "title": "Babylon", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "642e1c90-edae-4600-b5b4-8c4409997361", 
+                            "trackNumber": "4", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2563", 
+                                "playcount": "16086"
+                            }, 
+                            "title": "Chasm", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "b2202204-77c4-46f5-a1f1-199d8753a707", 
+                            "trackNumber": "5", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1669", 
+                                "playcount": "6267"
+                            }, 
+                            "title": "Thulcandra", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "409ec236-c338-4e43-a3e8-cad612ee0590", 
+                            "trackNumber": "6", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1723", 
+                                "playcount": "6993"
+                            }, 
+                            "title": "Blindeye", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "6798511b-afcd-4398-9e65-0dcff4eccba7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2045", 
+                                "playcount": "10687"
+                            }, 
+                            "title": "Mesmerized", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "907259ca-5177-49ab-8f85-c7987b73a30f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1623", 
+                                "playcount": "6415"
+                            }, 
+                            "title": "Perelandra", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "de8d7ddb-91ad-49e8-8718-1c13649d0a12", 
+                            "trackNumber": "9", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1392", 
+                                "playcount": "4860"
+                            }, 
+                            "title": "You Are Fragile", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "c0d01fa2-7438-4308-bd8f-6cbe034644ee", 
+                            "trackNumber": "10", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1271", 
+                                "playcount": "5595"
+                            }, 
+                            "title": "Chasm (version 2.1.0)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "f542441e-4177-4238-ac59-562bc08ce707", 
+                            "trackNumber": "11", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1257", 
+                                "playcount": "6424"
+                            }, 
+                            "title": "Refractor (version 3.2.1)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "fe014c9f-8129-40cb-85be-2953082ccdf7", 
+                            "trackNumber": "12", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1019", 
+                                "playcount": "3505"
+                            }, 
+                            "title": "Levler 1 (Easier to Hate)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "1516f5ea-ac04-4b7d-813f-c4fba2bc25be", 
+                            "trackNumber": "13", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1497", 
+                                "playcount": "6223"
+                            }, 
+                            "title": "Hate Opened Wide", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "f18c41d7-6023-4f86-97ff-a44c4e121c91", 
+                            "trackNumber": "14", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1012", 
+                                "playcount": "3675"
+                            }, 
+                            "title": "Levler 2 (Alone to Die)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "77607775-e517-43c2-921d-c40ee9a75493", 
+                            "trackNumber": "15", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1003", 
+                                "playcount": "3457"
+                            }, 
+                            "title": "Deadly Love (Censored version)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "5cee8907-41a8-4690-9c96-dcc7e5badeba", 
+                            "trackNumber": "16", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "92bfedce-1a4d-341e-bf73-1e669b988514", 
+                    "packaging": null, 
+                    "listeners": "3201", 
+                    "date": "2005", 
+                    "artistName": "Circle of Dust", 
+                    "playcount": "94587", 
+                    "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                }
+            ], 
+            "title": "Disengage"
+        }, 
+        {
+            "mbid": "4b1e78e9-9fd9-3b42-8dfd-2e5dbef2e25f", 
+            "releases": [
+                {
+                    "name": "Brainchild", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1906", 
+                                "playcount": "6710"
+                            }, 
+                            "title": "Cranial Tyrant", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "745756a8-193d-475a-896a-fadf279cf6d3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1948", 
+                                "playcount": "7339"
+                            }, 
+                            "title": "Telltale Crime", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "e9855d06-2792-4287-9476-90ad01498e47", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1599", 
+                                "playcount": "5882"
+                            }, 
+                            "title": "Prayers of a Dead Man", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "faee7d2c-680a-4a84-9667-db5eef9f2dc0", 
+                            "trackNumber": "3", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "311", 
+                                "playcount": "938"
+                            }, 
+                            "title": "Regressor (Aggresive mix)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "8f9f9747-c59c-4130-b33b-6876f02608f8", 
+                            "trackNumber": "4", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1404", 
+                                "playcount": "4692"
+                            }, 
+                            "title": "Enshrined", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "d33a0a28-48a4-459b-bf76-56360e202cca", 
+                            "trackNumber": "5", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1353", 
+                                "playcount": "4670"
+                            }, 
+                            "title": "Course of Ruin", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "f614bdc4-378f-40ac-9bb3-d7f4ddd78283", 
+                            "trackNumber": "6", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1331", 
+                                "playcount": "4593"
+                            }, 
+                            "title": "Descend", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "df1f2b80-2371-4ece-9c14-ff72a2b38719", 
+                            "trackNumber": "7", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1699", 
+                                "playcount": "7344"
+                            }, 
+                            "title": "Deviate", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "433a846d-e690-4aa7-9303-984dd19fbf65", 
+                            "trackNumber": "8", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1201", 
+                                "playcount": "4128"
+                            }, 
+                            "title": "Pale Reflection", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "64afee05-1aaa-45af-84bd-dc2ce88ab4e7", 
+                            "trackNumber": "9", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "929", 
+                                "playcount": "3690"
+                            }, 
+                            "title": "Aggressor (Regressive mix)", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "59666ab6-d60d-4af1-9645-f27b5abe8136", 
+                            "trackNumber": "10", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b1e39fdb-3e76-460c-8dae-8b5802cd7f7f", 
+                    "packaging": null, 
+                    "listeners": "1938", 
+                    "date": "1994-02-08", 
+                    "artistName": "Circle of Dust", 
+                    "playcount": "32467", 
+                    "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                }
+            ], 
+            "title": "Brainchild"
+        }, 
+        {
+            "mbid": "6be1a4e6-1a38-46e8-801f-4a4d218ed81f", 
+            "releases": [], 
+            "title": "Machines of Our Disgrace"
+        }, 
+        {
+            "mbid": "9da2eac5-5be9-3144-92ea-d882823ba1b5", 
+            "releases": [
+                {
+                    "name": "Circle of Dust", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2177", 
+                                "playcount": "8703"
+                            }, 
+                            "title": "Onenemy", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "cfcbc8be-5261-4cc3-a86c-a20e2bb8170f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1916", 
+                                "playcount": "7105"
+                            }, 
+                            "title": "Demoralize", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "b6288e5a-06b0-4276-9a9e-16af56782867", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1818", 
+                                "playcount": "7146"
+                            }, 
+                            "title": "Self Inflict", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "de236d27-cdb2-4c4f-9720-42d29b56886f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1691", 
+                                "playcount": "6600"
+                            }, 
+                            "title": "Rational Lies", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "4a0bb05f-986e-45f4-a1ba-24df02ffb9f7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1313", 
+                                "playcount": "4583"
+                            }, 
+                            "title": "Nightfall", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "48728705-ce80-4c91-8144-a715fe3b7030", 
+                            "trackNumber": "5", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1687", 
+                                "playcount": "6503"
+                            }, 
+                            "title": "Twisted Reality", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "c38ce3f2-e78c-4540-b9b5-db3a2324989f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1634", 
+                                "playcount": "6145"
+                            }, 
+                            "title": "Consequence", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "1139c737-550e-4635-9d88-fdfa22a538cc", 
+                            "trackNumber": "7", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1836", 
+                                "playcount": "6955"
+                            }, 
+                            "title": "Dissolved", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "08a90208-3368-4352-a8d2-99a65660767e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1553", 
+                                "playcount": "6603"
+                            }, 
+                            "title": "Nothing Sacred", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "5c0cc3b2-5f1b-472c-a5f0-3f6acf080826", 
+                            "trackNumber": "9", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "remastered reissue of the 1992 original release", 
+                    "mbid": "b6797f13-d58a-4728-b30d-755fd4c72753", 
+                    "packaging": null, 
+                    "listeners": "1849", 
+                    "date": "2005", 
+                    "artistName": "Circle of Dust", 
+                    "playcount": "31485", 
+                    "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                }, 
+                {
+                    "name": "Circle of Dust", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2177", 
+                                "playcount": "8703"
+                            }, 
+                            "title": "Onenemy", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "cfcbc8be-5261-4cc3-a86c-a20e2bb8170f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1916", 
+                                "playcount": "7105"
+                            }, 
+                            "title": "Demoralize", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "b6288e5a-06b0-4276-9a9e-16af56782867", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1818", 
+                                "playcount": "7146"
+                            }, 
+                            "title": "Self Inflict", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "de236d27-cdb2-4c4f-9720-42d29b56886f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1691", 
+                                "playcount": "6600"
+                            }, 
+                            "title": "Rational Lies", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "4a0bb05f-986e-45f4-a1ba-24df02ffb9f7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1313", 
+                                "playcount": "4583"
+                            }, 
+                            "title": "Nightfall", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "48728705-ce80-4c91-8144-a715fe3b7030", 
+                            "trackNumber": "5", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1687", 
+                                "playcount": "6503"
+                            }, 
+                            "title": "Twisted Reality", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "c38ce3f2-e78c-4540-b9b5-db3a2324989f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1634", 
+                                "playcount": "6145"
+                            }, 
+                            "title": "Consequence", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "1139c737-550e-4635-9d88-fdfa22a538cc", 
+                            "trackNumber": "7", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1836", 
+                                "playcount": "6955"
+                            }, 
+                            "title": "Dissolved", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "08a90208-3368-4352-a8d2-99a65660767e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1553", 
+                                "playcount": "6603"
+                            }, 
+                            "title": "Nothing Sacred", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "5c0cc3b2-5f1b-472c-a5f0-3f6acf080826", 
+                            "trackNumber": "9", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "1992 original release", 
+                    "mbid": "b6797f13-d58a-4728-b30d-755fd4c72753", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "1849", 
+                    "date": "1992", 
+                    "artistName": "Circle of Dust", 
+                    "playcount": "31485", 
+                    "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                }, 
+                {
+                    "name": "Circle of Dust", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2177", 
+                                "playcount": "8703"
+                            }, 
+                            "title": "Onenemy", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "cfcbc8be-5261-4cc3-a86c-a20e2bb8170f", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1916", 
+                                "playcount": "7105"
+                            }, 
+                            "title": "Demoralize", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "b6288e5a-06b0-4276-9a9e-16af56782867", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1818", 
+                                "playcount": "7146"
+                            }, 
+                            "title": "Self Inflict", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "de236d27-cdb2-4c4f-9720-42d29b56886f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1691", 
+                                "playcount": "6600"
+                            }, 
+                            "title": "Rational Lies", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "4a0bb05f-986e-45f4-a1ba-24df02ffb9f7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1313", 
+                                "playcount": "4583"
+                            }, 
+                            "title": "Nightfall", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "48728705-ce80-4c91-8144-a715fe3b7030", 
+                            "trackNumber": "5", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1687", 
+                                "playcount": "6503"
+                            }, 
+                            "title": "Twisted Reality", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "c38ce3f2-e78c-4540-b9b5-db3a2324989f", 
+                            "trackNumber": "6", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1634", 
+                                "playcount": "6145"
+                            }, 
+                            "title": "Consequence", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "1139c737-550e-4635-9d88-fdfa22a538cc", 
+                            "trackNumber": "7", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1836", 
+                                "playcount": "6955"
+                            }, 
+                            "title": "Dissolved", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "08a90208-3368-4352-a8d2-99a65660767e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1553", 
+                                "playcount": "6603"
+                            }, 
+                            "title": "Nothing Sacred", 
+                            "artistName": "Circle of Dust", 
+                            "mbid": "5c0cc3b2-5f1b-472c-a5f0-3f6acf080826", 
+                            "trackNumber": "9", 
+                            "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "1995 reissue", 
+                    "mbid": "b6797f13-d58a-4728-b30d-755fd4c72753", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "1849", 
+                    "date": "1995-01-24", 
+                    "artistName": "Circle of Dust", 
+                    "playcount": "31485", 
+                    "artistMBID": "9b39533c-4432-4055-811b-6773e0c6c3a5"
+                }
+            ], 
+            "title": "Circle of Dust"
+        }, 
+        {
+            "mbid": "b4488756-c83c-35d5-a216-ac482c9c6ea4", 
+            "releases": [], 
+            "title": "Circle of Dust / Brainchild"
+        }, 
+        {
+            "mbid": "d26f10a3-3f99-4c10-ac72-ce364eb61abe", 
+            "releases": [], 
+            "title": "Dust to Dust"
+        }
+    ], 
+    "type": "Group"
+}

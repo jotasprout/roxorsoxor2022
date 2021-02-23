@@ -1,0 +1,13 @@
+{
+    "name": "Bloodgood",
+    "mbid": "7e78a78b-3acc-4be2-a2a4-db8932b0f570",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "7f8706a9-ec1b-4e5f-ad36-80deefd168a2",
+            "name": "David Zaffiro",
+            "attributes": []
+        }
+    ]
+}

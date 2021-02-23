@@ -1,0 +1,155 @@
+{
+    "name": "Rainbow",
+    "mbid": "e3cb4543-210f-499a-b0d1-3882c312dfb9",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "6d4cade7-2769-4d54-ba81-3f875f0bcd8c",
+            "name": "Gary Driscoll",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "969e350a-03eb-4c4a-b049-919ff5ba5a28",
+            "name": "Craig Gruber",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "1dd059a6-4c93-4ec4-bd96-7f08617dfee0",
+            "name": "Mickey Lee Soule",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "20aa5449-0dd8-43d7-b7c1-86de3a9864d4",
+            "name": "Jimmy Bain",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6030ced0-1ada-49ae-a81f-16463f37461e",
+            "name": "Tony Carey",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+            "name": "Ronnie James Dio",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "0b406e6d-a81b-45ee-bef2-2df2a6c63859",
+            "name": "Cozy Powell",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc5f555c-dfa2-4f16-9da5-98342105c23a",
+            "name": "Ritchie Blackmore",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "af49ecbb-a0b9-4805-9cec-f97eac794c81",
+            "name": "Bob Daisley",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7c9c2a9e-53d4-4a42-b33d-d29090b9252d",
+            "name": "David Scott Stone",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "583944a8-d43b-42e9-8e3c-29eb89f53587",
+            "name": "Roger Glover",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e09e91de-c19f-4e7e-b431-8e9e0af1fc57",
+            "name": "Graham Bonnet",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7bec6cd1-9602-400c-ab05-47e2d83bdf3d",
+            "name": "Don Airey",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a858b8c6-d0f7-413d-8b5e-511ea74013fc",
+            "name": "Bob Rondinelli",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "47cd459b-06c1-462f-8fdd-27721a03ef68",
+            "name": "Joe Lynn Turner",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5635436d-9938-42fe-a8bb-2db9efc662e4",
+            "name": "David Rosenthal",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "03973bc6-84fb-4fed-8195-300e41d67809",
+            "name": "Paul Morris",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "3748dbfc-5e2d-4846-b626-2af2df245b25",
+            "name": "Doogie White",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d2d4a192-cb47-4033-8847-83ab7935e18c",
+            "name": "Ronnie Romero",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "563327b3-a04a-46df-8f3c-8f581b578775",
+            "name": "David Keith",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9b8f62a5-ffce-44bc-ba16-625873144fb9",
+            "name": "Bob Nouveau",
+            "attributes": [
+                "bass"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1bcc19f4-3565-4b93-90d4-50fd481a035b",
+            "name": "David Stone",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "ff0039bf-317d-4ecb-9825-f1277b17aa3a",
+            "name": "John O\u2019Reilly",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "genres": [
+        "hard rock", 
+        "glam rock", 
+        "heavy metal", 
+        "classic rock", 
+        "hair metal"
+    ], 
+    "taskDuration": {
+        "Task Duration": 15.400866031646729, 
+        "Task End": 1560312637.566095, 
+        "Task Start": 1560312622.165229
+    }, 
+    "stats": {
+        "listeners": "5681", 
+        "playcount": "65071"
+    }, 
+    "name": "Frehley\u2019s Comet", 
+    "mbid": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+    "birthday": null, 
+    "date": "2019-06-12", 
+    "albums": [
+        {
+            "mbid": "23d7184f-b60c-4b90-acfd-2351cd777e42", 
+            "releases": [], 
+            "title": "Back in the Groove"
+        }, 
+        {
+            "mbid": "5c686eb0-c5d2-3bbc-99ad-3fd631ade7ec", 
+            "releases": [
+                {
+                    "name": "Live + 1", 
+                    "tracks": [
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "0da9c7a3-3aab-4c4e-b66e-692164430603", 
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "47"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Rip It Out"
+                        }, 
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "678ff02f-afc1-4bde-8abc-9ca6fb8567fc", 
+                            "stats": {
+                                "listeners": "550", 
+                                "playcount": "2453"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Breakout"
+                        }, 
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "0e708dac-3388-4cb9-842b-48fb3d829446", 
+                            "stats": {
+                                "listeners": "509", 
+                                "playcount": "2175"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Something Moved"
+                        }, 
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "5f148217-3022-4380-ab9c-05b9500f861d", 
+                            "stats": {
+                                "listeners": "262", 
+                                "playcount": "723"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Rocket Ride"
+                        }, 
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "f3b77d0a-c4a6-43af-a9b6-eeeed0aba3ab", 
+                            "stats": {
+                                "listeners": "384", 
+                                "playcount": "1283"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Words Are Not Enough"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c7e624e6-c457-3a25-a02a-d6346e9872a6", 
+                    "packaging": null, 
+                    "listeners": "601", 
+                    "date": "1988-02", 
+                    "artistName": "Frehley\u2019s Comet", 
+                    "playcount": "4726", 
+                    "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a"
+                }, 
+                {
+                    "name": "Live + 1", 
+                    "tracks": [
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "0da9c7a3-3aab-4c4e-b66e-692164430603", 
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "47"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Rip It Out"
+                        }, 
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "678ff02f-afc1-4bde-8abc-9ca6fb8567fc", 
+                            "stats": {
+                                "listeners": "550", 
+                                "playcount": "2453"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Breakout"
+                        }, 
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "0e708dac-3388-4cb9-842b-48fb3d829446", 
+                            "stats": {
+                                "listeners": "509", 
+                                "playcount": "2175"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Something Moved"
+                        }, 
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "5f148217-3022-4380-ab9c-05b9500f861d", 
+                            "stats": {
+                                "listeners": "262", 
+                                "playcount": "723"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Rocket Ride"
+                        }, 
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "f3b77d0a-c4a6-43af-a9b6-eeeed0aba3ab", 
+                            "stats": {
+                                "listeners": "384", 
+                                "playcount": "1283"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "Words Are Not Enough"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c7e624e6-c457-3a25-a02a-d6346e9872a6", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "601", 
+                    "date": "1998-03-24", 
+                    "artistName": "Frehley\u2019s Comet", 
+                    "playcount": "4726", 
+                    "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a"
+                }
+            ], 
+            "title": "Live + 1"
+        }, 
+        {
+            "mbid": "6add18c0-a7ae-3e6d-bc86-fba4c194e1de", 
+            "releases": [
+                {
+                    "name": "Second Sighting", 
+                    "tracks": [], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "9b077502-c97c-4614-9233-335012021932", 
+                    "packaging": null, 
+                    "listeners": "4255", 
+                    "date": "1988-03-24", 
+                    "artistName": "Frehley\u2019s Comet", 
+                    "playcount": "33491", 
+                    "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a"
+                }
+            ], 
+            "title": "Second Sighting"
+        }, 
+        {
+            "mbid": "c771ece6-ae0c-35a4-9ba6-1b4af709cf9b", 
+            "releases": [
+                {
+                    "name": "It's Over Now", 
+                    "tracks": [
+                        {
+                            "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a", 
+                            "mbid": "afefe089-a6d3-454f-8081-dd5d0763decf", 
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "1"
+                            }, 
+                            "artistName": "Frehley\u2019s Comet", 
+                            "title": "It's Over Now (remix)"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ab6781f9-2001-47e3-b79e-c4b0dd9b252a", 
+                    "packaging": null, 
+                    "listeners": "7", 
+                    "date": "1988", 
+                    "artistName": "Frehley\u2019s Comet", 
+                    "playcount": "9", 
+                    "artistMBID": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a"
+                }
+            ], 
+            "title": "It's Over Now"
+        }, 
+        {
+            "mbid": "d574f9cb-e506-4812-a55a-c48946b0de94", 
+            "releases": [], 
+            "title": "Milwaukee Live \u201987"
+        }
+    ], 
+    "type": "Group"
+}

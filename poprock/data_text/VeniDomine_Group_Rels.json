@@ -1,0 +1,15 @@
+{
+    "name": "Veni Domine",
+    "mbid": "0b76f44c-3a37-49f1-a424-889fcaec72dc",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "3a3790ac-e7df-4907-be18-f44374bd90f0",
+            "name": "Klas Pettersson",
+            "attributes": [
+                "bass guitar"
+            ]
+        }
+    ]
+}

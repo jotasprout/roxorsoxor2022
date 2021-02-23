@@ -1,0 +1,439 @@
+{
+    "genres": [
+        "rock", 
+        "hard rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 19.387803077697754, 
+        "Task End": 1565843915.785104, 
+        "Task Start": 1565843896.397301
+    }, 
+    "stats": {
+        "listeners": "191", 
+        "playcount": "901"
+    }, 
+    "name": "Stoney & Meatloaf", 
+    "mbid": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0", 
+    "birthday": "1971", 
+    "date": "2019-08-15", 
+    "albums": [
+        {
+            "mbid": "2e95e0c2-4d0a-40e8-afc1-0223fb3de26c", 
+            "releases": [
+                {
+                    "name": "It Takes All Kinds of People / The Way You Do the Things You Do", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "132"
+                            }, 
+                            "title": "It Takes All Kinds of People", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "9d8a623c-a3a4-494d-a626-f57afd1ca67f", 
+                            "trackNumber": "A", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "69"
+                            }, 
+                            "title": "The Way You Do the Things You Do", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "16960c21-df9b-40b3-b15d-d4b451b1464f", 
+                            "trackNumber": "B", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "fb86634f-74da-4a85-966d-81cf4c94eda5", 
+                    "packaging": null, 
+                    "listeners": "0", 
+                    "date": "1971", 
+                    "artistName": "Stoney & Meatloaf", 
+                    "playcount": "0", 
+                    "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                }
+            ], 
+            "title": "It Takes All Kinds of People / The Way You Do the Things You Do"
+        }, 
+        {
+            "mbid": "665bed20-f71e-4ba0-9234-69dee64beacc", 
+            "releases": [
+                {
+                    "name": "Featuring Stoney and Meatloaf", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "52"
+                            }, 
+                            "title": "Jimmy Bell", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "d392f3bb-de55-4ad4-86db-7b84b6cdba8d", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "38"
+                            }, 
+                            "title": "She Waits by the Window", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "f5b83097-2fb6-4bfa-abff-67a6d1f4d0de", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "132"
+                            }, 
+                            "title": "It Takes All Kinds of People", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "65509136-5eee-4ae7-93eb-3eb235c68c42", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "23"
+                            }, 
+                            "title": "Stone Heart", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "46132502-6fea-461f-b125-9496a0d500fb", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "11"
+                            }, 
+                            "title": "Who Is the Leader of the People", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "06e1267e-a598-4c04-92b8-dc438381d7e9", 
+                            "trackNumber": "A5", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "44"
+                            }, 
+                            "title": "Kiss Me Again", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "845e71ff-4de0-4bdb-88af-d2453e879235", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "34"
+                            }, 
+                            "title": "Sunshine (Where's Heaven)", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "de1fddc9-a0ad-44d6-80f7-df68f07a2bfd", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "37"
+                            }, 
+                            "title": "Jessica White", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "45b9b88d-2165-4bd1-b05b-99b4f2784aa4", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "29"
+                            }, 
+                            "title": "Everything Under the Sun", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "365c5fc0-d894-4f69-9b8f-9f6e8914e76c", 
+                            "trackNumber": "B6", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0d560e54-6827-435c-aaa3-c8d732629f5c", 
+                    "packaging": null, 
+                    "listeners": "4", 
+                    "date": "1978", 
+                    "artistName": "Stoney & Meatloaf", 
+                    "playcount": "12", 
+                    "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                }, 
+                {
+                    "name": "Stoney & Meatloaf", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "42"
+                            }, 
+                            "title": "(I'd Love to Be) As Heavy as Jesus", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "fcf0c3e3-9a03-41e6-a440-60825c8d0f86", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "38"
+                            }, 
+                            "title": "She Waits by the Window", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "40dfcb35-1c40-40ef-8a68-eaf0992ab4ef", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "132"
+                            }, 
+                            "title": "It Takes All Kinds of People", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "da0eca80-181f-4676-8c9d-4c90438600d4", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "29"
+                            }, 
+                            "title": "Game of Love", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "cc995c16-6664-44ac-b6ca-97257191fa5e", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "44"
+                            }, 
+                            "title": "Kiss Me Again", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "043c66b8-4121-47ff-b9e0-80622ba3d615", 
+                            "trackNumber": "A5", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "34"
+                            }, 
+                            "title": "Sunshine (Where's Heaven)", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "94cdad58-9a25-4a9b-9a64-80ce92f4cfd4", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "52"
+                            }, 
+                            "title": "Jimmy Bell", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "eb76a8f1-437f-4a03-b275-cc66e2779b95", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "37"
+                            }, 
+                            "title": "Jessica White", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "1f6ee81d-ce8a-4ebb-a53b-5ffe4b999a74", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4dc22059-95ee-47fa-8fac-8939df29ef5c", 
+                    "packaging": null, 
+                    "listeners": "22", 
+                    "date": "1971", 
+                    "artistName": "Stoney & Meatloaf", 
+                    "playcount": "181", 
+                    "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                }, 
+                {
+                    "name": "Meat Loaf featuring Stoney and Meatloaf", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "320", 
+                                "playcount": "654"
+                            }, 
+                            "title": "Jimmy Bell", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "19c6dedb-56f6-4476-bedc-e55de62e4962", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "298", 
+                                "playcount": "805"
+                            }, 
+                            "title": "She Waits by the Window", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "9e7125df-456b-4ca7-8abd-6557a6d64720", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "334", 
+                                "playcount": "738"
+                            }, 
+                            "title": "It Takes All Kind of People", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "6f31db7d-6c6c-45f4-8bdc-0ae1fb8db00c", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "211", 
+                                "playcount": "541"
+                            }, 
+                            "title": "Stone Heart", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "ffe419c2-e7d3-4c64-bfea-e08d173e5306", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "244"
+                            }, 
+                            "title": "Who's the Leader of the People", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "d8c5f34c-7520-4682-b7e9-d3099e980daf", 
+                            "trackNumber": "A5", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "855", 
+                                "playcount": "2457"
+                            }, 
+                            "title": "What You See Is What You Get", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "a5e0269f-8f6b-4651-9c15-7cf38856906d", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "661"
+                            }, 
+                            "title": "Kiss Me Again", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "50bb8a2c-a482-4fbe-9cee-ebed89411b66", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "259", 
+                                "playcount": "628"
+                            }, 
+                            "title": "Sunshine (Where's Heaven)", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "9e02bf9c-7cd4-45ba-8abf-9f24e87f3253", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "272", 
+                                "playcount": "696"
+                            }, 
+                            "title": "Jessica White", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "31b1c5bf-04d7-4f1a-83e7-88ac58e0b0d7", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "300", 
+                                "playcount": "775"
+                            }, 
+                            "title": "Lady Be Mine", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "6fd8cf71-ddfe-491e-b20b-1a04c9f5420d", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "194", 
+                                "playcount": "518"
+                            }, 
+                            "title": "Everything Under the Sun", 
+                            "artistName": "Stoney & Meatloaf", 
+                            "mbid": "f3e30d97-e199-4726-a5ac-ff51f6341e1c", 
+                            "trackNumber": "B6", 
+                            "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                        }
+                    ], 
+                    "country": "XE", 
+                    "disambiguation": "", 
+                    "mbid": "7e669e83-6dc1-4c09-9bac-e5db15944077", 
+                    "packaging": null, 
+                    "listeners": "26", 
+                    "date": "1978", 
+                    "artistName": "Stoney & Meatloaf", 
+                    "playcount": "253", 
+                    "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                }
+            ], 
+            "title": "Stoney & Meatloaf"
+        }, 
+        {
+            "mbid": "cd373642-788d-4869-8d8a-8da03fa70294", 
+            "releases": [
+                {
+                    "name": "What You See Is What You Get / Lady Be Mine", 
+                    "tracks": [], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "a6f2b9c9-d9a2-444a-adbe-90967cd53405", 
+                    "packaging": null, 
+                    "listeners": "0", 
+                    "date": "1971-04-14", 
+                    "artistName": "Stoney & Meatloaf", 
+                    "playcount": "0", 
+                    "artistMBID": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0"
+                }
+            ], 
+            "title": "What You See Is What You Get / Lady Be Mine"
+        }
+    ], 
+    "type": "Group"
+}

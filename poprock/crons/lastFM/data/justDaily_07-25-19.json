@@ -1,0 +1,405 @@
+{
+    "date": "2019-07-25", 
+    "myArtists": [
+        {
+            "mbid": "382f1005-e9ab-4684-afd4-0bdae4ee37f2", 
+            "stats": {
+                "listeners": "2209239", 
+                "playcount": "57155575"
+            }, 
+            "name": "2Pac"
+        }, 
+        {
+            "mbid": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae", 
+            "stats": {
+                "listeners": "1381624", 
+                "playcount": "31566036"
+            }, 
+            "name": "Alice Cooper"
+        }, 
+        {
+            "mbid": "07a85e96-bb72-4930-b41d-24853f4a4ede", 
+            "stats": {
+                "listeners": "81539", 
+                "playcount": "1516035"
+            }, 
+            "name": "Anvil"
+        }, 
+        {
+            "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8", 
+            "stats": {
+                "listeners": "2462849", 
+                "playcount": "101744410"
+            }, 
+            "name": "Black Sabbath"
+        }, 
+        {
+            "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50", 
+            "stats": {
+                "listeners": "3383763", 
+                "playcount": "195785644"
+            }, 
+            "name": "David Bowie"
+        }, 
+        {
+            "mbid": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+            "stats": {
+                "listeners": "153298", 
+                "playcount": "1419071"
+            }, 
+            "name": "Lindsey Buckingham"
+        }, 
+        {
+            "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4", 
+            "stats": {
+                "listeners": "4550123", 
+                "playcount": "202315308"
+            }, 
+            "name": "Eminem"
+        }, 
+        {
+            "mbid": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f", 
+            "stats": {
+                "listeners": "1855221", 
+                "playcount": "24784621"
+            }, 
+            "name": "Cream"
+        }, 
+        {
+            "mbid": "7249b899-8db8-43e7-9e6e-22f1e736024e", 
+            "stats": {
+                "listeners": "1117916", 
+                "playcount": "23131022"
+            }, 
+            "name": "Def Leppard"
+        }, 
+        {
+            "mbid": "c55193fb-f5d2-4839-a263-4c044fca1456", 
+            "stats": {
+                "listeners": "934968", 
+                "playcount": "24156816"
+            }, 
+            "name": "Dio"
+        }, 
+        {
+            "mbid": "57e0e9f3-24b5-46a6-be00-be793ca26e21", 
+            "stats": {
+                "listeners": "85072", 
+                "playcount": "754277"
+            }, 
+            "name": "Elf"
+        }, 
+        {
+            "mbid": "618b6900-0618-4f1e-b835-bccb17f84294", 
+            "stats": {
+                "listeners": "2431334", 
+                "playcount": "51619776"
+            }, 
+            "name": "Eric Clapton"
+        }, 
+        {
+            "mbid": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+            "stats": {
+                "listeners": "1422", 
+                "playcount": "21574"
+            }, 
+            "name": "Evil Stig"
+        }, 
+        {
+            "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", 
+            "stats": {
+                "listeners": "2185331", 
+                "playcount": "69337659"
+            }, 
+            "name": "Fleetwood Mac"
+        }, 
+        {
+            "mbid": "484a1d40-0fb9-4768-acff-b570cedaacb4", 
+            "stats": {
+                "listeners": "127312", 
+                "playcount": "2237089"
+            }, 
+            "name": "Heaven & Hell"
+        }, 
+        {
+            "mbid": "1253e5e9-eaa7-4ce6-81b8-09725e8cee43", 
+            "stats": {
+                "listeners": "1001693", 
+                "playcount": "16470639"
+            }, 
+            "name": "The Stooges"
+        }, 
+        {
+            "mbid": "6be2828f-6c0d-4059-99d4-fa18acf1a296", 
+            "stats": {
+                "listeners": "1294837", 
+                "playcount": "22776065"
+            }, 
+            "name": "Janet Jackson"
+        }, 
+        {
+            "mbid": "519774a4-3b18-4042-b8c0-927845a616c9", 
+            "stats": {
+                "listeners": "220396", 
+                "playcount": "1114640"
+            }, 
+            "name": "Jimmy Page"
+        }, 
+        {
+            "mbid": "4a536dbf-8632-4cfd-b9ea-cdb35cb47c44", 
+            "stats": {
+                "listeners": "9", 
+                "playcount": "148"
+            }, 
+            "name": "Jimmy Page & Robert Plant"
+        }, 
+        {
+            "mbid": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+            "stats": {
+                "listeners": 736480, 
+                "playcount": 9080668
+            }, 
+            "name": "Joan Jett"
+        }, 
+        {
+            "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822", 
+            "stats": {
+                "listeners": "2543877", 
+                "playcount": "51630128"
+            }, 
+            "name": "Elton John"
+        }, 
+        {
+            "mbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b", 
+            "stats": {
+                "listeners": "1712035", 
+                "playcount": "27924463"
+            }, 
+            "name": "Journey"
+        }, 
+        {
+            "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3", 
+            "stats": {
+                "listeners": "2957826", 
+                "playcount": "190304535"
+            }, 
+            "name": "Led Zeppelin"
+        }, 
+        {
+            "mbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1", 
+            "stats": {
+                "listeners": "776735", 
+                "playcount": "10881976"
+            }, 
+            "name": "Meat Loaf"
+        }, 
+        {
+            "mbid": "26f07661-e115-471d-a930-206f5c89d17c", 
+            "stats": {
+                "listeners": "1066909", 
+                "playcount": "29984085"
+            }, 
+            "name": "M\u00f6tley Cr\u00fce"
+        }, 
+        {
+            "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf", 
+            "stats": {
+                "listeners": "1771726", 
+                "playcount": "64552751"
+            }, 
+            "name": "Neil Young"
+        }, 
+        {
+            "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7", 
+            "stats": {
+                "listeners": "596087", 
+                "playcount": "7225970"
+            }, 
+            "name": "Stevie Nicks"
+        }, 
+        {
+            "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934", 
+            "stats": {
+                "listeners": "1793720", 
+                "playcount": "47508894"
+            }, 
+            "name": "Ozzy Osbourne"
+        }, 
+        {
+            "mbid": "bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc", 
+            "stats": {
+                "listeners": "549070", 
+                "playcount": "6686330"
+            }, 
+            "name": "Robert Plant"
+        }, 
+        {
+            "mbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7", 
+            "stats": {
+                "listeners": "1530600", 
+                "playcount": "26428525"
+            }, 
+            "name": "Iggy Pop"
+        }, 
+        {
+            "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3", 
+            "stats": {
+                "listeners": "4062000", 
+                "playcount": "195525819"
+            }, 
+            "name": "Queen"
+        }, 
+        {
+            "mbid": "5c6acb91-4b9b-4245-b92f-e817295c4ed0", 
+            "stats": {
+                "listeners": "521780", 
+                "playcount": "4328348"
+            }, 
+            "name": "Quiet Riot"
+        }, 
+        {
+            "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711", 
+            "stats": {
+                "listeners": "4761440", 
+                "playcount": "504586716"
+            }, 
+            "name": "Radiohead"
+        }, 
+        {
+            "mbid": "e3cb4543-210f-499a-b0d1-3882c312dfb9", 
+            "stats": {
+                "listeners": "873904", 
+                "playcount": "18055411"
+            }, 
+            "name": "Rainbow"
+        }, 
+        {
+            "mbid": "9f6c4063-ce0a-4b71-a7b7-a32c91997260", 
+            "stats": {
+                "listeners": "2855", 
+                "playcount": "43282"
+            }, 
+            "name": "Ronnie Dio and the Prophets"
+        }, 
+        {
+            "mbid": "883871a1-f154-4df8-a7f7-558ea456dd0a", 
+            "stats": {
+                "listeners": "82", 
+                "playcount": "158"
+            }, 
+            "name": "Ronnie Dio and the Red Caps"
+        }, 
+        {
+            "mbid": "331ce348-1b08-40b9-8ed7-0763b92bd003", 
+            "stats": {
+                "listeners": "839495", 
+                "playcount": "14011556"
+            }, 
+            "name": "Roxy Music"
+        }, 
+        {
+            "mbid": "bbd80354-597e-4d53-94e4-92b3a7cb8f2c", 
+            "stats": {
+                "listeners": "427846", 
+                "playcount": "10195703"
+            }, 
+            "name": "Saxon"
+        }, 
+        {
+            "mbid": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0", 
+            "stats": {
+                "listeners": "190", 
+                "playcount": "900"
+            }, 
+            "name": "Stoney & Meatloaf"
+        }, 
+        {
+            "mbid": "e491fae8-3a5a-438e-8368-925753fb41a1", 
+            "stats": {
+                "listeners": "460687", 
+                "playcount": "3814014"
+            }, 
+            "name": "Ted Nugent"
+        }, 
+        {
+            "mbid": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5", 
+            "stats": {
+                "listeners": "59646", 
+                "playcount": "347526"
+            }, 
+            "name": "The Amboy Dukes"
+        }, 
+        {
+            "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf", 
+            "stats": {
+                "listeners": "2959400", 
+                "playcount": "158553943"
+            }, 
+            "name": "The Cure"
+        }, 
+        {
+            "mbid": "30f9591a-778b-40dd-be8f-105589f9c998", 
+            "stats": {
+                "listeners": "283", 
+                "playcount": "1670"
+            }, 
+            "name": "The Electric Elves"
+        }, 
+        {
+            "mbid": "c08ced1f-d248-4368-90e5-bf579b3bf5de", 
+            "stats": {
+                "listeners": "87808", 
+                "playcount": "584758"
+            }, 
+            "name": "The Firm"
+        }, 
+        {
+            "mbid": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", 
+            "stats": {
+                "listeners": "380692", 
+                "playcount": "4890162"
+            }, 
+            "name": "The Runaways"
+        }, 
+        {
+            "mbid": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b", 
+            "stats": {
+                "listeners": "1001938", 
+                "playcount": "16476159"
+            }, 
+            "name": "The Stooges"
+        }, 
+        {
+            "mbid": "191de76f-a224-445d-b041-54df16d65bf7", 
+            "stats": {
+                "listeners": "1024553", 
+                "playcount": "9602585"
+            }, 
+            "name": "The Yardbirds"
+        }, 
+        {
+            "mbid": "230ca093-1d00-4c57-9235-147942f66930", 
+            "stats": {
+                "listeners": "917048", 
+                "playcount": "14033188"
+            }, 
+            "name": "The Zombies"
+        }, 
+        {
+            "mbid": "1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d", 
+            "stats": {
+                "listeners": "375752", 
+                "playcount": "5181687"
+            }, 
+            "name": "Todd Rundgren"
+        }, 
+        {
+            "mbid": "37283116-f2cc-47cb-8806-facd063b564f", 
+            "stats": {
+                "listeners": "42653", 
+                "playcount": "560503"
+            }, 
+            "name": "Utopia"
+        }
+    ]
+}

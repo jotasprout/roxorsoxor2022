@@ -1,0 +1,137 @@
+{
+    "name": "Thin Lizzy",
+    "mbid": "6a726ac6-019e-455c-8bbb-571a77bed52e",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "ee9ad960-090f-4918-8147-72ba9061e217",
+            "name": "Brian Robertson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "fd5b04d7-bc16-4893-8cd3-5a3ae5cadce9",
+            "name": "Scott Gorham",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7d1ebc92-1be4-4d3e-a939-c7a59025ff40",
+            "name": "Marco Mendoza",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a7f32bf1-ed5c-4071-a6c7-1877d2f58924",
+            "name": "Tommy Aldridge",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7d1ebc92-1be4-4d3e-a939-c7a59025ff40",
+            "name": "Marco Mendoza",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a7f32bf1-ed5c-4071-a6c7-1877d2f58924",
+            "name": "Tommy Aldridge",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0832f927-9bc6-4bb2-b538-343b29bde2e9",
+            "name": "Vivian Campbell",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7d1ebc92-1be4-4d3e-a939-c7a59025ff40",
+            "name": "Marco Mendoza",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d290c315-ac30-4da7-8108-dcd5ad4d83ca",
+            "name": "Ricky Warwick",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d290c315-ac30-4da7-8108-dcd5ad4d83ca",
+            "name": "Ricky Warwick",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "92264bc5-7dcf-437c-bcc0-447f3d5ca088",
+            "name": "Eric Bell",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "482665d9-a6bb-44c0-8956-d6fac5c14dfb",
+            "name": "Brian Downey",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "337266c6-72f5-4c22-ada0-7dd192ad5417",
+            "name": "Scott Gorham & Ricky Warwick",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6af15841-1d62-495a-8b52-74eb6d603c5f",
+            "name": "Phil Lynott",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a8806b5c-3ee0-4277-94d3-1a5427a7707c",
+            "name": "Gary Moore",
+            "attributes": [
+                "additional"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "978ae39b-edb8-449f-b53e-d0e7260f7ac5",
+            "name": "John Sykes",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "24cac374-29bd-499f-a0f8-72165d2f2f43",
+            "name": "Midge Ure",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "e3593976-7ab7-4961-96e9-55b171412db5",
+            "name": "Snowy White",
+            "attributes": [
+                "additional"
+            ]
+        }
+    ]
+}

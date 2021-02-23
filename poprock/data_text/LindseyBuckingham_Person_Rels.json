@@ -1,0 +1,37 @@
+{
+    "name": "Lindsey Buckingham",
+    "mbid": "5d12875c-a197-43b2-8f29-41dc0ad895c3",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+            "name": "Fleetwood Mac",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "lead vocals",
+                "percussion",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+            "name": "Fleetwood Mac",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "lead vocals",
+                "percussion",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797",
+            "name": "Buckingham Nicks",
+            "attributes": []
+        }
+    ]
+}

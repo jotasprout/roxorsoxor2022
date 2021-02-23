@@ -1,0 +1,2490 @@
+{
+    "genres": [
+        "Progressive rock", 
+        "christian rock", 
+        "classic rock", 
+        "rock", 
+        "hard rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 72.55994391441345, 
+        "Task End": 1581397974.869422, 
+        "Task Start": 1581397902.309478
+    }, 
+    "stats": {
+        "listeners": "3040", 
+        "playcount": "56792"
+    }, 
+    "name": "Kerry Livgren", 
+    "mbid": "ff399892-1aab-44e8-8905-bf8721ce0866", 
+    "birthday": "1949-09-18", 
+    "date": "2020-02-11", 
+    "albums": [
+        {
+            "mbid": "768b7e0a-2f54-3249-aa66-187037118792", 
+            "releases": [
+                {
+                    "name": "Seeds of Change", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "589", 
+                                "playcount": "1769"
+                            }, 
+                            "title": "Just One Way", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "65b23644-016d-4f47-a846-de38f152d36b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "826", 
+                                "playcount": "3112"
+                            }, 
+                            "title": "Mask of the Great Deceiver", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "274bd4e3-1104-4df1-a5a5-97c0a3069bc4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "567", 
+                                "playcount": "1803"
+                            }, 
+                            "title": "How Can You Live", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "14bce8f9-472c-4c78-a619-5abe341246a8", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "468", 
+                                "playcount": "1461"
+                            }, 
+                            "title": "Whiskey Seed", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "804dc4e4-12d3-4d25-9e07-bf1ee8893e05", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "871", 
+                                "playcount": "3163"
+                            }, 
+                            "title": "To Live for the King", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "65d5b391-77df-40c9-b3e0-10e97f64f2db", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "455", 
+                                "playcount": "1348"
+                            }, 
+                            "title": "Down to the Core", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "b8bcb77c-a5ba-433c-bfa7-fab1d3d1c4cb", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "539", 
+                                "playcount": "2153"
+                            }, 
+                            "title": "Ground Zero", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "62d38430-2cfb-4d93-ba6e-2bd02e224df3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "6bbaa887-ea23-484a-972f-e1d432859390", 
+                    "packaging": null, 
+                    "listeners": "866", 
+                    "date": "1980", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "8863", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }, 
+                {
+                    "name": "Seeds of Change", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "589", 
+                                "playcount": "1769"
+                            }, 
+                            "title": "Just One Way", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "65b23644-016d-4f47-a846-de38f152d36b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "826", 
+                                "playcount": "3112"
+                            }, 
+                            "title": "Mask of the Great Deceiver", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "274bd4e3-1104-4df1-a5a5-97c0a3069bc4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "567", 
+                                "playcount": "1803"
+                            }, 
+                            "title": "How Can You Live", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "14bce8f9-472c-4c78-a619-5abe341246a8", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "468", 
+                                "playcount": "1461"
+                            }, 
+                            "title": "Whiskey Seed", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "804dc4e4-12d3-4d25-9e07-bf1ee8893e05", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "871", 
+                                "playcount": "3163"
+                            }, 
+                            "title": "To Live for the King", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "65d5b391-77df-40c9-b3e0-10e97f64f2db", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "455", 
+                                "playcount": "1348"
+                            }, 
+                            "title": "Down to the Core", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "b8bcb77c-a5ba-433c-bfa7-fab1d3d1c4cb", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "539", 
+                                "playcount": "2153"
+                            }, 
+                            "title": "Ground Zero", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "62d38430-2cfb-4d93-ba6e-2bd02e224df3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "6bbaa887-ea23-484a-972f-e1d432859390", 
+                    "packaging": null, 
+                    "listeners": "866", 
+                    "date": "1996-11-19", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "8863", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "Seeds of Change"
+        }, 
+        {
+            "mbid": "a0ce9c4a-9286-4568-89bc-ab17f47e2b38", 
+            "releases": [
+                {
+                    "name": "Time Line", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Time Line", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4fe73e2f-b2df-4486-a273-b7e076fe8537", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "216"
+                            }, 
+                            "title": "Tonight", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7d77b0da-fdc6-44c6-a140-60deade5ac5e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "89"
+                            }, 
+                            "title": "Make or Break It", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "c47a462f-ac0a-470d-9e1b-7f78ff206660", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "171"
+                            }, 
+                            "title": "Take Us to the Water", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "8caf8cf5-98d6-4496-af75-208f1f896e4c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "182"
+                            }, 
+                            "title": "Beyond the Pale", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "61065bde-fe6c-4098-9c4f-6a62ec62b0d9", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "140"
+                            }, 
+                            "title": "New Age Blues", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "18ee014d-08ed-4247-bd68-7f0b0e9cf901", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "157"
+                            }, 
+                            "title": "Slow Motion Suicide", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "21fa9dcf-6fc3-4ba8-859f-caa4fdd8f171", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "125"
+                            }, 
+                            "title": "High on a Hill", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "a77fa5c9-ef0b-4571-a00b-9037e158e9ce", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "120"
+                            }, 
+                            "title": "Life Undercover", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "cd0363b0-cbcd-4045-a020-cfdca0a34d37", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "131"
+                            }, 
+                            "title": "Welcome to the War", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "d1335247-e3bb-4dc3-b575-60b9155c1748", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "NL", 
+                    "disambiguation": "", 
+                    "mbid": "fc8d00f8-d9b1-4e31-aee7-a05e76dd2220", 
+                    "packaging": null, 
+                    "listeners": "169", 
+                    "date": "1984", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "1968", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }, 
+                {
+                    "name": "Timeline", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "27"
+                            }, 
+                            "title": "Time Line", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4fe73e2f-b2df-4486-a273-b7e076fe8537", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "216"
+                            }, 
+                            "title": "Tonight", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7d77b0da-fdc6-44c6-a140-60deade5ac5e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "89"
+                            }, 
+                            "title": "Make or Break It", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "c47a462f-ac0a-470d-9e1b-7f78ff206660", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "171"
+                            }, 
+                            "title": "Take Us to the Water", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "8caf8cf5-98d6-4496-af75-208f1f896e4c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "182"
+                            }, 
+                            "title": "Beyond the Pale", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "61065bde-fe6c-4098-9c4f-6a62ec62b0d9", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "140"
+                            }, 
+                            "title": "New Age Blues", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "18ee014d-08ed-4247-bd68-7f0b0e9cf901", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "157"
+                            }, 
+                            "title": "Slow Motion Suicide", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "21fa9dcf-6fc3-4ba8-859f-caa4fdd8f171", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "125"
+                            }, 
+                            "title": "High on a Hill", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "a77fa5c9-ef0b-4571-a00b-9037e158e9ce", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "120"
+                            }, 
+                            "title": "Life Undercover", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "cd0363b0-cbcd-4045-a020-cfdca0a34d37", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "131"
+                            }, 
+                            "title": "Welcome to the War", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "d1335247-e3bb-4dc3-b575-60b9155c1748", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c6e6b07e-d62b-4005-a849-8b4a93b1ac30", 
+                    "packaging": null, 
+                    "listeners": "5", 
+                    "date": "1984", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "43", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "Time Line"
+        }, 
+        {
+            "mbid": "fe5a7c38-9c86-3dfb-ab2a-7771e7656fae", 
+            "releases": [
+                {
+                    "name": "Prime Mover", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "39"
+                            }, 
+                            "title": "Don't Pass Me By", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "f428aacd-d022-4c47-b040-64dccb0c9e2b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "36"
+                            }, 
+                            "title": "Fathers and Sons", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "a80b1666-b14e-4ba0-bc18-586570e3fbc2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "37"
+                            }, 
+                            "title": "Portrait II", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4c56d3ef-8e79-4558-b2f9-b8f31f0c570c", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "16", 
+                                "playcount": "34"
+                            }, 
+                            "title": "Children of the Shadows", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "52fed94a-9b07-460f-95dc-6d570c05a512", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "37"
+                            }, 
+                            "title": "Wandering Spirit", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "daf2a0fc-2b7b-4753-b361-ace3cb9c7a46", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "34"
+                            }, 
+                            "title": "I'll Follow You", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "95e0421e-b39c-4296-b99a-5d882025beb8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "31"
+                            }, 
+                            "title": "New Kind of Love", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "023ef2af-2310-4e01-9a9c-b90c2fe17ac9", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "36"
+                            }, 
+                            "title": "One More Song", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4a5854d7-4747-4116-b8fe-f26d135b1a3b", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "10"
+                            }, 
+                            "title": "T.G.B.", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "c05eec5b-d206-4199-9b01-fb1a2bcaa9ed", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5a0130bf-14fd-408d-ab7f-9b11a385342f", 
+                    "packaging": null, 
+                    "listeners": "24", 
+                    "date": "1988", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "314", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "Prime Mover"
+        }, 
+        {
+            "mbid": "e543d92e-f122-32ff-be5e-80a5d8bac17c", 
+            "releases": [
+                {
+                    "name": "One of Several Possible Musiks", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "258", 
+                                "playcount": "833"
+                            }, 
+                            "title": "Ancient Wing", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "f09d4f89-cbd3-4d3f-9c6f-9038b62db4ca", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "469"
+                            }, 
+                            "title": "And I Saw, as It Were... Konelrad", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e4ba407f-d5b9-4feb-84f8-6562bdf54847", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "232", 
+                                "playcount": "663"
+                            }, 
+                            "title": "Colonnade Gardens", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "ee7db3e8-b061-411b-af80-1bc1688b6345", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "265"
+                            }, 
+                            "title": "In the Sides of the North", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "670551a9-f94d-420f-a70e-2b40e3e98325", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "117", 
+                                "playcount": "322"
+                            }, 
+                            "title": "Alenna in the Sun", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "872d79eb-6d12-4a7a-9906-e20b033c7cbf", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "238"
+                            }, 
+                            "title": "Tannin Danse", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "5cf0a73d-233b-44fb-a2dd-5fc22156d396", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "336"
+                            }, 
+                            "title": "The Far Country", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "a290a3fd-8f57-4994-bc6b-1b276eca2e6e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "236"
+                            }, 
+                            "title": "Diaspora", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "497b7595-0254-4aa9-aca8-a6a5a50824d7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "133", 
+                                "playcount": "831"
+                            }, 
+                            "title": "A Fistful of Drachma", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4d493e45-78fe-4f00-ae6e-582d5a3437f6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "530"
+                            }, 
+                            "title": "Tenth of Nisan", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "cc115836-7b14-43df-88b9-9f113ed999f5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "121"
+                            }, 
+                            "title": "Eerie Cove", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4a6e4656-1db6-4dfc-b14d-ba8c1633b73e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "aad4430f-568a-4d38-9c66-d80acb8a30e0", 
+                    "packaging": null, 
+                    "listeners": "237", 
+                    "date": "1989", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "2809", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }, 
+                {
+                    "name": "One of Several Possible Musiks", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "258", 
+                                "playcount": "833"
+                            }, 
+                            "title": "Ancient Wing", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "f09d4f89-cbd3-4d3f-9c6f-9038b62db4ca", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "469"
+                            }, 
+                            "title": "And I Saw, as It Were... Konelrad", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e4ba407f-d5b9-4feb-84f8-6562bdf54847", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "232", 
+                                "playcount": "663"
+                            }, 
+                            "title": "Colonnade Gardens", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "ee7db3e8-b061-411b-af80-1bc1688b6345", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "265"
+                            }, 
+                            "title": "In the Sides of the North", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "670551a9-f94d-420f-a70e-2b40e3e98325", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "117", 
+                                "playcount": "322"
+                            }, 
+                            "title": "Alenna in the Sun", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "872d79eb-6d12-4a7a-9906-e20b033c7cbf", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "238"
+                            }, 
+                            "title": "Tannin Danse", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "5cf0a73d-233b-44fb-a2dd-5fc22156d396", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "336"
+                            }, 
+                            "title": "The Far Country", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "a290a3fd-8f57-4994-bc6b-1b276eca2e6e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "236"
+                            }, 
+                            "title": "Diaspora", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "497b7595-0254-4aa9-aca8-a6a5a50824d7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "133", 
+                                "playcount": "831"
+                            }, 
+                            "title": "A Fistful of Drachma", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4d493e45-78fe-4f00-ae6e-582d5a3437f6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "530"
+                            }, 
+                            "title": "Tenth of Nisan", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "cc115836-7b14-43df-88b9-9f113ed999f5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "121"
+                            }, 
+                            "title": "Eerie Cove", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4a6e4656-1db6-4dfc-b14d-ba8c1633b73e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "aad4430f-568a-4d38-9c66-d80acb8a30e0", 
+                    "packaging": null, 
+                    "listeners": "237", 
+                    "date": "1996-10-01", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "2809", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }, 
+                {
+                    "name": "One of Several Possible Musiks", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "258", 
+                                "playcount": "833"
+                            }, 
+                            "title": "Ancient Wing", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "f09d4f89-cbd3-4d3f-9c6f-9038b62db4ca", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "469"
+                            }, 
+                            "title": "And I Saw, as It Were... Konelrad", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e4ba407f-d5b9-4feb-84f8-6562bdf54847", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "232", 
+                                "playcount": "663"
+                            }, 
+                            "title": "Colonnade Gardens", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "ee7db3e8-b061-411b-af80-1bc1688b6345", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "265"
+                            }, 
+                            "title": "In the Sides of the North", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "670551a9-f94d-420f-a70e-2b40e3e98325", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "117", 
+                                "playcount": "322"
+                            }, 
+                            "title": "Alenna in the Sun", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "872d79eb-6d12-4a7a-9906-e20b033c7cbf", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "238"
+                            }, 
+                            "title": "Tannin Danse", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "5cf0a73d-233b-44fb-a2dd-5fc22156d396", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "103", 
+                                "playcount": "336"
+                            }, 
+                            "title": "The Far Country", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "a290a3fd-8f57-4994-bc6b-1b276eca2e6e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "236"
+                            }, 
+                            "title": "Diaspora", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "497b7595-0254-4aa9-aca8-a6a5a50824d7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "133", 
+                                "playcount": "831"
+                            }, 
+                            "title": "A Fistful of Drachma", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4d493e45-78fe-4f00-ae6e-582d5a3437f6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "530"
+                            }, 
+                            "title": "Tenth of Nisan", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "cc115836-7b14-43df-88b9-9f113ed999f5", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "121"
+                            }, 
+                            "title": "Eerie Cove", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4a6e4656-1db6-4dfc-b14d-ba8c1633b73e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "aad4430f-568a-4d38-9c66-d80acb8a30e0", 
+                    "packaging": null, 
+                    "listeners": "237", 
+                    "date": "2009-11-12", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "2809", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "One of Several Possible Musiks"
+        }, 
+        {
+            "mbid": "1f3f85dd-0018-37e3-bdcd-1d2cbfafd252", 
+            "releases": [
+                {
+                    "name": "When Things Get Electric", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "7"
+                            }, 
+                            "title": "When Things Get Electric (Prelude)", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "497367e7-fc09-4c24-9945-d14039df1586", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "5"
+                            }, 
+                            "title": "When Things Get Electric", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "575a4210-c2eb-4dbb-b79f-69f8114db905", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Turn on the Lights", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4e66c877-50d2-4cca-8f5b-be8d96594da3", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Two Thousand Down", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "c5a25b05-a742-483d-be8b-573cb9dff3cf", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Smoke Is Rising", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "24b276a0-c353-4626-a643-98de8efc27f5", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Throw Me Down", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "33e18294-0ee2-4559-ab32-920995ebfc78", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "One Dark World", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "effa961e-b500-431f-bcdb-e109c962a879", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "5"
+                            }, 
+                            "title": "No Holds Barred", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "8b85f82e-7c59-4dee-b966-a0eb6e46baeb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Sweet Child", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "15bc3f4f-4c5c-4896-a644-ff7795b6cfad", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "4"
+                            }, 
+                            "title": "A Hero's Canticle", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "dbfb732e-0c8f-4d78-8ff1-33409e6c66de", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Racing Away", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4d2499cf-b478-4062-8658-409e1750e732", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Like a Whisper", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "3a3eb362-9053-4590-a521-27f88c0c9215", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Xylon (The Tree)", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "67dafb33-895f-45d6-b665-1da1bd6eb497", 
+                            "trackNumber": "13", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f1c9d7e8-84a3-4661-bf7f-d4cfaea13387", 
+                    "packaging": null, 
+                    "listeners": "4", 
+                    "date": "1995-05-01", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "70", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "When Things Get Electric"
+        }, 
+        {
+            "mbid": "a838f412-66e8-3696-a0d2-530c2230e40a", 
+            "releases": [
+                {
+                    "name": "Reconstructions (Reconstructed)", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "118"
+                            }, 
+                            "title": "One Golden Thread", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "bab449b4-e88f-4091-b2f1-a5a15731d47d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "49", 
+                                "playcount": "112"
+                            }, 
+                            "title": "Walking the Wire", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "b518b4fa-f21f-4735-b8f6-4d63f53fa7d7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "115"
+                            }, 
+                            "title": "We Draw the Line", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "940d648b-8852-481d-8c61-e0cd684c20a8", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "406"
+                            }, 
+                            "title": "No Standing", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4cfd7c67-e408-487e-a520-b21f1367bf39", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "87"
+                            }, 
+                            "title": "All in Time", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "9ddf0d7e-17a4-4321-b600-abd55b54ccc4", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "91", 
+                                "playcount": "273"
+                            }, 
+                            "title": "Exiles", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "af02949c-32f4-474c-b94d-3949f5752234", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "87"
+                            }, 
+                            "title": "Life of Crime", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "2c9328cb-d323-4042-a5b4-a8ddeba40b58", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "103"
+                            }, 
+                            "title": "You Are the Distance", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "3594a6ba-844f-49a4-86a5-d31efffa5fe6", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "98"
+                            }, 
+                            "title": "All Fall Down", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7270a7f5-f00e-49de-8f28-d3b224c14c80", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44", 
+                                "playcount": "94"
+                            }, 
+                            "title": "Highway to the Heart", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "fd603041-3c8a-4b8b-aa51-7e34a350404b", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "137", 
+                                "playcount": "364"
+                            }, 
+                            "title": "Free Fire Zone", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "3e39b9c9-b863-4e83-936e-af37af0f38a5", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "147", 
+                                "playcount": "347"
+                            }, 
+                            "title": "Bright Star", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "b40cbd8c-535c-4e8b-a4fb-08e323376358", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "16fe33c2-78c0-4f5b-b25a-a12dd781f219", 
+                    "packaging": null, 
+                    "listeners": "14", 
+                    "date": "1998-11-30", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "154", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "Reconstructions (Reconstructed)"
+        }, 
+        {
+            "mbid": "9ec66109-f651-32fc-a443-af394b2a88ad", 
+            "releases": [
+                {
+                    "name": "Prime Mover II", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "165", 
+                                "playcount": "490"
+                            }, 
+                            "title": "Out of Opus", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "395c064b-8be1-41a4-acaa-1296396dd8c1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "285", 
+                                "playcount": "860"
+                            }, 
+                            "title": "Portrait II", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "d27fcd20-0d01-4a2f-b5bb-2fc689805a9e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "873"
+                            }, 
+                            "title": "Don't Pass Me By", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "0167f398-29b5-4e42-8e7a-375b1bb9f5c7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "210", 
+                                "playcount": "553"
+                            }, 
+                            "title": "Fathers and Sons", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "f6e4a525-5454-43a5-875a-41968b414617", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "178", 
+                                "playcount": "558"
+                            }, 
+                            "title": "Incantos", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "dc2bb2d1-226c-4edd-9c12-f591229a30c8", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "412", 
+                                "playcount": "1422"
+                            }, 
+                            "title": "I'll Follow You", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "84efc004-5386-49fa-a5e1-d8aff1d2dad0", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "128", 
+                                "playcount": "422"
+                            }, 
+                            "title": "Fair Exchange", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "8497f55a-ef5f-472a-a058-ad890e843495", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "980"
+                            }, 
+                            "title": "New Kind of Love", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7d0f1aa1-0598-4e30-98ce-dbb7dbe53456", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "116", 
+                                "playcount": "320"
+                            }, 
+                            "title": "Brave Hearts", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "c8e7d3ff-20a9-4b3f-9ff1-70b31b28e468", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "185", 
+                                "playcount": "698"
+                            }, 
+                            "title": "Wandering Spirit", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "2aa02dec-2242-43bf-881a-d943c211fe60", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "437", 
+                                "playcount": "1419"
+                            }, 
+                            "title": "One More Song", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "fda27e7e-8448-40ec-a301-a4383687d837", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "324"
+                            }, 
+                            "title": "Item 89", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "bd80bd06-0d2f-4661-8de8-49fb2f3084fd", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "305", 
+                                "playcount": "1264"
+                            }, 
+                            "title": "Children of the Shadows", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e6edd5ef-1d8c-4b33-961d-c2262b24bd2d", 
+                            "trackNumber": "13", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "178"
+                            }, 
+                            "title": "T.G.B.", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "1a089a06-989b-4903-b19d-67a26537f01f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "52ae6cfe-1ead-40a9-bba5-201d078ecb58", 
+                    "packaging": null, 
+                    "listeners": "583", 
+                    "date": "1998", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "3776", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }, 
+                {
+                    "name": "Prime Mover II", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "165", 
+                                "playcount": "490"
+                            }, 
+                            "title": "Out of Opus", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "395c064b-8be1-41a4-acaa-1296396dd8c1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "285", 
+                                "playcount": "860"
+                            }, 
+                            "title": "Portrait II", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "d27fcd20-0d01-4a2f-b5bb-2fc689805a9e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "873"
+                            }, 
+                            "title": "Don't Pass Me By", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "0167f398-29b5-4e42-8e7a-375b1bb9f5c7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "210", 
+                                "playcount": "553"
+                            }, 
+                            "title": "Fathers and Sons", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "f6e4a525-5454-43a5-875a-41968b414617", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "178", 
+                                "playcount": "558"
+                            }, 
+                            "title": "Incantos", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "dc2bb2d1-226c-4edd-9c12-f591229a30c8", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "412", 
+                                "playcount": "1422"
+                            }, 
+                            "title": "I'll Follow You", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "84efc004-5386-49fa-a5e1-d8aff1d2dad0", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "128", 
+                                "playcount": "422"
+                            }, 
+                            "title": "Fair Exchange", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "8497f55a-ef5f-472a-a058-ad890e843495", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "980"
+                            }, 
+                            "title": "New Kind of Love", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7d0f1aa1-0598-4e30-98ce-dbb7dbe53456", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "116", 
+                                "playcount": "320"
+                            }, 
+                            "title": "Brave Hearts", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "c8e7d3ff-20a9-4b3f-9ff1-70b31b28e468", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "185", 
+                                "playcount": "698"
+                            }, 
+                            "title": "Wandering Spirit", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "2aa02dec-2242-43bf-881a-d943c211fe60", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "437", 
+                                "playcount": "1419"
+                            }, 
+                            "title": "One More Song", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "fda27e7e-8448-40ec-a301-a4383687d837", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "324"
+                            }, 
+                            "title": "Item 89", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "bd80bd06-0d2f-4661-8de8-49fb2f3084fd", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "305", 
+                                "playcount": "1264"
+                            }, 
+                            "title": "Children of the Shadows", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e6edd5ef-1d8c-4b33-961d-c2262b24bd2d", 
+                            "trackNumber": "13", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "178"
+                            }, 
+                            "title": "T.G.B.", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "1a089a06-989b-4903-b19d-67a26537f01f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "52ae6cfe-1ead-40a9-bba5-201d078ecb58", 
+                    "packaging": null, 
+                    "listeners": "583", 
+                    "date": "2008-11-12", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "3776", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "Prime Mover II"
+        }, 
+        {
+            "mbid": "31b75a2e-5c39-4ac0-b908-6a268dc46b83", 
+            "releases": [
+                {
+                    "name": "Collector's Sedition Vol. 1", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "202"
+                            }, 
+                            "title": "Am Juengsten Tage", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "29756db4-73ee-4793-a926-1392fb53f05b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "177", 
+                                "playcount": "362"
+                            }, 
+                            "title": "On the Air", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "0386b27e-501b-40fb-a875-f8e4d388c181", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "293"
+                            }, 
+                            "title": "The Sentinel", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "3a73adcb-9a0c-46b8-8ab8-28bc8e0bff22", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "244"
+                            }, 
+                            "title": "Hindsight", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "65eeb6d4-969c-436b-b622-bed4876f6834", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "137", 
+                                "playcount": "341"
+                            }, 
+                            "title": "The Navigator", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "11efbf78-d687-40cc-821a-63096c587d3f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "152"
+                            }, 
+                            "title": "No More Time for Love", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e81fb841-3ed9-443c-8fad-7f858d7200e5", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "81", 
+                                "playcount": "258"
+                            }, 
+                            "title": "Safe Alone", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "958231b5-caa0-4312-a560-fc13e11e6bef", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "233"
+                            }, 
+                            "title": "As It Should Be", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "2436f7f9-5a6d-486f-bfb6-92aa56d4f3b2", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "82", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Red Money", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "526e2b37-ddba-4ccd-b1bf-a122deb6b027", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "173"
+                            }, 
+                            "title": "At Every Turn", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "343bea1d-f73a-40ab-9ef5-5eb12a175ec8", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "242"
+                            }, 
+                            "title": "The Man With an Iron Heart", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "d36a01a2-5589-4bc2-8771-deae24024b05", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84", 
+                                "playcount": "197"
+                            }, 
+                            "title": "The Dragon", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "3cb0ce8e-7a77-4566-b224-d1f16ec7d22d", 
+                            "trackNumber": "13", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "111"
+                            }, 
+                            "title": "So Ends the Show", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "51930a06-fb36-461b-99b3-848d5b2adcb6", 
+                            "trackNumber": "14", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "389f9536-20a1-4b66-a58b-ec491c147d7c", 
+                    "packaging": null, 
+                    "listeners": "3", 
+                    "date": "2000", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "89", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }, 
+                {
+                    "name": "Collector's Sedition Vol. 1", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "202"
+                            }, 
+                            "title": "Am Juengsten Tage", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "29756db4-73ee-4793-a926-1392fb53f05b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "177", 
+                                "playcount": "362"
+                            }, 
+                            "title": "On the Air", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "0386b27e-501b-40fb-a875-f8e4d388c181", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "112", 
+                                "playcount": "293"
+                            }, 
+                            "title": "The Sentinel", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "3a73adcb-9a0c-46b8-8ab8-28bc8e0bff22", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "244"
+                            }, 
+                            "title": "Hindsight", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "65eeb6d4-969c-436b-b622-bed4876f6834", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "137", 
+                                "playcount": "341"
+                            }, 
+                            "title": "The Navigator", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "11efbf78-d687-40cc-821a-63096c587d3f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "152"
+                            }, 
+                            "title": "No More Time for Love", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e81fb841-3ed9-443c-8fad-7f858d7200e5", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "81", 
+                                "playcount": "258"
+                            }, 
+                            "title": "Safe Alone", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "958231b5-caa0-4312-a560-fc13e11e6bef", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "233"
+                            }, 
+                            "title": "As It Should Be", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "2436f7f9-5a6d-486f-bfb6-92aa56d4f3b2", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "82", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Red Money", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "526e2b37-ddba-4ccd-b1bf-a122deb6b027", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "173"
+                            }, 
+                            "title": "At Every Turn", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "343bea1d-f73a-40ab-9ef5-5eb12a175ec8", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "242"
+                            }, 
+                            "title": "The Man With an Iron Heart", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "d36a01a2-5589-4bc2-8771-deae24024b05", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "84", 
+                                "playcount": "197"
+                            }, 
+                            "title": "The Dragon", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "3cb0ce8e-7a77-4566-b224-d1f16ec7d22d", 
+                            "trackNumber": "13", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "111"
+                            }, 
+                            "title": "So Ends the Show", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "51930a06-fb36-461b-99b3-848d5b2adcb6", 
+                            "trackNumber": "14", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "Director's Cut", 
+                    "mbid": "389f9536-20a1-4b66-a58b-ec491c147d7c", 
+                    "packaging": null, 
+                    "listeners": "3", 
+                    "date": "2007-11-21", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "89", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "Collector's Sedition"
+        }, 
+        {
+            "mbid": "97df5d99-2145-4081-858c-fe01a5239ead", 
+            "releases": [], 
+            "title": "Several More Musiks"
+        }, 
+        {
+            "mbid": "6207560a-a383-353b-8b4c-265448c99d7e", 
+            "releases": [
+                {
+                    "name": "Decade", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "589", 
+                                "playcount": "1769"
+                            }, 
+                            "title": "Just One Way", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "65b23644-016d-4f47-a846-de38f152d36b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "826", 
+                                "playcount": "3112"
+                            }, 
+                            "title": "Mask of the Great Deceiver", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "274bd4e3-1104-4df1-a5a5-97c0a3069bc4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "567", 
+                                "playcount": "1803"
+                            }, 
+                            "title": "How Can You Live", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "14bce8f9-472c-4c78-a619-5abe341246a8", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "468", 
+                                "playcount": "1461"
+                            }, 
+                            "title": "Whiskey Seed", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "804dc4e4-12d3-4d25-9e07-bf1ee8893e05", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "871", 
+                                "playcount": "3163"
+                            }, 
+                            "title": "To Live for the King", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "65d5b391-77df-40c9-b3e0-10e97f64f2db", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "455", 
+                                "playcount": "1348"
+                            }, 
+                            "title": "Down to the Core", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "b8bcb77c-a5ba-433c-bfa7-fab1d3d1c4cb", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "539", 
+                                "playcount": "2153"
+                            }, 
+                            "title": "Ground Zero", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "62d38430-2cfb-4d93-ba6e-2bd02e224df3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "34"
+                            }, 
+                            "title": "I'll Follow You", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "95e0421e-b39c-4296-b99a-5d882025beb8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "36"
+                            }, 
+                            "title": "One More Song", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "4a5854d7-4747-4116-b8fe-f26d135b1a3b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "31"
+                            }, 
+                            "title": "New Kind of Love", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "023ef2af-2310-4e01-9a9c-b90c2fe17ac9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "258", 
+                                "playcount": "833"
+                            }, 
+                            "title": "Ancient Wing", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "f09d4f89-cbd3-4d3f-9c6f-9038b62db4ca", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "138", 
+                                "playcount": "469"
+                            }, 
+                            "title": "And I Saw, as It Were... Konelrad", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e4ba407f-d5b9-4feb-84f8-6562bdf54847", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "232", 
+                                "playcount": "663"
+                            }, 
+                            "title": "Colonnade Gardens", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "ee7db3e8-b061-411b-af80-1bc1688b6345", 
+                            "trackNumber": "13", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "530"
+                            }, 
+                            "title": "Tenth of Nisan", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "cc115836-7b14-43df-88b9-9f113ed999f5", 
+                            "trackNumber": "14", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "None", 
+                    "disambiguation": "", 
+                    "mbid": "07514767-da76-4eff-af8e-8fc62a8e36c8", 
+                    "packaging": null, 
+                    "listeners": "158", 
+                    "date": "1992-02-20", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "3675", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "Decade"
+        }, 
+        {
+            "mbid": "73c0cd1d-2c87-33c1-8f72-b3ad3b6e373a", 
+            "releases": [
+                {
+                    "name": "The Best Of Kerry Livgren", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "48", 
+                                "playcount": "124"
+                            }, 
+                            "title": "Konelrad", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "d6557071-5aeb-491f-a574-fab904762f34", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "91", 
+                                "playcount": "273"
+                            }, 
+                            "title": "Exiles", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "b4ff45b0-2825-4374-a336-4de6a1b6e7de", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "159"
+                            }, 
+                            "title": "White Light", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "3f600a68-04cd-48f6-8b43-8208303a9145", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "178", 
+                                "playcount": "558"
+                            }, 
+                            "title": "Incantos", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "dc2bb2d1-226c-4edd-9c12-f591229a30c8", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "177", 
+                                "playcount": "362"
+                            }, 
+                            "title": "On the Air", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "0386b27e-501b-40fb-a875-f8e4d388c181", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "201"
+                            }, 
+                            "title": "When You Walk", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "b4af6269-03fd-42aa-9fbd-fac0bf297bc1", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "50", 
+                                "playcount": "121"
+                            }, 
+                            "title": "Eerie Cove", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "c9bd25d7-e39f-48fd-8d9f-7a40499ae12c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "871", 
+                                "playcount": "3163"
+                            }, 
+                            "title": "To Live for the King", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "40536108-9646-434f-b0d4-651124b2a888", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "205", 
+                                "playcount": "955"
+                            }, 
+                            "title": "The Fury", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "9ca8ee0e-a156-4dce-bd7d-cc577dcc915e", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "471"
+                            }, 
+                            "title": "Utopian Dream", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7144d374-7a78-42db-97e1-c3716fa3059e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "Smoke Is Rising", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "24b276a0-c353-4626-a643-98de8efc27f5", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "137", 
+                                "playcount": "341"
+                            }, 
+                            "title": "The Navigator", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "11efbf78-d687-40cc-821a-63096c587d3f", 
+                            "trackNumber": "13", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "539", 
+                                "playcount": "2153"
+                            }, 
+                            "title": "Ground Zero", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7d3f9621-3ac5-43e6-ac5f-30faa318116c", 
+                            "trackNumber": "14", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "0bb0e397-fed8-4491-a8f9-4cb84e727f2a", 
+                    "packaging": null, 
+                    "listeners": "101", 
+                    "date": "2002-06-01", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "1268", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "The Best of Kerry Livgren"
+        }, 
+        {
+            "mbid": "135b7b7d-38df-3745-8b89-fd50afbe6c87", 
+            "releases": [
+                {
+                    "name": "Odyssey Into The Mind'S Eye", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "419"
+                            }, 
+                            "title": "Oceanic Celebration", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "eccb355d-525e-41a5-a28f-e866c4164415", 
+                            "trackNumber": "1", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "75", 
+                                "playcount": "441"
+                            }, 
+                            "title": "Unstoppable", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7c25b9ad-3e76-4411-b9c1-638deff6b3aa", 
+                            "trackNumber": "2", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "300"
+                            }, 
+                            "title": "Out of Step", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "bd698720-2e0e-4f6a-bd56-e424c098dfb3", 
+                            "trackNumber": "3", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "201"
+                            }, 
+                            "title": "The Traveler (vocal version)", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "50916c1f-a19b-4c89-a62a-a787774ea9af", 
+                            "trackNumber": "4", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "318"
+                            }, 
+                            "title": "Volatile Planet", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "477b5ec8-60c4-45f2-af63-8e0c44294f30", 
+                            "trackNumber": "5", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "117"
+                            }, 
+                            "title": "The Empowering (alternate version)", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "b7f178d6-d224-409e-8622-a96a8ef358dd", 
+                            "trackNumber": "6", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "471"
+                            }, 
+                            "title": "Utopian Dream", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "7144d374-7a78-42db-97e1-c3716fa3059e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "307"
+                            }, 
+                            "title": "Credence Lent", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "e47a2337-b242-4dfe-9a67-7e59dc987233", 
+                            "trackNumber": "8", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "6"
+                            }, 
+                            "title": "One Dark World", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "effa961e-b500-431f-bcdb-e109c962a879", 
+                            "trackNumber": "9", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "338"
+                            }, 
+                            "title": "The Empowering", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "178bd38f-92ca-4f38-aed3-e98683aee6e7", 
+                            "trackNumber": "10", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "75", 
+                                "playcount": "425"
+                            }, 
+                            "title": "Aspen Moon", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "52ab0090-90ff-48ee-b12f-8036dfc606ec", 
+                            "trackNumber": "11", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "243"
+                            }, 
+                            "title": "Liquidity", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "c5ebfec6-fe86-4b18-be59-0b37cdfd1afb", 
+                            "trackNumber": "12", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "62", 
+                                "playcount": "302"
+                            }, 
+                            "title": "Intelligent Life", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "bddb3eff-07c4-455c-9c10-39e8b5fbf8b0", 
+                            "trackNumber": "13", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "66", 
+                                "playcount": "375"
+                            }, 
+                            "title": "The Traveler", 
+                            "artistName": "Kerry Livgren", 
+                            "mbid": "cedba26f-40d1-41eb-a052-d104d6f89948", 
+                            "trackNumber": "14", 
+                            "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "3f04d65d-d529-48ce-a4bc-971c7925ed55", 
+                    "packaging": null, 
+                    "listeners": "99", 
+                    "date": "1997-10-07", 
+                    "artistName": "Kerry Livgren", 
+                    "playcount": "2695", 
+                    "artistMBID": "ff399892-1aab-44e8-8905-bf8721ce0866"
+                }
+            ], 
+            "title": "Odyssey Into the Mind's Eye"
+        }
+    ], 
+    "type": "Person"
+}

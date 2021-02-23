@@ -1,0 +1,33 @@
+{
+    "name": "Billy Idol",
+    "mbid": "47c8f88b-987a-4b64-9175-2b1b57809727",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "14dd0d67-941f-418d-aa83-91361fcf592e",
+            "name": "Billy Idol & Steve Stevens",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "4c141ecd-23f9-4881-9a8c-27e7e7af708c",
+            "name": "Generation X",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "8aedcd15-34fc-4f31-9817-cd444a9b3789",
+            "name": "Chelsea",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "897dc9d4-f6ca-4646-8a74-e8ef08aa0fb5",
+            "name": "Neurotic Outsiders",
+            "attributes": []
+        }
+    ]
+}

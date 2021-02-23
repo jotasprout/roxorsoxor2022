@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ICP play</title>
+<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+<link rel="stylesheet" href="d3styles.css">
+</head>
+
+<body>
+	
+	
+	<script>
+		const w = 1000;
+		const h = 1000;
+		
+		const svg = d3.select("body")
+						.append("svg")
+						.attr("width", w)
+						.attr("height", h);
+
+		svg.on("click", function (){
+			const mouse = d3.mouse(this);
+			const picWidth = 64;
+			const picHeight = 64;
+			const xOff = picWidth - picWidth/2;
+			svg.append("svg:image")
+				.attr("xlink:href", "icp.jpg")
+				//.attr("class", "ddPic")
+				.attr("width", picWidth)
+				.attr("height", picHeight)
+				.attr("x", (mouse[0])-picWidth/2)
+				.attr("y", (mouse[1])-picWidth/2);		
+		});
+
+		
+		
+		
+	</script>
+	 
+	
+</body>
+</html>

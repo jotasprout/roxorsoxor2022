@@ -1,0 +1,1405 @@
+{
+    "genres": [
+        "heavy metal", 
+        "christian metal", 
+        "white metal", 
+        "christian", 
+        "metal"
+    ], 
+    "taskDuration": {
+        "Task Duration": 44.320762157440186, 
+        "Task End": 1567916834.601752, 
+        "Task Start": 1567916790.28099
+    }, 
+    "stats": {
+        "listeners": "8598", 
+        "playcount": "110315"
+    }, 
+    "name": "Barren Cross", 
+    "mbid": "64947ce4-79b3-4de4-a664-140b4e934628", 
+    "birthday": "1984", 
+    "date": "2019-09-08", 
+    "albums": [
+        {
+            "mbid": "7169fc92-d30b-3736-bf19-5a0f4604e2a4", 
+            "releases": [
+                {
+                    "name": "Hotter Than Hell! Live", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2225", 
+                                "playcount": "6804"
+                            }, 
+                            "title": "Imaginary Music", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "1c2486e4-05a9-43a7-9add-793a18e607c2", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "612", 
+                                "playcount": "2126"
+                            }, 
+                            "title": "Dying Day", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2804752b-16de-4f0b-bf98-90355f1081ec", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1752", 
+                                "playcount": "5426"
+                            }, 
+                            "title": "Killers of the Unborn", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ab1a9cdf-f0b1-4400-8cf7-4ca4b5185b84", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1524", 
+                                "playcount": "4688"
+                            }, 
+                            "title": "Close to the Edge", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "20482fa1-75ee-4715-926f-c76e73f8dcc3", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "527", 
+                                "playcount": "1989"
+                            }, 
+                            "title": "Going Nowhere", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "68db1eaf-ba9e-4883-9803-df636714ba7c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1452", 
+                                "playcount": "4633"
+                            }, 
+                            "title": "Dead Lock", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "35da7a58-9c45-4ac5-a886-1b5e3d673a82", 
+                            "trackNumber": "6", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "185", 
+                                "playcount": "465"
+                            }, 
+                            "title": "Opus to the Third Heaven", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "eebbe552-0148-43e9-8d07-aae2373e1c8a", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1653", 
+                                "playcount": "5223"
+                            }, 
+                            "title": "King of Kings", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "f81efca7-b5fe-47d3-b391-fd323e15140e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1550", 
+                                "playcount": "4541"
+                            }, 
+                            "title": "In the Eye of the Fire", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "89a10b5d-9d56-4b3d-89a2-0641fe069b12", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2347", 
+                                "playcount": "5979"
+                            }, 
+                            "title": "Rock for the King", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "3f113126-3d99-417d-a0a7-f6e500951e2d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "471", 
+                                "playcount": "1776"
+                            }, 
+                            "title": "Light the Flame", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "911c8228-6b11-4a54-896b-afa0a2a8db82", 
+                            "trackNumber": "11", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2878", 
+                                "playcount": "8035"
+                            }, 
+                            "title": "Terrorist Child", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "e307d3a5-2595-4a8e-a5ea-dc3af46969e3", 
+                            "trackNumber": "12", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "170", 
+                                "playcount": "394"
+                            }, 
+                            "title": "King Jesus & Blues Jam", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "d88b8705-ca4f-49be-a10f-3a6d09b2fa79", 
+                            "trackNumber": "13", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "492", 
+                                "playcount": "1940"
+                            }, 
+                            "title": "Give Your Life", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "720c5e9d-4c52-4089-ac51-7e9780329bab", 
+                            "trackNumber": "14", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "f35705cf-a664-47de-966a-901c7368e2c5", 
+                    "packaging": null, 
+                    "listeners": "372", 
+                    "date": "1990", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "4624", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }
+            ], 
+            "title": "Hotter Than Hell! Live"
+        }, 
+        {
+            "mbid": "7d11aefb-c6a4-323f-8ea8-980ca93bd7a9", 
+            "releases": [
+                {
+                    "name": "Rock For The King", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "612", 
+                                "playcount": "2126"
+                            }, 
+                            "title": "Dying Day", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "89fd43bf-1ebe-4a29-b1b1-e519476c8e20", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "464", 
+                                "playcount": "1754"
+                            }, 
+                            "title": "He Loves You", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "d29c8f26-9fcf-42bd-a6ba-2114604ebf61", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "406", 
+                                "playcount": "1185"
+                            }, 
+                            "title": "It's All Come True", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "72956dac-39f3-4241-8c9d-d96a82b72067", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "468", 
+                                "playcount": "1775"
+                            }, 
+                            "title": "Believe", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "065f1769-3376-47bd-b8f7-167042f7ad83", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "527", 
+                                "playcount": "1989"
+                            }, 
+                            "title": "Going Nowhere", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "3fceef34-8f02-4add-8568-700569120fab", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2347", 
+                                "playcount": "5979"
+                            }, 
+                            "title": "Rock for the King", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ceb19101-0b7c-4462-af40-4a8b691522c5", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "492", 
+                                "playcount": "1940"
+                            }, 
+                            "title": "Give Your Life", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ccf5d71f-2e06-47a9-b7bc-f9265623bcef", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "394", 
+                                "playcount": "1524"
+                            }, 
+                            "title": "Just a Touch", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "84326984-2c78-4ff3-92fa-b4f2bb9f3b9d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "471", 
+                                "playcount": "1776"
+                            }, 
+                            "title": "Light the Flame", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "3633195e-25ec-455b-a670-86684480b425", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "309"
+                            }, 
+                            "title": "He Loves You (live)", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "db2f7bca-cd56-403d-8038-bbe1e5b46f6f", 
+                            "trackNumber": "13", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "212"
+                            }, 
+                            "title": "Living Dead (live)", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "6ef89afd-c2b2-4a82-a1dd-bf78b5770f92", 
+                            "trackNumber": "14", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "40e75f34-f402-4dbb-a2ec-2c26f94c7f2e", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "2243", 
+                    "date": "1990", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "15207", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }, 
+                {
+                    "name": "Rock For The King", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "612", 
+                                "playcount": "2126"
+                            }, 
+                            "title": "Dying Day", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "89fd43bf-1ebe-4a29-b1b1-e519476c8e20", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "464", 
+                                "playcount": "1754"
+                            }, 
+                            "title": "He Loves You", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "d29c8f26-9fcf-42bd-a6ba-2114604ebf61", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "406", 
+                                "playcount": "1185"
+                            }, 
+                            "title": "It's All Come True", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "72956dac-39f3-4241-8c9d-d96a82b72067", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "468", 
+                                "playcount": "1775"
+                            }, 
+                            "title": "Believe", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "065f1769-3376-47bd-b8f7-167042f7ad83", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "527", 
+                                "playcount": "1989"
+                            }, 
+                            "title": "Going Nowhere", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "3fceef34-8f02-4add-8568-700569120fab", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2347", 
+                                "playcount": "5979"
+                            }, 
+                            "title": "Rock for the King", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ceb19101-0b7c-4462-af40-4a8b691522c5", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "492", 
+                                "playcount": "1940"
+                            }, 
+                            "title": "Give Your Life", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ccf5d71f-2e06-47a9-b7bc-f9265623bcef", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "394", 
+                                "playcount": "1524"
+                            }, 
+                            "title": "Just a Touch", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "84326984-2c78-4ff3-92fa-b4f2bb9f3b9d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "471", 
+                                "playcount": "1776"
+                            }, 
+                            "title": "Light the Flame", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "3633195e-25ec-455b-a670-86684480b425", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "309"
+                            }, 
+                            "title": "He Loves You (live)", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "db2f7bca-cd56-403d-8038-bbe1e5b46f6f", 
+                            "trackNumber": "13", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "212"
+                            }, 
+                            "title": "Living Dead (live)", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "6ef89afd-c2b2-4a82-a1dd-bf78b5770f92", 
+                            "trackNumber": "14", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "40e75f34-f402-4dbb-a2ec-2c26f94c7f2e", 
+                    "packaging": null, 
+                    "listeners": "2243", 
+                    "date": "1986", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "15207", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }, 
+                {
+                    "name": "Rock For The King", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "612", 
+                                "playcount": "2126"
+                            }, 
+                            "title": "Dying Day", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "89fd43bf-1ebe-4a29-b1b1-e519476c8e20", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "464", 
+                                "playcount": "1754"
+                            }, 
+                            "title": "He Loves You", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "d29c8f26-9fcf-42bd-a6ba-2114604ebf61", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "406", 
+                                "playcount": "1185"
+                            }, 
+                            "title": "It's All Come True", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "72956dac-39f3-4241-8c9d-d96a82b72067", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "468", 
+                                "playcount": "1775"
+                            }, 
+                            "title": "Believe", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "065f1769-3376-47bd-b8f7-167042f7ad83", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "527", 
+                                "playcount": "1989"
+                            }, 
+                            "title": "Going Nowhere", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "3fceef34-8f02-4add-8568-700569120fab", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2347", 
+                                "playcount": "5979"
+                            }, 
+                            "title": "Rock for the King", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ceb19101-0b7c-4462-af40-4a8b691522c5", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "492", 
+                                "playcount": "1940"
+                            }, 
+                            "title": "Give Your Life", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ccf5d71f-2e06-47a9-b7bc-f9265623bcef", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "394", 
+                                "playcount": "1524"
+                            }, 
+                            "title": "Just a Touch", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "84326984-2c78-4ff3-92fa-b4f2bb9f3b9d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "471", 
+                                "playcount": "1776"
+                            }, 
+                            "title": "Light the Flame", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "3633195e-25ec-455b-a670-86684480b425", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "120", 
+                                "playcount": "309"
+                            }, 
+                            "title": "He Loves You (live)", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "db2f7bca-cd56-403d-8038-bbe1e5b46f6f", 
+                            "trackNumber": "13", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "88", 
+                                "playcount": "212"
+                            }, 
+                            "title": "Living Dead (live)", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "6ef89afd-c2b2-4a82-a1dd-bf78b5770f92", 
+                            "trackNumber": "14", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "40e75f34-f402-4dbb-a2ec-2c26f94c7f2e", 
+                    "packaging": null, 
+                    "listeners": "2243", 
+                    "date": "1988", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "15207", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }
+            ], 
+            "title": "Rock for the King"
+        }, 
+        {
+            "mbid": "e3e118d3-e549-3820-a420-ef56bf6b9998", 
+            "releases": [
+                {
+                    "name": "State Of Control", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1210", 
+                                "playcount": "3540"
+                            }, 
+                            "title": "State of Control", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "324543b6-7764-4091-a7cc-0dc0442cf43d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "802", 
+                                "playcount": "2884"
+                            }, 
+                            "title": "Out of Time", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "d6b131f2-3f04-4abb-b882-c5d0ed4bbc10", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "743", 
+                                "playcount": "2518"
+                            }, 
+                            "title": "Cryin' Over You", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "b93d93f9-b899-43fc-a3c6-abe6e064ecbd", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "668", 
+                                "playcount": "2007"
+                            }, 
+                            "title": "A Face in the Dark", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "188fd034-658b-43fb-b16d-a7f97012931e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "634", 
+                                "playcount": "1928"
+                            }, 
+                            "title": "The Stage of Intensity", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "e9cdc16b-dc77-42ee-868d-1d81f9ee7fe9", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "594", 
+                                "playcount": "1869"
+                            }, 
+                            "title": "Hard Lies", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "6bc8460a-57a4-4b02-828c-f1437ded15ff", 
+                            "trackNumber": "6", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "598", 
+                                "playcount": "1882"
+                            }, 
+                            "title": "Inner War", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "a68a260b-1b39-4909-a483-efc04370c1c1", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "620", 
+                                "playcount": "1927"
+                            }, 
+                            "title": "Love at Full Volume", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "5eb91c98-ea3e-4bd8-bb97-24dfebd60e4f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "440", 
+                                "playcount": "1507"
+                            }, 
+                            "title": "Bigotry Man (Who Are You)", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "4db2ef4a-c5ad-4fbd-8707-f995e0ab2784", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "436", 
+                                "playcount": "1404"
+                            }, 
+                            "title": "Two Thousand Years", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "b7ff6d05-2c2f-4959-9caf-272d75194549", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "225", 
+                                "playcount": "876"
+                            }, 
+                            "title": "Your Love Gives", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "23ce461a-e5aa-4748-9b08-4b2f7ed8964a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "e5f5af33-67d5-4f62-b6d1-d5e757848565", 
+                    "packaging": null, 
+                    "listeners": "2237", 
+                    "date": "1989", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "22132", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }
+            ], 
+            "title": "State of Control"
+        }, 
+        {
+            "mbid": "e82d3862-f0a4-39d1-bf1c-3c7c697cd8f9", 
+            "releases": [
+                {
+                    "name": "Atomic Arena", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2225", 
+                                "playcount": "6804"
+                            }, 
+                            "title": "Imaginary Music", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2c634960-9a05-4f88-b749-1918cec02a41", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1752", 
+                                "playcount": "5426"
+                            }, 
+                            "title": "Killers of the Unborn", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "7393865b-d663-458f-8b89-7dfe76b3b489", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1550", 
+                                "playcount": "4541"
+                            }, 
+                            "title": "In the Eye of the Fire", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2b23bb3a-8d78-4d42-a57f-5e5fd17223c7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2878", 
+                                "playcount": "8035"
+                            }, 
+                            "title": "Terrorist Child", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "81604671-daf9-4fb9-819b-c339ceca09a5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1524", 
+                                "playcount": "4688"
+                            }, 
+                            "title": "Close to the Edge", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "72165994-36b1-44da-9bbf-fda24db34b70", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1452", 
+                                "playcount": "4633"
+                            }, 
+                            "title": "Dead Lock", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "27f66b85-ed90-49fb-a759-a19c1dd8623d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2752"
+                            }, 
+                            "title": "Cultic Regimes", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "4822603f-4ad3-44a9-b17c-069666864cb8", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1330", 
+                                "playcount": "3841"
+                            }, 
+                            "title": "Heaven or Nothing", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "f5f7db68-bc5b-4320-ae86-5dbaf22bf8a4", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1653", 
+                                "playcount": "5223"
+                            }, 
+                            "title": "King of Kings", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "8f0eb91c-2ae8-4754-b35e-d4d9be89f507", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2836"
+                            }, 
+                            "title": "Living Dead", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ddbbfce1-f755-4cfd-bebb-ec23d91d639f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5b8ffe96-73f7-3b1d-b774-74edf885f43f", 
+                    "packaging": null, 
+                    "listeners": "5085", 
+                    "date": "1988", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "42348", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }, 
+                {
+                    "name": "Atomic Arena", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2225", 
+                                "playcount": "6804"
+                            }, 
+                            "title": "Imaginary Music", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2c634960-9a05-4f88-b749-1918cec02a41", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1752", 
+                                "playcount": "5426"
+                            }, 
+                            "title": "Killers of the Unborn", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "7393865b-d663-458f-8b89-7dfe76b3b489", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1550", 
+                                "playcount": "4541"
+                            }, 
+                            "title": "In the Eye of the Fire", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2b23bb3a-8d78-4d42-a57f-5e5fd17223c7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2878", 
+                                "playcount": "8035"
+                            }, 
+                            "title": "Terrorist Child", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "81604671-daf9-4fb9-819b-c339ceca09a5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1524", 
+                                "playcount": "4688"
+                            }, 
+                            "title": "Close to the Edge", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "72165994-36b1-44da-9bbf-fda24db34b70", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1452", 
+                                "playcount": "4633"
+                            }, 
+                            "title": "Dead Lock", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "27f66b85-ed90-49fb-a759-a19c1dd8623d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2752"
+                            }, 
+                            "title": "Cultic Regimes", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "4822603f-4ad3-44a9-b17c-069666864cb8", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1330", 
+                                "playcount": "3841"
+                            }, 
+                            "title": "Heaven or Nothing", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "f5f7db68-bc5b-4320-ae86-5dbaf22bf8a4", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1653", 
+                                "playcount": "5223"
+                            }, 
+                            "title": "King of Kings", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "8f0eb91c-2ae8-4754-b35e-d4d9be89f507", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2836"
+                            }, 
+                            "title": "Living Dead", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ddbbfce1-f755-4cfd-bebb-ec23d91d639f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5b8ffe96-73f7-3b1d-b774-74edf885f43f", 
+                    "packaging": null, 
+                    "listeners": "5085", 
+                    "date": "1988", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "42348", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }, 
+                {
+                    "name": "Atomic Arena", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2225", 
+                                "playcount": "6804"
+                            }, 
+                            "title": "Imaginary Music", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2c634960-9a05-4f88-b749-1918cec02a41", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1752", 
+                                "playcount": "5426"
+                            }, 
+                            "title": "Killers of the Unborn", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "7393865b-d663-458f-8b89-7dfe76b3b489", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1550", 
+                                "playcount": "4541"
+                            }, 
+                            "title": "In the Eye of the Fire", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2b23bb3a-8d78-4d42-a57f-5e5fd17223c7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2878", 
+                                "playcount": "8035"
+                            }, 
+                            "title": "Terrorist Child", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "81604671-daf9-4fb9-819b-c339ceca09a5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1524", 
+                                "playcount": "4688"
+                            }, 
+                            "title": "Close to the Edge", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "72165994-36b1-44da-9bbf-fda24db34b70", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1452", 
+                                "playcount": "4633"
+                            }, 
+                            "title": "Dead Lock", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "27f66b85-ed90-49fb-a759-a19c1dd8623d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2752"
+                            }, 
+                            "title": "Cultic Regimes", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "4822603f-4ad3-44a9-b17c-069666864cb8", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1330", 
+                                "playcount": "3841"
+                            }, 
+                            "title": "Heaven or Nothing", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "f5f7db68-bc5b-4320-ae86-5dbaf22bf8a4", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1653", 
+                                "playcount": "5223"
+                            }, 
+                            "title": "King of Kings", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "8f0eb91c-2ae8-4754-b35e-d4d9be89f507", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2836"
+                            }, 
+                            "title": "Living Dead", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ddbbfce1-f755-4cfd-bebb-ec23d91d639f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5b8ffe96-73f7-3b1d-b774-74edf885f43f", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "5085", 
+                    "date": "1988", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "42348", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }, 
+                {
+                    "name": "Atomic Arena", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2225", 
+                                "playcount": "6804"
+                            }, 
+                            "title": "Imaginary Music", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2c634960-9a05-4f88-b749-1918cec02a41", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1752", 
+                                "playcount": "5426"
+                            }, 
+                            "title": "Killers of the Unborn", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "7393865b-d663-458f-8b89-7dfe76b3b489", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1550", 
+                                "playcount": "4541"
+                            }, 
+                            "title": "In the Eye of the Fire", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "2b23bb3a-8d78-4d42-a57f-5e5fd17223c7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2878", 
+                                "playcount": "8035"
+                            }, 
+                            "title": "Terrorist Child", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "81604671-daf9-4fb9-819b-c339ceca09a5", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1524", 
+                                "playcount": "4688"
+                            }, 
+                            "title": "Close to the Edge", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "72165994-36b1-44da-9bbf-fda24db34b70", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1452", 
+                                "playcount": "4633"
+                            }, 
+                            "title": "Dead Lock", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "27f66b85-ed90-49fb-a759-a19c1dd8623d", 
+                            "trackNumber": "6", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "909", 
+                                "playcount": "2752"
+                            }, 
+                            "title": "Cultic Regimes", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "4822603f-4ad3-44a9-b17c-069666864cb8", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1330", 
+                                "playcount": "3841"
+                            }, 
+                            "title": "Heaven or Nothing", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "f5f7db68-bc5b-4320-ae86-5dbaf22bf8a4", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1653", 
+                                "playcount": "5223"
+                            }, 
+                            "title": "King of Kings", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "8f0eb91c-2ae8-4754-b35e-d4d9be89f507", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "866", 
+                                "playcount": "2836"
+                            }, 
+                            "title": "Living Dead", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ddbbfce1-f755-4cfd-bebb-ec23d91d639f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "5b8ffe96-73f7-3b1d-b774-74edf885f43f", 
+                    "packaging": null, 
+                    "listeners": "5085", 
+                    "date": "1988", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "42348", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }
+            ], 
+            "title": "Atomic Arena"
+        }, 
+        {
+            "mbid": "f3404766-d088-35c3-8b3c-bdd0181f0eed", 
+            "releases": [
+                {
+                    "name": "Rattle Your Cage", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "457", 
+                                "playcount": "1365"
+                            }, 
+                            "title": "Rattle Your Cage", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "85dc5cb8-50ff-4e5b-97b7-2ad9daf00cb8", 
+                            "trackNumber": "1", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "380", 
+                                "playcount": "1646"
+                            }, 
+                            "title": "Here I Am", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "a0e22671-bb75-4538-90fa-e278ab7501c2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "243", 
+                                "playcount": "761"
+                            }, 
+                            "title": "Unsuspecting", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "0c377099-ca32-4c99-9fc3-172fbe265462", 
+                            "trackNumber": "3", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "279", 
+                                "playcount": "834"
+                            }, 
+                            "title": "No Time to Run", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "ec82d35c-d933-40d7-82a7-38027ea589bf", 
+                            "trackNumber": "4", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "255", 
+                                "playcount": "792"
+                            }, 
+                            "title": "Sick", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "5ebd887c-d4a8-4673-b159-a5224f4df424", 
+                            "trackNumber": "5", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "244", 
+                                "playcount": "709"
+                            }, 
+                            "title": "Somewhere Far Away", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "e297bc1a-bd6d-4354-99f9-0a558124daa9", 
+                            "trackNumber": "6", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "249", 
+                                "playcount": "800"
+                            }, 
+                            "title": "Feed the Fire", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "4a4eda84-e933-4759-bfea-df050a4b8e2c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "238", 
+                                "playcount": "688"
+                            }, 
+                            "title": "Let It Go Let It Die", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "d5c29a5e-c539-4f23-b653-989ce9d5cee7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "252", 
+                                "playcount": "668"
+                            }, 
+                            "title": "Time for Love", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "afe8c540-41fe-4540-9fe2-1e1447ee0ffa", 
+                            "trackNumber": "9", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "228", 
+                                "playcount": "584"
+                            }, 
+                            "title": "J.R.M.", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "c20ae580-dcba-484d-8a1d-0cd12a8a4db9", 
+                            "trackNumber": "10", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "245", 
+                                "playcount": "798"
+                            }, 
+                            "title": "Your Will", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "c11f560f-110a-4663-8364-db1cca07f6ce", 
+                            "trackNumber": "11", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "235", 
+                                "playcount": "560"
+                            }, 
+                            "title": "Midnight Son", 
+                            "artistName": "Barren Cross", 
+                            "mbid": "cf77fc9c-716c-463a-ad81-b8e94c977397", 
+                            "trackNumber": "12", 
+                            "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "487ca98b-c2ae-4b48-ba44-62ab12790f59", 
+                    "packaging": null, 
+                    "listeners": "574", 
+                    "date": "1994", 
+                    "artistName": "Barren Cross", 
+                    "playcount": "9135", 
+                    "artistMBID": "64947ce4-79b3-4de4-a664-140b4e934628"
+                }
+            ], 
+            "title": "Rattle Your Cage"
+        }
+    ], 
+    "type": "Group"
+}

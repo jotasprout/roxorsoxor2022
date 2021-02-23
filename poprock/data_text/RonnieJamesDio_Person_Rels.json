@@ -1,0 +1,95 @@
+{
+    "name": "Ronnie James Dio",
+    "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "57e0e9f3-24b5-46a6-be00-be793ca26e21",
+            "name": "Elf",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e3cb4543-210f-499a-b0d1-3882c312dfb9",
+            "name": "Rainbow",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+            "name": "Black Sabbath",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c55193fb-f5d2-4839-a263-4c044fca1456",
+            "name": "Dio",
+            "attributes": [
+                "eponymous",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+            "name": "Black Sabbath",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c55193fb-f5d2-4839-a263-4c044fca1456",
+            "name": "Dio",
+            "attributes": [
+                "eponymous",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d9183aad-b36e-4554-892d-e26e8854c79d",
+            "name": "The Elves",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9f6c4063-ce0a-4b71-a7b7-a32c91997260",
+            "name": "Ronnie Dio and the Prophets",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+            "name": "Heaven & Hell",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "883871a1-f154-4df8-a7f7-558ea456dd0a",
+            "name": "Ronnie Dio and the Red Caps",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d9183aad-b36e-4554-892d-e26e8854c79d",
+            "name": "The Elves",
+            "attributes": [
+                "bass guitar",
+                "original"
+            ]
+        }
+    ]
+}

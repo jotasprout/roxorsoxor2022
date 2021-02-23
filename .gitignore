@@ -1,6 +1,10 @@
 .DS_Store
 id
+old-site
 personal-Reference-IGNORE
+poprock/rockdb.php
+poprock/secrets
+
 short
 superSecretSecrets
 Thumbs.db

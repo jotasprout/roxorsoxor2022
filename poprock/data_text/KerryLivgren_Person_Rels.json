@@ -1,0 +1,50 @@
+{
+    "name": "Kerry Livgren",
+    "mbid": "ff399892-1aab-44e8-8905-bf8721ce0866",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "ba7301c7-8bcd-42ff-a93c-c7e5ac975fe1",
+            "name": "Proto-Kaw",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+            "name": "Kansas",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "original",
+                "synthesizer"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0f21956c-ebd9-487f-ae3b-58a69d182af6",
+            "name": "AD",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+            "name": "Kansas",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "synthesizer"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+            "name": "Kansas",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "synthesizer"
+            ]
+        }
+    ]
+}

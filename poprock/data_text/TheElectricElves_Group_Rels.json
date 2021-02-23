@@ -1,0 +1,13 @@
+{
+    "name": "The Electric Elves",
+    "mbid": "30f9591a-778b-40dd-be8f-105589f9c998",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "715dc0e8-046b-4cd8-9d3a-dad4ffceed3b",
+            "name": "Nick Pantas",
+            "attributes": []
+        }
+    ]
+}

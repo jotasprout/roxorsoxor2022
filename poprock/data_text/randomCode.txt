@@ -1,0 +1,11 @@
+﻿SELECT t.*, a.albumNameMB
+FROM tracksMB t
+JOIN albumsMB a ON a.albumMBID = t.albumMBID
+WHERE a.artistMBID = '5182c1d9-c7d2-4dad-afa0-ccfeada921a8'
+ORDER BY a.albumNameMB, t.trackNumber ASC;
+
+SELECT t.*, a.albumNameSpot 
+FROM tracksSpot t 
+JOIN albumsSpot a ON a.albumSpotID = t.albumSpotID 
+WHERE a.artistSpotID = '5M52tdBnJaKSvOpJGz8mfZ' 
+ORDER BY a.albumNameSpot, t.trackNumber ASC

@@ -1,0 +1,59 @@
+{
+    "name": "Dave Matthews Band",
+    "mbid": "07e748f1-075e-428d-85dc-ce3be434e906",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "4ebefe60-3a9b-42a6-a5c5-27b85b76583f",
+            "name": "Tim Reynolds",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "00037321-7f26-4ab6-9ffd-f43dee8a9b8e",
+            "name": "Arthur Strong",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "720098c4-d6fe-4141-9d5b-40d66a2a7324",
+            "name": "Peter Griesar",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "b065c2c6-92ef-40b2-a5b0-79f76b4953ec",
+            "name": "Carter Beauford",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2f176aa4-2bda-49ad-9fc8-3044bd141302",
+            "name": "Stefan Lessard",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+            "name": "Dave Matthews",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2c0f2226-79cf-4d96-b04c-bc6b9d969353",
+            "name": "LeRoi Moore",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "a4d9980d-533f-49f1-bf7a-251e24a82354",
+            "name": "Boyd Tinsley",
+            "attributes": []
+        }
+    ]
+}

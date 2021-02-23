@@ -1,0 +1,47 @@
+{
+    "name": "Radiohead",
+    "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+            "name": "Colin Greenwood",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e9fcfbbf-1743-4f73-8744-ada8da7394ea",
+            "name": "Jonny Greenwood",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "309d9809-cf74-493a-b56b-1378258f20fd",
+            "name": "Ed O\u2019Brien",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "4ab74d13-d1eb-4895-b874-6da5d8b1aac3",
+            "name": "Philip Selway",
+            "attributes": [
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+            "name": "Thom Yorke",
+            "attributes": [
+                "original"
+            ]
+        }
+    ]
+}

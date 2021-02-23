@@ -1,0 +1,247 @@
+{
+    "name": "Dio",
+    "mbid": "c55193fb-f5d2-4839-a263-4c044fca1456",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "3ee1d8cd-c79a-442f-a6ba-5ee5297d9019",
+            "name": "Jake E. Lee",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0832f927-9bc6-4bb2-b538-343b29bde2e9",
+            "name": "Vivian Campbell",
+            "attributes": [
+                "electric guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40d1ad2f-e190-4d1e-9f9b-ba88144ac017",
+            "name": "Vinny Appice",
+            "attributes": [
+                "membranophone",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "20aa5449-0dd8-43d7-b7c1-86de3a9864d4",
+            "name": "Jimmy Bain",
+            "attributes": [
+                "bass guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+            "name": "Ronnie James Dio",
+            "attributes": [
+                "eponymous",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bc4b3e10-e2e1-4228-9d58-90644e8755a7",
+            "name": "Claude Schnell",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "2f69a745-e794-4362-b9f3-47f06767a52c",
+            "name": "Jerry Best",
+            "attributes": [
+                "additional",
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ae339c98-869a-4c8d-bfd7-0cefdc15cd96",
+            "name": "Craig Goldy",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "013b4793-8ce4-4db3-b2d2-8d0a52493013",
+            "name": "Teddy Cook",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c45b05a3-1722-4830-951d-9ec20223ba86",
+            "name": "Jens Johansson",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1d66b9e8-a7d6-4e24-a6d1-4ab00201e879",
+            "name": "Rowan Robertson",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "178fc74c-7fac-4ee7-bdf3-84fc4c804588",
+            "name": "Simon Wright",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "2d53b70d-8d8b-4cdd-b28b-a45c0f51066e",
+            "name": "Jeff Pilson",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40d1ad2f-e190-4d1e-9f9b-ba88144ac017",
+            "name": "Vinny Appice",
+            "attributes": [
+                "membranophone",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "cdfa63ea-cfd9-4544-881c-c7a2ac4969ee",
+            "name": "Tracy G",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+            "name": "Ronnie James Dio",
+            "attributes": [
+                "eponymous",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9a8947dd-8c41-4ccf-bbcd-9bcdc50d3059",
+            "name": "Scott Warren",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bd0eb4b3-1dd5-4106-b85f-e47e3943d3b5",
+            "name": "Larry Dennison",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "af49ecbb-a0b9-4805-9cec-f97eac794c81",
+            "name": "Bob Daisley",
+            "attributes": [
+                "additional",
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ae339c98-869a-4c8d-bfd7-0cefdc15cd96",
+            "name": "Craig Goldy",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "20aa5449-0dd8-43d7-b7c1-86de3a9864d4",
+            "name": "Jimmy Bain",
+            "attributes": [
+                "bass guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "178fc74c-7fac-4ee7-bdf3-84fc4c804588",
+            "name": "Simon Wright",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "68d43646-e238-4865-904b-3c5661392c28",
+            "name": "Chuck Garric",
+            "attributes": [
+                "additional",
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9e74d76d-bb5c-4454-9028-9b8f6e241d9b",
+            "name": "Doug Aldrich",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ae339c98-869a-4c8d-bfd7-0cefdc15cd96",
+            "name": "Craig Goldy",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "2d53b70d-8d8b-4cdd-b28b-a45c0f51066e",
+            "name": "Jeff Pilson",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9e74d76d-bb5c-4454-9028-9b8f6e241d9b",
+            "name": "Doug Aldrich",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "43bf09ec-467e-4934-8d05-b47f955c2848",
+            "name": "Rudy Sarzo",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ae339c98-869a-4c8d-bfd7-0cefdc15cd96",
+            "name": "Craig Goldy",
+            "attributes": [
+                "electric guitar"
+            ]
+        }
+    ]
+}

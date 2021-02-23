@@ -1,0 +1,67 @@
+{
+    "genres": [
+        "Dio", 
+        "rock", 
+        "60s", 
+        "classic rock", 
+        "hard rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 4.385743856430054, 
+        "Task End": 1565064310.160663, 
+        "Task Start": 1565064305.774919
+    }, 
+    "stats": {
+        "listeners": "283", 
+        "playcount": "1670"
+    }, 
+    "name": "The Electric Elves", 
+    "mbid": "30f9591a-778b-40dd-be8f-105589f9c998", 
+    "birthday": "1967", 
+    "date": "2019-08-06", 
+    "albums": [
+        {
+            "mbid": "b655f6d6-b440-3032-b0a7-82da7f905b52", 
+            "releases": [
+                {
+                    "name": "Hey, Look Me Over", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "225", 
+                                "playcount": "918"
+                            }, 
+                            "title": "Hey, Look Me Over", 
+                            "artistName": "The Electric Elves", 
+                            "mbid": "eef211e2-ef78-4b25-939e-25ba3c144259", 
+                            "trackNumber": "1", 
+                            "artistMBID": "30f9591a-778b-40dd-be8f-105589f9c998"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "156", 
+                                "playcount": "494"
+                            }, 
+                            "title": "It Pays to Advertise", 
+                            "artistName": "The Electric Elves", 
+                            "mbid": "5a16e135-29c1-4522-882f-4b03159f02db", 
+                            "trackNumber": "2", 
+                            "artistMBID": "30f9591a-778b-40dd-be8f-105589f9c998"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8e8be463-06fc-44e0-975a-542fa73f6894", 
+                    "packaging": null, 
+                    "listeners": "38", 
+                    "date": "1967", 
+                    "artistName": "The Electric Elves", 
+                    "playcount": "117", 
+                    "artistMBID": "30f9591a-778b-40dd-be8f-105589f9c998"
+                }
+            ], 
+            "title": "Hey, Look Me Over"
+        }
+    ], 
+    "type": "Group"
+}

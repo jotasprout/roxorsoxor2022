@@ -1,0 +1,21 @@
+{
+    "name": "The Crucified",
+    "mbid": "149cbb32-d8ac-43f3-81f4-e591910cd9de",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "8668eb82-dae1-4dad-91d5-7f7bf976401b",
+            "name": "Greg Minier",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b0b00b37-1f6c-46c0-ad0e-6a82530b6f4a",
+            "name": "Mark Salomon",
+            "attributes": []
+        }
+    ]
+}

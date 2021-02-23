@@ -1,0 +1,192 @@
+{
+    "name": "Judas Priest",
+    "mbid": "6b335658-22c8-485d-93de-0bc29a1d0349",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "3651334d-6513-40e1-adbb-423acf0ad3d6",
+            "name": "Ernie Chataway",
+            "attributes": [
+                "guitar family",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "6bfe5aa2-ef88-4001-8be0-c844cf5eb106",
+            "name": "John Partridge",
+            "attributes": [
+                "membranophone",
+                "original",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f5db7c1a-9c46-464d-b067-5bd2113d0515",
+            "name": "Bruno Stapenhill",
+            "attributes": [
+                "bass guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "852de41a-ae22-4cdd-b6e3-49c9ddef6df2",
+            "name": "Al Atkins",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e6fbb8f7-9545-4f3f-b835-2fed39022f89",
+            "name": "Kenneth Downing",
+            "attributes": [
+                "guitar family"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c245dbe9-46e9-4ade-beee-38eb478adc09",
+            "name": "Ian Hill",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "2d6566f2-08ca-482c-b3d9-d654a9190b19",
+            "name": "John Ellis",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "df630e0a-c966-4f50-b7e5-c19ec20138f7",
+            "name": "Chris Campbell",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bfc2cbfb-8660-467d-acdd-0fe7f6904547",
+            "name": "Alan Moore",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "71b5852c-a359-4ca6-bcb1-219a2b3e68ea",
+            "name": "John Hinch",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9f0d5967-5b88-44d6-9fa1-7d4bb8b61ed0",
+            "name": "Rob Halford",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "13b14a2e-470c-434c-8f89-c8763f849e2c",
+            "name": "Glenn Tipton",
+            "attributes": [
+                "guitar family",
+                "keyboard",
+                "synthesizer"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bfc2cbfb-8660-467d-acdd-0fe7f6904547",
+            "name": "Alan Moore",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "cc8a09ef-bd78-41dc-af3e-22a51cd0d09a",
+            "name": "Simon Phillips",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1bd61509-828b-4dff-9193-46bd20bf65ed",
+            "name": "Les Binks",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f6aa5c4a-38d8-4967-b983-52bd039bce33",
+            "name": "Dave Holland",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1a6624a1-324f-4b0e-98f2-6ff8e9c12310",
+            "name": "Scott Travis",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1a6624a1-324f-4b0e-98f2-6ff8e9c12310",
+            "name": "Scott Travis",
+            "attributes": [
+                "membranophone",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "5d61bd85-d2d1-4945-8982-6f85cb206dbc",
+            "name": "Tim \u201cRipper\u201d Owens",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9f0d5967-5b88-44d6-9fa1-7d4bb8b61ed0",
+            "name": "Rob Halford",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "49f4d882-cbeb-4e72-9b42-a043a64151ee",
+            "name": "Richie Faulkner",
+            "attributes": [
+                "electric guitar"
+            ]
+        }
+    ]
+}

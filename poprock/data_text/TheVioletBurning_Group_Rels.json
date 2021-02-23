@@ -1,0 +1,19 @@
+{
+    "name": "The Violet Burning",
+    "mbid": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "7003c6ca-059b-4f57-b51e-9091f940ebf8",
+            "name": "Michael J. Pritzl",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "3b9190fe-f87a-45a9-ac0c-f30cd83f4a72",
+            "name": "Sam West",
+            "attributes": []
+        }
+    ]
+}

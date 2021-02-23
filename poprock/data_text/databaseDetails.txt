@@ -1,0 +1,89 @@
+artists
+|__ artistID
+|__ artistMBID  
+|__ artistName 
+
+relatedArtists
+|__ id 
+|__ artistSpotifyID 
+|__ artistNameSpotify
+|__ relatedArtistName  
+|__ relatedArtistSpotifyID
+
+artistsOneSpotifymultiMBID
+|__ id 
+|__ artistMBID
+|__ artistNameMBID    
+|__ artistSpotifyID 
+|__ artistNameSpotify
+
+relatedAlbums
+|__ artistID 
+|__ albumID
+|__ albumName  
+|__ relatedArtistID
+
+popArtists
+|__ id
+|__ artistID  
+|__ date
+|__ pop 
+|__ followers   
+
+artistListenersPlaycount
+|__ id
+|__ artistMBID  
+|__ dataDate
+|__ artistListeners 
+|__ artistPlaycount 
+
+genres2
+|__ id
+|__ artistID  
+|__ genre
+
+albums
+|_albumID           varchar(48)   latin1_swedish_ci NOT NULL  DEFAULT None
+|_albumName         varchar(255)  latin1_swedish_ci NOT NULL  DEFAULT None
+|_artistID          varchar(48)   latin1_swedish_ci NOT NULL  DEFAULT None
+|_albumMBID         varchar(48)   latin1_swedish_ci NULL      DEFAULT NULL
+|_year              varchar(4)    latin1_swedish_ci NOT NULL  DEFAULT None
+|_albumTotalTracks  INT(3)                          NOT NULL  DEFAULT None
+|_albumArt          varchar(96)   latin1_swedish_ci NULL      DEFAULT NULL
+|_country           varchar(48)   latin1_swedish_ci NULL      DEFAULT NULL
+
+albumsMBID
+|__ albumMBID  
+|__ albumMBIDName
+
+popAlbums
+|__ id
+|__ albumID  
+|__ date
+|__ pop 
+
+albumListenersPlaycount
+|__ id
+|__ albumMBID  
+|__ dataDate
+|__ albumListeners 
+|__ albumPlaycount 
+
+tracks
+|__ trackID
+|__ trackMBID  
+|__ trackName
+|__ albumID  
+
+popTracks
+|__ id
+|__ trackID  
+|__ date
+|__ pop  
+
+trackListenersPlaycount
+|__ id
+|__ trackMBID  
+|__ dataDate
+|__ trackListeners 
+|__ trackPlaycount 

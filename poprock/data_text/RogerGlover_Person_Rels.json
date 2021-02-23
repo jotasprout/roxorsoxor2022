@@ -1,0 +1,37 @@
+{
+    "name": "Roger Glover",
+    "mbid": "583944a8-d43b-42e9-8e3c-29eb89f53587",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "30812d14-b477-4d2d-9a92-e3064a921093",
+            "name": "Episode Six",
+            "attributes": [
+                "bass"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
+            "name": "Deep Purple",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e3cb4543-210f-499a-b0d1-3882c312dfb9",
+            "name": "Rainbow",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
+            "name": "Deep Purple",
+            "attributes": [
+                "bass guitar"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+.choice {
+    background-color: #FF00FF;
+	width: 64px;
+	height: 64px;
+}
+
+.chosen {
+    background-color: #FFFFFF;
+	width: 64px;
+	height: 64px;
+}
+
+.column {
+	background-color: black;
+}
+
+.space {
+	width: 800px;
+}
+
+#dragFrom {
+    background-color: #FF0000;
+	/* height: 240px; */
+}
+
+.dragFrom {
+	/* height: 240px; */
+}
+
+.dropTo {
+    /* Do I need this? */
+}
+
+#dropTo {
+    background-color: #FFFF00;
+}

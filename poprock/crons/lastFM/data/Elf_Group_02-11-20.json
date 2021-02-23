@@ -1,0 +1,881 @@
+{
+    "genres": [
+        "hard rock", 
+        "blues rock", 
+        "classic rock", 
+        "rock", 
+        "blues"
+    ], 
+    "taskDuration": {
+        "Task Duration": 29.91549801826477, 
+        "Task End": 1581397528.307753, 
+        "Task Start": 1581397498.392255
+    }, 
+    "stats": {
+        "listeners": "85906", 
+        "playcount": "765735"
+    }, 
+    "name": "Elf", 
+    "mbid": "57e0e9f3-24b5-46a6-be00-be793ca26e21", 
+    "birthday": "1970", 
+    "date": "2020-02-11", 
+    "albums": [
+        {
+            "mbid": "8be0f065-2fd5-3592-beec-de07d4ff7cb5", 
+            "releases": [
+                {
+                    "name": "Elf", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "27574", 
+                                "playcount": "70713"
+                            }, 
+                            "title": "Hoochie Koochie Lady", 
+                            "artistName": "Elf", 
+                            "mbid": "b76856d2-46c2-4b19-99c9-eaf324947986", 
+                            "trackNumber": "1", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23637", 
+                                "playcount": "57291"
+                            }, 
+                            "title": "First Avenue", 
+                            "artistName": "Elf", 
+                            "mbid": "c141b483-adaa-444c-b904-eb5d878d7441", 
+                            "trackNumber": "2", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28000", 
+                                "playcount": "81286"
+                            }, 
+                            "title": "Never More", 
+                            "artistName": "Elf", 
+                            "mbid": "0ec49125-edb3-45f8-a746-1b8cbf98aee9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "14"
+                            }, 
+                            "title": "I\u2019m Coming Back for You", 
+                            "artistName": "Elf", 
+                            "mbid": "899584b3-2d4c-42b9-b3c6-c4b2b6dbfa05", 
+                            "trackNumber": "4", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18812", 
+                                "playcount": "42726"
+                            }, 
+                            "title": "Sit Down Honey (Everything Will Be Alright)", 
+                            "artistName": "Elf", 
+                            "mbid": "e684dd44-38b6-4067-b519-ed668f79e161", 
+                            "trackNumber": "5", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22490", 
+                                "playcount": "53940"
+                            }, 
+                            "title": "Dixie Lee Junction", 
+                            "artistName": "Elf", 
+                            "mbid": "56c6210f-681e-47a6-9610-1fe7697116fd", 
+                            "trackNumber": "6", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20460", 
+                                "playcount": "47654"
+                            }, 
+                            "title": "Love Me Like a Woman", 
+                            "artistName": "Elf", 
+                            "mbid": "7256b3f0-5312-43fa-85b5-19e4845f3e0f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20727", 
+                                "playcount": "48276"
+                            }, 
+                            "title": "Gambler, Gambler", 
+                            "artistName": "Elf", 
+                            "mbid": "a867f6a0-d2ba-4a91-88a9-20ac3fdf9635", 
+                            "trackNumber": "8", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8a6c01db-1af6-35dc-b839-2e8948388b6b", 
+                    "packaging": null, 
+                    "listeners": "72313", 
+                    "date": "1972", 
+                    "artistName": "Elf", 
+                    "playcount": "446880", 
+                    "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                }, 
+                {
+                    "name": "Elf", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "27574", 
+                                "playcount": "70713"
+                            }, 
+                            "title": "Hoochie Koochie Lady", 
+                            "artistName": "Elf", 
+                            "mbid": "b76856d2-46c2-4b19-99c9-eaf324947986", 
+                            "trackNumber": "1", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23637", 
+                                "playcount": "57291"
+                            }, 
+                            "title": "First Avenue", 
+                            "artistName": "Elf", 
+                            "mbid": "c141b483-adaa-444c-b904-eb5d878d7441", 
+                            "trackNumber": "2", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28000", 
+                                "playcount": "81286"
+                            }, 
+                            "title": "Never More", 
+                            "artistName": "Elf", 
+                            "mbid": "0ec49125-edb3-45f8-a746-1b8cbf98aee9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "14"
+                            }, 
+                            "title": "I\u2019m Coming Back for You", 
+                            "artistName": "Elf", 
+                            "mbid": "899584b3-2d4c-42b9-b3c6-c4b2b6dbfa05", 
+                            "trackNumber": "4", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18812", 
+                                "playcount": "42726"
+                            }, 
+                            "title": "Sit Down Honey (Everything Will Be Alright)", 
+                            "artistName": "Elf", 
+                            "mbid": "e684dd44-38b6-4067-b519-ed668f79e161", 
+                            "trackNumber": "5", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22490", 
+                                "playcount": "53940"
+                            }, 
+                            "title": "Dixie Lee Junction", 
+                            "artistName": "Elf", 
+                            "mbid": "56c6210f-681e-47a6-9610-1fe7697116fd", 
+                            "trackNumber": "6", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20460", 
+                                "playcount": "47654"
+                            }, 
+                            "title": "Love Me Like a Woman", 
+                            "artistName": "Elf", 
+                            "mbid": "7256b3f0-5312-43fa-85b5-19e4845f3e0f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20727", 
+                                "playcount": "48276"
+                            }, 
+                            "title": "Gambler, Gambler", 
+                            "artistName": "Elf", 
+                            "mbid": "a867f6a0-d2ba-4a91-88a9-20ac3fdf9635", 
+                            "trackNumber": "8", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8a6c01db-1af6-35dc-b839-2e8948388b6b", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "72313", 
+                    "date": "1991-07-09", 
+                    "artistName": "Elf", 
+                    "playcount": "446880", 
+                    "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                }
+            ], 
+            "title": "Elf"
+        }, 
+        {
+            "mbid": "2fffb9bb-858d-3af9-957c-2ddaf993da1d", 
+            "releases": [
+                {
+                    "name": "Carolina County Ball", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6369", 
+                                "playcount": "19393"
+                            }, 
+                            "title": "Carolina County Ball", 
+                            "artistName": "Elf", 
+                            "mbid": "5b881fc1-684e-47bb-bc47-2769e347f1ad", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3109", 
+                                "playcount": "10225"
+                            }, 
+                            "title": "L.A. 59", 
+                            "artistName": "Elf", 
+                            "mbid": "1b18da8f-ab5c-435e-a125-a5fd28283d6f", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4296", 
+                                "playcount": "13417"
+                            }, 
+                            "title": "Ain\u2019t It All Amusing", 
+                            "artistName": "Elf", 
+                            "mbid": "e517122a-058a-422e-904d-f0a0dd17fb91", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4059", 
+                                "playcount": "15079"
+                            }, 
+                            "title": "Happy", 
+                            "artistName": "Elf", 
+                            "mbid": "d2f733ba-2b47-4970-96b8-815877c643bc", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4170", 
+                                "playcount": "14107"
+                            }, 
+                            "title": "Annie New Orleans", 
+                            "artistName": "Elf", 
+                            "mbid": "d9eb7dc6-3d60-4bea-9355-80b68979d3a4", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "632", 
+                                "playcount": "1749"
+                            }, 
+                            "title": "Rocking Chair Rock \u2019n\u2019 Roll Blues", 
+                            "artistName": "Elf", 
+                            "mbid": "d7631ede-8acb-45b9-b488-26b813236d91", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4645", 
+                                "playcount": "16636"
+                            }, 
+                            "title": "Rainbow", 
+                            "artistName": "Elf", 
+                            "mbid": "f3f03e40-996f-40a3-a4b0-9a4459630624", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3852", 
+                                "playcount": "12211"
+                            }, 
+                            "title": "Do the Same Thing", 
+                            "artistName": "Elf", 
+                            "mbid": "98a7e9a9-8c7f-436c-befa-f1bf3065dce9", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3628", 
+                                "playcount": "11466"
+                            }, 
+                            "title": "Blanche", 
+                            "artistName": "Elf", 
+                            "mbid": "e33ef881-9ef7-401b-a009-dae089bf4599", 
+                            "trackNumber": "B5", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "3d1e280f-3051-4868-bf05-78d2825cf430", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "4425", 
+                    "date": "1974", 
+                    "artistName": "Elf", 
+                    "playcount": "76031", 
+                    "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                }
+            ], 
+            "title": "Carolina County Ball"
+        }, 
+        {
+            "mbid": "b4e6d7b6-b7ca-3086-9b0b-a36cecdac93f", 
+            "releases": [
+                {
+                    "name": "Trying to Burn the Sun", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "3975", 
+                                "playcount": "13465"
+                            }, 
+                            "title": "Black Swampy Water", 
+                            "artistName": "Elf", 
+                            "mbid": "aa013b8f-c5f4-4fff-8989-13daca84668a", 
+                            "trackNumber": "A1", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3635", 
+                                "playcount": "11848"
+                            }, 
+                            "title": "Prentice Wood", 
+                            "artistName": "Elf", 
+                            "mbid": "de954503-d8ff-4bd9-addd-d97396788282", 
+                            "trackNumber": "A2", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3673", 
+                                "playcount": "12676"
+                            }, 
+                            "title": "When She Smiles", 
+                            "artistName": "Elf", 
+                            "mbid": "3e0db36c-7a9c-44cd-9317-46db9f0863b1", 
+                            "trackNumber": "A3", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3529", 
+                                "playcount": "12339"
+                            }, 
+                            "title": "Good Time Music", 
+                            "artistName": "Elf", 
+                            "mbid": "efd7730b-8cdb-4186-8eca-2adb76f54d96", 
+                            "trackNumber": "A4", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3370", 
+                                "playcount": "10966"
+                            }, 
+                            "title": "Liberty Road", 
+                            "artistName": "Elf", 
+                            "mbid": "52372c7c-6964-4df0-9148-01306d86277d", 
+                            "trackNumber": "B1", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2753", 
+                                "playcount": "9322"
+                            }, 
+                            "title": "Shotgun Boogie", 
+                            "artistName": "Elf", 
+                            "mbid": "06edeaed-55c6-43a6-a9e0-b16931596271", 
+                            "trackNumber": "B2", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3623", 
+                                "playcount": "12874"
+                            }, 
+                            "title": "Wonderworld", 
+                            "artistName": "Elf", 
+                            "mbid": "09ba8663-1680-4818-9ce9-fc900905fe03", 
+                            "trackNumber": "B3", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3176", 
+                                "playcount": "11290"
+                            }, 
+                            "title": "Streetwalker", 
+                            "artistName": "Elf", 
+                            "mbid": "0cf70d4b-bb68-4586-9e14-628bc3d0cb83", 
+                            "trackNumber": "B4", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d8d00679-48bc-42a3-9b0d-0830d1bdbbd1", 
+                    "packaging": null, 
+                    "listeners": "4542", 
+                    "date": "1975", 
+                    "artistName": "Elf", 
+                    "playcount": "71059", 
+                    "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                }
+            ], 
+            "title": "Trying to Burn the Sun"
+        }, 
+        {
+            "mbid": "a11f43b9-1f58-468f-bd34-5f9f7eae9523", 
+            "releases": [], 
+            "title": "War Pigs '72"
+        }, 
+        {
+            "mbid": "7e9ebaf0-257d-32bc-b763-8a9aeb0d0e87", 
+            "releases": [
+                {
+                    "name": "Ronnie James Dio: The Elf Albums", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6369", 
+                                "playcount": "19393"
+                            }, 
+                            "title": "Carolina County Ball", 
+                            "artistName": "Elf", 
+                            "mbid": "5b881fc1-684e-47bb-bc47-2769e347f1ad", 
+                            "trackNumber": "1", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3109", 
+                                "playcount": "10225"
+                            }, 
+                            "title": "L.A. 59", 
+                            "artistName": "Elf", 
+                            "mbid": "1b18da8f-ab5c-435e-a125-a5fd28283d6f", 
+                            "trackNumber": "2", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4296", 
+                                "playcount": "13417"
+                            }, 
+                            "title": "Ain\u2019t It All Amusing", 
+                            "artistName": "Elf", 
+                            "mbid": "e517122a-058a-422e-904d-f0a0dd17fb91", 
+                            "trackNumber": "3", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4059", 
+                                "playcount": "15079"
+                            }, 
+                            "title": "Happy", 
+                            "artistName": "Elf", 
+                            "mbid": "d2f733ba-2b47-4970-96b8-815877c643bc", 
+                            "trackNumber": "4", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4170", 
+                                "playcount": "14107"
+                            }, 
+                            "title": "Annie New Orleans", 
+                            "artistName": "Elf", 
+                            "mbid": "d9eb7dc6-3d60-4bea-9355-80b68979d3a4", 
+                            "trackNumber": "5", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "632", 
+                                "playcount": "1749"
+                            }, 
+                            "title": "Rocking Chair Rock \u2019n\u2019 Roll Blues", 
+                            "artistName": "Elf", 
+                            "mbid": "d7631ede-8acb-45b9-b488-26b813236d91", 
+                            "trackNumber": "6", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4645", 
+                                "playcount": "16636"
+                            }, 
+                            "title": "Rainbow", 
+                            "artistName": "Elf", 
+                            "mbid": "f3f03e40-996f-40a3-a4b0-9a4459630624", 
+                            "trackNumber": "7", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3852", 
+                                "playcount": "12211"
+                            }, 
+                            "title": "Do the Same Thing", 
+                            "artistName": "Elf", 
+                            "mbid": "98a7e9a9-8c7f-436c-befa-f1bf3065dce9", 
+                            "trackNumber": "8", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3628", 
+                                "playcount": "11466"
+                            }, 
+                            "title": "Blanche", 
+                            "artistName": "Elf", 
+                            "mbid": "e33ef881-9ef7-401b-a009-dae089bf4599", 
+                            "trackNumber": "9", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3975", 
+                                "playcount": "13465"
+                            }, 
+                            "title": "Black Swampy Water", 
+                            "artistName": "Elf", 
+                            "mbid": "aa013b8f-c5f4-4fff-8989-13daca84668a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3635", 
+                                "playcount": "11848"
+                            }, 
+                            "title": "Prentice Wood", 
+                            "artistName": "Elf", 
+                            "mbid": "de954503-d8ff-4bd9-addd-d97396788282", 
+                            "trackNumber": "11", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3673", 
+                                "playcount": "12676"
+                            }, 
+                            "title": "When She Smiles", 
+                            "artistName": "Elf", 
+                            "mbid": "3e0db36c-7a9c-44cd-9317-46db9f0863b1", 
+                            "trackNumber": "12", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3529", 
+                                "playcount": "12339"
+                            }, 
+                            "title": "Good Time Music", 
+                            "artistName": "Elf", 
+                            "mbid": "efd7730b-8cdb-4186-8eca-2adb76f54d96", 
+                            "trackNumber": "13", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3370", 
+                                "playcount": "10966"
+                            }, 
+                            "title": "Liberty Road", 
+                            "artistName": "Elf", 
+                            "mbid": "52372c7c-6964-4df0-9148-01306d86277d", 
+                            "trackNumber": "14", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2753", 
+                                "playcount": "9322"
+                            }, 
+                            "title": "Shotgun Boogie", 
+                            "artistName": "Elf", 
+                            "mbid": "06edeaed-55c6-43a6-a9e0-b16931596271", 
+                            "trackNumber": "15", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3623", 
+                                "playcount": "12874"
+                            }, 
+                            "title": "Wonderworld", 
+                            "artistName": "Elf", 
+                            "mbid": "09ba8663-1680-4818-9ce9-fc900905fe03", 
+                            "trackNumber": "16", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3176", 
+                                "playcount": "11290"
+                            }, 
+                            "title": "Streetwalker", 
+                            "artistName": "Elf", 
+                            "mbid": "0cf70d4b-bb68-4586-9e14-628bc3d0cb83", 
+                            "trackNumber": "17", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }
+                    ], 
+                    "country": "GB", 
+                    "disambiguation": "", 
+                    "mbid": "12cdf57c-2e58-45d3-8a33-494be1a2ca82", 
+                    "packaging": null, 
+                    "listeners": "530", 
+                    "date": "1991", 
+                    "artistName": "Elf", 
+                    "playcount": "3142", 
+                    "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                }
+            ], 
+            "title": "Ronnie James Dio: The Elf Albums"
+        }, 
+        {
+            "mbid": "70bd88d6-5303-4db9-bae6-9770b652b6ee", 
+            "releases": [
+                {
+                    "name": "Dream Evil / Trying to Burn the Sun", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "48669", 
+                                "playcount": "190424"
+                            }, 
+                            "title": "Night People", 
+                            "artistName": "Elf", 
+                            "mbid": "7bb3d6c5-475c-4051-8e8a-9dbb933231d6", 
+                            "trackNumber": "1", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100658", 
+                                "playcount": "408989"
+                            }, 
+                            "title": "Dream Evil", 
+                            "artistName": "Elf", 
+                            "mbid": "87255a5c-66ea-448b-85d8-9f5896e04821", 
+                            "trackNumber": "2", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45177", 
+                                "playcount": "165186"
+                            }, 
+                            "title": "Sunset Superman", 
+                            "artistName": "Elf", 
+                            "mbid": "45a67148-c5a2-49ee-b0da-c09e9a96974f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64784", 
+                                "playcount": "280686"
+                            }, 
+                            "title": "All the Fools Sailed Away", 
+                            "artistName": "Elf", 
+                            "mbid": "536a1204-afec-4c7b-a8fb-8b839e3a514d", 
+                            "trackNumber": "4", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "44869", 
+                                "playcount": "161803"
+                            }, 
+                            "title": "Naked in the Rain", 
+                            "artistName": "Elf", 
+                            "mbid": "5011b8f1-9f1b-4a8e-8a62-8d4a06f477fb", 
+                            "trackNumber": "5", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "37257", 
+                                "playcount": "126284"
+                            }, 
+                            "title": "Overlove", 
+                            "artistName": "Elf", 
+                            "mbid": "7563ced6-6f9e-48c1-a262-04d7f99b1e6b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52930", 
+                                "playcount": "198206"
+                            }, 
+                            "title": "I Could Have Been a Dreamer", 
+                            "artistName": "Elf", 
+                            "mbid": "180cc2cb-091c-458f-9bf2-1327b3080ca6", 
+                            "trackNumber": "7", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35469", 
+                                "playcount": "122538"
+                            }, 
+                            "title": "Faces in the Window", 
+                            "artistName": "Elf", 
+                            "mbid": "af02271a-4f21-4598-a039-57a844107385", 
+                            "trackNumber": "8", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "37333", 
+                                "playcount": "119948"
+                            }, 
+                            "title": "When a Woman Cries", 
+                            "artistName": "Elf", 
+                            "mbid": "3eb0606a-6a70-40a1-a4d3-9156ecb67773", 
+                            "trackNumber": "9", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3975", 
+                                "playcount": "13465"
+                            }, 
+                            "title": "Black Swampy Water", 
+                            "artistName": "Elf", 
+                            "mbid": "aa013b8f-c5f4-4fff-8989-13daca84668a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3635", 
+                                "playcount": "11848"
+                            }, 
+                            "title": "Prentice Wood", 
+                            "artistName": "Elf", 
+                            "mbid": "de954503-d8ff-4bd9-addd-d97396788282", 
+                            "trackNumber": "11", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3673", 
+                                "playcount": "12676"
+                            }, 
+                            "title": "When She Smiles", 
+                            "artistName": "Elf", 
+                            "mbid": "3e0db36c-7a9c-44cd-9317-46db9f0863b1", 
+                            "trackNumber": "12", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3529", 
+                                "playcount": "12339"
+                            }, 
+                            "title": "Good Time Music", 
+                            "artistName": "Elf", 
+                            "mbid": "efd7730b-8cdb-4186-8eca-2adb76f54d96", 
+                            "trackNumber": "13", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3370", 
+                                "playcount": "10966"
+                            }, 
+                            "title": "Liberty Road", 
+                            "artistName": "Elf", 
+                            "mbid": "52372c7c-6964-4df0-9148-01306d86277d", 
+                            "trackNumber": "14", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2753", 
+                                "playcount": "9322"
+                            }, 
+                            "title": "Shotgun Boogie", 
+                            "artistName": "Elf", 
+                            "mbid": "06edeaed-55c6-43a6-a9e0-b16931596271", 
+                            "trackNumber": "15", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3623", 
+                                "playcount": "12874"
+                            }, 
+                            "title": "Wonderworld", 
+                            "artistName": "Elf", 
+                            "mbid": "09ba8663-1680-4818-9ce9-fc900905fe03", 
+                            "trackNumber": "16", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3176", 
+                                "playcount": "11290"
+                            }, 
+                            "title": "Streetwalker", 
+                            "artistName": "Elf", 
+                            "mbid": "0cf70d4b-bb68-4586-9e14-628bc3d0cb83", 
+                            "trackNumber": "17", 
+                            "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                        }
+                    ], 
+                    "country": "RU", 
+                    "disambiguation": "", 
+                    "mbid": "2340d2af-7306-43f0-813f-c7575e3f4013", 
+                    "packaging": null, 
+                    "listeners": "0", 
+                    "date": "1999-07", 
+                    "artistName": "Elf", 
+                    "playcount": "0", 
+                    "artistMBID": "57e0e9f3-24b5-46a6-be00-be793ca26e21"
+                }
+            ], 
+            "title": "Dream Evil / Trying to Burn the Sun"
+        }
+    ], 
+    "type": "Group"
+}

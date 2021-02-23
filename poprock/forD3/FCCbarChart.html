@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>FCC Data Viz Project #1: Bar Chart </title>
+    <meta name='viewport' content='user-scalable=no, width=device-width, initial-scale=1' />
+    <meta name='apple-mobile-web-app-capable' content='yes'>
+    <meta name='mobile-web-app-capable' content='yes'> 
+
+    <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <script src='https://d3js.org/d3.v4.min.js'></script>
+    <style>
+        .bar {
+            width: 10px;
+            /*
+            height: 10px;
+            */
+            margin: 2px;
+            display: inline-block;
+            background-color: blue;
+        }
+        .bar:hover {
+            fill: pink;
+        }
+    </style>
+</head>
+
+<body>
+
+<div id="title"></div>
+
+<script>
+const gdpfile = 'https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json';
+d3.json(gdpfile, function(dataset) {
+    console.log(dataset);
+    const w = 1000;
+    const h = 700;
+    const padding = 5;
+    const svg = d3.select("body")
+                    .append("svg")
+                    .attr("width", w)
+                    .attr("height", h);
+    const xScale = d3.scaleLinear()
+                    // input data from 0 or min to max value of dataset
+                    .domain([d3.min(dataset, (d) => d[0]), d3.max(dataset, (d) => d[0])])
+                    // output size of actual size we must fit into
+                    .range([padding, w - padding]);
+    
+    const yScale = d3.scaleLinear()
+                    .domain([d3.max(dataset, (d) => d[1]), d3.min(dataset, (d) => d[1])])
+                    // larger number goes first for height Y coordinates
+                    .range([h, 0]);
+    svg.selectAll("rect")
+        .data(dataset.data)
+        .enter()
+        .append("rect")
+        .attr("class", "bar")
+        .attr("x", (d, i) => i * 15)
+        .attr("y", (d, i) => h - d[1])
+        // give rects a reasonable visual size
+        .attr("height", (d, i) => d[1])
+        .attr("fill", "navy")
+    const xAxis = d3.axisBottom(xScale);
+    const yAxis = d3.axisLeft(yScale);
+    
+    svg.append("g")
+    .attr("id", "x-axis")
+    .attr("transform", "translate(0," + (h - padding) + ")")
+    .call(xAxis);
+    
+    svg.append("g")
+    .attr("id", "y-axis")
+    .attr("transform", "translate(" + padding + ",0)")
+    .call(yAxis)
+});
+/*		
+    function parseData(data) {
+        var arr = [];
+        for (var i in data.bpi) {
+            arr.push(
+                {
+                date: new Date(i), //date
+                value: +data.bpi[i] //convert string to number
+                });
+        }
+        return arr;
+    }
+    
+    svg.selectAll("rect")
+        .data(dataset)
+        .enter()
+        .append("rect")
+        .attr("x", (d, i) => i * 30)
+        // Y starts at the top, so subtract the data value (instead of add) from the height
+        .attr("y", (d, i) => h - 3 * d)
+        .attr("width", 25)
+        // give rects a reasonable visual size
+        .attr("height", (d, i) => 3 * d)
+        .attr("fill", "navy")
+        .attr("class", "bar")
+        // tooltip of data value for svg rect
+        .append("title")
+        .text((d) => d);  
+    // text label above rects
+    svg.selectAll("text")
+    .data(dataset)
+    .enter()
+    .append("text")
+    .attr("x", (d, i) => i * 30)
+    .attr("y", (d, i) => h - 3 * d - 3)
+    .text((d) => d)
+    .style("font-size", 14)
+    .style("fill", "red");
+*/            
+        </script>
+    </body>
+</html>

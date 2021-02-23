@@ -1,0 +1,1263 @@
+{
+    "date": "2019-02-27",
+    "name": "Heaven & Hell",
+    "mbid": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+    "stats": {
+        "listeners": "126270",
+        "playcount": "2220378"
+    },
+    "birthday": "2006-11",
+    "genres": [
+        "heavy metal",
+        "doom metal",
+        "hard rock",
+        "metal",
+        "seen live"
+    ],
+    "albums": [
+        {
+            "mbid": "2bbdd576-5f01-3356-bff1-0ab5257ca33f",
+            "title": "The Devil You Know",
+            "releases": [
+                {
+                    "name": "The Devil You Know",
+                    "mbid": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3",
+                    "listeners": "57817",
+                    "playcount": "1477547",
+                    "date": "2009-05-12",
+                    "country": "US",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "0a039f0b-e0ab-403b-b770-ee9b9b1d9e33",
+                            "title": "Atom and Evil",
+                            "stats": {
+                                "listeners": "39994",
+                                "playcount": "179048"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "b5c29d8c-4a62-44b7-b83f-e2ace0e77916",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "169d1a28-7f55-4e14-9983-4e29b16c4449",
+                            "title": "Double the Pain",
+                            "stats": {
+                                "listeners": "35749",
+                                "playcount": "156157"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2ad1383e-2e65-46b9-9b4d-9399dd7421bf",
+                            "title": "Rock and Roll Angel",
+                            "stats": {
+                                "listeners": "33643",
+                                "playcount": "144664"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2eadcbbb-0682-4578-b9e3-967a9bb50deb",
+                            "title": "The Turn of the Screw",
+                            "stats": {
+                                "listeners": "31404",
+                                "playcount": "126298"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "858fa5ac-cf97-49ac-997f-1f812a10b8c3",
+                            "title": "Eating the Cannibals",
+                            "stats": {
+                                "listeners": "33376",
+                                "playcount": "150094"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Devil You Know",
+                    "mbid": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3",
+                    "listeners": "57817",
+                    "playcount": "1477547",
+                    "date": "2009-04-24",
+                    "country": "DE",
+                    "disambiguation": "Limited Edition",
+                    "packaging": "Jewel Case",
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "0a039f0b-e0ab-403b-b770-ee9b9b1d9e33",
+                            "title": "Atom and Evil",
+                            "stats": {
+                                "listeners": "39994",
+                                "playcount": "179048"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "b5c29d8c-4a62-44b7-b83f-e2ace0e77916",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "169d1a28-7f55-4e14-9983-4e29b16c4449",
+                            "title": "Double the Pain",
+                            "stats": {
+                                "listeners": "35749",
+                                "playcount": "156157"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2ad1383e-2e65-46b9-9b4d-9399dd7421bf",
+                            "title": "Rock and Roll Angel",
+                            "stats": {
+                                "listeners": "33643",
+                                "playcount": "144664"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2eadcbbb-0682-4578-b9e3-967a9bb50deb",
+                            "title": "The Turn of the Screw",
+                            "stats": {
+                                "listeners": "31404",
+                                "playcount": "126298"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "858fa5ac-cf97-49ac-997f-1f812a10b8c3",
+                            "title": "Eating the Cannibals",
+                            "stats": {
+                                "listeners": "33376",
+                                "playcount": "150094"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Devil You Know",
+                    "mbid": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3",
+                    "listeners": "57817",
+                    "playcount": "1477547",
+                    "date": "2009-06-12",
+                    "country": "DE",
+                    "disambiguation": "",
+                    "packaging": "Gatefold Cover",
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "0a039f0b-e0ab-403b-b770-ee9b9b1d9e33",
+                            "title": "Atom and Evil",
+                            "stats": {
+                                "listeners": "39994",
+                                "playcount": "179048"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "b5c29d8c-4a62-44b7-b83f-e2ace0e77916",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "169d1a28-7f55-4e14-9983-4e29b16c4449",
+                            "title": "Double the Pain",
+                            "stats": {
+                                "listeners": "35749",
+                                "playcount": "156157"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2ad1383e-2e65-46b9-9b4d-9399dd7421bf",
+                            "title": "Rock and Roll Angel",
+                            "stats": {
+                                "listeners": "33643",
+                                "playcount": "144664"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2eadcbbb-0682-4578-b9e3-967a9bb50deb",
+                            "title": "The Turn of the Screw",
+                            "stats": {
+                                "listeners": "31404",
+                                "playcount": "126298"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "858fa5ac-cf97-49ac-997f-1f812a10b8c3",
+                            "title": "Eating the Cannibals",
+                            "stats": {
+                                "listeners": "33376",
+                                "playcount": "150094"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Devil You Know",
+                    "mbid": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3",
+                    "listeners": "57817",
+                    "playcount": "1477547",
+                    "date": "2009-04-27",
+                    "country": "GB",
+                    "disambiguation": "",
+                    "packaging": "Jewel Case",
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "0a039f0b-e0ab-403b-b770-ee9b9b1d9e33",
+                            "title": "Atom and Evil",
+                            "stats": {
+                                "listeners": "39994",
+                                "playcount": "179048"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "b5c29d8c-4a62-44b7-b83f-e2ace0e77916",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "169d1a28-7f55-4e14-9983-4e29b16c4449",
+                            "title": "Double the Pain",
+                            "stats": {
+                                "listeners": "35749",
+                                "playcount": "156157"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2ad1383e-2e65-46b9-9b4d-9399dd7421bf",
+                            "title": "Rock and Roll Angel",
+                            "stats": {
+                                "listeners": "33643",
+                                "playcount": "144664"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2eadcbbb-0682-4578-b9e3-967a9bb50deb",
+                            "title": "The Turn of the Screw",
+                            "stats": {
+                                "listeners": "31404",
+                                "playcount": "126298"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "858fa5ac-cf97-49ac-997f-1f812a10b8c3",
+                            "title": "Eating the Cannibals",
+                            "stats": {
+                                "listeners": "33376",
+                                "playcount": "150094"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Devil You Know",
+                    "mbid": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3",
+                    "listeners": "57817",
+                    "playcount": "1477547",
+                    "date": "2009-04-28",
+                    "country": "US",
+                    "disambiguation": "",
+                    "packaging": "Jewel Case",
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "0a039f0b-e0ab-403b-b770-ee9b9b1d9e33",
+                            "title": "Atom and Evil",
+                            "stats": {
+                                "listeners": "39994",
+                                "playcount": "179048"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "b5c29d8c-4a62-44b7-b83f-e2ace0e77916",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "169d1a28-7f55-4e14-9983-4e29b16c4449",
+                            "title": "Double the Pain",
+                            "stats": {
+                                "listeners": "35749",
+                                "playcount": "156157"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2ad1383e-2e65-46b9-9b4d-9399dd7421bf",
+                            "title": "Rock and Roll Angel",
+                            "stats": {
+                                "listeners": "33643",
+                                "playcount": "144664"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2eadcbbb-0682-4578-b9e3-967a9bb50deb",
+                            "title": "The Turn of the Screw",
+                            "stats": {
+                                "listeners": "31404",
+                                "playcount": "126298"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "858fa5ac-cf97-49ac-997f-1f812a10b8c3",
+                            "title": "Eating the Cannibals",
+                            "stats": {
+                                "listeners": "33376",
+                                "playcount": "150094"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Devil You Know",
+                    "mbid": "90318d31-7bb0-4bbc-8406-b28a3bcd65c3",
+                    "listeners": "57817",
+                    "playcount": "1477547",
+                    "date": "2009-04-29",
+                    "country": "JP",
+                    "disambiguation": "",
+                    "packaging": "Jewel Case",
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "0a039f0b-e0ab-403b-b770-ee9b9b1d9e33",
+                            "title": "Atom and Evil",
+                            "stats": {
+                                "listeners": "39994",
+                                "playcount": "179048"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "b5c29d8c-4a62-44b7-b83f-e2ace0e77916",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "169d1a28-7f55-4e14-9983-4e29b16c4449",
+                            "title": "Double the Pain",
+                            "stats": {
+                                "listeners": "35749",
+                                "playcount": "156157"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2ad1383e-2e65-46b9-9b4d-9399dd7421bf",
+                            "title": "Rock and Roll Angel",
+                            "stats": {
+                                "listeners": "33643",
+                                "playcount": "144664"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "2eadcbbb-0682-4578-b9e3-967a9bb50deb",
+                            "title": "The Turn of the Screw",
+                            "stats": {
+                                "listeners": "31404",
+                                "playcount": "126298"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "858fa5ac-cf97-49ac-997f-1f812a10b8c3",
+                            "title": "Eating the Cannibals",
+                            "stats": {
+                                "listeners": "33376",
+                                "playcount": "150094"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "516d3aa9-bc49-4cbc-9611-38ab44ee0e3a",
+            "title": "2009-05-08: Arena Santiago, Chile",
+            "releases": [
+                {
+                    "name": "2009-05-08: Arena Santiago, Chile",
+                    "mbid": "53b00c8d-f023-47b8-a9b1-7ab2b1f71025",
+                    "listeners": "11",
+                    "playcount": "21",
+                    "date": "",
+                    "country": "",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "f0c07255-8595-4397-9bc8-5166ce8429f9",
+                            "title": "E5150",
+                            "stats": {
+                                "listeners": "573",
+                                "playcount": "1485"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "c59d7125-aacb-4c4c-bffa-1e06ccd4f57a",
+                            "title": "The Mob Rules",
+                            "stats": {
+                                "listeners": "6578",
+                                "playcount": "25628"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "a1300143-6f92-4614-89e1-47933c8a14e8",
+                            "title": "Children of the Sea",
+                            "stats": {
+                                "listeners": "10294",
+                                "playcount": "38315"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "4c9ffbd6-2303-4154-a3ca-bc294113e29f",
+                            "title": "Vinnie Appice Drum Solo",
+                            "stats": {
+                                "listeners": "65",
+                                "playcount": "188"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "fb0b56b5-2da1-43ed-85c3-be7e0e8f39a1",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "284ce837-80c1-4f82-96b6-04fcd9f6a9e7",
+                            "title": "Falling Off the Edge of the World",
+                            "stats": {
+                                "listeners": "7663",
+                                "playcount": "28471"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "4a9bee59-9be9-4181-98d5-18ed90dbcfbc",
+                            "title": "Tony Iommi Solo - Die Young",
+                            "stats": {
+                                "listeners": "2",
+                                "playcount": "2"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "d49344d9-a291-4bb5-948c-6704d2541d37",
+                            "title": "Follow the Tears",
+                            "stats": {
+                                "listeners": "37558",
+                                "playcount": "157661"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "35662661-9770-4471-aa85-d8f459f831a0",
+                            "title": "Country Girl - Neon Knights",
+                            "stats": {
+                                "listeners": "13",
+                                "playcount": "39"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "7996bcbe-c5fd-46f7-9750-55da8ab44251",
+            "title": "Neon Nights: 30 Years of Heaven & Hell - Live at Wacken",
+            "releases": [
+                {
+                    "name": "Neon Nights: 30 Years Of Heaven & Hell",
+                    "mbid": "e4024ff3-69c2-452e-95bd-ac04f125dfd7",
+                    "listeners": "387",
+                    "playcount": "12038",
+                    "date": "2010-11-15",
+                    "country": "DE",
+                    "disambiguation": "",
+                    "packaging": "Jewel Case",
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "7196d666-6765-4d19-8ed1-657768998cf3",
+                            "title": "E5150",
+                            "stats": {
+                                "listeners": "573",
+                                "playcount": "1485"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "42ca3079-41c1-4814-8987-e9402d358371",
+                            "title": "Children of the Sea",
+                            "stats": {
+                                "listeners": "10294",
+                                "playcount": "38315"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "bef99ea8-4493-4db4-89cc-f112e0b7a7b6",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "31855f9f-cd4b-44d7-ba65-0b51d66d461c",
+                            "title": "Falling Off the Edge of the World",
+                            "stats": {
+                                "listeners": "7663",
+                                "playcount": "28471"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "0cd556c2-3af9-4029-b80c-96c38ad81477",
+                            "title": "Follow the Tears",
+                            "stats": {
+                                "listeners": "37558",
+                                "playcount": "157661"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "7b4488ac-6b16-476f-a685-e7d2895eabf7",
+                            "title": "Die Young",
+                            "stats": {
+                                "listeners": "8807",
+                                "playcount": "35228"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "52626f3b-23b1-4ae2-9600-0610efa3350e",
+                            "title": "Heaven & Hell",
+                            "stats": {
+                                "listeners": "273",
+                                "playcount": "993"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Neon Nights: 30 Years Of Heaven & Hell",
+                    "mbid": "e4024ff3-69c2-452e-95bd-ac04f125dfd7",
+                    "listeners": "387",
+                    "playcount": "12038",
+                    "date": "2010-11-16",
+                    "country": "US",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "7196d666-6765-4d19-8ed1-657768998cf3",
+                            "title": "E5150",
+                            "stats": {
+                                "listeners": "573",
+                                "playcount": "1485"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "42ca3079-41c1-4814-8987-e9402d358371",
+                            "title": "Children of the Sea",
+                            "stats": {
+                                "listeners": "10294",
+                                "playcount": "38315"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "bef99ea8-4493-4db4-89cc-f112e0b7a7b6",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "31855f9f-cd4b-44d7-ba65-0b51d66d461c",
+                            "title": "Falling Off the Edge of the World",
+                            "stats": {
+                                "listeners": "7663",
+                                "playcount": "28471"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "0cd556c2-3af9-4029-b80c-96c38ad81477",
+                            "title": "Follow the Tears",
+                            "stats": {
+                                "listeners": "37558",
+                                "playcount": "157661"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "7b4488ac-6b16-476f-a685-e7d2895eabf7",
+                            "title": "Die Young",
+                            "stats": {
+                                "listeners": "8807",
+                                "playcount": "35228"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "52626f3b-23b1-4ae2-9600-0610efa3350e",
+                            "title": "Heaven & Hell",
+                            "stats": {
+                                "listeners": "273",
+                                "playcount": "993"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Neon Nights: 30 Years Of Heaven & Hell",
+                    "mbid": "e4024ff3-69c2-452e-95bd-ac04f125dfd7",
+                    "listeners": "387",
+                    "playcount": "12038",
+                    "date": "2010-11-10",
+                    "country": "JP",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "7196d666-6765-4d19-8ed1-657768998cf3",
+                            "title": "E5150",
+                            "stats": {
+                                "listeners": "573",
+                                "playcount": "1485"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "42ca3079-41c1-4814-8987-e9402d358371",
+                            "title": "Children of the Sea",
+                            "stats": {
+                                "listeners": "10294",
+                                "playcount": "38315"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "bef99ea8-4493-4db4-89cc-f112e0b7a7b6",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "31855f9f-cd4b-44d7-ba65-0b51d66d461c",
+                            "title": "Falling Off the Edge of the World",
+                            "stats": {
+                                "listeners": "7663",
+                                "playcount": "28471"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "0cd556c2-3af9-4029-b80c-96c38ad81477",
+                            "title": "Follow the Tears",
+                            "stats": {
+                                "listeners": "37558",
+                                "playcount": "157661"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "7b4488ac-6b16-476f-a685-e7d2895eabf7",
+                            "title": "Die Young",
+                            "stats": {
+                                "listeners": "8807",
+                                "playcount": "35228"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "52626f3b-23b1-4ae2-9600-0610efa3350e",
+                            "title": "Heaven & Hell",
+                            "stats": {
+                                "listeners": "273",
+                                "playcount": "993"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Neon Nights: 30 Years Of Heaven & Hell",
+                    "mbid": "e4024ff3-69c2-452e-95bd-ac04f125dfd7",
+                    "listeners": "387",
+                    "playcount": "12038",
+                    "date": "2010-11-10",
+                    "country": "JP",
+                    "disambiguation": "",
+                    "packaging": "Keep Case",
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "7196d666-6765-4d19-8ed1-657768998cf3",
+                            "title": "E5150",
+                            "stats": {
+                                "listeners": "573",
+                                "playcount": "1485"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "42ca3079-41c1-4814-8987-e9402d358371",
+                            "title": "Children of the Sea",
+                            "stats": {
+                                "listeners": "10294",
+                                "playcount": "38315"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "bef99ea8-4493-4db4-89cc-f112e0b7a7b6",
+                            "title": "Fear",
+                            "stats": {
+                                "listeners": "44433",
+                                "playcount": "185388"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "31855f9f-cd4b-44d7-ba65-0b51d66d461c",
+                            "title": "Falling Off the Edge of the World",
+                            "stats": {
+                                "listeners": "7663",
+                                "playcount": "28471"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "0cd556c2-3af9-4029-b80c-96c38ad81477",
+                            "title": "Follow the Tears",
+                            "stats": {
+                                "listeners": "37558",
+                                "playcount": "157661"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "7b4488ac-6b16-476f-a685-e7d2895eabf7",
+                            "title": "Die Young",
+                            "stats": {
+                                "listeners": "8807",
+                                "playcount": "35228"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "52626f3b-23b1-4ae2-9600-0610efa3350e",
+                            "title": "Heaven & Hell",
+                            "stats": {
+                                "listeners": "273",
+                                "playcount": "993"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "82684e27-5afe-3f4d-9ebf-44a47fff9b50",
+            "title": "Live From Radio City Music Hall",
+            "releases": [
+                {
+                    "name": "Live from Radio City Music Hall",
+                    "mbid": "a9d2766c-43e2-3b33-82bd-b246d805c3e0",
+                    "listeners": "8628",
+                    "playcount": "144089",
+                    "date": "2010-08-23",
+                    "country": "DE",
+                    "disambiguation": "",
+                    "packaging": "Digibook",
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "64c8f84c-26d4-498a-95ed-b60e35b7e94d",
+                            "title": "E5150 / After All (The Dead)",
+                            "stats": {
+                                "listeners": "1526",
+                                "playcount": "4892"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "5a6470a4-2b6d-400b-a906-5eafed110201",
+                            "title": "The Mob Rules",
+                            "stats": {
+                                "listeners": "6578",
+                                "playcount": "25628"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "a48a4c29-082a-447b-97ea-c33d1e36b160",
+                            "title": "Children of the Sea",
+                            "stats": {
+                                "listeners": "10294",
+                                "playcount": "38315"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "727c189f-7bac-4f97-9bf0-6079d30f6a2f",
+                            "title": "Lady Evil",
+                            "stats": {
+                                "listeners": "5546",
+                                "playcount": "20001"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "d273071c-17ba-42e5-9869-3b7362aaf3d4",
+                            "title": "The Sign of the Southern Cross",
+                            "stats": {
+                                "listeners": "5135",
+                                "playcount": "18424"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "522c4622-5255-4c11-bb4d-0786933d5047",
+                            "title": "Voodoo",
+                            "stats": {
+                                "listeners": "4944",
+                                "playcount": "16744"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "f557b9f9-8e9f-4578-bf48-d97e132399bf",
+                            "title": "The Devil Cried",
+                            "stats": {
+                                "listeners": "4907",
+                                "playcount": "16513"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Live from Radio City Music Hall",
+                    "mbid": "a9d2766c-43e2-3b33-82bd-b246d805c3e0",
+                    "listeners": "8628",
+                    "playcount": "144089",
+                    "date": "2007-08-28",
+                    "country": "US",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "64c8f84c-26d4-498a-95ed-b60e35b7e94d",
+                            "title": "E5150 / After All (The Dead)",
+                            "stats": {
+                                "listeners": "1526",
+                                "playcount": "4892"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "5a6470a4-2b6d-400b-a906-5eafed110201",
+                            "title": "The Mob Rules",
+                            "stats": {
+                                "listeners": "6578",
+                                "playcount": "25628"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "a48a4c29-082a-447b-97ea-c33d1e36b160",
+                            "title": "Children of the Sea",
+                            "stats": {
+                                "listeners": "10294",
+                                "playcount": "38315"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "727c189f-7bac-4f97-9bf0-6079d30f6a2f",
+                            "title": "Lady Evil",
+                            "stats": {
+                                "listeners": "5546",
+                                "playcount": "20001"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "d273071c-17ba-42e5-9869-3b7362aaf3d4",
+                            "title": "The Sign of the Southern Cross",
+                            "stats": {
+                                "listeners": "5135",
+                                "playcount": "18424"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "522c4622-5255-4c11-bb4d-0786933d5047",
+                            "title": "Voodoo",
+                            "stats": {
+                                "listeners": "4944",
+                                "playcount": "16744"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "f557b9f9-8e9f-4578-bf48-d97e132399bf",
+                            "title": "The Devil Cried",
+                            "stats": {
+                                "listeners": "4907",
+                                "playcount": "16513"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Live from Radio City Music Hall",
+                    "mbid": "a9d2766c-43e2-3b33-82bd-b246d805c3e0",
+                    "listeners": "8628",
+                    "playcount": "144089",
+                    "date": "2007-08-24",
+                    "country": "DE",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "64c8f84c-26d4-498a-95ed-b60e35b7e94d",
+                            "title": "E5150 / After All (The Dead)",
+                            "stats": {
+                                "listeners": "1526",
+                                "playcount": "4892"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "5a6470a4-2b6d-400b-a906-5eafed110201",
+                            "title": "The Mob Rules",
+                            "stats": {
+                                "listeners": "6578",
+                                "playcount": "25628"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "a48a4c29-082a-447b-97ea-c33d1e36b160",
+                            "title": "Children of the Sea",
+                            "stats": {
+                                "listeners": "10294",
+                                "playcount": "38315"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "727c189f-7bac-4f97-9bf0-6079d30f6a2f",
+                            "title": "Lady Evil",
+                            "stats": {
+                                "listeners": "5546",
+                                "playcount": "20001"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "d273071c-17ba-42e5-9869-3b7362aaf3d4",
+                            "title": "The Sign of the Southern Cross",
+                            "stats": {
+                                "listeners": "5135",
+                                "playcount": "18424"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "522c4622-5255-4c11-bb4d-0786933d5047",
+                            "title": "Voodoo",
+                            "stats": {
+                                "listeners": "4944",
+                                "playcount": "16744"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        },
+                        {
+                            "mbid": "f557b9f9-8e9f-4578-bf48-d97e132399bf",
+                            "title": "The Devil Cried",
+                            "stats": {
+                                "listeners": "4907",
+                                "playcount": "16513"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "9c1b30e3-7e07-41df-b0a9-cecd7e11be52",
+            "title": "Eating the Cannibals",
+            "releases": [
+                {
+                    "name": "Eating The Cannibals",
+                    "mbid": "666da67c-bfb9-4b82-9002-823a2ddcc49d",
+                    "listeners": "22",
+                    "playcount": "44",
+                    "date": "2009",
+                    "country": "GB",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "8a6aa5e9-cb92-4224-bd97-6dad3d6887a9",
+                            "title": "Eating the Cannibals",
+                            "stats": {
+                                "listeners": "33376",
+                                "playcount": "150094"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "d536f584-4d59-4a9c-8423-b3a7893d8889",
+            "title": "Bible Black",
+            "releases": [
+                {
+                    "name": "Bible Black",
+                    "mbid": "7b051260-75fd-419a-98b2-1ea4ddb09382",
+                    "listeners": "594",
+                    "playcount": "2220",
+                    "date": "2009-05-31",
+                    "country": "US",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "b6b69471-11ad-419e-a7ca-51b1d33b9ba8",
+                            "title": "Bible Black (single edit)",
+                            "stats": {
+                                "listeners": "46",
+                                "playcount": "421"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bible Black",
+                    "mbid": "7b051260-75fd-419a-98b2-1ea4ddb09382",
+                    "listeners": "594",
+                    "playcount": "2220",
+                    "date": "2009",
+                    "country": "XE",
+                    "disambiguation": "",
+                    "packaging": null,
+                    "artistName": "Heaven & Hell",
+                    "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4",
+                    "tracks": [
+                        {
+                            "mbid": "b6b69471-11ad-419e-a7ca-51b1d33b9ba8",
+                            "title": "Bible Black (single edit)",
+                            "stats": {
+                                "listeners": "46",
+                                "playcount": "421"
+                            },
+                            "artistName": "Heaven & Hell",
+                            "artistMBID": "484a1d40-0fb9-4768-acff-b570cedaacb4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

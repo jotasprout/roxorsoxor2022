@@ -1,0 +1,19 @@
+{
+    "name": "Mortal",
+    "mbid": "f0169794-0188-40d4-8031-3fdb2e27db4a",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "fc8d8fc7-68e6-4e3b-9b45-946224363cab",
+            "name": "Jerome Fontamillas",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "1b4348d2-30a5-43d0-8ecd-528eb1ec56f3",
+            "name": "Jyro Xhan",
+            "attributes": []
+        }
+    ]
+}

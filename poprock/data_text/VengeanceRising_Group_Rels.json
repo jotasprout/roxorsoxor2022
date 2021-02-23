@@ -1,0 +1,13 @@
+{
+    "name": "Vengeance Rising",
+    "mbid": "23ed6747-0e6a-4c1e-afd5-41d4e86c2bbd",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "958bb6d2-0012-41ca-90ae-93cc3d7a69a4",
+            "name": "Jamie Mitchell",
+            "attributes": []
+        }
+    ]
+}

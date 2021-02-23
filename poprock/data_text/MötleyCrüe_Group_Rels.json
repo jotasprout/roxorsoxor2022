@@ -1,0 +1,119 @@
+{
+    "name": "M\u00f6tley Cr\u00fce",
+    "mbid": "26f07661-e115-471d-a930-206f5c89d17c",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "ce39ec95-5476-4c65-a862-fec96ff851ec",
+            "name": "Vince Neil",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9e8ae35d-95d3-4d49-aab9-d979d64902b7",
+            "name": "Tommy Lee",
+            "attributes": [
+                "drums (drum set)",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40e4bac7-0ed5-41a2-9b65-b72756002256",
+            "name": "Mick Mars",
+            "attributes": [
+                "background vocals",
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f84f1c8d-8b26-47c4-b1e2-76d812149047",
+            "name": "Nikki Sixx",
+            "attributes": [
+                "electric bass guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0a383cd4-d26a-4ce1-8d9c-8bbb8a6df1e3",
+            "name": "John Corabi",
+            "attributes": [
+                "electric bass guitar",
+                "electric guitar",
+                "keyboard",
+                "lead vocals",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ce39ec95-5476-4c65-a862-fec96ff851ec",
+            "name": "Vince Neil",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f7fc5a30-008d-48ab-861d-f328120e6702",
+            "name": "Randy Castillo",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9e8ae35d-95d3-4d49-aab9-d979d64902b7",
+            "name": "Tommy Lee",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9e8ae35d-95d3-4d49-aab9-d979d64902b7",
+            "name": "Tommy Lee",
+            "attributes": [
+                "background vocals",
+                "drums (drum set)",
+                "keyboard",
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40e4bac7-0ed5-41a2-9b65-b72756002256",
+            "name": "Mick Mars",
+            "attributes": [
+                "background vocals",
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ce39ec95-5476-4c65-a862-fec96ff851ec",
+            "name": "Vince Neil",
+            "attributes": [
+                "electric guitar",
+                "harmonica",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f84f1c8d-8b26-47c4-b1e2-76d812149047",
+            "name": "Nikki Sixx",
+            "attributes": [
+                "background vocals",
+                "electric bass guitar",
+                "keyboard",
+                "piano"
+            ]
+        }
+    ]
+}

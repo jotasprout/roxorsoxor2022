@@ -1,0 +1,2949 @@
+{
+    "genres": [
+        "christian rock", 
+        "hard rock", 
+        "blues", 
+        "rock", 
+        "christian"
+    ], 
+    "taskDuration": {
+        "Task Duration": 90.22814297676086, 
+        "Task End": 1580880967.355507, 
+        "Task Start": 1580880877.127364
+    }, 
+    "stats": {
+        "listeners": "7414", 
+        "playcount": "144994"
+    }, 
+    "name": "Resurrection Band", 
+    "mbid": "cbf344ae-68f6-45c8-9b52-fcb25dce4646", 
+    "birthday": "1972", 
+    "date": "2020-02-05", 
+    "albums": [
+        {
+            "mbid": "1a025cae-f04d-42b6-bb42-aa69f193eb02", 
+            "releases": [
+                {
+                    "name": "Music to Raise the Dead", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "98", 
+                                "playcount": "171"
+                            }, 
+                            "title": "Down Baby", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e15440c3-80ae-4180-a8b7-28074c8b16bf", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "79", 
+                                "playcount": "164"
+                            }, 
+                            "title": "I Can't Help Myself", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4cf2a2b0-2a8c-4ab9-a499-e25f42e1fb0a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "105", 
+                                "playcount": "226"
+                            }, 
+                            "title": "Crimson River", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "7d4f3231-b1cf-43a4-8f55-4daddf5c6f77", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100", 
+                                "playcount": "269"
+                            }, 
+                            "title": "There Will Be Fire", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "dad0ae60-296a-4145-847d-0d464d56161f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "196"
+                            }, 
+                            "title": "We Can See", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5497a6d9-f473-4fd3-ad59-2e0e256523f3", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "89", 
+                                "playcount": "178"
+                            }, 
+                            "title": "Better Way", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b59b4d8a-a0de-41d7-8d15-9f5ffe688be2", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "77", 
+                                "playcount": "188"
+                            }, 
+                            "title": "Growin' Stronger", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "1a047373-0429-453e-9b89-8bc1457045c1", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "73", 
+                                "playcount": "154"
+                            }, 
+                            "title": "The Man I Used to Be", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "31d550b9-3289-48c3-91b1-f5b66bd0ce07", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "186", 
+                                "playcount": "507"
+                            }, 
+                            "title": "Quite Enough", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "127028f3-86e4-41b7-afe1-0245da4ca1ba", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "82ba498e-992a-4804-a5c4-4f7c5c59979e", 
+                    "packaging": null, 
+                    "listeners": "158", 
+                    "date": "1974", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "1809", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Music to Raise the Dead"
+        }, 
+        {
+            "mbid": "15a858e5-15be-3a0e-8a36-ee6ecfe093b2", 
+            "releases": [
+                {
+                    "name": "Awaiting Your Reply", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1273", 
+                                "playcount": "3290"
+                            }, 
+                            "title": "Waves", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "42280d2d-f14b-4b00-80a8-ff11f624acac", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "722", 
+                                "playcount": "2110"
+                            }, 
+                            "title": "Awaiting Your Reply", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6b9839f2-0135-491d-95b5-ab4e20c4ab2b", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1102", 
+                                "playcount": "3401"
+                            }, 
+                            "title": "Broken Promises", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4a1e40b8-7e9f-47ab-9c02-6789da2b2648", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "419", 
+                                "playcount": "1125"
+                            }, 
+                            "title": "Golden Road", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "78f9c595-cbf8-410f-8748-3bf3b6a2eb28", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "320", 
+                                "playcount": "863"
+                            }, 
+                            "title": "Lightshine", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d3a34096-08f4-46f2-99c2-df1554142d24", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "322", 
+                                "playcount": "883"
+                            }, 
+                            "title": "Ananias and Sapphira", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2db12d0b-4851-48ea-bddb-4a7e4f9b6ec3", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "229", 
+                                "playcount": "728"
+                            }, 
+                            "title": "The Death of the Dying", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5fb95b95-a63d-46c8-8c8a-ac66fc8097c0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "775", 
+                                "playcount": "2033"
+                            }, 
+                            "title": "Irish Garden", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2453baec-5940-4a4f-891f-194663f2a168", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "846", 
+                                "playcount": "2175"
+                            }, 
+                            "title": "The Return", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b3ec12d7-3053-4791-aac4-4fc0f7e6635b", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Radio Close", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e9470d9f-19ac-4fc4-942d-8ababfda0d3b", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "de4a87b5-55b1-4a1a-b13d-f2eda7ef9ac7", 
+                    "packaging": null, 
+                    "listeners": "1566", 
+                    "date": "1978", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "10916", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Awaiting Your Reply"
+        }, 
+        {
+            "mbid": "ad11be65-6487-3b29-b14a-c6b049044997", 
+            "releases": [
+                {
+                    "name": "Rainbow's End", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "557", 
+                                "playcount": "1318"
+                            }, 
+                            "title": "Midnight Son", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "51e1ee48-203b-430c-8135-903ccab84f32", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "317", 
+                                "playcount": "807"
+                            }, 
+                            "title": "Strongman", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "15f0495f-9c24-4284-a398-1c5232435c2d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "806", 
+                                "playcount": "2107"
+                            }, 
+                            "title": "Afrikaans", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "35ffee13-60e3-4f4f-8bd5-eb0d3e866371", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "343", 
+                                "playcount": "986"
+                            }, 
+                            "title": "Skyline", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "615f0119-2e71-439a-aeb1-c8ea49c82339", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "658", 
+                                "playcount": "2181"
+                            }, 
+                            "title": "Paint a Picture", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "08752ff0-6733-4bbb-bf70-413899a24f0c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "334", 
+                                "playcount": "914"
+                            }, 
+                            "title": "Rainbow's End", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "86adc1e4-e5fc-4192-97ec-042cfd6f032a", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "296", 
+                                "playcount": "809"
+                            }, 
+                            "title": "Concert for a Queen", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "85c65385-c879-44f2-8b4f-aa043cb87236", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "273", 
+                                "playcount": "1005"
+                            }, 
+                            "title": "Sacrifice of Love", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3e418ebb-f48d-495f-9093-fa806e3be0e8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "310", 
+                                "playcount": "695"
+                            }, 
+                            "title": "The Wolfsong", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "0099b6c0-221f-475d-a321-2a6228bfb5a5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "324", 
+                                "playcount": "930"
+                            }, 
+                            "title": "Every Time It Rains", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "19ed17c6-6ef2-484e-bf43-8d91ee2f8c23", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "cb6ae483-3253-4681-a680-f5dc44210934", 
+                    "packaging": null, 
+                    "listeners": "1341", 
+                    "date": "1979", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "9410", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }, 
+                {
+                    "name": "Rainbow's End", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "557", 
+                                "playcount": "1318"
+                            }, 
+                            "title": "Midnight Son", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "51e1ee48-203b-430c-8135-903ccab84f32", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "317", 
+                                "playcount": "807"
+                            }, 
+                            "title": "Strongman", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "15f0495f-9c24-4284-a398-1c5232435c2d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "806", 
+                                "playcount": "2107"
+                            }, 
+                            "title": "Afrikaans", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "35ffee13-60e3-4f4f-8bd5-eb0d3e866371", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "343", 
+                                "playcount": "986"
+                            }, 
+                            "title": "Skyline", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "615f0119-2e71-439a-aeb1-c8ea49c82339", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "658", 
+                                "playcount": "2181"
+                            }, 
+                            "title": "Paint a Picture", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "08752ff0-6733-4bbb-bf70-413899a24f0c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "334", 
+                                "playcount": "914"
+                            }, 
+                            "title": "Rainbow's End", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "86adc1e4-e5fc-4192-97ec-042cfd6f032a", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "296", 
+                                "playcount": "809"
+                            }, 
+                            "title": "Concert for a Queen", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "85c65385-c879-44f2-8b4f-aa043cb87236", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "273", 
+                                "playcount": "1005"
+                            }, 
+                            "title": "Sacrifice of Love", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3e418ebb-f48d-495f-9093-fa806e3be0e8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "310", 
+                                "playcount": "695"
+                            }, 
+                            "title": "The Wolfsong", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "0099b6c0-221f-475d-a321-2a6228bfb5a5", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "324", 
+                                "playcount": "930"
+                            }, 
+                            "title": "Every Time It Rains", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "19ed17c6-6ef2-484e-bf43-8d91ee2f8c23", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "cb6ae483-3253-4681-a680-f5dc44210934", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "1341", 
+                    "date": "", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "9410", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Rainbow's End"
+        }, 
+        {
+            "mbid": "41f79a64-0572-3ffb-b0e0-542c8aa6d473", 
+            "releases": [
+                {
+                    "name": "Colours", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "473", 
+                                "playcount": "1525"
+                            }, 
+                            "title": "Autograph", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "481f3100-b650-4b50-a28c-09c389a7372c", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "742", 
+                                "playcount": "3058"
+                            }, 
+                            "title": "Colours", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "16187f74-0fff-4b64-984b-4ea8c3d23c74", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "269", 
+                                "playcount": "852"
+                            }, 
+                            "title": "N.Y.C.", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e3816ddc-047b-494e-8e6a-b429df2bb4d9", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "254", 
+                                "playcount": "729"
+                            }, 
+                            "title": "Hidden Man", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6a589007-3a95-46dd-a2dd-35af873f6d7f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "361", 
+                                "playcount": "1265"
+                            }, 
+                            "title": "Amazing", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9e3fd21d-7301-42d0-8973-62b89dee5fde", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "439", 
+                                "playcount": "1347"
+                            }, 
+                            "title": "American Dream", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "848fb641-f475-463c-851d-8c2991a8af5c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "226", 
+                                "playcount": "604"
+                            }, 
+                            "title": "Benny & Sue", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "f1247bec-99ce-4076-a44f-088ecc3b28ec", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "321", 
+                                "playcount": "1008"
+                            }, 
+                            "title": "City Streets", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "7f26ea1e-8146-4c45-9bf7-e3984564ad96", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "834"
+                            }, 
+                            "title": "Beggar in the Alleyway", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9f792624-7dc2-4ced-a009-2b3df326861e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "1258"
+                            }, 
+                            "title": "The Struggle", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b2e83568-df24-4fd9-87d3-a3a79328f319", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ff5f577a-6827-48b1-83b2-fa2803dc7ace", 
+                    "packaging": null, 
+                    "listeners": "724", 
+                    "date": "1980", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "8512", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Colours"
+        }, 
+        {
+            "mbid": "3b085138-a946-3893-a2b4-324d407ea064", 
+            "releases": [
+                {
+                    "name": "Mommy Don't Love Daddy Anymore", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "307", 
+                                "playcount": "1051"
+                            }, 
+                            "title": "Elevator Muzik", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "90fdd5ab-bf33-4d07-8991-740f883a90e2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1294"
+                            }, 
+                            "title": "Alienated", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "389b3e40-4d65-4f2d-8533-2664e357af6d", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "213", 
+                                "playcount": "719"
+                            }, 
+                            "title": "Can't Get You Out of My Mind", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d0db8205-8711-4bb1-8941-d324567e41de", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "973"
+                            }, 
+                            "title": "The Chair", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e8546dfa-e096-49a6-a83f-86a759135c3c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "164", 
+                                "playcount": "412"
+                            }, 
+                            "title": "Can't Do It on My Own", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2ae4317f-aa33-4abc-bb94-4cb4e5ab4853", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "240", 
+                                "playcount": "817"
+                            }, 
+                            "title": "First Degree Apathy", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "495b4c8a-ba09-4171-a809-f338eb75baf9", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "1127"
+                            }, 
+                            "title": "Mommy Don't Love Daddy Anymore", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6feba3d1-afd9-4fee-9058-cf344f1f58eb", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "900"
+                            }, 
+                            "title": "The Crossing", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "a70843fd-bd44-495c-8616-cb936439f6f1", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "170", 
+                                "playcount": "446"
+                            }, 
+                            "title": "Little Children", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "77f860a9-a1d9-4a93-8da7-74b27548de4d", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "232", 
+                                "playcount": "760"
+                            }, 
+                            "title": "Lovin' You", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "ae9f559d-d79f-4eac-84cd-33748cfd782c", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "24801e53-489f-4467-b3f4-a39a260873ad", 
+                    "packaging": null, 
+                    "listeners": "484", 
+                    "date": "1981", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "6489", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Mommy Don't Love Daddy Anymore"
+        }, 
+        {
+            "mbid": "b588efe5-15d5-33da-83f6-dd18e3c2378d", 
+            "releases": [
+                {
+                    "name": "D.M.Z.", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1063", 
+                                "playcount": "3458"
+                            }, 
+                            "title": "Military Man", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "28858fc4-eff4-4ceb-a9d7-6938e4a33a39", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "164", 
+                                "playcount": "519"
+                            }, 
+                            "title": "Reluctance", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "725c88dd-c25b-4676-ba19-dfd62bd1e8b7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "293", 
+                                "playcount": "1073"
+                            }, 
+                            "title": "Babylon", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "707e5612-1cb3-4834-9dee-522e9d86b832", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "420", 
+                                "playcount": "1442"
+                            }, 
+                            "title": "I Need Your Love", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2e85c0ec-eda3-4072-aa5c-5391ba547645", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "894"
+                            }, 
+                            "title": "Area 312", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "68cfb856-c8e7-4008-ae55-80e28e74b236", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "210", 
+                                "playcount": "897"
+                            }, 
+                            "title": "No Alibi", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d2c906ed-c25f-4983-ab17-6bc836eb96b2", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "537", 
+                                "playcount": "1525"
+                            }, 
+                            "title": "White Noise", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "c1d7f79a-bd4c-418c-8fa1-6534110a5d5f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "146", 
+                                "playcount": "453"
+                            }, 
+                            "title": "Lonely Hearts", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5f7d9626-e38a-4674-8b17-1109d6ae37ba", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "209", 
+                                "playcount": "666"
+                            }, 
+                            "title": "The Prisoner", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "445fe6d3-3caf-4ee1-af64-c8f87ea61ce6", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "390", 
+                                "playcount": "1413"
+                            }, 
+                            "title": "So in Love With You", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3ab23add-1938-423b-96ed-e4dc93c9630c", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "fed564d6-3ac6-4539-aacf-3bead0d2a234", 
+                    "packaging": null, 
+                    "listeners": "949", 
+                    "date": "1982", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "5618", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "D.M.Z."
+        }, 
+        {
+            "mbid": "e5029b7f-7d86-3a8d-bedd-00055883b0dc", 
+            "releases": [
+                {
+                    "name": "Hostage", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "659"
+                            }, 
+                            "title": "S.O.S.", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "a45790b3-5e43-4c8e-920d-0258a6891041", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "248", 
+                                "playcount": "721"
+                            }, 
+                            "title": "Attention", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4df5be1b-540e-4d87-8878-a37203a5f71f", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "464", 
+                                "playcount": "1340"
+                            }, 
+                            "title": "Souls for Hire", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "c15cf874-7af3-4d07-95bf-7a7ab4d410b6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "257", 
+                                "playcount": "682"
+                            }, 
+                            "title": "Defective Youth", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3feb79d3-db58-4d25-af6a-be83044af63f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "176", 
+                                "playcount": "396"
+                            }, 
+                            "title": "Who's Real Anymore", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "1445d4db-03b8-4542-b6d7-6adc2308a1fb", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "159", 
+                                "playcount": "385"
+                            }, 
+                            "title": "Armageddon Appetite", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "32d013f5-6aa2-4ced-907b-76aaff6e2d77", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "186", 
+                                "playcount": "590"
+                            }, 
+                            "title": "Beyond the Gun", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "a1b1cecc-c35a-40c6-a6c3-03b382248c6c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "256", 
+                                "playcount": "750"
+                            }, 
+                            "title": "Crimes", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "aefdad73-15ae-4d86-b4c0-2fb8cd8b0501", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "424"
+                            }, 
+                            "title": "It's You", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "81538ef5-f653-47fc-9c31-267ea7659cc2", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "225", 
+                                "playcount": "738"
+                            }, 
+                            "title": "Tears in the Rain", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2fc79892-119f-410f-a7a9-4751a92b0262", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "172", 
+                                "playcount": "502"
+                            }, 
+                            "title": "Walk Away", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "286c3b78-4953-455a-a2f6-66069ed2c55c", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "936e4609-6a17-42ae-9803-b19c98b96aa2", 
+                    "packaging": null, 
+                    "listeners": "464", 
+                    "date": "1984", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "4687", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Hostage"
+        }, 
+        {
+            "mbid": "48d6c12e-0df0-3c29-a558-23bbc1044382", 
+            "releases": [
+                {
+                    "name": "Between Heaven 'n Hell", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "959"
+                            }, 
+                            "title": "The Main Event", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "7f3dcb1d-f80f-4891-9064-4ac2c6d2deb9", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "919", 
+                                "playcount": "3321"
+                            }, 
+                            "title": "Love Comes Down", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "88598a50-3833-42b3-a97e-af7e79dd0350", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "312", 
+                                "playcount": "880"
+                            }, 
+                            "title": "Zuid Afrikan", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "fb33d7f3-facd-41a2-9887-0a89917c1db4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "571"
+                            }, 
+                            "title": "Walk On", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "309af88c-5a71-4a09-a711-8582ec5d5b54", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "185", 
+                                "playcount": "470"
+                            }, 
+                            "title": "Talk to Me", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6d77a728-feda-4711-b447-99f866a60d39", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "206", 
+                                "playcount": "761"
+                            }, 
+                            "title": "I Think You Know", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2db1ea5a-bb6a-450e-b8e1-78c54f1045c4", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "633", 
+                                "playcount": "2444"
+                            }, 
+                            "title": "Shadows", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e08554de-4b8d-407a-b309-952dd33232aa", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "182", 
+                                "playcount": "422"
+                            }, 
+                            "title": "Save Me From Myself", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "1a983b07-794d-48a5-b1f3-34fb02406033", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "167", 
+                                "playcount": "435"
+                            }, 
+                            "title": "Nervous World", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "46aceff3-f60e-418a-9d49-a00ddc1a9504", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "73", 
+                                "playcount": "207"
+                            }, 
+                            "title": "2,000", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9516c7de-3044-4e8f-b344-9e19876983cf", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "1c2a1f69-5288-47ae-b772-66fb3165aa4b", 
+                    "packaging": null, 
+                    "listeners": "717", 
+                    "date": "1985", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "6288", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Between Heaven 'n Hell"
+        }, 
+        {
+            "mbid": "700a8e3d-4d41-3e2f-8fb1-0e84c2a4a023", 
+            "releases": [
+                {
+                    "name": "Silence Screams", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "312", 
+                                "playcount": "1190"
+                            }, 
+                            "title": "Silence Screams", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6925358e-0847-494e-9d4a-e892823ac420", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "184", 
+                                "playcount": "699"
+                            }, 
+                            "title": "You Got Me Rockin'", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "8da83767-f7c3-4055-b14d-2e7cda30510b", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "889"
+                            }, 
+                            "title": "Someone Sleeps", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d1f2e0f0-cbb4-47e7-bd20-7df680d2e1e2", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "167", 
+                                "playcount": "535"
+                            }, 
+                            "title": "Waitin' on Sundown", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5aa52b01-d644-4778-b505-756129a1fb3e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "208", 
+                                "playcount": "842"
+                            }, 
+                            "title": "Presence of the Lord", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b968b793-266a-4382-88ac-4d8ea8f35efb", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "192", 
+                                "playcount": "795"
+                            }, 
+                            "title": "Light/Light", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "00eebc3b-9421-4d58-8c14-c74acab76127", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "360", 
+                                "playcount": "1326"
+                            }, 
+                            "title": "Rain Dance", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "ef556547-23ea-4f21-aee3-50b3761dcbe5", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "169", 
+                                "playcount": "587"
+                            }, 
+                            "title": "Every Waking Hour", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "fcf52149-9455-48bc-82d0-df13194c07c8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "539"
+                            }, 
+                            "title": "Three Seconds", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "78963653-2601-474a-a0fe-a9a7cccf90cc", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "159", 
+                                "playcount": "584"
+                            }, 
+                            "title": "You Get What You Choose", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e14258d7-54d7-4715-b8b2-d66046fe6c72", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "6469eaa7-0b7d-4c37-b7b8-eff431d27e2c", 
+                    "packaging": null, 
+                    "listeners": "449", 
+                    "date": "1988", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "6866", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Silence Screams"
+        }, 
+        {
+            "mbid": "18029c95-4f19-3637-9953-12e25d945a05", 
+            "releases": [
+                {
+                    "name": "Innocent Blood", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "241", 
+                                "playcount": "1006"
+                            }, 
+                            "title": "Rooster Crow", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "401e7a6c-9d53-4582-b107-708cad95a80b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "241", 
+                                "playcount": "980"
+                            }, 
+                            "title": "Altar of Pain", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4db7b1b5-7eaa-46d1-ae54-7a1202f7ed44", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "409", 
+                                "playcount": "1466"
+                            }, 
+                            "title": "The House Is on Fire", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b8d7f0fd-d029-41eb-8761-45842a84bc63", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "184", 
+                                "playcount": "834"
+                            }, 
+                            "title": "80,000 Underground", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "cef490a4-99a8-4c6e-85fa-aba68e3de74a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "190", 
+                                "playcount": "865"
+                            }, 
+                            "title": "Fiend or Foul", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "0f6feaea-8ff3-4b4e-b55a-cfba19028aab", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "400", 
+                                "playcount": "1958"
+                            }, 
+                            "title": "Where Roses Grow", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e590595a-9de6-415c-9355-87e5f4c82e42", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "361", 
+                                "playcount": "1401"
+                            }, 
+                            "title": "Right on Time", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "65ea8c53-1a75-4f08-8f6a-ec3af15624e7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "180", 
+                                "playcount": "759"
+                            }, 
+                            "title": "Child of the Blues", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5c60a414-a0b7-4ef4-8368-29071b74a83e", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "157", 
+                                "playcount": "625"
+                            }, 
+                            "title": "Laughing Man", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d0134e78-6e28-4f39-98a0-c0762918da40", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "216", 
+                                "playcount": "1051"
+                            }, 
+                            "title": "Bargain", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e41343f6-34dd-47dd-b2af-6572d62be0cc", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "170", 
+                                "playcount": "658"
+                            }, 
+                            "title": "Great God in Heaven", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3e71d1b2-987f-485e-bc58-7584ee1c244d", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "fc43b334-b370-40a7-b9c8-892ad1037ec8", 
+                    "packaging": null, 
+                    "listeners": "545", 
+                    "date": "1989", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "8899", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Innocent Blood"
+        }, 
+        {
+            "mbid": "19e84126-fa21-3ca7-bdef-fcc0dcbd2188", 
+            "releases": [
+                {
+                    "name": "Civil Rites", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "490", 
+                                "playcount": "2076"
+                            }, 
+                            "title": "Lovespeak", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "a7aa6a4f-b135-4566-ae93-c77d89b28546", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "147", 
+                                "playcount": "1390"
+                            }, 
+                            "title": "Mission Bells", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b781d581-a66b-4df6-b694-6c6db3563a88", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "169", 
+                                "playcount": "546"
+                            }, 
+                            "title": "Comatose", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3f4e77e5-1648-40fd-913f-284eac822d23", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "139", 
+                                "playcount": "443"
+                            }, 
+                            "title": "Death Machine", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "57f86a9a-087b-4e1a-b9e8-3f1d978b9a62", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "197", 
+                                "playcount": "627"
+                            }, 
+                            "title": "Players", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9f79b7fe-81b0-44ad-97e1-a8ff57881bbb", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "322", 
+                                "playcount": "1098"
+                            }, 
+                            "title": "Lincoln's Train", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "fd3768eb-ac04-4297-8d36-6c82bfcd57bd", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "140", 
+                                "playcount": "417"
+                            }, 
+                            "title": "Hotfootin'", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "fe4ae937-0302-4d76-af11-42a9fedf00f3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "75"
+                            }, 
+                            "title": "Little Jeannie", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6b02f9cd-e2da-4d24-a3e5-55967e89d447", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "145", 
+                                "playcount": "389"
+                            }, 
+                            "title": "Footprints", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "f9eeec72-b2d9-424e-8d37-f5e63611bd77", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "94", 
+                                "playcount": "302"
+                            }, 
+                            "title": "Pauper's Grave", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "fa95b2d2-b6b6-4407-9492-0b7496ab6ffb", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "391"
+                            }, 
+                            "title": "In My Room", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "73c51efc-f3ec-48ed-91cb-982b07f2b345", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "193", 
+                                "playcount": "696"
+                            }, 
+                            "title": "Somebody to Love", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d9b63b6f-aad7-473e-84d2-cb52d7772010", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "e9a3c385-f5ee-4040-a73a-a3ecac6d760e", 
+                    "packaging": null, 
+                    "listeners": "361", 
+                    "date": "1991", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "6526", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Civil Rites"
+        }, 
+        {
+            "mbid": "2bc8f2ae-08fd-3b1f-9f9c-49a36956243c", 
+            "releases": [
+                {
+                    "name": "Reach Of Love", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "134", 
+                                "playcount": "401"
+                            }, 
+                            "title": "Heart's Desire", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5ba5f0fc-9b89-4b9f-a433-9552805ed662", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "125", 
+                                "playcount": "335"
+                            }, 
+                            "title": "If Your Love Grows Cold", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "a023a86c-80b2-45fe-b5da-d7f0c950e7a6", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "135", 
+                                "playcount": "370"
+                            }, 
+                            "title": "Numbers", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "10063da3-08eb-4072-b226-d9c729c6e249", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "122", 
+                                "playcount": "359"
+                            }, 
+                            "title": "Sunrise", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "73f50577-4548-43ba-8b6a-9b7aae49d1e4", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "132", 
+                                "playcount": "402"
+                            }, 
+                            "title": "Dead to the World", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "96c32464-61c5-4f04-ac1b-dbcace3bbb35", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "154", 
+                                "playcount": "565"
+                            }, 
+                            "title": "Reach of Love", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "04c34107-398e-46f8-a5b4-d84a8d182a39", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "115", 
+                                "playcount": "343"
+                            }, 
+                            "title": "Land of Stolen Breath", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "204190e7-a54b-4276-adf4-b6c20c9e0131", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "293"
+                            }, 
+                            "title": "Mannequin's Dream", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "92a33e96-f17a-4450-b151-51194e325944", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "104", 
+                                "playcount": "268"
+                            }, 
+                            "title": "Empty Hearts", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9efa06a2-b790-42ab-9d73-15ac2c3a0bf4", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "114", 
+                                "playcount": "352"
+                            }, 
+                            "title": "Thought I'd Never Love Again", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "db378c9b-f3d6-4751-8e81-2402d38bde0f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100", 
+                                "playcount": "275"
+                            }, 
+                            "title": "White Lies", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2c4cf226-ae1c-419c-81d6-b0cf5af99a9f", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "99", 
+                                "playcount": "382"
+                            }, 
+                            "title": "On My Dyin' Bed", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "29b048a9-80da-43d5-b718-26562208d920", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "101", 
+                                "playcount": "264"
+                            }, 
+                            "title": "Heart's Desire (Reprise)", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3c7f1bc1-dad8-4aca-86f2-31197b84d4df", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "ee1731ef-0f8d-4d20-bdd8-0a2076b036f1", 
+                    "packaging": null, 
+                    "listeners": "276", 
+                    "date": "1993", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "4241", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Reach of Love"
+        }, 
+        {
+            "mbid": "1a50e5cc-21c6-3e0b-8501-fbd5a8022cbc", 
+            "releases": [
+                {
+                    "name": "Lament", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "273", 
+                                "playcount": "868"
+                            }, 
+                            "title": "Parting Glance", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4716c4a2-fb6c-447e-8bc1-76f62601d0db", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "290", 
+                                "playcount": "1112"
+                            }, 
+                            "title": "Across These Fields", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "168f96a4-f2c4-4741-9929-cf10514e5ffe", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "251", 
+                                "playcount": "882"
+                            }, 
+                            "title": "On the Move", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "707c53f0-17ec-4052-a7fe-c5d544ab77d6", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "124", 
+                                "playcount": "439"
+                            }, 
+                            "title": "Summer Throw", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "7100310b-36df-4778-8c4a-a7a382c034ef", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "217", 
+                                "playcount": "906"
+                            }, 
+                            "title": "At Land's End", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b7d8b055-47d2-499e-a71f-315e1fed2409", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "228", 
+                                "playcount": "916"
+                            }, 
+                            "title": "Song and Dance", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "cb9033b3-6513-4b56-a6d6-4e6080f674a7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "263", 
+                                "playcount": "1052"
+                            }, 
+                            "title": "In Change", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "7e6b8ac9-433f-4f02-b9ee-a469e8d478b2", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "183", 
+                                "playcount": "705"
+                            }, 
+                            "title": "The Road", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6fbebfd7-254c-42fb-b6d3-0aa61487d977", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "211", 
+                                "playcount": "872"
+                            }, 
+                            "title": "Dark Carnival", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "ad6804bc-91b7-45ed-9ade-99edfb07ab31", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "200", 
+                                "playcount": "779"
+                            }, 
+                            "title": "Mirror", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9926f0c1-e72e-49be-ba1f-7188bbfe9d73", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Another Look", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "45d3e581-c41f-42e3-b4f6-0f7b6fdb040a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "229", 
+                                "playcount": "958"
+                            }, 
+                            "title": "Surprised", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b325d023-5ddd-4561-9d9c-365c90b3c0d5", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "1029"
+                            }, 
+                            "title": "Richest One", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "68e33c97-fb48-4523-bc45-b3d3c410660d", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "136", 
+                                "playcount": "552"
+                            }, 
+                            "title": "Across These Fields (reprise)", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "cd31616a-61e4-4bbb-942f-54d3170713ac", 
+                            "trackNumber": "14", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "19bb9511-c49a-47d1-99fb-0c81cd470160", 
+                    "packaging": null, 
+                    "listeners": "604", 
+                    "date": "1995", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "11709", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Lament"
+        }, 
+        {
+            "mbid": "96d2930c-eb14-3af0-b0e1-ecb82855a4c9", 
+            "releases": [
+                {
+                    "name": "Ampendectomy", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "490", 
+                                "playcount": "2076"
+                            }, 
+                            "title": "Lovespeak", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6ab37d16-fb8b-4550-b3b1-55f483f56fda", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1102", 
+                                "playcount": "3401"
+                            }, 
+                            "title": "Broken Promises", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "a4316803-66fa-42c4-bd97-75ed518ca02e", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "464", 
+                                "playcount": "1340"
+                            }, 
+                            "title": "Souls for Hire", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "c39ccfbf-00df-47dd-b005-3147079e17a1", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "409", 
+                                "playcount": "1466"
+                            }, 
+                            "title": "The House Is on Fire", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "29af5496-4617-4710-b043-ce3d2d4d364a", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "420", 
+                                "playcount": "1442"
+                            }, 
+                            "title": "I Need Your Love", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4faa70f0-ed44-4d1c-a445-99c07e141f69", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "360", 
+                                "playcount": "1326"
+                            }, 
+                            "title": "Rain Dance", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2b5ec5b8-04df-492c-abb8-f834d59c34b4", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "633", 
+                                "playcount": "2444"
+                            }, 
+                            "title": "Shadows", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "792004d9-d7db-4035-883f-b2702a78d580", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "390", 
+                                "playcount": "1413"
+                            }, 
+                            "title": "So in Love With You", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "603c029d-ef9e-4a42-a94d-7605f17b4cad", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "742", 
+                                "playcount": "3058"
+                            }, 
+                            "title": "Colours", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "116147a3-552c-48e9-9228-8d01d63a9b11", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "775", 
+                                "playcount": "2033"
+                            }, 
+                            "title": "Irish Garden", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "822ef112-f497-4bb1-b007-a0115ae0f11b", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "361", 
+                                "playcount": "1401"
+                            }, 
+                            "title": "Right on Time", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "50693cb5-9ee7-4ada-b9bb-cb7eaa111045", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "136", 
+                                "playcount": "552"
+                            }, 
+                            "title": "Across These Fields (reprise)", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "1cc9d514-fb98-4d9e-8c7c-fea6640345c8", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "381", 
+                                "playcount": "1133"
+                            }, 
+                            "title": "2000", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "b1b0a24f-1a01-465d-a32f-76a3d25cc206", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "322", 
+                                "playcount": "1098"
+                            }, 
+                            "title": "Lincoln's Train", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "e116ff6e-2e08-4ae0-bf7b-7e8e5f6d392e", 
+                            "trackNumber": "14", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "206", 
+                                "playcount": "621"
+                            }, 
+                            "title": "Can't Stop Loving You", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6914cd18-1b3b-4076-bf12-9021f56151e6", 
+                            "trackNumber": "15", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b0c30ef6-1520-4c4d-bc82-627b1c967dca", 
+                    "packaging": null, 
+                    "listeners": "818", 
+                    "date": "1997", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "8427", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Ampendectomy"
+        }, 
+        {
+            "mbid": "4ae771df-84ed-3aa2-bddc-f0306b339729", 
+            "releases": [
+                {
+                    "name": "Compact Favorites", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "919", 
+                                "playcount": "3321"
+                            }, 
+                            "title": "Love Comes Down", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "f922482d-1a3b-4e3f-a8a9-8d56ce8926cb", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "256", 
+                                "playcount": "750"
+                            }, 
+                            "title": "Crimes", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "cba4cb6b-2fc5-492f-9dc6-57757662ceae", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "257", 
+                                "playcount": "682"
+                            }, 
+                            "title": "Defective Youth", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d7a71470-8dcd-4ed2-a75c-b55164e73502", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "204", 
+                                "playcount": "557"
+                            }, 
+                            "title": "Gameroom", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3debfd54-0e35-4686-8780-2c666f9b57f2", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "659"
+                            }, 
+                            "title": "S.O.S.", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "0c971425-baf1-4614-bd1a-5e2911abb087", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1063", 
+                                "playcount": "3458"
+                            }, 
+                            "title": "Military Man", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "bd3fd683-4811-410f-995f-20bf1f348848", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Medley: Waves / Awaiting Your Reply / Broken Promises / Autograph / City Streets (live)", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "430366ce-db63-4621-ba49-68b8fa04196c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "959"
+                            }, 
+                            "title": "The Main Event", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "a9549626-fa49-460d-b750-0d8085260d59", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "381", 
+                                "playcount": "1133"
+                            }, 
+                            "title": "2000", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9252563f-fa69-450a-b8b2-003eb5c443bf", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "633", 
+                                "playcount": "2444"
+                            }, 
+                            "title": "Shadows", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d3a15835-94b5-4bf0-9a17-a8df83e82515", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "981aee7c-2cd8-4778-8607-c59fa4d701d8", 
+                    "packaging": null, 
+                    "listeners": "33", 
+                    "date": "1988", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "222", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Compact Favorites"
+        }, 
+        {
+            "mbid": "a1faabd5-8259-4602-b853-9e484e603e34", 
+            "releases": [
+                {
+                    "name": "Music To Raise The Dead 1972 - 1998", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1273", 
+                                "playcount": "3290"
+                            }, 
+                            "title": "Waves", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "bf1a9a3f-2f9d-40a5-856e-c118ae8d3c20", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "722", 
+                                "playcount": "2110"
+                            }, 
+                            "title": "Awaiting Your Reply", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "70628de9-044a-44c5-a0b2-843f76263c1b", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1102", 
+                                "playcount": "3401"
+                            }, 
+                            "title": "Broken Promises", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9555ac5e-7dca-4c1c-9206-3e7db7c44c30", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "775", 
+                                "playcount": "2033"
+                            }, 
+                            "title": "Irish Garden", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4e50da5e-928d-4874-947c-bd01a3e3a85c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "846", 
+                                "playcount": "2175"
+                            }, 
+                            "title": "The Return", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "262c3c54-5ec6-4b36-bb65-fda6c28e4056", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "806", 
+                                "playcount": "2107"
+                            }, 
+                            "title": "Afrikaans", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "a2a7909c-edb8-4570-9248-645694da0f22", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "658", 
+                                "playcount": "2181"
+                            }, 
+                            "title": "Paint A Picture", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "262cf147-972f-49a3-9f5c-0402cf11cb0f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "2"
+                            }, 
+                            "title": "Rainbow\u2019s End", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "ba96bd3c-b101-450d-b063-2094f1ddfdf1", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "296", 
+                                "playcount": "809"
+                            }, 
+                            "title": "Concert For A Queen", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "db6c936c-75d3-4670-b8f4-5cf8ccb5df48", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "324", 
+                                "playcount": "930"
+                            }, 
+                            "title": "Every Time It Rains", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6f7368f0-dc8b-4165-8069-d2679d920001", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "742", 
+                                "playcount": "3058"
+                            }, 
+                            "title": "Colours", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "14842cd3-c1b5-4a2d-b1b1-4261bc863123", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "361", 
+                                "playcount": "1265"
+                            }, 
+                            "title": "Amazing", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "8983d399-ab6b-4c63-b022-aa3bcb1610aa", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "439", 
+                                "playcount": "1347"
+                            }, 
+                            "title": "American Dream", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3e90d6f1-c3d3-415f-8dcd-2e91c9d44496", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "1258"
+                            }, 
+                            "title": "The Struggle", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "688af1eb-0b7d-4317-802a-5d2caf016204", 
+                            "trackNumber": "14", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1294"
+                            }, 
+                            "title": "Alienated", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "0c6929c0-2196-4b47-8308-a0d966459e75", 
+                            "trackNumber": "15", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "973"
+                            }, 
+                            "title": "The Chair", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "12ab8fa9-fce6-46bb-96d4-bbc113c0e385", 
+                            "trackNumber": "16", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "240", 
+                                "playcount": "817"
+                            }, 
+                            "title": "First Degree Apathy", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "0afbb4c8-0666-4275-ab84-ee792b93134b", 
+                            "trackNumber": "17", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "261", 
+                                "playcount": "900"
+                            }, 
+                            "title": "The Crossing", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "fa9aefec-1763-4460-94c9-b3a252baaf73", 
+                            "trackNumber": "18", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "3ab501a8-6fff-4eda-aee3-45e99832bf9f", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "4", 
+                    "date": "2008", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "56", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Music To Raise The Dead 1972 - 1998"
+        }, 
+        {
+            "mbid": "fc32f927-8b0c-37c4-91d2-23a4cd031fa5", 
+            "releases": [
+                {
+                    "name": "The Best of Resurrection Band", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "742", 
+                                "playcount": "3058"
+                            }, 
+                            "title": "Colours", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2e7b0df2-bd35-4daa-8656-7d990c4d2477", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1063", 
+                                "playcount": "3458"
+                            }, 
+                            "title": "Military Man", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "6eb25ade-5e78-4c0d-b3f1-76eed38960c0", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "307", 
+                                "playcount": "1051"
+                            }, 
+                            "title": "Elevator Muzik", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "c4994acb-00b6-45d8-b165-a5289c03b3a4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "306", 
+                                "playcount": "1127"
+                            }, 
+                            "title": "Mommy Don't Love Daddy Anymore", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "49961397-ddd6-4e5f-a0d1-0ccfadca6d16", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "361", 
+                                "playcount": "1265"
+                            }, 
+                            "title": "Amazing", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "19497b50-2de6-4c81-9f72-cf96d162a1ef", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "894"
+                            }, 
+                            "title": "Area 312", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "342e3d22-ac04-4f80-ace0-5e6694826c1b", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "439", 
+                                "playcount": "1347"
+                            }, 
+                            "title": "American Dream", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "921faa0a-f33b-42e1-a16d-3ef59b17510f", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "473", 
+                                "playcount": "1525"
+                            }, 
+                            "title": "Autograph", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "57f55a1f-a1c0-4aa8-a78c-3408a86034d8", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "213", 
+                                "playcount": "719"
+                            }, 
+                            "title": "Can't Get You Out of My Mind", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4a441f9e-63a2-4f35-b53a-8137ebb2fb36", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "390", 
+                                "playcount": "1413"
+                            }, 
+                            "title": "So in Love With You", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d17c671a-d781-4d36-9610-d68f8f313dbf", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "67e0a0de-a8a4-438f-bae7-8cbc60935048", 
+                    "packaging": null, 
+                    "listeners": "9", 
+                    "date": "", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "144", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "The Best of Resurrection Band"
+        }, 
+        {
+            "mbid": "1336857b-28f4-3f3e-83e0-d8d4af4ca0ff", 
+            "releases": [
+                {
+                    "name": "Live Bootleg", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1063", 
+                                "playcount": "3458"
+                            }, 
+                            "title": "Military Man", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3f3f30d2-656a-4c71-a8ca-ada20e64da0d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "7"
+                            }, 
+                            "title": "Game Room", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "0a8e47f3-2e46-4538-b53f-c0a808a9e38d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "144", 
+                                "playcount": "245"
+                            }, 
+                            "title": "Wendi's Rap", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "148cba80-9113-4fd8-94d4-874d1ab13cd4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "209"
+                            }, 
+                            "title": "Playground", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "24c53afa-881e-4d42-8468-7e7cdf64fa25", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Medley: Waves / Awaiting Your Reply / Broken Promises / Autograph / City Streets", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "3793cf81-57af-4b27-a707-32838026864d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "537", 
+                                "playcount": "1525"
+                            }, 
+                            "title": "White Noise", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5abfbf51-a9b9-4227-b84d-17437e3626ed", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "186", 
+                                "playcount": "507"
+                            }, 
+                            "title": "Quite Enough", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "71954d9e-b50d-4276-bfb8-27dcf276d224", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "315", 
+                                "playcount": "894"
+                            }, 
+                            "title": "Area 312", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "326164d0-9ad5-4f22-8536-99a12c4ce853", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "253"
+                            }, 
+                            "title": "Can't Stop Lovin' You", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5cbb0c38-462e-439b-866d-837a12d60514", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "235"
+                            }, 
+                            "title": "Glenn's Rap", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "f197397c-467a-4c11-83be-43f839e7291e", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "812384fd-c134-49e4-ad85-f6265dd7054b", 
+                    "packaging": null, 
+                    "listeners": "252", 
+                    "date": "1984", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "1794", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Live Bootleg"
+        }, 
+        {
+            "mbid": "d7ccbfe1-b5ba-3625-80d9-8f77e9dd49fb", 
+            "releases": [
+                {
+                    "name": "Twenty Years Live", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "152", 
+                                "playcount": "388"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "f1e720d9-70b6-45b4-bba0-0d5b4003457b", 
+                            "trackNumber": "1", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1273", 
+                                "playcount": "3290"
+                            }, 
+                            "title": "Waves", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "986af92c-3c04-46b4-a02e-47e1d4dfb907", 
+                            "trackNumber": "2", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1063", 
+                                "playcount": "3458"
+                            }, 
+                            "title": "Military Man", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d01dcfd3-a715-4a71-ab61-e1c90050b461", 
+                            "trackNumber": "3", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Afrikaans (Intro)", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "d4a641b7-a4c1-4614-8b30-4af8dd3f12ba", 
+                            "trackNumber": "4", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "806", 
+                                "playcount": "2107"
+                            }, 
+                            "title": "Afrikaans", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "1c1f8759-7603-4a3b-8bbc-677f087bff9f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "248", 
+                                "playcount": "721"
+                            }, 
+                            "title": "Attention", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "ac59588c-4717-4622-8b9f-4291441a56a8", 
+                            "trackNumber": "6", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "742", 
+                                "playcount": "3058"
+                            }, 
+                            "title": "Colours", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "09ead806-91be-41b8-b31c-06c2037134cd", 
+                            "trackNumber": "7", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "197", 
+                                "playcount": "627"
+                            }, 
+                            "title": "Players", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "fbbfd381-0dfa-4812-80de-08a9fca80d79", 
+                            "trackNumber": "8", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "362", 
+                                "playcount": "1258"
+                            }, 
+                            "title": "The Struggle", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "1620cb51-337e-4b4f-973b-fe653afa6a2e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "3", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Fiend or Foul (Intro)", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "7be4e6aa-03de-4cef-99f5-8c9488c33048", 
+                            "trackNumber": "10", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "190", 
+                                "playcount": "865"
+                            }, 
+                            "title": "Fiend or Foul", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "63010fd8-eef9-4ba9-ae91-7bba7e0ac3dc", 
+                            "trackNumber": "11", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "347", 
+                                "playcount": "1294"
+                            }, 
+                            "title": "Alienated", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "10728728-fdca-428f-aec8-f9ee4fe7131f", 
+                            "trackNumber": "12", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "658", 
+                                "playcount": "2181"
+                            }, 
+                            "title": "Paint a Picture", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "5dff4144-23d4-4014-9458-e2cc1549c570", 
+                            "trackNumber": "13", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "144", 
+                                "playcount": "245"
+                            }, 
+                            "title": "Wendi\u2019s Rap", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "4f0222be-958d-478a-a119-f0b1873dfa66", 
+                            "trackNumber": "14", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "361", 
+                                "playcount": "1401"
+                            }, 
+                            "title": "Right on Time", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "2f3bcd02-6876-4246-afaa-bb24734f7b6c", 
+                            "trackNumber": "15", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "919", 
+                                "playcount": "3321"
+                            }, 
+                            "title": "Love Comes Down", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "161765a1-025a-46b0-94fa-b98790ee530a", 
+                            "trackNumber": "16", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "537", 
+                                "playcount": "1525"
+                            }, 
+                            "title": "White Noise", 
+                            "artistName": "Resurrection Band", 
+                            "mbid": "9765051e-f450-4474-9123-228a0c64df23", 
+                            "trackNumber": "17", 
+                            "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "e99a5d17-8db4-499f-b054-ae6ba10c6296", 
+                    "packaging": null, 
+                    "listeners": "6", 
+                    "date": "1992", 
+                    "artistName": "Resurrection Band", 
+                    "playcount": "140", 
+                    "artistMBID": "cbf344ae-68f6-45c8-9b52-fcb25dce4646"
+                }
+            ], 
+            "title": "Twenty Years Live"
+        }
+    ], 
+    "type": "Group"
+}

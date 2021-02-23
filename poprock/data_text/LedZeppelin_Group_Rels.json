@@ -1,0 +1,40 @@
+{
+    "name": "Led Zeppelin",
+    "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "9c2b375c-ce68-44a8-90ac-e06b177f43f9",
+            "name": "John Bonham",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "4490113a-3880-4f5b-a39b-105bfceaed04",
+            "name": "John Paul Jones",
+            "attributes": [
+                "bass guitar",
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "519774a4-3b18-4042-b8c0-927845a616c9",
+            "name": "Jimmy Page",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc",
+            "name": "Robert Plant",
+            "attributes": [
+                "lead vocals"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "George Clinton",
+    "mbid": "84683370-5eae-418b-acd8-883ac028a8a0",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+            "name": "Parliament",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "bc6370df-69eb-416c-b2d0-5716c1706d1f",
+            "name": "Dolby's Cube",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d",
+            "name": "Parliament-Funkadelic",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "25cb36c7-a4a3-4a88-864f-76876737e488",
+            "name": "The Parliaments",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
+            "name": "Funkadelic",
+            "attributes": []
+        }
+    ]
+}

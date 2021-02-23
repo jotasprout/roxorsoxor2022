@@ -1,0 +1,99 @@
+{
+    "name": "Mot\u00f6rhead",
+    "mbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "940b46a8-8a37-419f-bb62-c7276151d28c",
+            "name": "Lucas Fox",
+            "attributes": [
+                "drums (drum set)",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9814dd73-5352-4bd3-9567-c132c6aba1ee",
+            "name": "Larry Wallis",
+            "attributes": [
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e3ea6186-7523-48de-8437-bac91bc47829",
+            "name": "Lemmy Kilmister",
+            "attributes": [
+                "bass guitar",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d9b5ba88-b57b-43d6-9ff1-51f53cbbf815",
+            "name": "Phil \u201cPhilthy Animal\u201d Taylor",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "28f344b7-2261-4bbe-8ce9-a8a31b7fd635",
+            "name": "Eddie Clarke",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ee9ad960-090f-4918-8147-72ba9061e217",
+            "name": "Brian Robertson",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fe051ca9-4ec9-4aeb-bc90-6266496ef8f3",
+            "name": "Pete Gill",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "55b6e7f5-41cd-49a3-891a-8c7089b445ed",
+            "name": "W\u00fcrzel",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9886202d-1197-408c-9edf-581a9531e71d",
+            "name": "Phil Campbell",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d9b5ba88-b57b-43d6-9ff1-51f53cbbf815",
+            "name": "Phil \u201cPhilthy Animal\u201d Taylor",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "243e6b41-4aa5-40eb-85f3-db4030befd4a",
+            "name": "Mikkey Dee",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        }
+    ]
+}

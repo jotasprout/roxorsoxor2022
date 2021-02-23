@@ -1,0 +1,25 @@
+{
+    "name": "Circle of Dust",
+    "mbid": "9b39533c-4432-4055-811b-6773e0c6c3a5",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "4f223e02-2198-4e64-895c-f81d03674d5e",
+            "name": "Scott Albert",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "cc275e45-949a-492c-9544-8237ec9b1718",
+            "name": "Daren Diolosa",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "578ad93f-ecdd-4d70-bca0-d56ac3db30e4",
+            "name": "Jason Tilton",
+            "attributes": []
+        }
+    ]
+}

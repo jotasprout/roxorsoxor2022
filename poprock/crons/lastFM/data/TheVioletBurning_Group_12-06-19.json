@@ -1,0 +1,2189 @@
+{
+    "genres": [
+        "indie", 
+        "christian", 
+        "seen live", 
+        "rock", 
+        "alternative"
+    ], 
+    "taskDuration": {
+        "Task Duration": 87.44235801696777, 
+        "Task End": 1575611428.101777, 
+        "Task Start": 1575611340.659419
+    }, 
+    "stats": {
+        "listeners": "17294", 
+        "playcount": "339164"
+    }, 
+    "name": "The Violet Burning", 
+    "mbid": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54", 
+    "birthday": "1989", 
+    "date": "2019-12-06", 
+    "albums": [
+        {
+            "mbid": "e6c870a3-6ce2-353e-a829-e4a00162c21c", 
+            "releases": [
+                {
+                    "name": "Chosen", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "456", 
+                                "playcount": "3054"
+                            }, 
+                            "title": "There Is Nowhere Else", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "48739d60-8c5e-413f-9fde-936aebe77645", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "215", 
+                                "playcount": "951"
+                            }, 
+                            "title": "If You Let Me", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "5340ecd6-dd16-4ba4-baa8-cdde5a658786", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "201", 
+                                "playcount": "801"
+                            }, 
+                            "title": "I Will Always Stand by You", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "b49009af-f762-447b-a4a8-8c53dae40820", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "220", 
+                                "playcount": "1079"
+                            }, 
+                            "title": "Rise Like the Lion", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "6661747f-2ffe-4822-88e1-7c6ca8ec6b2f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "835"
+                            }, 
+                            "title": "Love Is the Loaded Gun", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "26446087-0d2f-48f5-8f43-a61db30007f2", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "229", 
+                                "playcount": "1356"
+                            }, 
+                            "title": "The Killing", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "61eebd8a-7815-45c4-9094-3f2032b86385", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "218", 
+                                "playcount": "860"
+                            }, 
+                            "title": "The Last Ones", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "63376c88-12c9-40e2-82b1-54cbb3bccd92", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "162", 
+                                "playcount": "740"
+                            }, 
+                            "title": "Groove Baby--White Soul", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "c88232ee-9aed-4fd4-a2b6-88e8a6090140", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "210", 
+                                "playcount": "953"
+                            }, 
+                            "title": "Violet", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "15145431-ac74-46c8-a7fc-ae2311a5a986", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "235", 
+                                "playcount": "1032"
+                            }, 
+                            "title": "Sweet Mercy", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "1fe8f7b1-743d-4f86-b3ff-eed8df4d23fe", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "190", 
+                                "playcount": "809"
+                            }, 
+                            "title": "Heart Wide Open", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "3d7cd9f9-f573-4a7b-a45c-713eda3e143a", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "169", 
+                                "playcount": "729"
+                            }, 
+                            "title": "New Breed Children Rise", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "6486649e-f15a-42fd-a953-27cdd90dcd08", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "77a01422-1643-402c-8040-d0c5537f0c45", 
+                    "packaging": null, 
+                    "listeners": "405", 
+                    "date": "1989", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "9898", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Chosen"
+        }, 
+        {
+            "mbid": "212196a1-20da-3cf4-825e-609544569845", 
+            "releases": [
+                {
+                    "name": "Strength", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "303", 
+                                "playcount": "1836"
+                            }, 
+                            "title": "There Is No One Like You", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "bb7dedd9-4e6d-4e5f-9edf-492d3e93f814", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "262", 
+                                "playcount": "1322"
+                            }, 
+                            "title": "The Face of Beauty", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "3fb519b6-c096-4b42-a0e4-9993a2d86ab4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "251", 
+                                "playcount": "1168"
+                            }, 
+                            "title": "Stay With Me", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "650fd627-e17f-461d-8441-7f142da4b15f", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "499", 
+                                "playcount": "3930"
+                            }, 
+                            "title": "Undone", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "5e5ab865-6c2e-4ae0-ba4b-a4cf28814a64", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "480", 
+                                "playcount": "3696"
+                            }, 
+                            "title": "As I Am", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "3d746df9-0ae1-4bd6-b3fe-ed40298d4a58", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "239", 
+                                "playcount": "1611"
+                            }, 
+                            "title": "Like the Sun", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "cb3dfe3a-047f-4dbb-95b4-b9b89db60f21", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "227", 
+                                "playcount": "1512"
+                            }, 
+                            "title": "Gold", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "d89fcc0e-6dd4-4cb9-8b2e-bada2632c9f3", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "277", 
+                                "playcount": "1645"
+                            }, 
+                            "title": "Song of the Harlot", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "c21cb62e-2a5a-441c-8f98-5d2f196a6f49", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "259", 
+                                "playcount": "1362"
+                            }, 
+                            "title": "Eleanor Rigby", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "1723ce8d-267a-4c1f-92d4-495f7d1ce097", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "248", 
+                                "playcount": "1378"
+                            }, 
+                            "title": "Through My Tears", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "07ba042f-983e-4e85-a0f2-20e3ce2dc94c", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "dfc3df04-a828-405b-abfd-2a78484f7e69", 
+                    "packaging": null, 
+                    "listeners": "449", 
+                    "date": "1991", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "12706", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Strength"
+        }, 
+        {
+            "mbid": "be839965-faaa-3be4-a779-c2a1aa066474", 
+            "releases": [
+                {
+                    "name": "The Violet Burning", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1852", 
+                                "playcount": "6620"
+                            }, 
+                            "title": "Crush", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f8117414-bcb3-4df0-9e44-050f0c2bbe04", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2954", 
+                                "playcount": "9797"
+                            }, 
+                            "title": "Arabic Tremolo Radio", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0c4ec2e6-21c4-4baa-bbdb-0c5632fd79ad", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1901", 
+                                "playcount": "5794"
+                            }, 
+                            "title": "Blind", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "9baf1f9f-3718-4ef4-b72f-e2923b1c1aa4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "740", 
+                                "playcount": "3278"
+                            }, 
+                            "title": "Fever", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "817cea46-272a-4446-9f42-db5daea2cf27", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "746", 
+                                "playcount": "3543"
+                            }, 
+                            "title": "The Sun and the Sky", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "095f49af-82c8-4331-a47e-ff86647de53a", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1157", 
+                                "playcount": "5395"
+                            }, 
+                            "title": "Underwater", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "1eb68149-f3de-4a34-97b6-dc3f37387e1c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1458", 
+                                "playcount": "6987"
+                            }, 
+                            "title": "Low", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "bbe25d22-faef-4cf8-ae1d-9e6ff88ba473", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "907", 
+                                "playcount": "4195"
+                            }, 
+                            "title": "Silver", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "7cb9bda6-ee0a-4567-b608-b73ff08ea365", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "739", 
+                                "playcount": "3735"
+                            }, 
+                            "title": "Goldmine", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "355add5a-6ef1-4786-8f36-748e1ca46b1e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "745", 
+                                "playcount": "2788"
+                            }, 
+                            "title": "Waiting", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "81850d28-fa5f-4c05-bb97-e18647230acc", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "680", 
+                                "playcount": "2512"
+                            }, 
+                            "title": "Eleven", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "fc39622a-4eaf-4cd7-81b8-28b30b4dc9df", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "687", 
+                                "playcount": "2745"
+                            }, 
+                            "title": "Feel", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "ca12ac2d-a09b-4000-a609-81e106bf0f6d", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4a45064c-a5ee-45dd-ac6b-572477714dd5", 
+                    "packaging": null, 
+                    "listeners": "5592", 
+                    "date": "1996-02-20", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "38469", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "The Violet Burning"
+        }, 
+        {
+            "mbid": "65d16b45-2764-3de5-9b65-67c0d15e851e", 
+            "releases": [
+                {
+                    "name": "Demonstrates Plastic and Elastic", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "676", 
+                                "playcount": "2952"
+                            }, 
+                            "title": "Elaste", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "aa8a8459-e821-4d8e-9f69-ecd65ea7ceff", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1087", 
+                                "playcount": "5028"
+                            }, 
+                            "title": "Moon Radio", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "df8fb29d-cef2-44ad-af4d-63d13c5a336d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1", 
+                                "playcount": "3"
+                            }, 
+                            "title": "(Moon Radio Fade)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "5757d88b-fbe8-4021-9deb-7de09ae29b9e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "919", 
+                                "playcount": "4034"
+                            }, 
+                            "title": "Berlin Kitty", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "48ea603c-cce7-47ac-b1ea-4f5e82abfd89", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1328", 
+                                "playcount": "5402"
+                            }, 
+                            "title": "She Says Electric", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "82d621a5-66ba-4b29-915b-2549b411dcec", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "(Intro)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "8e415600-d8fb-441e-96c4-3e6551f1631c", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1688", 
+                                "playcount": "6128"
+                            }, 
+                            "title": "I'm No Superman", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f67f7e4b-06f9-47eb-a1d6-013ce90226af", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "764", 
+                                "playcount": "3653"
+                            }, 
+                            "title": "Oceana", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "9d9d83df-296d-4880-9e4d-f80d8da9ddab", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "557", 
+                                "playcount": "2295"
+                            }, 
+                            "title": "Sugarlight U.S.A.", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "a7429864-20d7-41c4-a688-77e335eaf33f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "581", 
+                                "playcount": "2859"
+                            }, 
+                            "title": "Ilaria", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "d8e63332-0a0f-4ffb-97e0-6a9967863dcf", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "157", 
+                                "playcount": "656"
+                            }, 
+                            "title": "(Ilaria Fade Out)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "c864bc8a-5f1a-4909-b8c1-ffe51cb7d075", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "552", 
+                                "playcount": "2817"
+                            }, 
+                            "title": "Robot Fluide Robot", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "8f721781-5256-440a-ab3c-f0efb81330b2", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2122", 
+                                "playcount": "8881"
+                            }, 
+                            "title": "Gorgeous", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "898e44f8-805f-4c52-9bbd-136d240285c0", 
+                            "trackNumber": "13", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "571", 
+                                "playcount": "2474"
+                            }, 
+                            "title": "We Close Our Eyes", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "a2398126-d7f7-4c6b-a938-0eac30ddbe85", 
+                            "trackNumber": "14", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "61ab1ca5-893c-4fcb-818f-c1b3c70083f0", 
+                            "trackNumber": "15", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "712e77e6-1afc-4eb5-8f8e-4865b3142dbc", 
+                            "trackNumber": "16", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "[silence]", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "e1d3d0a5-5ec0-47b4-9837-4c2d570b56fb", 
+                            "trackNumber": "17", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "4064"
+                            }, 
+                            "title": "Seamonster", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "2f648cb8-29b0-4bbb-9f99-472e1c79a1a5", 
+                            "trackNumber": "18", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "b320fd30-0d0f-486d-883a-607d37f3171d", 
+                    "packaging": null, 
+                    "listeners": "4399", 
+                    "date": "1998", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "31237", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Demonstrates Plastic and Elastic"
+        }, 
+        {
+            "mbid": "9926d9b9-2211-3a14-9c48-57fa43650be7", 
+            "releases": [
+                {
+                    "name": "I Am a Stranger in This Place: An Experiment in Vibe", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "499", 
+                                "playcount": "3930"
+                            }, 
+                            "title": "Undone", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "1d77a875-4efa-47be-912b-93a3f2d534f3", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1458", 
+                                "playcount": "6987"
+                            }, 
+                            "title": "Low", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "1f163cb0-9c38-495f-b7a0-1fde4f7b79d6", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "456", 
+                                "playcount": "3054"
+                            }, 
+                            "title": "There Is Nowhere Else", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "b86eb917-c401-4bee-b445-92698f363c02", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2954", 
+                                "playcount": "9797"
+                            }, 
+                            "title": "Arabic Tremolo Radio", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "cf6d1e81-891f-4089-850a-334f2a42d546", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1328", 
+                                "playcount": "5402"
+                            }, 
+                            "title": "She Says Electric", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "afc560c3-4c7d-4ec2-8c69-0680e3007c9c", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "268", 
+                                "playcount": "1613"
+                            }, 
+                            "title": "Arabella", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0e326964-b451-44c3-bf84-21bf227553ca", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2122", 
+                                "playcount": "8881"
+                            }, 
+                            "title": "Gorgeous", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "43abbb2f-3c8b-4608-a906-38d2ffa394ad", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "236", 
+                                "playcount": "1683"
+                            }, 
+                            "title": "Song of the Harlot / My God, My Strength", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "cb2546bb-f0e6-498e-9572-e7a41d3c9c6c", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "480", 
+                                "playcount": "3696"
+                            }, 
+                            "title": "As I Am", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "e625da30-b6f4-401c-8759-8ca943981f77", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "841", 
+                                "playcount": "4064"
+                            }, 
+                            "title": "Seamonster", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "9ad63b8b-4351-4cbb-a879-3ff8cea4a1d4", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8b81cda9-58f6-4a55-8005-7ef30aa605a6", 
+                    "packaging": null, 
+                    "listeners": "52", 
+                    "date": "2000", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "2395", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "I Am a Stranger in This Place: An Experiment in Vibe"
+        }, 
+        {
+            "mbid": "6f6971e1-be33-33c9-b902-22f843f923db", 
+            "releases": [
+                {
+                    "name": "Faith and Devotions of a Satellite Heart", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "480", 
+                                "playcount": "3600"
+                            }, 
+                            "title": "Invitation Foundation", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "bf26cdea-2e77-4bd1-844f-a03b88f6523a", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "389", 
+                                "playcount": "2530"
+                            }, 
+                            "title": "Clean (My God Has Rescued Me)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "c7dbec77-e93a-47b3-84c4-3c781253fe2c", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "378", 
+                                "playcount": "2434"
+                            }, 
+                            "title": "The Blood of Jesus", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "cbbaab3f-c4ef-496f-b832-ac15eb88b36a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "418", 
+                                "playcount": "2996"
+                            }, 
+                            "title": "Forty Weight", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "02ebcdb3-d37f-4cc0-ba7a-42e1931e8e4f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "367", 
+                                "playcount": "2316"
+                            }, 
+                            "title": "All Right", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "a22b67dd-8378-4d53-ae1f-b50bc5fb02ed", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "351", 
+                                "playcount": "2187"
+                            }, 
+                            "title": "Nobody Else", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "30d95faa-1062-445f-a29b-63df285e1304", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "312", 
+                                "playcount": "1770"
+                            }, 
+                            "title": "Beautiful (I Can't Live Without You)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "aaf3531e-b51c-4c9f-812a-9a538936bb39", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "363", 
+                                "playcount": "2454"
+                            }, 
+                            "title": "Maker of the Stars", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "03b8c1c3-1409-47d2-aa5d-559f6ca45e9f", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "337", 
+                                "playcount": "1862"
+                            }, 
+                            "title": "I Remember", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "e06ea711-be9f-41b1-84f5-212ae8a8abed", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "341", 
+                                "playcount": "1768"
+                            }, 
+                            "title": "Lord, Shine Your Light", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "2038b7d6-5ea4-4d38-841b-d8e24181498b", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "50068e6e-cb27-4e24-a252-99846f3b14ed", 
+                    "packaging": null, 
+                    "listeners": "565", 
+                    "date": "2001", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "18010", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Faith and Devotions of a Satellite Heart"
+        }, 
+        {
+            "mbid": "19c50861-2644-3a02-8248-920cb8613c73", 
+            "releases": [
+                {
+                    "name": "This Is The Moment", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "961", 
+                                "playcount": "3704"
+                            }, 
+                            "title": "Lovesick", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "105c080f-6fa4-4718-ae62-3d088a7b92ed", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "765", 
+                                "playcount": "2971"
+                            }, 
+                            "title": "Everywhere I Go", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "5b265c03-3dd7-400b-a57d-3d32f7b59147", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "665", 
+                                "playcount": "2955"
+                            }, 
+                            "title": "Radio Jesus Superstar", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "fc9932a1-de6b-4823-a2f6-0b65cb7c1709", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "846", 
+                                "playcount": "3072"
+                            }, 
+                            "title": "The Only One", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "e1645ad6-ace2-4bf9-9284-0221e85319af", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "695", 
+                                "playcount": "2556"
+                            }, 
+                            "title": "I'm Not Letting Go", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "2c5cfc29-ded5-4427-b13f-de4b3946d455", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "748", 
+                                "playcount": "3294"
+                            }, 
+                            "title": "Heaven Holds My Heart", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "b6703446-9da7-4f72-95e0-43b9450bab55", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "787", 
+                                "playcount": "2952"
+                            }, 
+                            "title": "Lost Without You Near Me", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "3ecf2654-c1a7-45b5-bfce-fbbdd7fc406c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "702", 
+                                "playcount": "2883"
+                            }, 
+                            "title": "Lord, Rescue Me", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "e86882ae-2906-4bc2-9012-3261c04f48f4", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "725", 
+                                "playcount": "3312"
+                            }, 
+                            "title": "Slowa", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "76658a7c-08e6-45f3-ae77-8405fe1ba62e", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "629", 
+                                "playcount": "3076"
+                            }, 
+                            "title": "I See Stars", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "1f5a2cbe-4a78-4d4f-9ac0-5875bd2942d1", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "554", 
+                                "playcount": "2100"
+                            }, 
+                            "title": "Let It Begin", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "3ffa579c-f05e-4136-b2d1-da23f9e4e189", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "721", 
+                                "playcount": "2705"
+                            }, 
+                            "title": "Manta Rae", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f939d563-f112-4bac-a3e6-ee6049781d1b", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "7a49fc01-05e2-4126-b460-5f61e8f81319", 
+                    "packaging": null, 
+                    "listeners": "3198", 
+                    "date": "2003-06", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "31360", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "This Is the Moment"
+        }, 
+        {
+            "mbid": "acdef81f-197b-3de4-b5af-fb468bcd9de3", 
+            "releases": [
+                {
+                    "name": "Drop-Dead", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1260", 
+                                "playcount": "5233"
+                            }, 
+                            "title": "Humm", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "9bb4cc8b-b0ec-4d80-984b-b4ac41aaa78a", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1433", 
+                                "playcount": "5086"
+                            }, 
+                            "title": "All I Want", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "197190ec-d114-498f-95b9-e19295e171b8", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1272", 
+                                "playcount": "5239"
+                            }, 
+                            "title": "Do You Love Me?", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "83b6f058-4bf0-4330-82f0-e3c7fea172e5", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1009", 
+                                "playcount": "4277"
+                            }, 
+                            "title": "Already Gone", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "4a6a60ea-d3d3-44bc-a111-37826eff3e0e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1366", 
+                                "playcount": "5636"
+                            }, 
+                            "title": "More", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "b5ae56d6-8f5e-4095-ae43-bb8a6d9fc4be", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "911", 
+                                "playcount": "3672"
+                            }, 
+                            "title": "Swan Sea", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "2c9130f9-1856-4048-80a7-537a6fc733e1", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "923", 
+                                "playcount": "3756"
+                            }, 
+                            "title": "Eleanor", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0a94163d-56e0-43f9-8e42-95748819848c", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1325", 
+                                "playcount": "5633"
+                            }, 
+                            "title": "Rewind", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "4928e9cd-a7ea-407c-afc9-7ccc60647c32", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "813", 
+                                "playcount": "3629"
+                            }, 
+                            "title": "Blown Away", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "22841abe-0f80-4ef1-a5e2-b0495e3537aa", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "976", 
+                                "playcount": "3472"
+                            }, 
+                            "title": "Trans", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f0e82283-056c-487c-866e-878e9e6a1ea8", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "764", 
+                                "playcount": "3338"
+                            }, 
+                            "title": "The Ends Begin", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "6e1f6c7e-1d31-4480-9f99-8d77ee957bc5", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "745", 
+                                "playcount": "3836"
+                            }, 
+                            "title": "One Thousand Years", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "76b81794-5135-4eea-b53e-b7421f827dd6", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "494b778e-ca42-432f-a85b-262bcd2cedfa", 
+                    "packaging": null, 
+                    "listeners": "4462", 
+                    "date": "2006-02-13", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "37197", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Drop-Dead"
+        }, 
+        {
+            "mbid": "004d1f78-a384-3a9d-93d0-917484f1def5", 
+            "releases": [
+                {
+                    "name": "divine", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "197", 
+                                "playcount": "862"
+                            }, 
+                            "title": "The Little Drummer Boy", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "eeecc55f-0db8-42a5-af2d-962fd9538b94", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "192", 
+                                "playcount": "883"
+                            }, 
+                            "title": "Last Christmas", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "6a66aaa0-640a-40f0-a9a0-4133289dc19d", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "175", 
+                                "playcount": "721"
+                            }, 
+                            "title": "The First Noel", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "6a45e65a-658a-4fa5-bb27-a5deb3dc24a2", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "13", 
+                                "playcount": "53"
+                            }, 
+                            "title": "Blue Christmas / Sandy Claws Is Back in Town", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "5ed8efe0-7b8c-40e1-9f1f-042596008960", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "192", 
+                                "playcount": "878"
+                            }, 
+                            "title": "Silent Night", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "9e827bf1-de17-4cdd-9400-a14dc7dce7d7", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "167", 
+                                "playcount": "699"
+                            }, 
+                            "title": "O Come Let Us Adore Him", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "04753d01-9f6b-4459-877b-34a309ed2743", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "170", 
+                                "playcount": "650"
+                            }, 
+                            "title": "Star of Wonder", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "5409304e-5e0a-4561-81c3-40bd690c403e", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "10", 
+                                "playcount": "33"
+                            }, 
+                            "title": "Christmas (Baby Please Come Home)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "9ec13e94-988a-4003-bc9f-e151d8cb6841", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "181", 
+                                "playcount": "794"
+                            }, 
+                            "title": "O Holy Night", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "14045814-e0ed-4401-bc06-044f52d9131d", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "XW", 
+                    "disambiguation": "", 
+                    "mbid": "660d0932-ab5a-40f8-b958-25026df421f3", 
+                    "packaging": null, 
+                    "listeners": "242", 
+                    "date": "2007-12", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "5062", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Divine"
+        }, 
+        {
+            "mbid": "e143004b-abe4-3152-9378-af59979bd5ce", 
+            "releases": [
+                {
+                    "name": "Gravity", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "93"
+                            }, 
+                            "title": "Sugarlight USA (single mix)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "14cef7ad-6ad5-4718-b4e3-a67cd094df58", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "39"
+                            }, 
+                            "title": "I'm No Superman (Supersonic Kissd mix)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "b9f93051-89f3-40e9-8315-30a7183d46ac", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "114"
+                            }, 
+                            "title": "In Berlin Die Welt Begint", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "3fcb1838-fc94-4b6a-be50-4b1b6078e5bb", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "52"
+                            }, 
+                            "title": "Berlin Kitty (alternate mix 2)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f82182ef-9d3d-47dd-ab2b-49ad63c849e7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Illaria (808 Phaseshifter2 mix)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "3d15a966-c41a-4ffb-93f8-b54ff7659545", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "45"
+                            }, 
+                            "title": "To Your Heart", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "08efc987-7f88-4193-8a5d-41a55bb77876", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "30"
+                            }, 
+                            "title": "Dreamscape", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f652da6c-d9fc-4b45-9a28-e5461c004f92", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "4"
+                            }, 
+                            "title": "Arabic Tremolo Radio (take 3)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "4916a421-fe40-42fe-be7a-1c415b3585fa", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "8"
+                            }, 
+                            "title": "It's Alright (Blackswan take)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0fc08804-6256-45ed-8bfd-1222d9d03026", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "The Face of Beauty / Stay With Me (demo)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "d7f44168-3721-4a57-b732-0b884745ce40", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "She Says Electric (demo)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0dbd41dd-df9f-4a03-b995-6dc4f7e1d5ac", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "4"
+                            }, 
+                            "title": "She Says Electric (take 1)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "9b155c9d-dedc-4a11-a9ab-188e990ab635", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "3"
+                            }, 
+                            "title": "Robot Fluide Robot (demo)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "2fbf8b4f-4da2-471e-9c72-3813a732720a", 
+                            "trackNumber": "13", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "8", 
+                                "playcount": "19"
+                            }, 
+                            "title": "Sugarlight USA (Satellite Space mix)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "682a88c0-4b50-4048-bdf6-42375b1fd851", 
+                            "trackNumber": "14", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "86"
+                            }, 
+                            "title": "Sky High", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "03184374-bc2c-4a30-b293-4ebdccc0c816", 
+                            "trackNumber": "15", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "XW", 
+                    "disambiguation": "", 
+                    "mbid": "a49a3ef9-478e-4522-a05b-70c9b5fa1f65", 
+                    "packaging": null, 
+                    "listeners": "37", 
+                    "date": "2007", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "1049", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Gravity"
+        }, 
+        {
+            "mbid": "39e62089-e4d6-4a3b-ab3b-b0613cf4f88a", 
+            "releases": [
+                {
+                    "name": "The Story of Our Lives", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "256", 
+                                "playcount": "1126"
+                            }, 
+                            "title": "Aurora", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "08018bfd-3b12-45ba-aeac-82441d051563", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "262", 
+                                "playcount": "1161"
+                            }, 
+                            "title": "Where It All Begins", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "a1aa752c-4e95-4620-bcc8-e38d4b3f68c7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "232", 
+                                "playcount": "1057"
+                            }, 
+                            "title": "Lights Out", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "b741bbf9-f7f2-4941-b1c1-97019b4c7a35", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "184", 
+                                "playcount": "995"
+                            }, 
+                            "title": "Graves (Till the End)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "21396563-320a-4b9a-8fbc-9630063a2185", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "20", 
+                                "playcount": "92"
+                            }, 
+                            "title": "Br0thr Part 1", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "8e7602ca-a807-4680-bc8d-0c9c37742f57", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "191", 
+                                "playcount": "948"
+                            }, 
+                            "title": "Machine Beat Sabbatha", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "97163bac-d0f3-4b4d-858e-13836434eb2e", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "170", 
+                                "playcount": "872"
+                            }, 
+                            "title": "Imminent Collapse", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "e08f13c1-5a31-49a5-bd35-787aafa54252", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "175", 
+                                "playcount": "898"
+                            }, 
+                            "title": "There Is No End", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f1563dd8-efd8-4bc7-b680-06f663e85bb5", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "46", 
+                                "playcount": "275"
+                            }, 
+                            "title": "Br0thr Part 2 (The Lights Have Gone)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "e398dac4-8a7f-45a3-aa57-d6bfaffe44fd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "158", 
+                                "playcount": "853"
+                            }, 
+                            "title": "I Don't Belong", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "630be282-f329-4873-b503-734368b7a9a1", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "142", 
+                                "playcount": "880"
+                            }, 
+                            "title": "Firstborn From the Dead", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "ff195b11-6c7e-4348-ab7e-f6e1cd2442ac", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "141", 
+                                "playcount": "791"
+                            }, 
+                            "title": "The Letting", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "4e3e4553-9eb7-45c0-a8fd-de0ae6ed87f4", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "140", 
+                                "playcount": "720"
+                            }, 
+                            "title": "The Fantastic Machine", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "b907e850-0320-44cd-b15a-ca8bf4bf2762", 
+                            "trackNumber": "13", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "134", 
+                                "playcount": "708"
+                            }, 
+                            "title": "The Loudest Sound in My Heart", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "da086eb1-e5d6-4b54-8c94-210e2d8d292f", 
+                            "trackNumber": "14", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "51"
+                            }, 
+                            "title": "Leaving (But I Don't Wanna Leave You)", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "8f7c385d-3ab0-4273-96b4-d706311b5dbe", 
+                            "trackNumber": "15", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "XW", 
+                    "disambiguation": "", 
+                    "mbid": "6104c847-77e0-4004-90a1-519b6ba72481", 
+                    "packaging": "Other", 
+                    "listeners": "31", 
+                    "date": "2011", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "2722", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "The Story of Our Lives"
+        }, 
+        {
+            "mbid": "c4ec07e4-a8b4-4f22-bd11-46847dca62f6", 
+            "releases": [], 
+            "title": "Pentimento I"
+        }, 
+        {
+            "mbid": "5b2c5525-1283-4286-b9ea-4db807829c23", 
+            "releases": [
+                {
+                    "name": "sting like bees and sing", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "1272", 
+                                "playcount": "5239"
+                            }, 
+                            "title": "Do You Love Me?", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "9956b374-6224-4ef7-9b5f-bb639658fcaf", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1325", 
+                                "playcount": "5633"
+                            }, 
+                            "title": "Rewind", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "d7170c75-59c6-488c-b234-dc1a2b5d0cb4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1366", 
+                                "playcount": "5636"
+                            }, 
+                            "title": "More", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f5d8092a-49fb-455a-97e6-c00a4b1ca3f8", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "186", 
+                                "playcount": "1287"
+                            }, 
+                            "title": "Fabulous, Like You", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "7e289022-ee20-44dc-b248-b9d32fef85f0", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "907", 
+                                "playcount": "4195"
+                            }, 
+                            "title": "Silver", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0681de22-0f18-4dde-817e-1a695119b94d", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "82", 
+                                "playcount": "489"
+                            }, 
+                            "title": "Sun and the Sky", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f262ba18-dc47-49d2-acfa-eb826382f4b7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1157", 
+                                "playcount": "5395"
+                            }, 
+                            "title": "Underwater", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0f1308bd-bb65-4355-b413-78da150e5e61", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1458", 
+                                "playcount": "6987"
+                            }, 
+                            "title": "Low", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "685ba299-9fdb-48b3-97d2-e9542a16186b", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "82", 
+                                "playcount": "517"
+                            }, 
+                            "title": "Sugarlight USA", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "d53dde99-fc8e-4b47-a1e8-ee07e846e752", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "676", 
+                                "playcount": "2952"
+                            }, 
+                            "title": "Elaste", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "d6063c2e-149b-4331-af8d-65761e5f1232", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "6a9b4663-f24a-46d9-a80f-f938fd5af94e", 
+                    "packaging": null, 
+                    "listeners": "117", 
+                    "date": "", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "5478", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Sting Like Bees and Sing"
+        }, 
+        {
+            "mbid": "9f90c84a-f0c8-37d0-8633-2dba3260113f", 
+            "releases": [
+                {
+                    "name": "Violet Underground, Volume 4: Distortion Is Our Friend", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "57"
+                            }, 
+                            "title": "Llamas", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "fe17d67b-e4b6-494e-b82b-b9cfefc0e101", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1852", 
+                                "playcount": "6620"
+                            }, 
+                            "title": "Crush", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "2eaebeae-9a6e-401f-b6ae-4a896ac2ffb8", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "86", 
+                                "playcount": "557"
+                            }, 
+                            "title": "Cinnamon Girl", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "1e08bc3f-1362-4eba-b71f-7bf84c403b82", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "746", 
+                                "playcount": "3543"
+                            }, 
+                            "title": "The Sun and the Sky", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "ce6b725e-151b-4f5a-886b-e1519e2cb18e", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "71", 
+                                "playcount": "456"
+                            }, 
+                            "title": "Hovercraft", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "17044e91-ef2a-4540-bea8-445d5838c2f0", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "60", 
+                                "playcount": "471"
+                            }, 
+                            "title": "Diane and Edward the Giant", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "6b526c0a-fd90-4cc2-abcb-e33f4202f519", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "5", 
+                                "playcount": "21"
+                            }, 
+                            "title": "Lillian Gish/Leave Don't Go", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "6a616e8e-0455-4473-ab02-3b333df8adc2", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "763"
+                            }, 
+                            "title": "It's All Too Much", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "bfe9e9bd-4666-4d06-8ebd-ffdd455240fc", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "739", 
+                                "playcount": "3735"
+                            }, 
+                            "title": "Goldmine", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "d4052bc8-d93f-464b-9da3-73708e8ae89a", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "229", 
+                                "playcount": "1356"
+                            }, 
+                            "title": "The Killing", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "51405fe8-12ef-4f4a-b801-83056488931f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "218fbd09-8580-44b0-b43f-1c8fd055b21c", 
+                    "packaging": null, 
+                    "listeners": "17", 
+                    "date": "", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "63", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "Violet Underground, Volume 4: Distortion Is Our Friend"
+        }, 
+        {
+            "mbid": "f3198541-f666-3dcc-a3e4-dabb9ea66738", 
+            "releases": [
+                {
+                    "name": "The Loudest Sound in My Heart", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "2122", 
+                                "playcount": "8881"
+                            }, 
+                            "title": "Gorgeous", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "65caabba-78c4-4c26-900a-879595ef7ada", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1087", 
+                                "playcount": "5028"
+                            }, 
+                            "title": "Moon Radio", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "60e5bf0c-c666-468f-8828-95220b91ca8a", 
+                            "trackNumber": "2", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "919", 
+                                "playcount": "4034"
+                            }, 
+                            "title": "Berlin Kitty", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "bbce1306-3c66-40bf-b93b-503fb5abe739", 
+                            "trackNumber": "3", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "20"
+                            }, 
+                            "title": "Rock 'n' Roll Star", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0f5f512f-55db-4a2f-a681-29b90f085e5d", 
+                            "trackNumber": "4", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "119", 
+                                "playcount": "643"
+                            }, 
+                            "title": "Aching", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "f8eafd29-2701-45a6-aa05-2c139ec8a607", 
+                            "trackNumber": "5", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "418", 
+                                "playcount": "2996"
+                            }, 
+                            "title": "Forty Weight", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "5d5baba6-89d8-4560-b5c6-65d51db88aa7", 
+                            "trackNumber": "6", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "629", 
+                                "playcount": "3076"
+                            }, 
+                            "title": "I See Stars", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "e072b21b-4b12-4243-a292-cb3be6cc14c0", 
+                            "trackNumber": "7", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "725", 
+                                "playcount": "3312"
+                            }, 
+                            "title": "Slowa", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "eb6479df-49ac-4034-bca8-349532356b09", 
+                            "trackNumber": "8", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "186", 
+                                "playcount": "1287"
+                            }, 
+                            "title": "Fabulous, Like You", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "2ded2766-4eb6-4943-9461-1e43145de18f", 
+                            "trackNumber": "9", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "107", 
+                                "playcount": "585"
+                            }, 
+                            "title": "Dreadful", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "c6d2d57c-5269-4b0c-b0e5-3edc459f028a", 
+                            "trackNumber": "10", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "1157", 
+                                "playcount": "5395"
+                            }, 
+                            "title": "Underwater", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "a80015f5-3ba3-4dbe-994b-7d697bad680e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "100", 
+                                "playcount": "591"
+                            }, 
+                            "title": "Gone Gone Gone", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "0f241532-0f7b-4a12-9bb8-458be350eb4d", 
+                            "trackNumber": "12", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "764", 
+                                "playcount": "3653"
+                            }, 
+                            "title": "Oceana", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "a3d09503-742a-4b6e-b652-0ab6c8b05e63", 
+                            "trackNumber": "13", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "542f2ae2-c699-4b06-81a2-7bcbbe35fb92", 
+                    "packaging": null, 
+                    "listeners": "183", 
+                    "date": "2003", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "2532", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "The Loudest Sound in My Heart"
+        }, 
+        {
+            "mbid": "69343c60-d051-3f1a-8392-a97052dae0f1", 
+            "releases": [
+                {
+                    "name": "There Is No One Like You", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "303", 
+                                "playcount": "1836"
+                            }, 
+                            "title": "There Is No One Like You", 
+                            "artistName": "The Violet Burning", 
+                            "mbid": "1ce59f11-e2ae-4b01-b95d-137e8c973a34", 
+                            "trackNumber": "1", 
+                            "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "4688f4f7-b674-4115-b03e-d7c81a29f8e7", 
+                    "packaging": null, 
+                    "listeners": "2", 
+                    "date": "", 
+                    "artistName": "The Violet Burning", 
+                    "playcount": "2", 
+                    "artistMBID": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54"
+                }
+            ], 
+            "title": "There Is No One Like You"
+        }
+    ], 
+    "type": "Group"
+}

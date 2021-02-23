@@ -1,0 +1,30 @@
+{
+    "name": "Stevie Nicks",
+    "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+            "name": "Fleetwood Mac",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+            "name": "Fleetwood Mac",
+            "attributes": [
+                "keyboard",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "4b1bf05d-0e3c-44a3-9fc8-ad088fc25797",
+            "name": "Buckingham Nicks",
+            "attributes": []
+        }
+    ]
+}

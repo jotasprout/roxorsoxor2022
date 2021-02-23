@@ -1,0 +1,73 @@
+{
+    "name": "Neil Young",
+    "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "3e642e51-e95d-4f21-aa6a-629f98ae23fa",
+            "name": "Neil Young & His Electric Band",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "76fba55d-3a25-4701-917c-45cd2bef010d",
+            "name": "The Shocking Pinks",
+            "attributes": [
+                "piano"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "76fba55d-3a25-4701-917c-45cd2bef010d",
+            "name": "The Shocking Pinks",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "76fba55d-3a25-4701-917c-45cd2bef010d",
+            "name": "The Shocking Pinks",
+            "attributes": [
+                "harmonica"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "63507634-576c-4e9f-ab01-a99316830916",
+            "name": "The Volume Dealers",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "22dc19af-d085-4c9b-adfb-22ec256251f1",
+            "name": "Buffalo Springfield",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "4f98ae05-ac0b-45b8-b3ba-b737520c59a2",
+            "name": "The Squires",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "46a782ea-4308-476b-abd1-a91b197f3037",
+            "name": "Crosby, Stills, Nash & Young",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "fcacc57a-e0ae-481c-a83c-5ce3e45892f4",
+            "name": "The Stills\u2013Young Band",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "b62f6dc0-f273-4d63-80e8-e90ea544100b",
+            "name": "The Ducks",
+            "attributes": []
+        }
+    ]
+}

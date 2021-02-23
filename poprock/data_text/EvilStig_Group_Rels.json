@@ -1,0 +1,13 @@
+{
+    "name": "Evil Stig",
+    "mbid": "66bf7876-3898-47fa-8bdd-dc200f946cec",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "f376828a-b438-4fda-bb2e-dcd5fbe81f83",
+            "name": "Joan Jett",
+            "attributes": []
+        }
+    ]
+}

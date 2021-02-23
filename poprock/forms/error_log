@@ -1,0 +1,13 @@
+[12-Sep-2019 03:54:50 America/New_York] PHP Notice:  Undefined index: artistMBID in /home/roxorsox/public_html/poprock/forms/edit_AlbumSpot.php on line 2
+[12-Sep-2019 03:54:50 America/New_York] PHP Notice:  Undefined index: artistSpotID in /home/roxorsox/public_html/poprock/forms/edit_AlbumSpot.php on line 3
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined index: albumMBID in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 2
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: error in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 76
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: primaryArtistNameSpot in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 97
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: primaryArtistNameSpot in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 110
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: primaryArtistSpotID in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 114
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: primaryArtistNameMB in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 121
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: primaryArtistMBID in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 125
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: primaryArtistNameSpot in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 178
+[06-Feb-2020 04:02:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 213
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: primaryArtistSpotID in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 248
+[06-Feb-2020 04:02:43 America/New_York] PHP Notice:  Undefined variable: primaryArtistMBID in /home/roxorsox/public_html/poprock/forms/add_albumAssocArtist.php on line 249

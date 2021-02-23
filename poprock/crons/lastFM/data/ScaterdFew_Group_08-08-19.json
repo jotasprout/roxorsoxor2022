@@ -1,0 +1,1289 @@
+{
+    "genres": [
+        "punk", 
+        "christian", 
+        "Christian punk", 
+        "alternative", 
+        "punk rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 41.615134954452515, 
+        "Task End": 1565240109.072259, 
+        "Task Start": 1565240067.457124
+    }, 
+    "stats": {
+        "listeners": "684", 
+        "playcount": "18681"
+    }, 
+    "name": "Scaterd Few", 
+    "mbid": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd", 
+    "birthday": "1983", 
+    "date": "2019-08-08", 
+    "albums": [
+        {
+            "mbid": "32f61eea-cb22-3b3e-a8e1-5a06cb90ff87", 
+            "releases": [
+                {
+                    "name": "JawboneOfAnAss", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Witchcraft", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d6c448b8-03fa-4182-844b-54ba350b3a23", 
+                            "trackNumber": "1", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "254"
+                            }, 
+                            "title": "Dreams", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "dd4aebe4-7377-4275-b7ac-3a46343ec984", 
+                            "trackNumber": "2", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "207"
+                            }, 
+                            "title": "Sinking in Sorrow", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "82b3abeb-fcf4-4a00-b0ae-a147eeea83ee", 
+                            "trackNumber": "3", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "221"
+                            }, 
+                            "title": "Sheets", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "923ea83c-caa0-445e-90b4-a89af9c23524", 
+                            "trackNumber": "4", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "131"
+                            }, 
+                            "title": "Stretch", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "25fa8eef-4d10-42a6-8049-5d0ee744b3fc", 
+                            "trackNumber": "5", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "125"
+                            }, 
+                            "title": "Once Upon...", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "13188002-d3ad-4e93-b25d-51ca75433ca2", 
+                            "trackNumber": "6", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "195"
+                            }, 
+                            "title": "Oom Pah Pah", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "88f6f76d-c311-4a0c-9a32-0f251fbbe3f7", 
+                            "trackNumber": "7", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "158"
+                            }, 
+                            "title": "Reel Not Real", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "aece1f1e-f018-42e5-8dd4-40924ccb3cca", 
+                            "trackNumber": "8", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "190"
+                            }, 
+                            "title": "Holding Stare", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "8f4baea8-1609-45e8-8bae-31424cf2835c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "147"
+                            }, 
+                            "title": "Dame", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "99eccc80-07a0-4aa3-a902-3c68d9e9921c", 
+                            "trackNumber": "10", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "175"
+                            }, 
+                            "title": "Ransom", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "ad65379e-3bf8-4fce-9453-a2ea58ff71fc", 
+                            "trackNumber": "11", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "190"
+                            }, 
+                            "title": "Pinnacle", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "cd1d1fc9-6940-4a93-be0b-d00330e2d828", 
+                            "trackNumber": "12", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "2a293d25-4ea9-47e8-8a3e-033b289b3d0f", 
+                    "packaging": null, 
+                    "listeners": "123", 
+                    "date": "1994", 
+                    "artistName": "Scaterd Few", 
+                    "playcount": "1732", 
+                    "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                }
+            ], 
+            "title": "Jawboneofanass"
+        }, 
+        {
+            "mbid": "6391bd6d-c042-391f-aab8-640ce2a9d9fc", 
+            "releases": [
+                {
+                    "name": "Sin Disease", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "337", 
+                                "playcount": "1247"
+                            }, 
+                            "title": "Kill The Sarx", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "b1b4014a-5241-41c6-be40-5fa20c95354d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "269", 
+                                "playcount": "862"
+                            }, 
+                            "title": "While Reprobate", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "9cc71e11-660b-4c40-9d05-82da61ee4ff0", 
+                            "trackNumber": "2", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "258", 
+                                "playcount": "839"
+                            }, 
+                            "title": "Beggar", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "bd3d4498-a178-4871-b74d-8f978be22abd", 
+                            "trackNumber": "3", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "765"
+                            }, 
+                            "title": "Lights Out", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "989a1d89-9b0a-4ac0-940f-742a62451a6f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "203", 
+                                "playcount": "635"
+                            }, 
+                            "title": "Later (L.A. 1989)", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "b3c04fd3-fa63-4527-a956-ce2024cbf96f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "133", 
+                                "playcount": "291"
+                            }, 
+                            "title": "Groovy", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "c0472baa-fd29-40b3-8bc6-947086dda736", 
+                            "trackNumber": "6", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "133", 
+                                "playcount": "476"
+                            }, 
+                            "title": "Glass God (No Freedom In Basing)", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "e46cad42-54d7-45d3-8ab0-91521c6d5596", 
+                            "trackNumber": "7", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "216", 
+                                "playcount": "700"
+                            }, 
+                            "title": "As The Story Grows", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "df50d8fb-bc4a-4473-9c57-bb9eea956cb6", 
+                            "trackNumber": "8", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "206", 
+                                "playcount": "653"
+                            }, 
+                            "title": "U", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "f1391e10-1426-4ead-bd8c-dd122703c6cd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "193", 
+                                "playcount": "594"
+                            }, 
+                            "title": "A Freedom Cry", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "58545fef-c969-4b58-aa1f-28566a84a560", 
+                            "trackNumber": "10", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "199", 
+                                "playcount": "620"
+                            }, 
+                            "title": "Scapegoat", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d833a2ff-3d74-4130-a44d-45a336b11147", 
+                            "trackNumber": "11", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "182", 
+                                "playcount": "520"
+                            }, 
+                            "title": "Wonder Why", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "fabe4fa3-271f-4414-94a6-546cca556b45", 
+                            "trackNumber": "12", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "198", 
+                                "playcount": "548"
+                            }, 
+                            "title": "DITC", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "6cd72e0a-6a04-439e-bb57-f2e4261d6ded", 
+                            "trackNumber": "13", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "176", 
+                                "playcount": "520"
+                            }, 
+                            "title": "Self", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "907bf846-65a0-4649-8f24-daf2c89a0968", 
+                            "trackNumber": "14", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "191", 
+                                "playcount": "551"
+                            }, 
+                            "title": "Look Into My Side", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "18a9e1d0-cc9e-4e65-8e0c-26457d8d2929", 
+                            "trackNumber": "15", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "109", 
+                                "playcount": "269"
+                            }, 
+                            "title": "Kill The Sarx II (Apocalypse)", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "836b22ad-1543-4fe1-b2ba-46409e6cc6a9", 
+                            "trackNumber": "16", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "df55a0c2-5c09-490e-9fff-921ed1b1142f", 
+                    "packaging": null, 
+                    "listeners": "473", 
+                    "date": "1990", 
+                    "artistName": "Scaterd Few", 
+                    "playcount": "9434", 
+                    "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                }
+            ], 
+            "title": "Sin Disease"
+        }, 
+        {
+            "mbid": "af175883-9b1f-3b40-930b-1a3da098907c", 
+            "releases": [
+                {
+                    "name": "Out of the Attic", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "72"
+                            }, 
+                            "title": "Gave Us Life", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "6905ba8f-2bad-4638-bb5a-44b6a9989678", 
+                            "trackNumber": "1", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "14"
+                            }, 
+                            "title": "[untitled]", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "c840684d-d8f9-4474-8ee4-ff67581c2fed", 
+                            "trackNumber": "2", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "46"
+                            }, 
+                            "title": "Death", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "c59ffa23-ab69-4443-8b5f-f721e12fabd7", 
+                            "trackNumber": "3", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "61"
+                            }, 
+                            "title": "Echo", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "59899fd2-3282-47f6-925e-3ca89368bb52", 
+                            "trackNumber": "4", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "65"
+                            }, 
+                            "title": "Sin Face", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "bf63cb21-a0b4-4688-952d-2aa66bf8ddd6", 
+                            "trackNumber": "5", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "71"
+                            }, 
+                            "title": "P.T.T.C.P.", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "9d648b0c-8c4e-4075-a2e4-5ab0bb5cad4e", 
+                            "trackNumber": "6", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "31", 
+                                "playcount": "69"
+                            }, 
+                            "title": "The End", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "c2d8f784-3e10-4230-bbce-824702bf7e35", 
+                            "trackNumber": "7", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "74"
+                            }, 
+                            "title": "Anti-I'm Right", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "ed67c0ad-3ac0-4561-a67d-f58b4683f081", 
+                            "trackNumber": "8", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "58"
+                            }, 
+                            "title": "Anti Ape", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "a63e09a0-fa0b-4614-af9d-d10d52b44628", 
+                            "trackNumber": "9", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Tid Bit", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "becb4874-24c5-4753-b036-def696c3c784", 
+                            "trackNumber": "10", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "15", 
+                                "playcount": "46"
+                            }, 
+                            "title": "Death", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "b132e6e7-29e9-46b8-95b3-f4befa63508e", 
+                            "trackNumber": "11", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Tid Bit", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "7144f1f4-543c-48b8-96ea-102b23913b72", 
+                            "trackNumber": "12", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "19", 
+                                "playcount": "71"
+                            }, 
+                            "title": "P.T.T.C.P.", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "61d51ffb-aa46-4c72-9394-0f602b53b8ba", 
+                            "trackNumber": "13", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "24", 
+                                "playcount": "72"
+                            }, 
+                            "title": "Gave Us Life", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "6a219f7c-738a-4722-a5b5-f29122751752", 
+                            "trackNumber": "14", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "58"
+                            }, 
+                            "title": "Anti Ape", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "ad1ce3fb-7b3f-491f-b039-28ad14efea8b", 
+                            "trackNumber": "15", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "74"
+                            }, 
+                            "title": "Anti-I'm Right", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "6f2e7103-458d-4fa7-97cd-1f632697a2e3", 
+                            "trackNumber": "16", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Tid Bit", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "a0bd968b-85ab-4480-adc3-248534b7eacd", 
+                            "trackNumber": "17", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "53"
+                            }, 
+                            "title": "Ratzak at the Beach", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "c572e3e5-ed88-4245-b843-78035f8d9d1e", 
+                            "trackNumber": "18", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "28"
+                            }, 
+                            "title": "(The Beach Cont.)", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "5d675dde-55da-4079-bbc9-ad590ccd93ba", 
+                            "trackNumber": "19", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Solo", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "309fe74e-da12-4fe1-b7bc-c9974940c20c", 
+                            "trackNumber": "20", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "bc9e846f-703e-43b8-8891-5233b7a40e75", 
+                    "packaging": null, 
+                    "listeners": "62", 
+                    "date": "1994", 
+                    "artistName": "Scaterd Few", 
+                    "playcount": "829", 
+                    "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                }
+            ], 
+            "title": "Out of the Attic"
+        }, 
+        {
+            "mbid": "c672d8b4-fd6d-3680-93e1-8293bc4ff22d", 
+            "releases": [
+                {
+                    "name": "Grandmother's Spaceship", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "211"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "afac27f4-85a6-4677-99ae-e997673241b1", 
+                            "trackNumber": "1", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "286"
+                            }, 
+                            "title": "Space Junk", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "f01331f5-5267-466a-918c-b8caaf999e80", 
+                            "trackNumber": "2", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "83", 
+                                "playcount": "236"
+                            }, 
+                            "title": "Lullaby", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "a498dcc2-34a1-4d2d-bde5-261bac54887a", 
+                            "trackNumber": "3", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "76", 
+                                "playcount": "223"
+                            }, 
+                            "title": "Win the Fisher", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "2d25c31d-53f0-4e4d-90f2-c454e562132b", 
+                            "trackNumber": "4", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "75", 
+                                "playcount": "219"
+                            }, 
+                            "title": "Arbitrator", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "0525fbc8-2b7b-4b8f-8d67-65cba4f5f35b", 
+                            "trackNumber": "5", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "65", 
+                                "playcount": "198"
+                            }, 
+                            "title": "Future Love", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "c00cb1f9-4f12-4691-a5ce-7321c42ae722", 
+                            "trackNumber": "6", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "64", 
+                                "playcount": "185"
+                            }, 
+                            "title": "Species", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "1c5ce0e6-5584-4809-9545-c74b75994b31", 
+                            "trackNumber": "7", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "54", 
+                                "playcount": "179"
+                            }, 
+                            "title": "Incorruptible", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d49112f6-226d-4de6-945d-db7ef0e20afe", 
+                            "trackNumber": "8", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "180"
+                            }, 
+                            "title": "Vanishing", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "cb148338-b35f-4917-a598-2617628ea400", 
+                            "trackNumber": "9", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "79"
+                            }, 
+                            "title": "(Untitled Oddity)", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "920a838e-fd00-47a4-b7cb-9a3e726aa81e", 
+                            "trackNumber": "10", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "167"
+                            }, 
+                            "title": "Suspension My Love", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "c5948c65-d416-4bc4-a2ee-a066f3e5e040", 
+                            "trackNumber": "11", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "56", 
+                                "playcount": "157"
+                            }, 
+                            "title": "Bobby's Song", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "13be6cad-ccb2-4439-9c2b-c0319a97ead8", 
+                            "trackNumber": "12", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "74", 
+                                "playcount": "232"
+                            }, 
+                            "title": "Twinkling of an Eye", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d2515a44-0e59-406c-b45e-d64d9fcf1631", 
+                            "trackNumber": "13", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "37", 
+                                "playcount": "120"
+                            }, 
+                            "title": "Worm Hole", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "2a2ef848-aacf-4176-97f5-5713f5635785", 
+                            "trackNumber": "14", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "154"
+                            }, 
+                            "title": "Splendor", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "92ae4ba1-ce5b-4b67-9819-b5bc26ab3e4d", 
+                            "trackNumber": "15", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "31", 
+                                "playcount": "96"
+                            }, 
+                            "title": "As the Story Grows (V.2)", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "36acb704-aade-49eb-952c-755f79d0bf8f", 
+                            "trackNumber": "16", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "769e559d-8671-40f0-a64b-de293dc2e19e", 
+                    "packaging": null, 
+                    "listeners": "154", 
+                    "date": "1998", 
+                    "artistName": "Scaterd Few", 
+                    "playcount": "2635", 
+                    "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                }
+            ], 
+            "title": "Grandmother's Spaceship"
+        }, 
+        {
+            "mbid": "d734f12b-4727-344e-adcd-67f357863bd0", 
+            "releases": [
+                {
+                    "name": "Omega No. 5", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "47", 
+                                "playcount": "112"
+                            }, 
+                            "title": "Run If You Can", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "fcd64fed-4ff7-4c90-8826-df83132cd9de", 
+                            "trackNumber": "1", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "109"
+                            }, 
+                            "title": "Resistance", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "f10daf3a-3f35-48d0-bb05-56dd11eb2bd6", 
+                            "trackNumber": "2", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "96"
+                            }, 
+                            "title": "Fair Is He", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "63dc8e89-ea3b-4b46-a8f5-b151e35fb14e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "41"
+                            }, 
+                            "title": "Rise Up!", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "db641cff-f507-4611-93d6-e052573dbc53", 
+                            "trackNumber": "5", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "82"
+                            }, 
+                            "title": "Parental Advisory", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d8292afd-6794-46e0-a1fc-ac00a8738295", 
+                            "trackNumber": "6", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "18", 
+                                "playcount": "35"
+                            }, 
+                            "title": "Anybody - Everybody", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "7fe1bedc-7daf-4e72-a34f-fdfe0d978c88", 
+                            "trackNumber": "7", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "30", 
+                                "playcount": "65"
+                            }, 
+                            "title": "Shark Attack", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "b2113c16-2e79-4c46-9e09-9b4da8711bb0", 
+                            "trackNumber": "8", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "66"
+                            }, 
+                            "title": "Camel Crawl", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "307bae2b-b0b6-412f-9879-3c5a4a557f0c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "60"
+                            }, 
+                            "title": "Tomorrow", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "056ff6d8-0534-4f16-95e8-4b51f9ed63ff", 
+                            "trackNumber": "10", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "53"
+                            }, 
+                            "title": "Only", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d83e5e79-e684-454e-a082-feac2a850aa6", 
+                            "trackNumber": "11", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "32", 
+                                "playcount": "67"
+                            }, 
+                            "title": "Sleeper", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "f7773937-b845-4bdf-8343-32d04f5eb02c", 
+                            "trackNumber": "12", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "59"
+                            }, 
+                            "title": "Life Bleeds Out", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d5c00f87-3df2-4513-a4dc-a824652a4bdd", 
+                            "trackNumber": "13", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "51"
+                            }, 
+                            "title": "Sheol", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "61b891cf-11b6-492c-8e95-94c434d69f41", 
+                            "trackNumber": "14", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "9", 
+                                "playcount": "14"
+                            }, 
+                            "title": "[untitled]", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "ec9dfa14-7c28-4214-934e-a03b31b76fd6", 
+                            "trackNumber": "16", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "cfd3edd6-6385-4bdd-8eb5-167cb445fbc7", 
+                    "packaging": null, 
+                    "listeners": "70", 
+                    "date": "2002", 
+                    "artistName": "Scaterd Few", 
+                    "playcount": "969", 
+                    "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                }
+            ], 
+            "title": "Omega No. 5"
+        }, 
+        {
+            "mbid": "e932bd98-1f4b-4ac2-8e89-19afc9cd11be", 
+            "releases": [
+                {
+                    "name": "Sin Disease / Jawboneofanass", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "337", 
+                                "playcount": "1247"
+                            }, 
+                            "title": "Kill The Sarx", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "b1b4014a-5241-41c6-be40-5fa20c95354d", 
+                            "trackNumber": "1", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "269", 
+                                "playcount": "862"
+                            }, 
+                            "title": "While Reprobate", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "9cc71e11-660b-4c40-9d05-82da61ee4ff0", 
+                            "trackNumber": "2", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "258", 
+                                "playcount": "839"
+                            }, 
+                            "title": "Beggar", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "bd3d4498-a178-4871-b74d-8f978be22abd", 
+                            "trackNumber": "3", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "230", 
+                                "playcount": "765"
+                            }, 
+                            "title": "Lights Out", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "989a1d89-9b0a-4ac0-940f-742a62451a6f", 
+                            "trackNumber": "4", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "203", 
+                                "playcount": "635"
+                            }, 
+                            "title": "Later (L.A. 1989)", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "b3c04fd3-fa63-4527-a956-ce2024cbf96f", 
+                            "trackNumber": "5", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "133", 
+                                "playcount": "291"
+                            }, 
+                            "title": "Groovy", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "c0472baa-fd29-40b3-8bc6-947086dda736", 
+                            "trackNumber": "6", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "133", 
+                                "playcount": "476"
+                            }, 
+                            "title": "Glass God (No Freedom In Basing)", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "e46cad42-54d7-45d3-8ab0-91521c6d5596", 
+                            "trackNumber": "7", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "216", 
+                                "playcount": "700"
+                            }, 
+                            "title": "As The Story Grows", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "df50d8fb-bc4a-4473-9c57-bb9eea956cb6", 
+                            "trackNumber": "8", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "206", 
+                                "playcount": "653"
+                            }, 
+                            "title": "U", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "f1391e10-1426-4ead-bd8c-dd122703c6cd", 
+                            "trackNumber": "9", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "193", 
+                                "playcount": "594"
+                            }, 
+                            "title": "A Freedom Cry", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "58545fef-c969-4b58-aa1f-28566a84a560", 
+                            "trackNumber": "10", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "199", 
+                                "playcount": "620"
+                            }, 
+                            "title": "Scapegoat", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d833a2ff-3d74-4130-a44d-45a336b11147", 
+                            "trackNumber": "11", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "182", 
+                                "playcount": "520"
+                            }, 
+                            "title": "Wonder Why", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "fabe4fa3-271f-4414-94a6-546cca556b45", 
+                            "trackNumber": "12", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "198", 
+                                "playcount": "548"
+                            }, 
+                            "title": "DITC", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "6cd72e0a-6a04-439e-bb57-f2e4261d6ded", 
+                            "trackNumber": "13", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "176", 
+                                "playcount": "520"
+                            }, 
+                            "title": "Self", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "907bf846-65a0-4649-8f24-daf2c89a0968", 
+                            "trackNumber": "14", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "191", 
+                                "playcount": "551"
+                            }, 
+                            "title": "Look Into My Side", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "18a9e1d0-cc9e-4e65-8e0c-26457d8d2929", 
+                            "trackNumber": "15", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "90", 
+                                "playcount": "267"
+                            }, 
+                            "title": "Witchcraft", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "d6c448b8-03fa-4182-844b-54ba350b3a23", 
+                            "trackNumber": "16", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "85", 
+                                "playcount": "254"
+                            }, 
+                            "title": "Dreams", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "dd4aebe4-7377-4275-b7ac-3a46343ec984", 
+                            "trackNumber": "17", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "72", 
+                                "playcount": "207"
+                            }, 
+                            "title": "Sinking in Sorrow", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "82b3abeb-fcf4-4a00-b0ae-a147eeea83ee", 
+                            "trackNumber": "18", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "78", 
+                                "playcount": "221"
+                            }, 
+                            "title": "Sheets", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "923ea83c-caa0-445e-90b4-a89af9c23524", 
+                            "trackNumber": "19", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "125"
+                            }, 
+                            "title": "Once Upon...", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "13188002-d3ad-4e93-b25d-51ca75433ca2", 
+                            "trackNumber": "20", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "63", 
+                                "playcount": "195"
+                            }, 
+                            "title": "Oom Pah Pah", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "88f6f76d-c311-4a0c-9a32-0f251fbbe3f7", 
+                            "trackNumber": "21", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "51", 
+                                "playcount": "158"
+                            }, 
+                            "title": "Reel Not Real", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "aece1f1e-f018-42e5-8dd4-40924ccb3cca", 
+                            "trackNumber": "22", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "57", 
+                                "playcount": "190"
+                            }, 
+                            "title": "Holding Stare", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "8f4baea8-1609-45e8-8bae-31424cf2835c", 
+                            "trackNumber": "23", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "55", 
+                                "playcount": "147"
+                            }, 
+                            "title": "Dame", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "99eccc80-07a0-4aa3-a902-3c68d9e9921c", 
+                            "trackNumber": "24", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "58", 
+                                "playcount": "175"
+                            }, 
+                            "title": "Ransom", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "ad65379e-3bf8-4fce-9453-a2ea58ff71fc", 
+                            "trackNumber": "25", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "52", 
+                                "playcount": "190"
+                            }, 
+                            "title": "Pinnacle", 
+                            "artistName": "Scaterd Few", 
+                            "mbid": "cd1d1fc9-6940-4a93-be0b-d00330e2d828", 
+                            "trackNumber": "26", 
+                            "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "20855f87-bbe1-4b4e-a5a1-e5c62ae925d2", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "3", 
+                    "date": "1998", 
+                    "artistName": "Scaterd Few", 
+                    "playcount": "68", 
+                    "artistMBID": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd"
+                }
+            ], 
+            "title": "Sin Disease / Jawboneofanass"
+        }
+    ], 
+    "type": "Group"
+}

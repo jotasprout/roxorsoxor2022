@@ -1,0 +1,13 @@
+{
+    "name": "Sintax the Terrific",
+    "mbid": "6fbc0a77-9930-4d7d-bfe0-d8094dddc92c",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "038baeed-0c68-46fb-86c4-99313baba869",
+            "name": "Deepspace5",
+            "attributes": []
+        }
+    ]
+}

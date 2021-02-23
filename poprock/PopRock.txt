@@ -1,0 +1,248 @@
+﻿TESTS
+
+Lou Reed
+https://www.musicbrainz.org/ws/2/artist/9d1ebcfe-4c15-4d18-95d3-d919898638a1
+
+Rock n Roll Animal
+https://www.musicbrainz.org/ws/2/release/c7cae14a-4767-40ae-9118-293cbe03051b
+
+Welcome to My Nightmare
+https://www.musicbrainz.org/ws/2/release/81686d96-d0f6-33b4-b0a7-f9ae2ffb65f1
+
+Dick Wagner
+https://www.musicbrainz.org/ws/2/artist/f92d6bfd-76e7-4394-aaec-9490756eb50c
+
+Alice Cooper (group)
+https://www.musicbrainz.org/ws/2/artist/4d7928cd-7ed2-4282-8c29-c0c9f966f1bd
+
+Alice cooper (person)
+https://www.musicbrainz.org/ws/2/artist/ee58c59f-8e7f-4430-b8ca-236c4d3745ae
+
+Bob Ezrin
+https://www.musicbrainz.org/ws/2/artist/d0135fd6-a79a-4ec2-a379-52b2e4a628f1
+
+Joan Jett and the Blackhearts (group)
+https://www.musicbrainz.org/ws/2/artist/46e63d3b-d91b-4791-bb73-e9f638a45ea0
+
+Joan Jett (person)
+https://www.musicbrainz.org/ws/2/artist/f376828a-b438-4fda-bb2e-dcd5fbe81f83
+
+Black Sabbath
+https://www.musicbrainz.org/ws/2/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8
+
+Ronnie James Dio (person)
+https://www.musicbrainz.org/ws/2/artist/fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2
+
+Dio
+https://www.musicbrainz.org/ws/2/artist/c55193fb-f5d2-4839-a263-4c044fca1456
+
+Deep Purple
+https://www.musicbrainz.org/ws/2/artist/79491354-3d83-40e3-9d8e-7592d58d790a
+
+Ted Nugent
+https://www.musicbrainz.org/ws/2/artist/e491fae8-3a5a-438e-8368-925753fb41a1
+
+Meat Loaf
+https://www.musicbrainz.org/ws/2/artist/b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1
+
+Popcorn Blizzard
+https://www.musicbrainz.org/ws/2/artist/dad3fb79-469f-4892-bb39-56d01a9d2485
+
+
+FROM CRON EMAIL
+
+PHP Warning:  Division by zero in /home/roxorsox/public_html/poprock/crons/lastFM/artistArrays_LastFM.php on line 155
+
+TRIED ADDING BOB EZRIN VIA MY ADD ARTISTMB FORM
+
+Warning: file_get_contents(https://www.musicbrainz.org/ws/2/artist/d0135fd6-a79a-4ec2-a379-52b2e4a628f1?inc=release-groups&fmt=json): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden in /home/roxorsox/public_html/poprock/functions/addArtistMB.php on line 10
+NULL
+
+TRYING TO ADD FRANK ZAPPA TO BOTH ARTISTSSPOT AND ARTISTMB
+SPOTID
+6ra4GIOgCZQZMOaUECftGN
+The above worked
+
+MBID
+e20747e7-55a4-452e-8766-7b985585082d 
+The above got this ... 
+Warning: file_get_contents(https://www.musicbrainz.org/ws/2/artist/e20747e7-55a4-452e-8766-7b985585082d?inc=release-groups&fmt=json): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden in /home/roxorsox/public_html/poprock/functions/addArtistMB.php on line 10
+NULL
+
+LOOKUPS
+
+You can perform a lookup of an entity when you have the MBID for that entity:
+
+ lookup:   /<ENTITY>/<MBID>?inc=<INC>
+
+Note that unless you have provided an MBID in exactly the format listed, you are not performing a lookup request. If your URL includes something like artist=<MBID>, then please see the Browse section. If it includes query=<QUERY>, please see the Web Service Search page.
+
+Subqueries
+
+The inc= is parameter allows you to request more information to be included about the entity. Any of the entities directly linked to the entity can be included.
+
+ /ws/2/area
+ /ws/2/artist            recordings, releases, release-groups, works
+ /ws/2/collection        user-collections (includes private collections, requires authentication)
+ /ws/2/event
+ /ws/2/instrument
+ /ws/2/label             releases
+ /ws/2/place
+ /ws/2/recording         artists, releases, isrcs, url-rels
+ /ws/2/release           artists, collections, labels, recordings, release-groups
+ /ws/2/release-group     artists, releases
+ /ws/2/series
+ /ws/2/work
+ /ws/2/url
+
+In addition, Relationships are available for all entity types via inc parameters.
+
+To include more than one subquery in a single request, separate the arguments to inc= with a + (plus sign), like inc=recordings+labels.
+
+All lookups which include release-groups allow a type= argument to narrow down the release-groups. All lookups which include releases also allow the type= argument, and a status= argument is allowed.
+
+Note that the number of linked entities returned is always limited to 25, if you need the remaining results, you will have to perform a BROWSE request.  <<-- HEY LOOK AT THIS
+
+Linked entities are always ordered alphabetically by gid.
+
+inc= arguments which affect subqueries
+
+Some additional inc= parameters are supported to specify how much of the data about the linked entities should be included:
+
+ - discids           include discids for all media in the releases
+ - media             include media for all releases, this includes the # of tracks on each medium and its format.
+ - isrcs             include isrcs for all recordings
+ - artist-credits    include artists credits for all releases and recordings
+ - various-artists   include only those releases where the artist appears on one of the tracks, 
+                     but not in the artist credit for the release itself (this is only valid on a
+                     /ws/2/artist?inc=releases request).
+
+Misc inc= arguments
+ - aliases                   include artist, label, area or work aliases; treat these as a set, as they are not deliberately ordered
+ - annotation                include annotation
+ - tags, ratings             include tags and/or ratings for the entity
+ - user-tags, user-ratings   same as above, but only return the tags and/or ratings submitted by the specified user
+ - genres, user-genres       include genres (tags in the genres list): either all or the ones submitted by the user, respectively
+
+Requests with user-tags, user-genres and user-ratings require authentication. You can authenticate using HTTP Digest, use the same username and password used to access the main https://musicbrainz.org website.
+
+Relationships
+ - area-rels
+ - artist-rels
+ - event-rels
+ - instrument-rels
+ - label-rels
+ - place-rels
+ - recording-rels
+ - release-rels
+ - release-group-rels
+ - series-rels
+ - url-rels
+ - work-rels
+
+By default, these 'inc=' arguments will only load relationship for the requested entity. When you are loading a release, you might want to load relationships for all its recordings and also works linked to the recordings. This is useful to get full release credits. There are additional arguments that can be used only on release requests and allow you to specify for which entities to load relationships:
+
+ - recording-level-rels
+ - work-level-rels
+
+With relationships included, entities will have <relation-list> nodes for each target entity type. As an example, requesting inc=series-rels for a work might produce the following relation-list as a child of the work:
+
+<relation-list target-type="series">
+    <relation type="part of" type-id="b0d44366-cdf0-3acb-bee6-0f65a77a6ef0">
+        <target>59c5f4e8-1308-4eff-8845-aa90b92ddc86</target>
+        <ordering-key>26</ordering-key>
+        <direction>backward</direction>
+        <attribute-list>
+            <attribute type-id="a59c5830-5ec7-38fe-9a21-c7ea54f6650a" value="op. 26">number</attribute>
+        </attribute-list>
+        <series id="59c5f4e8-1308-4eff-8845-aa90b92ddc86" type="Catalogue" type-id="49482ff0-fc9e-3b8c-a2d0-30e84d9df002">
+            <name>Works of Jean Sibelius by opus number</name>
+        </series>
+    </relation>
+</relation-list>
+
+The <attribute-list> nodes will contain any attributes specified on a relationship. (Here, there's an attribute for the number of the work in a series.) Note that an <attribute> node's text value is the name of the attribute type (here "number"), and the 'type-id' XML attribute (conflicting terminology!) is the UUID of the relationship attribute type ("number"). Relationship attributes always have a type, and some may have an associated value ("op. 26" here). They may also have a 'credited-as' XML attribute indicating a user-entered name. As an example, the attribute below specifies that the piano being played was a Steinway.
+
+<attribute-list>
+    <attribute credited-as="Steinway piano" type-id="b3eac5f9-7859-4416-ac39-7154e2e8d348">piano</attribute>
+</attribute-list>
+
+
+Request: 
+
+http://musicbrainz.org/ws/2/work/b1df2cf3-69a9-3bc0-be44-f71e79b27a22?inc=artist-rels+recording-rels&fmt=json
+
+Response:
+
+
+{
+  "id": "b1df2cf3-69a9-3bc0-be44-f71e79b27a22",
+  "title": "HELLO! また会おうね",
+  "language": "jpn",
+  "iswcs": [ "T-101.690.320-9" ],
+  "relations": [
+        {
+            "direction": "backward",
+            "type": "composer",
+            "artist": {
+                "id": "d997d399-355e-4c49-9c7b-75a93d76bc0e",
+                "name": "つんく♂",
+                "sort-name": "Tsunku",
+                "disambiguation": null
+            }
+        },
+        {
+            "direction": "backward",
+            "type": "lyricist",
+            "artist": {
+                "id": "d997d399-355e-4c49-9c7b-75a93d76bc0e",
+                "name": "つんく♂",
+                "sort-name": "Tsunku",
+                "disambiguation": null
+            }
+        },
+        {
+            "direction": "backward",
+            "type": "performance",
+            "recording": {
+                "id": "487cac92-eed5-4efa-8563-c9a818079b9a",
+                "title": "HELLO! また会おうね (7人祭 version)",
+                "length": 283600,
+                "disambiguation": null
+            }
+        },
+        {
+            "type": "performance",
+            "direction": "backward",
+            "recording": {
+                "id": "fd3061c1-cb9a-4698-bc5f-f6e0e6a36272",
+                "title": "HELLO! また会おうね (20人祭 version)",
+                "length": 283600,
+                "disambiguation": "PV"
+            }
+        }
+    ]
+}
+
+
+VOCAL
+This attribute describes a type of vocal performance.
+
+Possible values:
+ - Lead vocals (Lead or solo vocal)
+ - Alto vocals
+ - Bass-baritone vocals
+ - Contralto vocals
+ - Treble vocals (Treble or boy soprano is a young male singer with an unchanged voice in the soprano range)
+ - Baritone vocals
+ - Bass vocals
+ - Countertenor vocals
+ - Mezzo-soprano vocals
+ - Soprano vocals
+ - Tenor vocals
+ - Meane vocals (Meane or mean is a young male singer with a voice lower than a treble)
+ - Choir vocals
+ - Background vocals
+ - Other vocals (Other vocalizations)
+ - Spoken vocals (Spoken vocals (speech))
+ - Whistling (Whistling (with mouth, not a whistle))

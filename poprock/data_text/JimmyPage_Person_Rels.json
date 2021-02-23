@@ -1,0 +1,45 @@
+{
+    "name": "Jimmy Page",
+    "mbid": "519774a4-3b18-4042-b8c0-927845a616c9",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "191de76f-a224-445d-b041-54df16d65bf7",
+            "name": "The Yardbirds",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "9b1fed57-7628-4eb7-a4ef-b1d0b36d2ce2",
+            "name": "XYZ",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d94345ad-b7cb-406e-bd66-3ed8434f2316",
+            "name": "Coverdale\u2022Page",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "c08ced1f-d248-4368-90e5-bf579b3bf5de",
+            "name": "The Firm",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+            "name": "Led Zeppelin",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0",
+            "name": "The Honeydrippers",
+            "attributes": []
+        }
+    ]
+}

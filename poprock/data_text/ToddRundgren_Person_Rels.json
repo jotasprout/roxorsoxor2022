@@ -1,0 +1,61 @@
+{
+    "name": "Todd Rundgren",
+    "mbid": "1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "b7b5230a-2647-4974-a446-cb2b2ccc4435",
+            "name": "A Walk Down Abbey Road",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b7b5230a-2647-4974-a446-cb2b2ccc4435",
+            "name": "A Walk Down Abbey Road",
+            "attributes": [
+                "background vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b7b5230a-2647-4974-a446-cb2b2ccc4435",
+            "name": "A Walk Down Abbey Road",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "023a2268-3519-4aac-a37c-42cb5efa0d36",
+            "name": "The New Cars",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "31b09890-149a-4f7f-ad5c-9bdda1b29efa",
+            "name": "The Neverland Express",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "8295499e-808a-4e10-9e91-2df00d9c1a72",
+            "name": "Nazz",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "f03600eb-88b2-4cbc-858f-20535f03ca0c",
+            "name": "Ringo Starr & His All Starr Band",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "37283116-f2cc-47cb-8806-facd063b564f",
+            "name": "Utopia",
+            "attributes": []
+        }
+    ]
+}

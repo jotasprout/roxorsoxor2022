@@ -1,0 +1,523 @@
+{
+    "first-release-date": "1980-04-25",
+    "primary-type": "Album",
+    "secondary-type-ids": [],
+    "id": "43ac82b5-eceb-3909-a153-3c00ea9c7b9a",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "disambiguation": "",
+    "title": "Heaven and Hell",
+    "releases": [{
+        "release-events": [{
+            "area": {
+                "name": "United States",
+                "sort-name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["US"]
+            },
+            "date": "2014-10-02"
+        }],
+        "quality": "normal",
+        "id": "063b5cf0-4d5a-4a6d-a9fe-321b7d4648f7",
+        "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "barcode": "",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "disambiguation": "",
+        "title": "Heaven and Hell",
+        "packaging": "None",
+        "date": "2014-10-02",
+        "country": "US",
+        "status": "Official"
+    }, {
+        "barcode": "5050749207227",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "release-events": [{
+            "area": {
+                "name": "United Kingdom",
+                "disambiguation": "",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": ["GB"]
+            },
+            "date": "2004"
+        }],
+        "quality": "normal",
+        "id": "0b551a94-a47d-3b1b-a9ae-441b02df1bb4",
+        "packaging-id": null,
+        "packaging": null,
+        "date": "2004",
+        "status": "Official",
+        "country": "GB",
+        "disambiguation": "",
+        "title": "Heaven and Hell"
+    }, {
+        "barcode": "4988002413355",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "release-events": [{
+            "date": "2001-03-07",
+            "area": {
+                "iso-3166-1-codes": ["JP"],
+                "name": "Japan",
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "sort-name": "Japan",
+                "disambiguation": ""
+            }
+        }],
+        "quality": "normal",
+        "id": "2659a2ce-ab37-4702-9a44-d9d7a738da7e",
+        "status": "Official",
+        "country": "JP",
+        "packaging": "Jewel Case",
+        "date": "2001-03-07",
+        "disambiguation": "Japanese Digital Remaster",
+        "title": "Heaven and Hell"
+    }, {
+        "packaging": "Jewel Case",
+        "date": "1996-02-07",
+        "country": "GB",
+        "status": "Official",
+        "title": "Heaven and Hell",
+        "disambiguation": "",
+        "barcode": "5017615833027",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "quality": "normal",
+        "id": "27e6d639-cd58-36d7-95ff-52e4dafd99a1",
+        "release-events": [{
+            "area": {
+                "disambiguation": "",
+                "sort-name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "iso-3166-1-codes": ["GB"]
+            },
+            "date": "1996-02-07"
+        }],
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a"
+    }, {
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "barcode": "4988005606228",
+        "packaging-id": null,
+        "id": "2e830760-6c0b-4982-ab42-3f343d930ee9",
+        "quality": "normal",
+        "release-events": [{
+            "area": {
+                "iso-3166-1-codes": ["JP"],
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "sort-name": "Japan",
+                "disambiguation": "",
+                "name": "Japan"
+            },
+            "date": "2010-04-21"
+        }],
+        "status": "Official",
+        "country": "JP",
+        "date": "2010-04-21",
+        "packaging": null,
+        "title": "Heaven and Hell",
+        "disambiguation": ""
+    }, {
+        "disambiguation": "",
+        "title": "Heaven and Hell",
+        "country": "JP",
+        "status": "Official",
+        "packaging": "Gatefold Cover",
+        "date": "2012-03-28",
+        "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+        "release-events": [{
+            "area": {
+                "iso-3166-1-codes": ["JP"],
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "sort-name": "Japan",
+                "disambiguation": "",
+                "name": "Japan"
+            },
+            "date": "2012-03-28"
+        }],
+        "quality": "normal",
+        "id": "2e9e9159-9fd0-478a-a405-f2ac7f578dac",
+        "barcode": "4988005701558",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    }, {
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": "07599233721",
+        "release-events": [{
+            "area": {
+                "disambiguation": "",
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "sort-name": "United States",
+                "name": "United States",
+                "iso-3166-1-codes": ["US"]
+            },
+            "date": "1980-04-25"
+        }],
+        "quality": "normal",
+        "id": "735b3a58-3d9b-4f0d-8601-8a041facd6b3",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "packaging": "Cardboard/Paper Sleeve",
+        "date": "1980-04-25",
+        "status": "Official",
+        "country": "US",
+        "disambiguation": "",
+        "title": "Heaven and Hell"
+    }, {
+        "status": "Official",
+        "country": "US",
+        "date": "1980",
+        "packaging": "Cardboard/Paper Sleeve",
+        "title": "Heaven and Hell",
+        "disambiguation": "Club Edition",
+        "barcode": "07599233721",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "quality": "normal",
+        "id": "82c0fb4d-777f-4bd0-a857-5c22d689061c",
+        "release-events": [{
+            "date": "1980",
+            "area": {
+                "name": "United States",
+                "disambiguation": "",
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "sort-name": "United States",
+                "iso-3166-1-codes": ["US"]
+            }
+        }]
+    }, {
+        "status": "Official",
+        "country": "GB",
+        "packaging": "Digipak",
+        "date": "2010-04-05",
+        "title": "Heaven and Hell",
+        "disambiguation": "deluxe edition",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": "602527350738",
+        "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+        "quality": "normal",
+        "id": "85df2703-b15f-30b0-82ef-d986b378a01f",
+        "release-events": [{
+            "area": {
+                "disambiguation": "",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "sort-name": "United Kingdom",
+                "name": "United Kingdom",
+                "iso-3166-1-codes": ["GB"]
+            },
+            "date": "2010-04-05"
+        }]
+    }, {
+        "packaging-id": null,
+        "release-events": [{
+            "area": {
+                "iso-3166-1-codes": ["JP"],
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "sort-name": "Japan",
+                "disambiguation": "",
+                "name": "Japan"
+            },
+            "date": "1989-03-05"
+        }],
+        "quality": "normal",
+        "id": "8bbe2647-0945-4581-bc33-576e487bd60b",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": null,
+        "disambiguation": "",
+        "title": "Heaven and Hell",
+        "status": "Official",
+        "country": "JP",
+        "packaging": null,
+        "date": "1989-03-05"
+    }, {
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": "075992337229",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "id": "9333296d-ac65-3701-82a7-6e05d1cebc79",
+        "quality": "normal",
+        "release-events": [{
+            "date": "1987-05-19",
+            "area": {
+                "iso-3166-1-codes": ["US"],
+                "name": "United States",
+                "disambiguation": "",
+                "sort-name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98"
+            }
+        }],
+        "country": "US",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "date": "1987-05-19",
+        "title": "Heaven and Hell",
+        "disambiguation": ""
+    }, {
+        "status": "Official",
+        "country": "DE",
+        "date": "1987",
+        "packaging": "Jewel Case",
+        "disambiguation": "",
+        "title": "Heaven and Hell",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "barcode": "042283017122",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "release-events": [{
+            "area": {
+                "iso-3166-1-codes": ["DE"],
+                "name": "Germany",
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "sort-name": "Germany",
+                "disambiguation": ""
+            },
+            "date": "1987"
+        }],
+        "id": "a3b78ae0-8ffa-453b-8ef1-67b2d6df7da3",
+        "quality": "normal"
+    }, {
+        "status": "Official",
+        "country": "XE",
+        "date": "2010",
+        "packaging": "Digipak",
+        "title": "Heaven and Hell",
+        "disambiguation": "",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": "602527350738",
+        "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+        "id": "b35ef5dc-b54c-4109-a19b-94ca1c9b70aa",
+        "quality": "normal",
+        "release-events": [{
+            "date": "2010",
+            "area": {
+                "name": "Europe",
+                "sort-name": "Europe",
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["XE"]
+            }
+        }, {
+            "date": "2010",
+            "area": {
+                "iso-3166-1-codes": ["GB"],
+                "disambiguation": "",
+                "sort-name": "United Kingdom",
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom"
+            }
+        }]
+    }, {
+        "release-events": [{
+            "area": {
+                "iso-3166-1-codes": ["AU"],
+                "name": "Australia",
+                "disambiguation": "",
+                "sort-name": "Australia",
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e"
+            },
+            "date": "1996"
+        }],
+        "quality": "normal",
+        "id": "b8164cff-d1fc-42c5-aa7b-b628dd7f33ad",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "barcode": "5017615833027",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "disambiguation": "",
+        "title": "Heaven and Hell",
+        "date": "1996",
+        "packaging": "Jewel Case",
+        "status": "Official",
+        "country": "AU"
+    }, {
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "barcode": "",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "release-events": [{
+            "area": {
+                "iso-3166-1-codes": ["DE"],
+                "disambiguation": "",
+                "sort-name": "Germany",
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany"
+            },
+            "date": "1980"
+        }, {
+            "date": "1980",
+            "area": {
+                "id": "781b0c54-3d54-362d-a941-8a617def4992",
+                "sort-name": "Portugal",
+                "disambiguation": "",
+                "name": "Portugal",
+                "iso-3166-1-codes": ["PT"]
+            }
+        }],
+        "quality": "normal",
+        "id": "be6064fd-a9f3-49e9-b5eb-94dbf0d0f571",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "date": "1980",
+        "packaging": "Cardboard/Paper Sleeve",
+        "country": "DE",
+        "status": "Official",
+        "disambiguation": "",
+        "title": "Heaven and Hell"
+    }, {
+        "country": "US",
+        "status": "Official",
+        "date": "2009-03-30",
+        "packaging": null,
+        "title": "Heaven and Hell",
+        "disambiguation": "",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "barcode": "",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": null,
+        "id": "c067ad75-c7d3-4102-ac7c-351c788b89fc",
+        "quality": "normal",
+        "release-events": [{
+            "date": "2009-03-30",
+            "area": {
+                "iso-3166-1-codes": ["US"],
+                "disambiguation": "",
+                "sort-name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States"
+            }
+        }]
+    }, {
+        "packaging": "Jewel Case",
+        "date": "2008",
+        "country": "US",
+        "status": "Official",
+        "disambiguation": "",
+        "title": "Heaven and Hell",
+        "barcode": "081227988982",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "release-events": [{
+            "date": "2008",
+            "area": {
+                "iso-3166-1-codes": ["US"],
+                "name": "United States",
+                "disambiguation": "",
+                "sort-name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98"
+            }
+        }],
+        "id": "c09842b8-092c-4d3c-b064-cf5b82cca581",
+        "quality": "normal",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a"
+    }, {
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "barcode": "4988011301322",
+        "release-events": [{
+            "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "sort-name": "Japan",
+                "disambiguation": "",
+                "name": "Japan",
+                "iso-3166-1-codes": ["JP"]
+            },
+            "date": "1986-07-05"
+        }],
+        "quality": "normal",
+        "id": "fe494147-91a9-49cb-b848-d54b84cd85c4",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "packaging": "Jewel Case",
+        "date": "1986-07-05",
+        "status": "Official",
+        "country": "JP",
+        "disambiguation": "",
+        "title": "Heaven and Hell"
+    }, {
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "barcode": "731455005929",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "quality": "normal",
+        "id": "febd558e-2138-4993-a6e9-3407adf77087",
+        "release-events": [{
+            "area": {
+                "name": "Australia",
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "sort-name": "Australia",
+                "disambiguation": "",
+                "iso-3166-1-codes": ["AU"]
+            },
+            "date": "1993"
+        }],
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "date": "1993",
+        "packaging": "Jewel Case",
+        "country": "AU",
+        "status": "Official",
+        "title": "Heaven and Hell",
+        "disambiguation": ""
+    }],
+    "secondary-types": []
+}

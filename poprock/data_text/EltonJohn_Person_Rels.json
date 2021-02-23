@@ -1,0 +1,23 @@
+{
+    "name": "Elton John",
+    "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "f4b36cf5-2914-4464-bcd3-de70ac68c0e1",
+            "name": "Bluesology",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "6e9199f8-208c-41f9-a176-e5b3dd5a0c76",
+            "name": "Elton John Band",
+            "attributes": [
+                "eponymous",
+                "lead vocals",
+                "piano"
+            ]
+        }
+    ]
+}

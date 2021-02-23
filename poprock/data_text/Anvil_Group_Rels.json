@@ -1,0 +1,94 @@
+{
+    "name": "Anvil",
+    "mbid": "07a85e96-bb72-4930-b41d-24853f4a4ede",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "26e7ac8e-c01a-492e-9787-ad82ea28c406",
+            "name": "Dave Allison",
+            "attributes": [
+                "background vocals",
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "2a5a9202-2a15-4f80-80a2-88eeb0789265",
+            "name": "Ian Dickson",
+            "attributes": [
+                "bass guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c568a927-e2ee-4acb-97f4-8d3acdf15cec",
+            "name": "Steve \u201cLips\u201d Kudlow",
+            "attributes": [
+                "guitar",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0a7b3c13-9180-43a2-9cbc-a0d49b62cb8d",
+            "name": "Robb Reiner",
+            "attributes": [
+                "membranophone",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "4176f2bb-c496-424d-8d75-ebe2115b0f05",
+            "name": "Sebastian Marino",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "cc91678d-2b41-46e1-87db-8da50db1fcc3",
+            "name": "Mike Duncan",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "cce6fd56-fe98-4f13-bd06-7cc81f1e807e",
+            "name": "Ivan Hurd",
+            "attributes": [
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a84b3507-16de-4aea-9d85-fa807197aa6a",
+            "name": "Glenn Five",
+            "attributes": [
+                "background vocals",
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "8f0f7c68-801d-41fd-a9b4-ad0210cdc44c",
+            "name": "Sal Italiano",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ab6c0856-f438-401c-921b-92bdf669571a",
+            "name": "Chris Robertson",
+            "attributes": [
+                "bass guitar"
+            ]
+        }
+    ]
+}

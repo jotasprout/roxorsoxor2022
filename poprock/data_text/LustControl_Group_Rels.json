@@ -1,0 +1,19 @@
+{
+    "name": "Lust Control",
+    "mbid": "b6174910-7335-4768-a42d-8e4655f37114",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "54f52fe6-37bd-4baa-b0ff-e7dd22bade4d",
+            "name": "Paul Q-Pek",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "f247cd17-a27d-40a2-95ef-2344e830e230",
+            "name": "Doug Van Pelt",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "name": "Journey",
+    "mbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "939f56a4-3998-4e50-abc3-afeb4c76b68e",
+            "name": "Prairie Prince",
+            "attributes": [
+                "drums (drum set)",
+                "original",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "868a667a-8a4f-40ba-b8ef-88d009ffe8ee",
+            "name": "George Tickner",
+            "attributes": [
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "34bef7d8-96b8-4d20-a529-f741fb414684",
+            "name": "Gregg Rolie",
+            "attributes": [
+                "harmonica",
+                "keyboard",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0fddcd6c-9dc3-4af2-ae65-6b839b5600aa",
+            "name": "Ross Valory",
+            "attributes": [
+                "bass guitar",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "58325670-9323-464a-8b20-3e8d7b26df60",
+            "name": "Neal Schon",
+            "attributes": [
+                "guitar",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ff384c3c-e31c-478e-8de0-44b5400f4854",
+            "name": "Aynsley Dunbar",
+            "attributes": [
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "20bed830-c1c8-4b12-b390-8c78a8abb382",
+            "name": "Robert Fleischman",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "88b0ef74-9da8-4998-8e3b-70687575588c",
+            "name": "Steve Perry",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b90ab376-c0ff-42d8-88af-4892a82222dd",
+            "name": "Steve Smith",
+            "attributes": [
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "cf933e60-92da-4140-bddb-694e7e49f61f",
+            "name": "Jonathan Cain",
+            "attributes": [
+                "guitar",
+                "keyboard",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "39828c81-cc39-4e8a-8e00-f0874c657d47",
+            "name": "Randy Jackson",
+            "attributes": [
+                "bass guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e0bb81f4-86a8-4a75-bb34-20bf15f1d5ae",
+            "name": "Mike Baird",
+            "attributes": [
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b90ab376-c0ff-42d8-88af-4892a82222dd",
+            "name": "Steve Smith",
+            "attributes": [
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0fddcd6c-9dc3-4af2-ae65-6b839b5600aa",
+            "name": "Ross Valory",
+            "attributes": [
+                "bass guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "af30ff69-6232-41c8-b3f8-73e20165625d",
+            "name": "Steve Augeri",
+            "attributes": [
+                "guitar",
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "4ff8dc8f-7005-473f-8ac5-11617fc46cd6",
+            "name": "Deen Castronovo",
+            "attributes": [
+                "drums (drum set)",
+                "lead vocals",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9946e322-2eb6-43dd-ae66-dd28114f1522",
+            "name": "Jeff Scott Soto",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "36c7bbcd-59a6-407a-89b5-4e91a2053552",
+            "name": "Arnel Pineda",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "b90ab376-c0ff-42d8-88af-4892a82222dd",
+            "name": "Steve Smith",
+            "attributes": [
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "68d43646-e238-4865-904b-3c5661392c28",
+            "name": "Chuck Garric",
+            "attributes": [
+                "additional"
+            ]
+        }
+    ]
+}

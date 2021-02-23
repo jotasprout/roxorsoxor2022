@@ -1,0 +1,1707 @@
+{
+    "genres": [
+        "hard rock", 
+        "rock", 
+        "glam rock", 
+        "classic rock", 
+        "heavy metal"
+    ], 
+    "taskDuration": {
+        "Task Duration": 88.78198218345642, 
+        "Task End": 1559103085.286019, 
+        "Task Start": 1559102996.504037
+    }, 
+    "stats": {
+        "listeners": "141911", 
+        "playcount": "1284127"
+    }, 
+    "name": "Ace Frehley", 
+    "mbid": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+    "birthday": "1951-04-27", 
+    "date": "2019-05-29", 
+    "albums": [
+        {
+            "mbid": "07d7febb-7e67-33ec-9a22-6e68ba75d35b", 
+            "releases": [
+                {
+                    "name": "Trouble Walkin'", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "0560e570-d9b3-405f-b4ed-e4992f1b6a4f", 
+                            "stats": {
+                                "listeners": "3852", 
+                                "playcount": "11172"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Shot Full of Rock"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "955bc4d3-1adb-42cf-8679-7df1cb63c005", 
+                            "stats": {
+                                "listeners": "6832", 
+                                "playcount": "23068"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Do Ya"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "8c09d50f-5429-4973-8603-8b61b574b030", 
+                            "stats": {
+                                "listeners": "3348", 
+                                "playcount": "8714"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Five Card Stud"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "d9f72817-c538-4b81-a915-b7a26d3766e5", 
+                            "stats": {
+                                "listeners": "6455", 
+                                "playcount": "24083"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Hide Your Heart"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "79efcaa1-8616-43cf-87ef-678fab2da436", 
+                            "stats": {
+                                "listeners": "3307", 
+                                "playcount": "8300"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Lost in Limbo"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a3a1fc07-c22f-4777-a73d-928b066fd3c5", 
+                            "stats": {
+                                "listeners": "5469", 
+                                "playcount": "16140"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Trouble Walkin\u2019"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "2e0cb1a4-c7a9-4dd2-a350-0c29a51e1d47", 
+                            "stats": {
+                                "listeners": "3195", 
+                                "playcount": "8784"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "2 Young 2 Die"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "127816ac-7de8-4dc7-9ea7-398a3ac1ed45", 
+                            "stats": {
+                                "listeners": "3145", 
+                                "playcount": "8176"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Back to School"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "43efed91-35b0-448a-bbfb-79d7ea7b25c8", 
+                            "stats": {
+                                "listeners": "2867", 
+                                "playcount": "7951"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Remember Me"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b3810125-f521-4d06-8d21-bcbb2d2c2c65", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8457"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured \u2162"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "2ddfd4f9-d5f8-4383-aca6-fcbd34ef572b", 
+                    "packaging": null, 
+                    "listeners": "16512", 
+                    "date": "1989-10-13", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "102362", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "Trouble Walkin\u2019"
+        }, 
+        {
+            "mbid": "103435f3-3722-4438-8427-712a1ecd3b1d", 
+            "releases": [
+                {
+                    "name": "Anomaly", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a82e1bdb-9f30-4262-a88e-bfd8d5e75126", 
+                            "stats": {
+                                "listeners": "6516", 
+                                "playcount": "19952"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Foxy & Free"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "ad2526a7-c369-494a-9c31-83c5e0455b0d", 
+                            "stats": {
+                                "listeners": "9093", 
+                                "playcount": "32685"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Outer Space"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "0b7014e3-cf23-4989-b673-1a99606fc784", 
+                            "stats": {
+                                "listeners": "5534", 
+                                "playcount": "16991"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Pain in the Neck"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b58ecc52-2533-4c80-aed1-fb979f8c3a5b", 
+                            "stats": {
+                                "listeners": "8103", 
+                                "playcount": "28475"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fox on the Run"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "32d96467-5eb6-4223-803d-f9a074dc0f3e", 
+                            "stats": {
+                                "listeners": "5099", 
+                                "playcount": "14956"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Genghis Khan"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "629d5a20-aff9-4c3f-9f06-157dda508e95", 
+                            "stats": {
+                                "listeners": "4901", 
+                                "playcount": "14321"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Too Many Faces"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "54be22de-556a-450a-ae7c-01ee1e7f9359", 
+                            "stats": {
+                                "listeners": "4367", 
+                                "playcount": "13975"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Change the World"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "91f416ec-5413-4e4b-ae19-290a1e3024e9", 
+                            "stats": {
+                                "listeners": "4477", 
+                                "playcount": "12716"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Space Bear"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "d2a69c8b-dde6-40e5-933d-e118a6389a3f", 
+                            "stats": {
+                                "listeners": "3814", 
+                                "playcount": "13515"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "A Little Below the Angels"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "fecb6174-ad9b-408d-b5f4-f7e84c5ba798", 
+                            "stats": {
+                                "listeners": "4067", 
+                                "playcount": "13303"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Sister"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "0a9c1321-ed46-4ae5-a760-c3cb32ed9318", 
+                            "stats": {
+                                "listeners": "3766", 
+                                "playcount": "12427"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "It\u2019s a Great Life"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "5df92656-83de-440b-ade4-a040bed588a6", 
+                            "stats": {
+                                "listeners": "3637", 
+                                "playcount": "13068"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured Quantum"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "e6e3583a-66a1-4ce1-9d74-cc6ce8aac50f", 
+                    "packaging": "Digipak", 
+                    "listeners": "17028", 
+                    "date": "2009-09-15", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "176500", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "Anomaly"
+        }, 
+        {
+            "mbid": "30a17c90-6537-3cbb-8458-fe8e90933210", 
+            "releases": [
+                {
+                    "name": "Ace Frehley", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f1e1433f-f16e-4eb5-9b9c-436c6b884644", 
+                            "stats": {
+                                "listeners": "19170", 
+                                "playcount": "56887"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rip It Out"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "e83c68d7-8cf1-4ee5-ba86-41f1656ebaaa", 
+                            "stats": {
+                                "listeners": "14109", 
+                                "playcount": "39460"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Speedin\u2019 Back to My Baby"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b9f53192-aa5b-4835-8844-078e9eef53d5", 
+                            "stats": {
+                                "listeners": "12430", 
+                                "playcount": "33263"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Snow Blind"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "e94cff5e-aaee-4455-a779-4dc0dffa366c", 
+                            "stats": {
+                                "listeners": "9957", 
+                                "playcount": "26993"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Ozone"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "abc76a6c-9537-4625-86df-765fc794668a", 
+                            "stats": {
+                                "listeners": "9196", 
+                                "playcount": "24478"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "What\u2019s on Your Mind?"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "2fb8c627-4368-4b29-ba35-18bcc808e27a", 
+                            "stats": {
+                                "listeners": "86187", 
+                                "playcount": "308521"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "New York Groove"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "43943518-cdaf-4d3a-bf18-778a49955835", 
+                            "stats": {
+                                "listeners": "9269", 
+                                "playcount": "24986"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "I\u2019m in Need of Love"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "9eff7bbf-f080-478f-9380-a15fd955872c", 
+                            "stats": {
+                                "listeners": "7470", 
+                                "playcount": "21217"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Wiped-Out"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "0adebbf7-3d8e-4561-8e03-817553c99757", 
+                            "stats": {
+                                "listeners": "8637", 
+                                "playcount": "23884"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured Mirror"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "305119d8-2596-3ad9-a4f8-00b474e7949f", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "46651", 
+                    "date": "1988", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "276151", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }, 
+                {
+                    "name": "Ace Frehley", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f1e1433f-f16e-4eb5-9b9c-436c6b884644", 
+                            "stats": {
+                                "listeners": "19170", 
+                                "playcount": "56887"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rip It Out"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "e83c68d7-8cf1-4ee5-ba86-41f1656ebaaa", 
+                            "stats": {
+                                "listeners": "14109", 
+                                "playcount": "39460"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Speedin\u2019 Back to My Baby"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b9f53192-aa5b-4835-8844-078e9eef53d5", 
+                            "stats": {
+                                "listeners": "12430", 
+                                "playcount": "33263"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Snow Blind"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "e94cff5e-aaee-4455-a779-4dc0dffa366c", 
+                            "stats": {
+                                "listeners": "9957", 
+                                "playcount": "26993"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Ozone"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "abc76a6c-9537-4625-86df-765fc794668a", 
+                            "stats": {
+                                "listeners": "9196", 
+                                "playcount": "24478"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "What\u2019s on Your Mind?"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "2fb8c627-4368-4b29-ba35-18bcc808e27a", 
+                            "stats": {
+                                "listeners": "86187", 
+                                "playcount": "308521"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "New York Groove"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "43943518-cdaf-4d3a-bf18-778a49955835", 
+                            "stats": {
+                                "listeners": "9269", 
+                                "playcount": "24986"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "I\u2019m in Need of Love"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "9eff7bbf-f080-478f-9380-a15fd955872c", 
+                            "stats": {
+                                "listeners": "7470", 
+                                "playcount": "21217"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Wiped-Out"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "0adebbf7-3d8e-4561-8e03-817553c99757", 
+                            "stats": {
+                                "listeners": "8637", 
+                                "playcount": "23884"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured Mirror"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "305119d8-2596-3ad9-a4f8-00b474e7949f", 
+                    "packaging": "Cardboard/Paper Sleeve", 
+                    "listeners": "46651", 
+                    "date": "1978-09-18", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "276151", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "Ace Frehley"
+        }, 
+        {
+            "mbid": "34f19548-6562-4c65-a4ee-d5a257d6b0c3", 
+            "releases": [], 
+            "title": "Parasite"
+        }, 
+        {
+            "mbid": "451182e5-8411-359c-81be-723a7c11a583", 
+            "releases": [
+                {
+                    "name": "12 Picks", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "fbe46dad-08c3-4a54-8862-deb872be98bc", 
+                            "stats": {
+                                "listeners": "6046", 
+                                "playcount": "25951"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Into the Night"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f3b77d0a-c4a6-43af-a9b6-eeeed0aba3ab", 
+                            "stats": {
+                                "listeners": "382", 
+                                "playcount": "1277"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Words Are Not Enough"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "d9f72817-c538-4b81-a915-b7a26d3766e5", 
+                            "stats": {
+                                "listeners": "6455", 
+                                "playcount": "24083"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Hide Your Heart"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a3a1fc07-c22f-4777-a73d-928b066fd3c5", 
+                            "stats": {
+                                "listeners": "5469", 
+                                "playcount": "16140"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Trouble Walkin\u2019"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "e5698129-7394-4837-be7e-ffccd3c61029", 
+                            "stats": {
+                                "listeners": "8251", 
+                                "playcount": "33548"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rock Soldiers"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b7567768-de7a-40e4-8ac1-b45c7609ef9d", 
+                            "stats": {
+                                "listeners": "553", 
+                                "playcount": "1838"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rip It Out"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f526c86b-d966-45d6-bd78-8f5899ca9e6c", 
+                            "stats": {
+                                "listeners": "525", 
+                                "playcount": "1642"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Breakout"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c2047846-4c7e-422e-97a4-22fc0f4cd948", 
+                            "stats": {
+                                "listeners": "479", 
+                                "playcount": "1746"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Cold Gin"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c676b462-da79-4903-bdaa-4df61d8f3823", 
+                            "stats": {
+                                "listeners": "462", 
+                                "playcount": "1490"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Shock Me (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "cfe7394b-559b-46db-a4e8-f43081dfb2d9", 
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "1613"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rocket Ride (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "3562aad0-61f7-4c41-ac80-a1116bf1cd45", 
+                            "stats": {
+                                "listeners": "491", 
+                                "playcount": "1660"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Deuce"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "70b73c8b-c280-4eb0-8fc9-339ca442c4f5", 
+                    "packaging": null, 
+                    "listeners": "3032", 
+                    "date": "1997-04-08", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "34484", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "12 Picks"
+        }, 
+        {
+            "mbid": "45e57b92-9abc-38bf-905a-c7eaa9014fc8", 
+            "releases": [
+                {
+                    "name": "Loaded Deck", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a8fbc34e-c58f-4938-b521-af01b429bbf6", 
+                            "stats": {
+                                "listeners": "1169", 
+                                "playcount": "4109"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "One Plus One"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "7442b8d6-edca-4699-85cb-923b40038acb", 
+                            "stats": {
+                                "listeners": "1022", 
+                                "playcount": "3201"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Give It to Me Anyway"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "955bc4d3-1adb-42cf-8679-7df1cb63c005", 
+                            "stats": {
+                                "listeners": "6832", 
+                                "playcount": "23068"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Do Ya"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "0560e570-d9b3-405f-b4ed-e4992f1b6a4f", 
+                            "stats": {
+                                "listeners": "3852", 
+                                "playcount": "11172"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Shot Full of Rock"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "9d98228b-6ee9-4fbe-8d6d-1d031c214649", 
+                            "stats": {
+                                "listeners": "3414", 
+                                "playcount": "10719"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Stranger in a Strange Land (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "dcc79b3a-026e-4137-ad57-47d8e1fa8667", 
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "627"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Separate (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "8204c80b-23a2-415e-9b25-ba48d6234eb5", 
+                            "stats": {
+                                "listeners": "280", 
+                                "playcount": "1172"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "New York Groove"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c74d07f3-148e-419d-af92-ab34e618fdff", 
+                            "stats": {
+                                "listeners": "214", 
+                                "playcount": "655"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rock Soldiers (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "43efed91-35b0-448a-bbfb-79d7ea7b25c8", 
+                            "stats": {
+                                "listeners": "2867", 
+                                "playcount": "7951"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Remember Me"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "1aaf682b-71cd-4556-920b-0f1733295c6b", 
+                            "stats": {
+                                "listeners": "1327", 
+                                "playcount": "4283"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured Too (instrumental)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b3810125-f521-4d06-8d21-bcbb2d2c2c65", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8457"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured \u2162"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "63f04a00-9f87-482a-a508-86bd50787119", 
+                            "stats": {
+                                "listeners": "975", 
+                                "playcount": "3066"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Shock Me"
+                        }
+                    ], 
+                    "country": "JP", 
+                    "disambiguation": "", 
+                    "mbid": "972621ba-6073-49b1-8eb6-7e94338880a8", 
+                    "packaging": null, 
+                    "listeners": "2322", 
+                    "date": "1998-06-20", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "20771", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }, 
+                {
+                    "name": "Loaded Deck", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a8fbc34e-c58f-4938-b521-af01b429bbf6", 
+                            "stats": {
+                                "listeners": "1169", 
+                                "playcount": "4109"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "One Plus One"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "7442b8d6-edca-4699-85cb-923b40038acb", 
+                            "stats": {
+                                "listeners": "1022", 
+                                "playcount": "3201"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Give It to Me Anyway"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "955bc4d3-1adb-42cf-8679-7df1cb63c005", 
+                            "stats": {
+                                "listeners": "6832", 
+                                "playcount": "23068"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Do Ya"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "0560e570-d9b3-405f-b4ed-e4992f1b6a4f", 
+                            "stats": {
+                                "listeners": "3852", 
+                                "playcount": "11172"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Shot Full of Rock"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "9d98228b-6ee9-4fbe-8d6d-1d031c214649", 
+                            "stats": {
+                                "listeners": "3414", 
+                                "playcount": "10719"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Stranger in a Strange Land (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "dcc79b3a-026e-4137-ad57-47d8e1fa8667", 
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "627"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Separate (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "8204c80b-23a2-415e-9b25-ba48d6234eb5", 
+                            "stats": {
+                                "listeners": "280", 
+                                "playcount": "1172"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "New York Groove"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c74d07f3-148e-419d-af92-ab34e618fdff", 
+                            "stats": {
+                                "listeners": "214", 
+                                "playcount": "655"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rock Soldiers (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "43efed91-35b0-448a-bbfb-79d7ea7b25c8", 
+                            "stats": {
+                                "listeners": "2867", 
+                                "playcount": "7951"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Remember Me"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "1aaf682b-71cd-4556-920b-0f1733295c6b", 
+                            "stats": {
+                                "listeners": "1327", 
+                                "playcount": "4283"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured Too (instrumental)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b3810125-f521-4d06-8d21-bcbb2d2c2c65", 
+                            "stats": {
+                                "listeners": "2910", 
+                                "playcount": "8457"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured \u2162"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "63f04a00-9f87-482a-a508-86bd50787119", 
+                            "stats": {
+                                "listeners": "975", 
+                                "playcount": "3066"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Shock Me"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "972621ba-6073-49b1-8eb6-7e94338880a8", 
+                    "packaging": null, 
+                    "listeners": "2322", 
+                    "date": "1998-01-20", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "20771", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "Loaded Deck"
+        }, 
+        {
+            "mbid": "5c8e910a-5831-31a4-876a-8cd79c6d343f", 
+            "releases": [
+                {
+                    "name": "Greatest Hits Live", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b7567768-de7a-40e4-8ac1-b45c7609ef9d", 
+                            "stats": {
+                                "listeners": "553", 
+                                "playcount": "1838"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rip It Out"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f526c86b-d966-45d6-bd78-8f5899ca9e6c", 
+                            "stats": {
+                                "listeners": "525", 
+                                "playcount": "1642"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Breakout"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c2047846-4c7e-422e-97a4-22fc0f4cd948", 
+                            "stats": {
+                                "listeners": "479", 
+                                "playcount": "1746"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Cold Gin"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c676b462-da79-4903-bdaa-4df61d8f3823", 
+                            "stats": {
+                                "listeners": "462", 
+                                "playcount": "1490"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Shock Me (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "cfe7394b-559b-46db-a4e8-f43081dfb2d9", 
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "1613"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rocket Ride (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "ee94f3a6-70f9-48aa-ac67-f6148fdb7189", 
+                            "stats": {
+                                "listeners": "782", 
+                                "playcount": "2417"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Deuce (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "7542130f-dd80-4b7b-95f6-946d0f3ac874", 
+                            "stats": {
+                                "listeners": "3414", 
+                                "playcount": "10719"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Strangers in a Strange Land (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "dcc79b3a-026e-4137-ad57-47d8e1fa8667", 
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "627"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Separate (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "8204c80b-23a2-415e-9b25-ba48d6234eb5", 
+                            "stats": {
+                                "listeners": "280", 
+                                "playcount": "1172"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "New York Groove"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c74d07f3-148e-419d-af92-ab34e618fdff", 
+                            "stats": {
+                                "listeners": "214", 
+                                "playcount": "655"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rock Soldiers (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a8fbc34e-c58f-4938-b521-af01b429bbf6", 
+                            "stats": {
+                                "listeners": "1169", 
+                                "playcount": "4109"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "One Plus One"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "7442b8d6-edca-4699-85cb-923b40038acb", 
+                            "stats": {
+                                "listeners": "1022", 
+                                "playcount": "3201"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Give It to Me Anyway"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "821b865a-51ba-3c4a-9dc4-590702be7658", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "940", 
+                    "date": "2006-01-24", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "14183", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }, 
+                {
+                    "name": "Greatest Hits Live", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b7567768-de7a-40e4-8ac1-b45c7609ef9d", 
+                            "stats": {
+                                "listeners": "553", 
+                                "playcount": "1838"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rip It Out"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f526c86b-d966-45d6-bd78-8f5899ca9e6c", 
+                            "stats": {
+                                "listeners": "525", 
+                                "playcount": "1642"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Breakout"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c2047846-4c7e-422e-97a4-22fc0f4cd948", 
+                            "stats": {
+                                "listeners": "479", 
+                                "playcount": "1746"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Cold Gin"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c676b462-da79-4903-bdaa-4df61d8f3823", 
+                            "stats": {
+                                "listeners": "462", 
+                                "playcount": "1490"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Shock Me (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "cfe7394b-559b-46db-a4e8-f43081dfb2d9", 
+                            "stats": {
+                                "listeners": "469", 
+                                "playcount": "1613"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rocket Ride (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "ee94f3a6-70f9-48aa-ac67-f6148fdb7189", 
+                            "stats": {
+                                "listeners": "782", 
+                                "playcount": "2417"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Deuce (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "7542130f-dd80-4b7b-95f6-946d0f3ac874", 
+                            "stats": {
+                                "listeners": "3414", 
+                                "playcount": "10719"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Strangers in a Strange Land (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "dcc79b3a-026e-4137-ad57-47d8e1fa8667", 
+                            "stats": {
+                                "listeners": "195", 
+                                "playcount": "627"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Separate (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "8204c80b-23a2-415e-9b25-ba48d6234eb5", 
+                            "stats": {
+                                "listeners": "280", 
+                                "playcount": "1172"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "New York Groove"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "c74d07f3-148e-419d-af92-ab34e618fdff", 
+                            "stats": {
+                                "listeners": "214", 
+                                "playcount": "655"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rock Soldiers (live)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a8fbc34e-c58f-4938-b521-af01b429bbf6", 
+                            "stats": {
+                                "listeners": "1169", 
+                                "playcount": "4109"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "One Plus One"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "7442b8d6-edca-4699-85cb-923b40038acb", 
+                            "stats": {
+                                "listeners": "1022", 
+                                "playcount": "3201"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Give It to Me Anyway"
+                        }
+                    ], 
+                    "country": "CA", 
+                    "disambiguation": "", 
+                    "mbid": "821b865a-51ba-3c4a-9dc4-590702be7658", 
+                    "packaging": null, 
+                    "listeners": "940", 
+                    "date": "2006", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "14183", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "Greatest Hits Live"
+        }, 
+        {
+            "mbid": "6052ba3d-ed38-4621-b70c-4c92b64225a3", 
+            "releases": [
+                {
+                    "name": "Space Invader", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "9eb1b96c-9db3-4f47-a48e-5eb59054888a", 
+                            "stats": {
+                                "listeners": "3629", 
+                                "playcount": "9353"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Space Invader"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "2c6c9bd4-c5bf-4b17-ad88-e0f75fb8c485", 
+                            "stats": {
+                                "listeners": "1590", 
+                                "playcount": "4522"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Gimme a Feelin\u2019"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f1feebe5-ce1b-4a1b-a057-cda9a2a11321", 
+                            "stats": {
+                                "listeners": "2260", 
+                                "playcount": "5998"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "I Wanna Hold You"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "afdaee05-8c56-44e7-a4ac-549174da7a7b", 
+                            "stats": {
+                                "listeners": "2120", 
+                                "playcount": "5880"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Change"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "71c09707-2482-433a-a51b-b8aa42eeb186", 
+                            "stats": {
+                                "listeners": "2008", 
+                                "playcount": "5169"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Toys"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a9ce6aeb-b298-42f8-a4a0-365d009e2a54", 
+                            "stats": {
+                                "listeners": "1855", 
+                                "playcount": "4786"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Immortal Pleasures"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "d4f638a1-8f25-4577-bfa8-0009b0698cfe", 
+                            "stats": {
+                                "listeners": "1920", 
+                                "playcount": "4963"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Inside the Vortex"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "b48df750-c951-4d7c-bee4-3d79d6618927", 
+                            "stats": {
+                                "listeners": "1836", 
+                                "playcount": "5016"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "What Every Girl Wants"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "7e3ef877-74d6-44ec-a569-41986f67a5df", 
+                            "stats": {
+                                "listeners": "1733", 
+                                "playcount": "4442"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Past the Milky Way"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "23d25182-1dd1-4e6a-baa7-41fbca29c4f6", 
+                            "stats": {
+                                "listeners": "1633", 
+                                "playcount": "4372"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Reckless"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "4efe3efd-2c12-493b-8f3e-8da1f2767af9", 
+                            "stats": {
+                                "listeners": "1949", 
+                                "playcount": "5779"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "The Joker"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f86a5205-ded1-4d89-8a42-00a445897a4f", 
+                            "stats": {
+                                "listeners": "1518", 
+                                "playcount": "4124"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Starship"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "0d064494-473e-47c7-b1aa-adbcc4e88545", 
+                            "stats": {
+                                "listeners": "1375", 
+                                "playcount": "3523"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Gimme a Feelin\u2019 (radio edit)"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "43942ab3-5b40-4517-acee-d10210bb9749", 
+                            "stats": {
+                                "listeners": "522", 
+                                "playcount": "1344"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Space Invader (radio edit)"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "8507b532-4feb-414b-a53d-e9fcca0a79fc", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "4750", 
+                    "date": "2014-08-19", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "64310", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "Space Invader"
+        }, 
+        {
+            "mbid": "77052664-c48a-4b5f-870e-32410c3820ce", 
+            "releases": [], 
+            "title": "Gimme a Feelin\u2019"
+        }, 
+        {
+            "mbid": "a261c347-13ab-3179-977b-268e7acc9966", 
+            "releases": [
+                {
+                    "name": "Frehley's Comet", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "e5698129-7394-4837-be7e-ffccd3c61029", 
+                            "stats": {
+                                "listeners": "8251", 
+                                "playcount": "33548"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Rock Soldiers"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "66a83d1d-9e75-458b-8508-4f9b815a7ffc", 
+                            "stats": {
+                                "listeners": "4331", 
+                                "playcount": "15553"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Breakout"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "fbe46dad-08c3-4a54-8862-deb872be98bc", 
+                            "stats": {
+                                "listeners": "6046", 
+                                "playcount": "25951"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Into the Night"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f5fa9a55-f6f3-4bb9-a22a-ce4a6a7d43ab", 
+                            "stats": {
+                                "listeners": "2844", 
+                                "playcount": "9236"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "We Got Your Rock"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "1686e4b7-40ac-4e3e-ac72-e25a19449b0f", 
+                            "stats": {
+                                "listeners": "2502", 
+                                "playcount": "7948"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Love Me Right"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "36f568f8-3d3b-454e-a773-39299ecccac2", 
+                            "stats": {
+                                "listeners": "2647", 
+                                "playcount": "9558"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Calling to You"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "696d3ffa-55c0-47fc-959c-aea50be16b90", 
+                            "stats": {
+                                "listeners": "2598", 
+                                "playcount": "8977"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Dolls"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "48c4b8a6-5edc-4155-a8dd-28d3e3e33739", 
+                            "stats": {
+                                "listeners": "3414", 
+                                "playcount": "10719"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Stranger in a Strange Land"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "1aaf682b-71cd-4556-920b-0f1733295c6b", 
+                            "stats": {
+                                "listeners": "1327", 
+                                "playcount": "4283"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Fractured Too (instrumental)"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "d672b67d-ae44-4f0b-ae43-7af59e8f7083", 
+                    "packaging": "Jewel Case", 
+                    "listeners": "11454", 
+                    "date": "1987-07-07", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "114096", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "Frehley\u2019s Comet"
+        }, 
+        {
+            "mbid": "a38cbd75-56f3-4ae9-b4b8-2b17f64da535", 
+            "releases": [], 
+            "title": "Animalize / Frehley\u2019s Comet"
+        }, 
+        {
+            "mbid": "be22f1fe-ffbf-43a9-9d25-53b00caf93d1", 
+            "releases": [], 
+            "title": "Origins, Vol. 1"
+        }, 
+        {
+            "mbid": "c4466de5-3349-4616-a58d-bad273b51950", 
+            "releases": [], 
+            "title": "Fire and Water"
+        }, 
+        {
+            "mbid": "cded0836-e001-3f23-8420-aa865eaaf086", 
+            "releases": [
+                {
+                    "name": "The Other Side Of The Coin", 
+                    "tracks": [
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "943ac341-8f87-46a8-b921-89a2515e556c", 
+                            "stats": {
+                                "listeners": "4067", 
+                                "playcount": "13303"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Sister"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a4f286e4-24fc-4caa-a6be-4a3ceecc49ec", 
+                            "stats": {
+                                "listeners": "234", 
+                                "playcount": "553"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Don\u2019t Wanna Lose You"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "bd521ad5-1663-4505-a7ee-7e5b8ef73eb7", 
+                            "stats": {
+                                "listeners": "422", 
+                                "playcount": "1892"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Take Me to the City"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "cb9d6e53-e91f-4a9d-94fd-8969cf71057c", 
+                            "stats": {
+                                "listeners": "106", 
+                                "playcount": "332"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Dancin\u2019 With Danger"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "998ed67b-0fe2-415b-9353-4cba4840a816", 
+                            "stats": {
+                                "listeners": "6046", 
+                                "playcount": "25951"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Into the Night"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "e87d1f3d-97ea-4a8e-b68b-589e72710348", 
+                            "stats": {
+                                "listeners": "160", 
+                                "playcount": "344"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Heard an Angel"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "429ce413-9439-4713-a586-9892216fe6e4", 
+                            "stats": {
+                                "listeners": "251", 
+                                "playcount": "572"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Back on the Streets"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "a57c204d-8fb4-4993-8226-f0899724aee3", 
+                            "stats": {
+                                "listeners": "3414", 
+                                "playcount": "10719"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Stranger in a Strange Land"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "812d4c05-0ba0-48e1-bfe9-5dc93a0b6bec", 
+                            "stats": {
+                                "listeners": "2598", 
+                                "playcount": "8977"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Dolls"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "5a8e853f-9db2-4235-ae53-554c14586323", 
+                            "stats": {
+                                "listeners": "229", 
+                                "playcount": "1020"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Back Into My Arms"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "57515dda-ba5a-4d79-9e9a-4bfd4dd1c1bc", 
+                            "stats": {
+                                "listeners": "2844", 
+                                "playcount": "9236"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "We Got Your Rock"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "85c5b657-36a3-48fa-a5f7-30bb84a398c9", 
+                            "stats": {
+                                "listeners": "136", 
+                                "playcount": "440"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "I\u2019m So Wired"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "13cbc53d-94fe-4b66-9a9f-649ea98b23af", 
+                            "stats": {
+                                "listeners": "178", 
+                                "playcount": "419"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Catch Me When I Fall"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "cc0c4aa6-0130-4bb9-ae61-4853e44b73c3", 
+                            "stats": {
+                                "listeners": "198", 
+                                "playcount": "652"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "The Girl Can\u2019t Dance"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "e5a402c3-00f5-4b76-995b-58081a956eff", 
+                            "stats": {
+                                "listeners": "2867", 
+                                "playcount": "7951"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Remember Me"
+                        }, 
+                        {
+                            "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "mbid": "f19f4a9f-548d-428f-811e-bf22cd675156", 
+                            "stats": {
+                                "listeners": "1312", 
+                                "playcount": "4932"
+                            }, 
+                            "artistName": "Ace Frehley", 
+                            "title": "Words Are Not Enough"
+                        }
+                    ], 
+                    "country": "CA", 
+                    "disambiguation": "", 
+                    "mbid": "05bda714-e8ac-49e7-97d0-050bb30ff00d", 
+                    "packaging": null, 
+                    "listeners": "466", 
+                    "date": "1997", 
+                    "artistName": "Ace Frehley", 
+                    "playcount": "5057", 
+                    "artistMBID": "33d700ce-064f-44f6-ab9e-60f9eed0fca1"
+                }
+            ], 
+            "title": "The Other Side of the Coin"
+        }, 
+        {
+            "mbid": "d33c23d2-e2f8-4103-ae29-95e0904b68ea", 
+            "releases": [], 
+            "title": "Starman"
+        }, 
+        {
+            "mbid": "d626ac16-8a0a-476c-8d61-9d5abbaa6d48", 
+            "releases": [], 
+            "title": "New York Groove"
+        }, 
+        {
+            "mbid": "e4e4f6bb-027a-4124-a864-f9ba4b1a33f8", 
+            "releases": [], 
+            "title": "Live USA"
+        }, 
+        {
+            "mbid": "e74bf6eb-fe83-4a30-a003-f8339182bf71", 
+            "releases": [], 
+            "title": "Spaceman"
+        }, 
+        {
+            "mbid": "e9cad9c0-e3ed-4f42-82e2-ea7307a5c11d", 
+            "releases": [], 
+            "title": "Galactic Explorer: The Uncut Interviews"
+        }, 
+        {
+            "mbid": "ec6c5c65-5cef-48b2-a6b6-ce9e49b0dcab", 
+            "releases": [], 
+            "title": "Outer Space"
+        }, 
+        {
+            "mbid": "f51a3811-5237-40e6-9bba-de5cfd2ef588", 
+            "releases": [], 
+            "title": "Rise Up (Back From the Grave)"
+        }, 
+        {
+            "mbid": "f57a400e-243a-41b0-ba90-5d96269a8303", 
+            "releases": [], 
+            "title": "White Room"
+        }, 
+        {
+            "mbid": "fa9ae8bb-70c0-4acc-9c39-9310b65cbab5", 
+            "releases": [], 
+            "title": "Rock and Roll Over / Trouble Walkin\u2019"
+        }, 
+        {
+            "mbid": "ff2f2f96-3269-4809-ba8b-af93a1ff6681", 
+            "releases": [], 
+            "title": "Nothing but a Good Time"
+        }, 
+        {
+            "mbid": "ff43505f-c374-4ca4-b7fe-49bb92ad5b34", 
+            "releases": [], 
+            "title": "Emerald"
+        }
+    ], 
+    "type": "Person"
+}

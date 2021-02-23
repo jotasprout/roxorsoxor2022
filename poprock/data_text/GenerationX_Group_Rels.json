@@ -1,0 +1,51 @@
+{
+    "name": "Generation X",
+    "mbid": "4c141ecd-23f9-4881-9a8c-27e7e7af708c",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "fe502742-cc0d-491f-a364-ce1cc8dedb98",
+            "name": "Tony James",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "899a92fe-7ee5-4bc4-9628-0eff26df09e5",
+            "name": "Terry Chimes",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc8529bb-1b7e-424a-adf5-7d4f6e9dfad3",
+            "name": "Bob Derwood Andrews",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "47c8f88b-987a-4b64-9175-2b1b57809727",
+            "name": "Billy Idol",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "624f72b8-796d-4362-a0bb-9ac86861c2c4",
+            "name": "Mark Laff",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "05368179-b400-430a-9e79-86af610d5d4f",
+            "name": "James Stevenson",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "f6052781-6d20-42cd-92d7-f41252a6a86a",
+            "name": "John Towe",
+            "attributes": []
+        }
+    ]
+}

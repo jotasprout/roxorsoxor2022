@@ -1,0 +1,2957 @@
+{
+    "date": "2019-12-22", 
+    "myArtists": [
+        {
+            "MBgenres": [
+                {
+                    "count": 3, 
+                    "name": "contemporary r&b"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "dance"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "dance-pop"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "funk"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "funk rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop soul"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "psychedelic pop"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "punk"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "soul"
+                }
+            ], 
+            "mbid": "070d193a-845c-479f-980e-bef15710653e", 
+            "stats": {
+                "listeners": "1768853", 
+                "playcount": "43427209"
+            }, 
+            "name": "Prince"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "d3a40fec-041f-4f8d-85f3-b325e12f92de", 
+            "stats": {
+                "listeners": "386", 
+                "playcount": "2779"
+            }, 
+            "name": "12th Tribe"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "8aad823a-4891-4354-a15a-536274f6736e", 
+            "stats": {
+                "listeners": "9153", 
+                "playcount": "216323"
+            }, 
+            "name": "The 77's"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "conscious hip hop"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "g-funk"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "gangsta rap"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "hip hop"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "pop rap"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "west coast hip hop"
+                }
+            ], 
+            "mbid": "382f1005-e9ab-4684-afd4-0bdae4ee37f2", 
+            "stats": {
+                "listeners": "2240405", 
+                "playcount": "58413200"
+            }, 
+            "name": "2Pac"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "garage rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "new wave"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae", 
+            "stats": {
+                "listeners": "1401656", 
+                "playcount": "32144841"
+            }, 
+            "name": "Alice Cooper"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "power metal"
+                }
+            ], 
+            "mbid": "07a85e96-bb72-4930-b41d-24853f4a4ede", 
+            "stats": {
+                "listeners": "83538", 
+                "playcount": "1544710"
+            }, 
+            "name": "Anvil"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015", 
+            "stats": {
+                "listeners": "3412", 
+                "playcount": "91230"
+            }, 
+            "name": "Argyle Park"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "64947ce4-79b3-4de4-a664-140b4e934628", 
+            "stats": {
+                "listeners": "8650", 
+                "playcount": "110936"
+            }, 
+            "name": "Barren Cross"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef", 
+            "stats": {
+                "listeners": "11243", 
+                "playcount": "248768"
+            }, 
+            "name": "Believer"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "7e78a78b-3acc-4be2-a2a4-db8932b0f570", 
+            "stats": {
+                "listeners": "6132", 
+                "playcount": "131034"
+            }, 
+            "name": "Bloodgood"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 16, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8", 
+            "stats": {
+                "listeners": "2499283", 
+                "playcount": "104045159"
+            }, 
+            "name": "Black Sabbath"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "art rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "blue-eyed soul"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "experimental"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "experimental rock"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "psychedelic pop"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "singer-songwriter"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "soul"
+                }
+            ], 
+            "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50", 
+            "stats": {
+                "listeners": "3434355", 
+                "playcount": "201110271"
+            }, 
+            "name": "David Bowie"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "7badd4c2-4462-46b6-bd42-4ffdc7a462c7", 
+            "stats": {
+                "listeners": "18546", 
+                "playcount": "330859"
+            }, 
+            "name": "Bride"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "blues"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "classic rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "singer-songwriter"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "soft rock"
+                }
+            ], 
+            "mbid": "5d12875c-a197-43b2-8f29-41dc0ad895c3", 
+            "stats": {
+                "listeners": "158353", 
+                "playcount": "1462519"
+            }, 
+            "name": "Lindsey Buckingham"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 5, 
+                    "name": "death metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "metal"
+                }
+            ], 
+            "mbid": "af8e4cc5-ef54-458d-a194-7b210acf638f", 
+            "stats": {
+                "listeners": "431323", 
+                "playcount": "26603719"
+            }, 
+            "name": "Cannibal Corpse"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "christian rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "electronic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "gothic metal"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "industrial metal"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "industrial rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "metal"
+                }
+            ], 
+            "mbid": "9b39533c-4432-4055-811b-6773e0c6c3a5", 
+            "stats": {
+                "listeners": "25244", 
+                "playcount": "574550"
+            }, 
+            "name": "Circle of Dust"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "72572672-8ffc-4597-b530-dab7ec9066b3", 
+            "stats": {
+                "listeners": "727", 
+                "playcount": "20689"
+            }, 
+            "name": "Crashdog"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 4, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "psychedelic pop"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f", 
+            "stats": {
+                "listeners": "1887739", 
+                "playcount": "25507306"
+            }, 
+            "name": "Cream"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": -1, 
+                    "name": "aor"
+                }, 
+                {
+                    "count": -1, 
+                    "name": "art rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "classic rock"
+                }, 
+                {
+                    "count": 13, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 8, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": -1, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "symphonic prog"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "symphonic rock"
+                }
+            ], 
+            "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a", 
+            "stats": {
+                "listeners": "2161337", 
+                "playcount": "53810158"
+            }, 
+            "name": "Deep Purple"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "cbd8741f-e7f2-4fe2-82ad-95f0cbc90c89", 
+            "stats": {
+                "listeners": "616", 
+                "playcount": "19374"
+            }, 
+            "name": "Deitiphobia"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "8d37ba6b-5474-4e49-9a93-7696aa08c0c3", 
+            "stats": {
+                "listeners": "17125", 
+                "playcount": "229874"
+            }, 
+            "name": "Deliverance"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "c51f0b8b-2e92-47b2-b72d-07e4cd0cd115", 
+            "stats": {
+                "listeners": "1297", 
+                "playcount": "26240"
+            }, 
+            "name": "Disciples of Christ"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "aor"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "glam metal"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "7249b899-8db8-43e7-9e6e-22f1e736024e", 
+            "stats": {
+                "listeners": "1138237", 
+                "playcount": "23659099"
+            }, 
+            "name": "Def Leppard"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 8, 
+                    "name": "heavy metal"
+                }
+            ], 
+            "mbid": "c55193fb-f5d2-4839-a263-4c044fca1456", 
+            "stats": {
+                "listeners": "949644", 
+                "playcount": "24654647"
+            }, 
+            "name": "Dio"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "blues"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "contemporary folk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "country"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "country rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "folk"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "singer-songwriter"
+                }
+            ], 
+            "mbid": "72c536dc-7137-4477-a521-567eeb840fa8", 
+            "stats": {
+                "listeners": "2719355", 
+                "playcount": "159148447"
+            }, 
+            "name": "Bob Dylan"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "country rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "jazz fusion"
+                }
+            ], 
+            "mbid": "57e0e9f3-24b5-46a6-be00-be793ca26e21", 
+            "stats": {
+                "listeners": "85683", 
+                "playcount": "763084"
+            }, 
+            "name": "Elf"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "boom bap"
+                }, 
+                {
+                    "count": 17, 
+                    "name": "hip hop"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "horrorcore"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "pop rap"
+                }
+            ], 
+            "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4", 
+            "stats": {
+                "listeners": "4605845", 
+                "playcount": "207478750"
+            }, 
+            "name": "Eminem"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "cdb296bd-730d-475d-8c31-efb730337f8a", 
+            "stats": {
+                "listeners": "86", 
+                "playcount": "1126"
+            }, 
+            "name": "End Time Warriors"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "57b28f16-22ac-45a2-a866-58d6f65a087b", 
+            "stats": {
+                "listeners": "1556", 
+                "playcount": "9042"
+            }, 
+            "name": "E-Roc"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "acoustic blues"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "blues"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "reggae"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "618b6900-0618-4f1e-b835-bccb17f84294", 
+            "stats": {
+                "listeners": "2457837", 
+                "playcount": "52494846"
+            }, 
+            "name": "Eric Clapton"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "alternative dance"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "dark wave"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "downtempo"
+                }, 
+                {
+                    "count": 13, 
+                    "name": "electronic"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "electronic rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "electronica"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "new romantic"
+                }, 
+                {
+                    "count": 8, 
+                    "name": "new wave"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "synth-pop"
+                }
+            ], 
+            "mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0", 
+            "stats": {
+                "listeners": "2738006", 
+                "playcount": "169782413"
+            }, 
+            "name": "Depeche Mode"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+            "stats": {
+                "listeners": "1451", 
+                "playcount": "22092"
+            }, 
+            "name": "Evil Stig"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "b87f4ce9-eab7-492d-9777-9dc001a2abcf", 
+            "stats": {
+                "listeners": "410", 
+                "playcount": "5294"
+            }, 
+            "name": "Freedom of Soul"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 4, 
+                    "name": "blues"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "soft rock"
+                }
+            ], 
+            "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a", 
+            "stats": {
+                "listeners": "2237480", 
+                "playcount": "72934037"
+            }, 
+            "name": "Fleetwood Mac"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "punk"
+                }
+            ], 
+            "mbid": "4c141ecd-23f9-4881-9a8c-27e7e7af708c", 
+            "stats": {
+                "listeners": "224714", 
+                "playcount": "1437347"
+            }, 
+            "name": "Generation X"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "art rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "symphonic prog"
+                }
+            ], 
+            "mbid": "583944a8-d43b-42e9-8e3c-29eb89f53587", 
+            "stats": {
+                "listeners": "21061", 
+                "playcount": "186715"
+            }, 
+            "name": "Roger Glover"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "heavy metal"
+                }
+            ], 
+            "mbid": "484a1d40-0fb9-4768-acff-b570cedaacb4", 
+            "stats": {
+                "listeners": "128539", 
+                "playcount": "2256975"
+            }, 
+            "name": "Heaven & Hell"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "alternative dance"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "electronic"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "new wave"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "punk"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "47c8f88b-987a-4b64-9175-2b1b57809727", 
+            "stats": {
+                "listeners": "1291709", 
+                "playcount": "17565034"
+            }, 
+            "name": "Billy Idol"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "1253e5e9-eaa7-4ce6-81b8-09725e8cee43", 
+            "stats": {
+                "listeners": "1018374", 
+                "playcount": "16837748"
+            }, 
+            "name": "Iggy and The Stooges"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "dance"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "soul"
+                }
+            ], 
+            "mbid": "6be2828f-6c0d-4059-99d4-fa18acf1a296", 
+            "stats": {
+                "listeners": "1313865", 
+                "playcount": "23498911"
+            }, 
+            "name": "Janet Jackson"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "soul"
+                }
+            ], 
+            "mbid": "b1c124b3-cf60-41a6-8699-92728c8a3fe0", 
+            "stats": {
+                "listeners": "466884", 
+                "playcount": "5844876"
+            }, 
+            "name": "Grace Jones"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "groove metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 14, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "metal"
+                }
+            ], 
+            "mbid": "6b335658-22c8-485d-93de-0bc29a1d0349", 
+            "stats": {
+                "listeners": "1385644", 
+                "playcount": "65108446"
+            }, 
+            "name": "Judas Priest"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "ff399892-1aab-44e8-8905-bf8721ce0866", 
+            "stats": {
+                "listeners": "3024", 
+                "playcount": "56491"
+            }, 
+            "name": "Kerry Livgren"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "acoustic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "519774a4-3b18-4042-b8c0-927845a616c9", 
+            "stats": {
+                "listeners": "222290", 
+                "playcount": "1134641"
+            }, 
+            "name": "Jimmy Page"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "4a536dbf-8632-4cfd-b9ea-cdb35cb47c44", 
+            "stats": {
+                "listeners": "36", 
+                "playcount": "387"
+            }, 
+            "name": "Jimmy Page & Robert Plant"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "f376828a-b438-4fda-bb2e-dcd5fbe81f83", 
+            "stats": {
+                "listeners": 764158, 
+                "playcount": 9324182
+            }, 
+            "name": "Joan Jett"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822", 
+            "stats": {
+                "listeners": "2599963", 
+                "playcount": "54438820"
+            }, 
+            "name": "Elton John"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "aor"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b", 
+            "stats": {
+                "listeners": "1744078", 
+                "playcount": "28647564"
+            }, 
+            "name": "Journey"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "16394dd5-4438-4a65-86b3-e1d954e0011f", 
+            "stats": {
+                "listeners": "13033", 
+                "playcount": "197029"
+            }, 
+            "name": "Jerusalem"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "7a6817e4-c0ca-4021-bb40-accd80181461", 
+            "stats": {
+                "listeners": "1356", 
+                "playcount": "29734"
+            }, 
+            "name": "Glenn Kaiser"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "c8f5272e-8a94-4807-9099-70181e92fc46", 
+            "stats": {
+                "listeners": "69224", 
+                "playcount": "1935192"
+            }, 
+            "name": "King\u2019s X"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 3, 
+                    "name": "electro"
+                }, 
+                {
+                    "count": 9, 
+                    "name": "electronic"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "industrial"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "krautrock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "synth-pop"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "techno"
+                }
+            ], 
+            "mbid": "5700dcd4-c139-4f31-aa3e-6382b9af9032", 
+            "stats": {
+                "listeners": "966347", 
+                "playcount": "26168696"
+            }, 
+            "name": "Kraftwerk"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 9, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "classic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "folk"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 17, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": -2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 13, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3", 
+            "stats": {
+                "listeners": "3002829", 
+                "playcount": "193974069"
+            }, 
+            "name": "Led Zeppelin"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "b6174910-7335-4768-a42d-8e4655f37114", 
+            "stats": {
+                "listeners": "762", 
+                "playcount": "8185"
+            }, 
+            "name": "Lust Control"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "aor"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "symphonic rock"
+                }
+            ], 
+            "mbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1", 
+            "stats": {
+                "listeners": "789423", 
+                "playcount": "11094958"
+            }, 
+            "name": "Meat Loaf"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }
+            ], 
+            "mbid": "26f07661-e115-471d-a930-206f5c89d17c", 
+            "stats": {
+                "listeners": "1090188", 
+                "playcount": "30790873"
+            }, 
+            "name": "M\u00f6tley Cr\u00fce"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 3, 
+                    "name": "pop punk"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "punk"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "punk rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "3b221a54-54b9-435c-a7f3-5cf8e2ce9fb2", 
+            "stats": {
+                "listeners": "580737", 
+                "playcount": "11799039"
+            }, 
+            "name": "MxPx"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "50a40201-2f2f-4f2d-ab1d-4eb23befbc8b", 
+            "stats": {
+                "listeners": "1478", 
+                "playcount": "28124"
+            }, 
+            "name": "Mad at the World"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "59183a0a-0404-4391-9284-f2f43b5ea373", 
+            "stats": {
+                "listeners": "22387", 
+                "playcount": "515895"
+            }, 
+            "name": "Mortification"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "f0169794-0188-40d4-8031-3fdb2e27db4a", 
+            "stats": {
+                "listeners": "6216", 
+                "playcount": "99193"
+            }, 
+            "name": "Mortal"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 7, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 10, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "speed metal"
+                }
+            ], 
+            "mbid": "57961a97-3796-4bf7-9f02-a985a8979ae9", 
+            "stats": {
+                "listeners": "1570425", 
+                "playcount": "64178622"
+            }, 
+            "name": "Mot\u00f6rhead"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "blues"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "classic rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "contemporary folk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "country"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "country rock"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "folk"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 7, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "singer-songwriter"
+                }
+            ], 
+            "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf", 
+            "stats": {
+                "listeners": "1800503", 
+                "playcount": "66080529"
+            }, 
+            "name": "Neil Young"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "country rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "folk pop"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic folk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "22dc19af-d085-4c9b-adfb-22ec256251f1", 
+            "stats": {
+                "listeners": "954631", 
+                "playcount": "8703695"
+            }, 
+            "name": "Buffalo Springfield"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "acoustic rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "country rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "folk pop"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "singer-songwriter"
+                }
+            ], 
+            "mbid": "46a782ea-4308-476b-abd1-a91b197f3037", 
+            "stats": {
+                "listeners": "861830", 
+                "playcount": "10626432"
+            }, 
+            "name": "Crosby, Stills, Nash & Young"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "aor"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "country rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "singer-songwriter"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "soft rock"
+                }
+            ], 
+            "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7", 
+            "stats": {
+                "listeners": "616972", 
+                "playcount": "7539789"
+            }, 
+            "name": "Stevie Nicks"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "4d4c3444-f06e-4591-9f3c-55a21fa7ebc2", 
+            "stats": {
+                "listeners": "12602", 
+                "playcount": "223600"
+            }, 
+            "name": "Larry Norman"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "89630b0c-6801-42f9-b013-3017722433c4", 
+            "stats": {
+                "listeners": "2788", 
+                "playcount": "44319"
+            }, 
+            "name": "Ninety Pound Wuss"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "glam metal"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 8, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "symphonic rock"
+                }
+            ], 
+            "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934", 
+            "stats": {
+                "listeners": "1824011", 
+                "playcount": "48495474"
+            }, 
+            "name": "Ozzy Osbourne"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "f88dd1a1-8e46-4b89-84af-edeaa479e55a", 
+            "stats": {
+                "listeners": "3712", 
+                "playcount": "42759"
+            }, 
+            "name": "One Bad Pig"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "acoustic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "americana"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc", 
+            "stats": {
+                "listeners": "557141", 
+                "playcount": "6831084"
+            }, 
+            "name": "Robert Plant"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "art rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "garage rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "new wave"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "post-punk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "punk"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "punk rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7", 
+            "stats": {
+                "listeners": "1557363", 
+                "playcount": "27301515"
+            }, 
+            "name": "Iggy Pop"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "6e40e121-6795-4e93-9979-d5c6b7a4f56c", 
+            "stats": {
+                "listeners": "355", 
+                "playcount": "3769"
+            }, 
+            "name": "P.I.D."
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "alternative metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "christian rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "nu metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rap rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "rapcore"
+                }
+            ], 
+            "mbid": "57e79d57-b795-475e-9fa2-5dd9d5513b8c", 
+            "stats": {
+                "listeners": "1385559", 
+                "playcount": "29478831"
+            }, 
+            "name": "P.O.D."
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 3, 
+                    "name": "art rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "disco"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 20, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3", 
+            "stats": {
+                "listeners": "4126986", 
+                "playcount": "202111207"
+            }, 
+            "name": "Queen"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "glam metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "5c6acb91-4b9b-4245-b92f-e817295c4ed0", 
+            "stats": {
+                "listeners": "534555", 
+                "playcount": "4463049"
+            }, 
+            "name": "Quiet Riot"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 14, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 9, 
+                    "name": "art rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "britpop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "chamber pop"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "electronic"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "experimental rock"
+                }, 
+                {
+                    "count": -1, 
+                    "name": "grunge"
+                }, 
+                {
+                    "count": 10, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711", 
+            "stats": {
+                "listeners": "4812709", 
+                "playcount": "514069062"
+            }, 
+            "name": "Radiohead"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "art rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "experimental rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "gothic rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "noise"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "9d1ebcfe-4c15-4d18-95d3-d919898638a1", 
+            "stats": {
+                "listeners": "1566824", 
+                "playcount": "29420054"
+            }, 
+            "name": "Lou Reed"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2", 
+            "stats": {
+                "listeners": "14902", 
+                "playcount": "91656"
+            }, 
+            "name": "Ronnie James Dio"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "aor"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "classic rock"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "e3cb4543-210f-499a-b0d1-3882c312dfb9", 
+            "stats": {
+                "listeners": "889180", 
+                "playcount": "18484413"
+            }, 
+            "name": "Rainbow"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "9f6c4063-ce0a-4b71-a7b7-a32c91997260", 
+            "stats": {
+                "listeners": "2927", 
+                "playcount": "44233"
+            }, 
+            "name": "Ronnie Dio and the Prophets"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "883871a1-f154-4df8-a7f7-558ea456dd0a", 
+            "stats": {
+                "listeners": "83", 
+                "playcount": "159"
+            }, 
+            "name": "Ronnie Dio and the Red Caps"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 3, 
+                    "name": "art rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "new romantic"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }
+            ], 
+            "mbid": "331ce348-1b08-40b9-8ed7-0763b92bd003", 
+            "stats": {
+                "listeners": "859451", 
+                "playcount": "14460875"
+            }, 
+            "name": "Roxy Music"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "cbf344ae-68f6-45c8-9b52-fcb25dce4646", 
+            "stats": {
+                "listeners": "7388", 
+                "playcount": "144137"
+            }, 
+            "name": "Resurrection Band"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "funk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "jazz"
+                }
+            ], 
+            "mbid": "ec6b11b5-d6a6-4c77-af55-8076a160cc94", 
+            "stats": {
+                "listeners": "338096", 
+                "playcount": "1954268"
+            }, 
+            "name": "Rufus"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "6fbc0a77-9930-4d7d-bfe0-d8094dddc92c", 
+            "stats": {
+                "listeners": "754", 
+                "playcount": "14424"
+            }, 
+            "name": "Sintax the Terrific"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "2cfdf494-bf0f-4140-8022-9a0ba36183ac", 
+            "stats": {
+                "listeners": "2048", 
+                "playcount": "22965"
+            }, 
+            "name": "Sackcloth Fashion"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "50809635-76df-4433-b324-b3c5258fb0a3", 
+            "stats": {
+                "listeners": "10583", 
+                "playcount": "156285"
+            }, 
+            "name": "Steve Taylor"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "391d85ad-2130-4732-8145-853908013354", 
+            "stats": {
+                "listeners": "21130", 
+                "playcount": "137526"
+            }, 
+            "name": "Saint"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "81a43a3c-d8a2-47b6-aa62-3140fa8e18c7", 
+            "stats": {
+                "listeners": "109", 
+                "playcount": "876"
+            }, 
+            "name": "Say What?"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "44e613bc-692f-4cb3-bcfd-a7d5c59cf1bd", 
+            "stats": {
+                "listeners": "697", 
+                "playcount": "19067"
+            }, 
+            "name": "Scaterd Few"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "1e06623c-eb85-458e-9154-37b98d2e364d", 
+            "stats": {
+                "listeners": "318", 
+                "playcount": "4953"
+            }, 
+            "name": "S.F.C."
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "b49efb71-3cb2-4770-a028-2422a69b3d2b", 
+            "stats": {
+                "listeners": "4284", 
+                "playcount": "62692"
+            }, 
+            "name": "Seventh Angel"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "bbd80354-597e-4d53-94e4-92b3a7cb8f2c", 
+            "stats": {
+                "listeners": "432758", 
+                "playcount": "10394186"
+            }, 
+            "name": "Saxon"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "2cb3b264-277f-4d8f-bc86-1923ff8abdc0", 
+            "stats": {
+                "listeners": "197", 
+                "playcount": "930"
+            }, 
+            "name": "Stoney & Meatloaf"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "arena rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "glam metal"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "e491fae8-3a5a-438e-8368-925753fb41a1", 
+            "stats": {
+                "listeners": "469685", 
+                "playcount": "3916174"
+            }, 
+            "name": "Ted Nugent"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "glam rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic folk"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "psychedelic pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "c842d29f-a297-48cd-bb71-4f77fd672b16", 
+            "stats": {
+                "listeners": "1072338", 
+                "playcount": "19272011"
+            }, 
+            "name": "T. Rex"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "garage rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "psychedelic rock"
+                }
+            ], 
+            "mbid": "1a03f20c-26dd-4c26-bbe8-426e05ea46d5", 
+            "stats": {
+                "listeners": "61324", 
+                "playcount": "357664"
+            }, 
+            "name": "The Amboy Dukes"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 9, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "gothic"
+                }, 
+                {
+                    "count": 10, 
+                    "name": "gothic rock"
+                }, 
+                {
+                    "count": 9, 
+                    "name": "new wave"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 10, 
+                    "name": "post-punk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "punk"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf", 
+            "stats": {
+                "listeners": "3004951", 
+                "playcount": "162820926"
+            }, 
+            "name": "The Cure"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "30f9591a-778b-40dd-be8f-105589f9c998", 
+            "stats": {
+                "listeners": "287", 
+                "playcount": "1729"
+            }, 
+            "name": "The Electric Elves"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "production music"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "c08ced1f-d248-4368-90e5-bf579b3bf5de", 
+            "stats": {
+                "listeners": "89112", 
+                "playcount": "594691"
+            }, 
+            "name": "The Firm"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e", 
+            "stats": {
+                "listeners": "393626", 
+                "playcount": "5011597"
+            }, 
+            "name": "The Runaways"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "garage punk"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "garage rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "punk rock"
+                }
+            ], 
+            "mbid": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b", 
+            "stats": {
+                "listeners": "1018374", 
+                "playcount": "16837748"
+            }, 
+            "name": "The Stooges"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 3, 
+                    "name": "blues rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "garage rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "rock and roll"
+                }
+            ], 
+            "mbid": "191de76f-a224-445d-b041-54df16d65bf7", 
+            "stats": {
+                "listeners": "1036509", 
+                "playcount": "9749058"
+            }, 
+            "name": "The Yardbirds"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "psychedelic pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "230ca093-1d00-4c57-9235-147942f66930", 
+            "stats": {
+                "listeners": "940667", 
+                "playcount": "14456415"
+            }, 
+            "name": "The Zombies"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "blue-eyed soul"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "experimental"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "experimental rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "power pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "progressive rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "singer-songwriter"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "soul"
+                }
+            ], 
+            "mbid": "1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d", 
+            "stats": {
+                "listeners": "387789", 
+                "playcount": "5376594"
+            }, 
+            "name": "Todd Rundgren"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "149cbb32-d8ac-43f3-81f4-e591910cd9de", 
+            "stats": {
+                "listeners": "3843", 
+                "playcount": "78870"
+            }, 
+            "name": "The Crucified"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "43065953-0174-46c4-bb93-828fb170b95b", 
+            "stats": {
+                "listeners": "358", 
+                "playcount": "4951"
+            }, 
+            "name": "Dynamic Twins"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "d410fb58-6422-4927-abf5-5288d5bbd239", 
+            "stats": {
+                "listeners": "650", 
+                "playcount": "11082"
+            }, 
+            "name": "The Lead"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "southern rock"
+                }
+            ], 
+            "mbid": "5ca3f318-d028-4151-ac73-78e2b2d6cdcc", 
+            "stats": {
+                "listeners": "1108542", 
+                "playcount": "14983975"
+            }, 
+            "name": "Tom Petty"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "power pop"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "southern rock"
+                }
+            ], 
+            "mbid": "f93dbc64-6f08-4033-bcc7-8a0bb4689849", 
+            "stats": {
+                "listeners": "1201216", 
+                "playcount": "22228914"
+            }, 
+            "name": "Tom Petty and the Heartbreakers"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "garage rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "08b736bb-1c82-40b4-8b0b-49e2182a067a", 
+            "stats": {
+                "listeners": "329582", 
+                "playcount": "3406577"
+            }, 
+            "name": "MC5"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "acoustic rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "07e748f1-075e-428d-85dc-ce3be434e906", 
+            "stats": {
+                "listeners": "1391822", 
+                "playcount": "46799658"
+            }, 
+            "name": "Dave Matthews Band"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 0, 
+                    "name": "aor"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 0, 
+                    "name": "new wave"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "6bc658ea-005f-486b-8f94-33a2e40f7a72", 
+            "stats": {
+                "listeners": "775697", 
+                "playcount": "7093589"
+            }, 
+            "name": "Pat Benatar"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "blue-eyed soul"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "folk rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "soft rock"
+                }
+            ], 
+            "mbid": "588dea29-eea3-456b-a815-3ee04f75c8e7", 
+            "stats": {
+                "listeners": "939948", 
+                "playcount": "9813272"
+            }, 
+            "name": "The Doobie Brothers"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 3, 
+                    "name": "alternative metal"
+                }, 
+                {
+                    "count": 6, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "grunge"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "153c9281-268f-4cf3-8938-f5a4593e5df4", 
+            "stats": {
+                "listeners": "1926070", 
+                "playcount": "47336694"
+            }, 
+            "name": "Soundgarden"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "contemporary r&b"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "dance-pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "new jack swing"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "pop"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop soul"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "r&b"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "soul"
+                }
+            ], 
+            "mbid": "0307edfc-437c-4b48-8700-80680e66a228", 
+            "stats": {
+                "listeners": "1668442", 
+                "playcount": "24314724"
+            }, 
+            "name": "Whitney Houston"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 3, 
+                    "name": "hard rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "heavy metal"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "pop rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "6a726ac6-019e-455c-8bbb-571a77bed52e", 
+            "stats": {
+                "listeners": "1002102", 
+                "playcount": "18351532"
+            }, 
+            "name": "Thin Lizzy"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 4, 
+                    "name": "alternative rock"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "electro-industrial"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "electronic"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "experimental rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "industrial"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "industrial metal"
+                }, 
+                {
+                    "count": 16, 
+                    "name": "industrial rock"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "rock"
+                }
+            ], 
+            "mbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da", 
+            "stats": {
+                "listeners": "2223263", 
+                "playcount": "184038620"
+            }, 
+            "name": "Nine Inch Nails"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "east coast hip hop"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "gangsta rap"
+                }, 
+                {
+                    "count": 5, 
+                    "name": "hip hop"
+                }
+            ], 
+            "mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3", 
+            "stats": {
+                "listeners": "2118990", 
+                "playcount": "42084335"
+            }, 
+            "name": "The Notorious B.I.G."
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "experimental"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "progressive rock"
+                }
+            ], 
+            "mbid": "37283116-f2cc-47cb-8806-facd063b564f", 
+            "stats": {
+                "listeners": "43696", 
+                "playcount": "574599"
+            }, 
+            "name": "Utopia"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "2c0ec007-5669-4816-8a90-3b0ccd8c6c54", 
+            "stats": {
+                "listeners": "17297", 
+                "playcount": "339545"
+            }, 
+            "name": "The Violet Burning"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "9ac299cb-e6f3-4d8a-a20c-73bef538d00c", 
+            "stats": {
+                "listeners": "217", 
+                "playcount": "3170"
+            }, 
+            "name": "Trytan"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "a4f375da-cc8b-4ac1-b988-c59905aba01d", 
+            "stats": {
+                "listeners": "100", 
+                "playcount": "2231"
+            }, 
+            "name": "XL and Death Before Dishonor"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "51f24fe4-6cb7-477a-a6ed-6be19abf99bb", 
+            "stats": {
+                "listeners": "16209", 
+                "playcount": "260442"
+            }, 
+            "name": "Whitecross"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "0b76f44c-3a37-49f1-a424-889fcaec72dc", 
+            "stats": {
+                "listeners": "2386", 
+                "playcount": "54819"
+            }, 
+            "name": "Veni Domine"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "thrash metal"
+                }
+            ], 
+            "mbid": "23ed6747-0e6a-4c1e-afd5-41d4e86c2bbd", 
+            "stats": {
+                "listeners": "3126", 
+                "playcount": "74398"
+            }, 
+            "name": "Vengeance Rising"
+        }, 
+        {
+            "MBgenres": [], 
+            "mbid": "d76e213b-e1f1-417b-9b84-d21055afc71f", 
+            "stats": {
+                "listeners": "90", 
+                "playcount": "1256"
+            }, 
+            "name": "Veil of Ashes"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 4, 
+                    "name": "funk"
+                }, 
+                {
+                    "count": 4, 
+                    "name": "p-funk"
+                }
+            ], 
+            "mbid": "d1947987-9614-49ae-bd36-8000e6b6f7d0", 
+            "stats": {
+                "listeners": "480114", 
+                "playcount": "5112768"
+            }, 
+            "name": "Parliament"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 2, 
+                    "name": "funk"
+                }, 
+                {
+                    "count": 2, 
+                    "name": "funk rock"
+                }, 
+                {
+                    "count": 3, 
+                    "name": "p-funk"
+                }, 
+                {
+                    "count": 1, 
+                    "name": "psychedelic rock"
+                }
+            ], 
+            "mbid": "cf042013-3edd-46c4-9b0e-a62faac98d0b", 
+            "stats": {
+                "listeners": "570459", 
+                "playcount": "8788943"
+            }, 
+            "name": "Funkadelic"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "p-funk"
+                }
+            ], 
+            "mbid": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d", 
+            "stats": {
+                "listeners": "1558", 
+                "playcount": "16509"
+            }, 
+            "name": "Parliament-Funkadelic"
+        }, 
+        {
+            "MBgenres": [
+                {
+                    "count": 1, 
+                    "name": "p-funk"
+                }
+            ], 
+            "mbid": "84683370-5eae-418b-acd8-883ac028a8a0", 
+            "stats": {
+                "listeners": "201633", 
+                "playcount": "1167296"
+            }, 
+            "name": "George Clinton"
+        }
+    ]
+}

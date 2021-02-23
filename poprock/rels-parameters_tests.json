@@ -1,0 +1,1851 @@
+[
+    {
+        "url-used": "https://www.musicbrainz.org/ws/2/artist/4d7928cd-7ed2-4282-8c29-c0c9f966f1bd?inc=artist-rels&fmt=json",
+        "question": "get me members of band?",
+        "answer": "yes",
+        "country": "US",
+        "sort-name": "Alice Cooper",
+        "ipis": [],
+        "id": "4d7928cd-7ed2-4282-8c29-c0c9f966f1bd",
+        "name": "Alice Cooper",
+        "isnis": ["0000000122592447"],
+        "end_area": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "iso-3166-1-codes": ["US"],
+            "sort-name": "United States",
+            "disambiguation": ""
+        },
+        "begin_area": {
+            "disambiguation": "",
+            "sort-name": "Phoenix",
+            "id": "7f1c8f3f-69a9-454a-8633-c3d3a628858b",
+            "name": "Phoenix"
+        },
+        "gender-id": null,
+        "relations": [{
+            "type": "member of band",
+            "ended": false,
+            "begin": null,
+            "direction": "backward",
+            "artist": {
+                "sort-name": "Bruce, Michael",
+                "id": "6e6d6e13-4514-4c86-916d-2c26f295ca9b",
+                "name": "Michael Bruce",
+                "disambiguation": "of Alice Cooper"
+            },
+            "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+            "attribute-ids": {
+                "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+                "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "artist",
+            "attribute-credits": {},
+            "attributes": ["guitar", "keyboard"]
+        }, {
+            "type": "member of band",
+            "begin": null,
+            "ended": false,
+            "attribute-ids": {
+                "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+            },
+            "artist": {
+                "sort-name": "Buxton, Glen",
+                "id": "830aa3af-51bb-4d7c-abda-f991df73b787",
+                "name": "Glen Buxton",
+                "disambiguation": "American guitarist"
+            },
+            "direction": "backward",
+            "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "target-type": "artist",
+            "attributes": ["guitar"],
+            "attribute-credits": {}
+        }, {
+            "attribute-credits": {},
+            "attributes": ["lead vocals"],
+            "target-type": "artist",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-credit": "",
+            "artist": {
+                "disambiguation": "the musician Vincent Damon Furnier",
+                "sort-name": "Cooper, Alice",
+                "id": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae",
+                "name": "Alice Cooper"
+            },
+            "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+            "direction": "backward",
+            "attribute-ids": {
+                "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+            },
+            "ended": false,
+            "begin": null,
+            "type": "member of band"
+        }, {
+            "type": "member of band",
+            "begin": null,
+            "ended": false,
+            "direction": "backward",
+            "artist": {
+                "id": "181f2652-ca5c-4981-a60c-c51c00bbd97a",
+                "name": "Dennis Dunaway",
+                "sort-name": "Dunaway, Dennis",
+                "disambiguation": ""
+            },
+            "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+            "attribute-ids": {
+                "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+            },
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "target-type": "artist",
+            "attribute-credits": {},
+            "attributes": ["bass guitar"]
+        }, {
+            "begin": null,
+            "ended": false,
+            "type": "member of band",
+            "target-credit": "",
+            "attribute-ids": {
+                "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+            },
+            "artist": {
+                "disambiguation": "former Alice Cooper drummer",
+                "sort-name": "Smith, Neal",
+                "id": "3912b016-666b-46f8-a5ec-86806227ba60",
+                "name": "Neal Smith"
+            },
+            "direction": "backward",
+            "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+            "target-type": "artist",
+            "source-credit": "",
+            "end": null,
+            "attribute-values": {},
+            "attributes": ["drums (drum set)"],
+            "attribute-credits": {}
+        }, {
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "attribute-values": {},
+            "target-type": "artist",
+            "direction": "backward",
+            "artist": {
+                "disambiguation": "Alice Cooper tribute band based in Arizona",
+                "id": "b3ea9204-f914-473b-867d-e2df858f420f",
+                "name": "Halo of Flies",
+                "sort-name": "Halo of Flies"
+            },
+            "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "tribute",
+            "ended": false,
+            "begin": null
+        }, {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "artist",
+            "attribute-ids": {},
+            "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+            "artist": {
+                "sort-name": "Lipstick Killers",
+                "name": "Lipstick Killers",
+                "id": "95e5ef81-d2a2-4178-9cf5-3d182cff3cbe",
+                "disambiguation": "US Alice Cooper tribute band"
+            },
+            "direction": "backward",
+            "target-credit": "",
+            "type": "tribute",
+            "ended": false,
+            "begin": null
+        }],
+        "type": "Group",
+        "gender": null,
+        "life-span": {
+            "ended": true,
+            "begin": "1964",
+            "end": "1975"
+        },
+        "disambiguation": "the group"
+    },
+
+    {
+        "url-used": "https://musicbrainz.org/ws/2/release/81686d96-d0f6-33b4-b0a7-f9ae2ffb65f1?inc=artist-rels&fmt=json",
+        "question": "artists on the album?",
+        "answer": "seems to",
+        "title": "Welcome to My Nightmare",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "cover-art-archive": {
+            "artwork": true,
+            "front": true,
+            "count": 1,
+            "back": false,
+            "darkened": false
+        },
+        "status": "Official",
+        "country": "US",
+        "quality": "normal",
+        "text-representation": {
+            "script": "Latn",
+            "language": "eng"
+        },
+        "asin": null,
+        "barcode": "",
+        "id": "81686d96-d0f6-33b4-b0a7-f9ae2ffb65f1",
+        "packaging": "Cardboard/Paper Sleeve",
+        "date": "1975-03-11",
+        "relations": [{
+            "ended": false,
+            "target-credit": "",
+            "type-id": "34d5334e-a4c8-4b65-a5f8-bbcc9c81d13d",
+            "type": "arranger",
+            "attribute-ids": {},
+            "artist": {
+                "sort-name": "Ezrin, Bob",
+                "disambiguation": "",
+                "name": "Bob Ezrin",
+                "id": "d0135fd6-a79a-4ec2-a379-52b2e4a628f1"
+            },
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": []
+        }, {
+            "type": "arranger",
+            "attribute-ids": {},
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "MacMillan, Allan",
+                "id": "3f71b822-1cde-4dbf-9667-9c839e6de7f1",
+                "name": "Allan MacMillan"
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "type-id": "34d5334e-a4c8-4b65-a5f8-bbcc9c81d13d",
+            "direction": "backward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {}
+        }, {
+            "type-id": "307e95dd-88b5-419b-8223-b146d4a0d439",
+            "ended": false,
+            "target-credit": "",
+            "artist": {
+                "sort-name": "Struzan, Drew",
+                "disambiguation": "",
+                "name": "Drew Struzan",
+                "id": "c620ac72-c289-4e0a-b01d-49b386f5b007"
+            },
+            "attribute-ids": {},
+            "begin": null,
+            "source-credit": "",
+            "target-type": "artist",
+            "type": "design/illustration",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "backward"
+        }, {
+            "type": "instrument",
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "attribute-ids": {
+                "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+            },
+            "artist": {
+                "name": "Johnny Badanjek",
+                "id": "1e8e1570-0c60-43b3-a7e7-1e77c1d5658a",
+                "sort-name": "Badanjek, Johnny",
+                "disambiguation": ""
+            },
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false,
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "direction": "backward",
+            "attributes": ["membranophone"],
+            "end": null,
+            "attribute-values": {}
+        }, {
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {
+                "Rhodes piano": "aa3b54ec-9cc8-409c-a2d9-f960e65bf5f5",
+                "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+                "Clavinet": "563a9f16-e84b-409a-bda5-2e4ce09d5573"
+            },
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Chirowski, Jozef",
+                "id": "e75254ec-0002-4c55-871e-b5d762fde220",
+                "name": "Jozef Chirowski"
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "type": "instrument",
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["Clavinet", "keyboard", "Rhodes piano"],
+            "direction": "backward"
+        }, {
+            "attributes": ["keyboard", "Rhodes piano"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "attribute-ids": {
+                "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+                "Rhodes piano": "aa3b54ec-9cc8-409c-a2d9-f960e65bf5f5"
+            },
+            "artist": {
+                "id": "d0135fd6-a79a-4ec2-a379-52b2e4a628f1",
+                "name": "Bob Ezrin",
+                "disambiguation": "",
+                "sort-name": "Ezrin, Bob"
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "type": "instrument",
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": ""
+        }, {
+            "type": "instrument",
+            "artist": {
+                "sort-name": "Glan, Pentti",
+                "disambiguation": "",
+                "name": "Pentti Glan",
+                "id": "cc2fdbdd-e9c8-4f06-aae9-84a05a3ec3da"
+            },
+            "attribute-ids": {
+                "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "attribute-credits": {},
+            "target-credit": "Whitey Glan",
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "direction": "backward",
+            "attributes": ["membranophone"],
+            "end": null,
+            "attribute-values": {}
+        }, {
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {
+                "guitar family": "f68936f2-194c-4bcd-94a9-81e1dd947b8d"
+            },
+            "artist": {
+                "sort-name": "Hunter, Steve",
+                "disambiguation": "rock guitarist",
+                "name": "Steve Hunter",
+                "id": "3d1aee55-e0c2-4f5e-b339-8252991fe9da"
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "type": "instrument",
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["guitar family"],
+            "direction": "backward"
+        }, {
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": ["bass"],
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false,
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "type": "instrument",
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "artist": {
+                "id": "42f53c2e-7de9-4116-b005-3be8225b4c12",
+                "name": "Prakash John",
+                "disambiguation": "",
+                "sort-name": "John, Prakash"
+            },
+            "attribute-ids": {
+                "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+            }
+        }, {
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["bass"],
+            "direction": "backward",
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false,
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "attribute-ids": {
+                "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+            },
+            "artist": {
+                "sort-name": "Levin, Tony",
+                "disambiguation": "US rock bassist/chapman stick",
+                "name": "Tony Levin",
+                "id": "1fd8a385-ab08-418e-afc1-cb85f8e96b3f"
+            },
+            "type": "instrument"
+        }, {
+            "type": "instrument",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "artist": {
+                "sort-name": "Wagner, Dick",
+                "disambiguation": "",
+                "name": "Dick Wagner",
+                "id": "f92d6bfd-76e7-4394-aaec-9490756eb50c"
+            },
+            "attribute-ids": {
+                "guitar family": "f68936f2-194c-4bcd-94a9-81e1dd947b8d"
+            },
+            "target-credit": "",
+            "ended": false,
+            "attribute-credits": {},
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "direction": "backward",
+            "attributes": ["guitar family"],
+            "end": null,
+            "attribute-values": {}
+        }, {
+            "ended": false,
+            "target-credit": "",
+            "type-id": "8bf377ba-8d71-4ecc-97f2-7bb2d8a2a75f",
+            "type": "producer",
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Ezrin, Bob",
+                "id": "d0135fd6-a79a-4ec2-a379-52b2e4a628f1",
+                "name": "Bob Ezrin"
+            },
+            "attribute-ids": {},
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": []
+        }, {
+            "target-credit": "",
+            "ended": false,
+            "attribute-credits": {},
+            "type-id": "eb10f8a0-0f4c-4dce-aa47-87bcb2bc42f3",
+            "type": "vocal",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "artist": {
+                "id": "e75254ec-0002-4c55-871e-b5d762fde220",
+                "name": "Jozef Chirowski",
+                "disambiguation": "",
+                "sort-name": "Chirowski, Jozef"
+            },
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": ["background vocals"]
+        }, {
+            "type-id": "eb10f8a0-0f4c-4dce-aa47-87bcb2bc42f3",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Lyons, Gerry",
+                "id": "1289a441-b1ae-4b5b-bceb-1f257caa9c32",
+                "name": "Gerry Lyons"
+            },
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "type": "vocal",
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["background vocals"],
+            "direction": "backward"
+        }, {
+            "type-id": "eb10f8a0-0f4c-4dce-aa47-87bcb2bc42f3",
+            "ended": false,
+            "attribute-credits": {},
+            "target-credit": "",
+            "artist": {
+                "sort-name": "Wagner, Dick",
+                "disambiguation": "",
+                "name": "Dick Wagner",
+                "id": "f92d6bfd-76e7-4394-aaec-9490756eb50c"
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "type": "vocal",
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["background vocals"],
+            "direction": "backward"
+        }],
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "disambiguation": "",
+        "release-events": [{
+            "date": "1975-03-11",
+            "area": {
+                "name": "United States",
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "iso-3166-1-codes": ["US"],
+                "sort-name": "United States",
+                "disambiguation": ""
+            }
+        }]
+    },
+
+    {
+        "url-used": "https://musicbrainz.org/ws/2/release/81686d96-d0f6-33b4-b0a7-f9ae2ffb65f1?inc=recordings+artist-rels&fmt=json",
+        "question": "artists by track?",
+        "answer": "nope. tracks and artists for album.",
+        "status": "Official",
+        "title": "Welcome to My Nightmare",
+        "disambiguation": "",
+        "date": "1975-03-11",
+        "quality": "normal",
+        "packaging": "Cardboard/Paper Sleeve",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "release-events": [{
+            "date": "1975-03-11",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": ["US"],
+                "disambiguation": ""
+            }
+        }],
+        "barcode": "",
+        "asin": null,
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+        },
+        "relations": [{
+            "attribute-values": {},
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "begin": null,
+            "direction": "backward",
+            "source-credit": "",
+            "artist": {
+                "id": "d0135fd6-a79a-4ec2-a379-52b2e4a628f1",
+                "name": "Bob Ezrin",
+                "sort-name": "Ezrin, Bob",
+                "disambiguation": ""
+            },
+            "target-credit": "",
+            "type": "arranger",
+            "attributes": [],
+            "type-id": "34d5334e-a4c8-4b65-a5f8-bbcc9c81d13d",
+            "target-type": "artist"
+        }, {
+            "attribute-values": {},
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "begin": null,
+            "direction": "backward",
+            "source-credit": "",
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "MacMillan, Allan",
+                "name": "Allan MacMillan",
+                "id": "3f71b822-1cde-4dbf-9667-9c839e6de7f1"
+            },
+            "target-credit": "",
+            "type": "arranger",
+            "attributes": [],
+            "type-id": "34d5334e-a4c8-4b65-a5f8-bbcc9c81d13d",
+            "target-type": "artist"
+        }, {
+            "direction": "backward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "attribute-ids": {},
+            "end": null,
+            "attribute-values": {},
+            "target-type": "artist",
+            "type-id": "307e95dd-88b5-419b-8223-b146d4a0d439",
+            "attributes": [],
+            "artist": {
+                "id": "c620ac72-c289-4e0a-b01d-49b386f5b007",
+                "disambiguation": "",
+                "sort-name": "Struzan, Drew",
+                "name": "Drew Struzan"
+            },
+            "target-credit": "",
+            "type": "design/illustration"
+        }, {
+            "attributes": ["membranophone"],
+            "type": "instrument",
+            "target-credit": "",
+            "artist": {
+                "id": "1e8e1570-0c60-43b3-a7e7-1e77c1d5658a",
+                "disambiguation": "",
+                "name": "Johnny Badanjek",
+                "sort-name": "Badanjek, Johnny"
+            },
+            "target-type": "artist",
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "attribute-ids": {
+                "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+            },
+            "end": null,
+            "attribute-credits": {},
+            "attribute-values": {},
+            "source-credit": "",
+            "direction": "backward",
+            "ended": false,
+            "begin": null
+        }, {
+            "artist": {
+                "id": "e75254ec-0002-4c55-871e-b5d762fde220",
+                "sort-name": "Chirowski, Jozef",
+                "name": "Jozef Chirowski",
+                "disambiguation": ""
+            },
+            "target-credit": "",
+            "type": "instrument",
+            "attributes": ["Clavinet", "keyboard", "Rhodes piano"],
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "target-type": "artist",
+            "attribute-credits": {},
+            "attribute-values": {},
+            "end": null,
+            "attribute-ids": {
+                "Rhodes piano": "aa3b54ec-9cc8-409c-a2d9-f960e65bf5f5",
+                "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+                "Clavinet": "563a9f16-e84b-409a-bda5-2e4ce09d5573"
+            },
+            "ended": false,
+            "begin": null,
+            "direction": "backward",
+            "source-credit": ""
+        }, {
+            "attribute-ids": {
+                "Rhodes piano": "aa3b54ec-9cc8-409c-a2d9-f960e65bf5f5",
+                "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+            },
+            "end": null,
+            "attribute-credits": {},
+            "attribute-values": {},
+            "direction": "backward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "attributes": ["keyboard", "Rhodes piano"],
+            "target-credit": "",
+            "artist": {
+                "name": "Bob Ezrin",
+                "sort-name": "Ezrin, Bob",
+                "disambiguation": "",
+                "id": "d0135fd6-a79a-4ec2-a379-52b2e4a628f1"
+            },
+            "type": "instrument",
+            "target-type": "artist",
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5"
+        }, {
+            "attribute-ids": {
+                "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+            },
+            "end": null,
+            "attribute-values": {},
+            "attribute-credits": {},
+            "source-credit": "",
+            "direction": "backward",
+            "ended": false,
+            "begin": null,
+            "attributes": ["membranophone"],
+            "type": "instrument",
+            "target-credit": "Whitey Glan",
+            "artist": {
+                "sort-name": "Glan, Pentti",
+                "name": "Pentti Glan",
+                "disambiguation": "",
+                "id": "cc2fdbdd-e9c8-4f06-aae9-84a05a3ec3da"
+            },
+            "target-type": "artist",
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5"
+        }, {
+            "direction": "backward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "end": null,
+            "attribute-ids": {
+                "guitar family": "f68936f2-194c-4bcd-94a9-81e1dd947b8d"
+            },
+            "attribute-credits": {},
+            "attribute-values": {},
+            "target-type": "artist",
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "attributes": ["guitar family"],
+            "artist": {
+                "name": "Steve Hunter",
+                "sort-name": "Hunter, Steve",
+                "disambiguation": "rock guitarist",
+                "id": "3d1aee55-e0c2-4f5e-b339-8252991fe9da"
+            },
+            "target-credit": "",
+            "type": "instrument"
+        }, {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "direction": "backward",
+            "attribute-values": {},
+            "attribute-credits": {},
+            "end": null,
+            "attribute-ids": {
+                "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+            },
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "target-type": "artist",
+            "type": "instrument",
+            "target-credit": "",
+            "artist": {
+                "name": "Prakash John",
+                "sort-name": "John, Prakash",
+                "disambiguation": "",
+                "id": "42f53c2e-7de9-4116-b005-3be8225b4c12"
+            },
+            "attributes": ["bass"]
+        }, {
+            "type": "instrument",
+            "target-credit": "",
+            "artist": {
+                "id": "1fd8a385-ab08-418e-afc1-cb85f8e96b3f",
+                "disambiguation": "US rock bassist/chapman stick",
+                "sort-name": "Levin, Tony",
+                "name": "Tony Levin"
+            },
+            "attributes": ["bass"],
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "target-type": "artist",
+            "attribute-credits": {},
+            "attribute-values": {},
+            "attribute-ids": {
+                "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+            },
+            "end": null,
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "direction": "backward"
+        }, {
+            "attributes": ["guitar family"],
+            "type": "instrument",
+            "artist": {
+                "id": "f92d6bfd-76e7-4394-aaec-9490756eb50c",
+                "sort-name": "Wagner, Dick",
+                "name": "Dick Wagner",
+                "disambiguation": ""
+            },
+            "target-credit": "",
+            "target-type": "artist",
+            "type-id": "67555849-61e5-455b-96e3-29733f0115f5",
+            "attribute-ids": {
+                "guitar family": "f68936f2-194c-4bcd-94a9-81e1dd947b8d"
+            },
+            "end": null,
+            "attribute-values": {},
+            "attribute-credits": {},
+            "source-credit": "",
+            "direction": "backward",
+            "ended": false,
+            "begin": null
+        }, {
+            "type-id": "8bf377ba-8d71-4ecc-97f2-7bb2d8a2a75f",
+            "target-type": "artist",
+            "artist": {
+                "id": "d0135fd6-a79a-4ec2-a379-52b2e4a628f1",
+                "disambiguation": "",
+                "sort-name": "Ezrin, Bob",
+                "name": "Bob Ezrin"
+            },
+            "target-credit": "",
+            "type": "producer",
+            "attributes": [],
+            "ended": false,
+            "begin": null,
+            "direction": "backward",
+            "source-credit": "",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "end": null
+        }, {
+            "target-type": "artist",
+            "type-id": "eb10f8a0-0f4c-4dce-aa47-87bcb2bc42f3",
+            "attributes": ["background vocals"],
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Chirowski, Jozef",
+                "name": "Jozef Chirowski",
+                "id": "e75254ec-0002-4c55-871e-b5d762fde220"
+            },
+            "target-credit": "",
+            "type": "vocal",
+            "direction": "backward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "end": null,
+            "attribute-credits": {},
+            "attribute-values": {}
+        }, {
+            "end": null,
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "attribute-values": {},
+            "attribute-credits": {},
+            "source-credit": "",
+            "direction": "backward",
+            "ended": false,
+            "begin": null,
+            "attributes": ["background vocals"],
+            "type": "vocal",
+            "target-credit": "",
+            "artist": {
+                "id": "1289a441-b1ae-4b5b-bceb-1f257caa9c32",
+                "disambiguation": "",
+                "sort-name": "Lyons, Gerry",
+                "name": "Gerry Lyons"
+            },
+            "target-type": "artist",
+            "type-id": "eb10f8a0-0f4c-4dce-aa47-87bcb2bc42f3"
+        }, {
+            "begin": null,
+            "ended": false,
+            "direction": "backward",
+            "source-credit": "",
+            "attribute-values": {},
+            "attribute-credits": {},
+            "end": null,
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "type-id": "eb10f8a0-0f4c-4dce-aa47-87bcb2bc42f3",
+            "target-type": "artist",
+            "artist": {
+                "sort-name": "Wagner, Dick",
+                "name": "Dick Wagner",
+                "disambiguation": "",
+                "id": "f92d6bfd-76e7-4394-aaec-9490756eb50c"
+            },
+            "target-credit": "",
+            "type": "vocal",
+            "attributes": ["background vocals"]
+        }],
+        "id": "81686d96-d0f6-33b4-b0a7-f9ae2ffb65f1",
+        "cover-art-archive": {
+            "darkened": false,
+            "front": true,
+            "count": 1,
+            "artwork": true,
+            "back": false
+        },
+        "country": "US",
+        "media": [{
+            "title": "",
+            "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+            "tracks": [{
+                "length": 319000,
+                "id": "90fc5c86-9820-3b07-8b3e-2acd6a320e8e",
+                "title": "Welcome to My Nightmare",
+                "recording": {
+                    "disambiguation": "",
+                    "id": "9c630a78-00e0-4c07-998c-cdd3d4d5ce06",
+                    "title": "Welcome to My Nightmare",
+                    "video": false,
+                    "length": 319133
+                },
+                "position": 1,
+                "number": "1-1"
+            }, {
+                "recording": {
+                    "disambiguation": "",
+                    "title": "Devil’s Food",
+                    "video": false,
+                    "id": "8a3c0a4c-258f-41b9-bcad-fee69e4c5c64",
+                    "length": 215400
+                },
+                "position": 2,
+                "number": "1-2",
+                "length": 218000,
+                "id": "d25738f9-d059-3b43-8e81-8efdca11ae3f",
+                "title": "Devil’s Food"
+            }, {
+                "number": "1-3",
+                "position": 3,
+                "recording": {
+                    "disambiguation": "",
+                    "id": "b93d4cd7-c02a-4d9a-9e4b-d08c9df70e10",
+                    "video": false,
+                    "title": "The Black Widow",
+                    "length": 217626
+                },
+                "id": "228889bf-2160-3b8f-adb9-8acfaffe6036",
+                "title": "The Black Widow",
+                "length": 217000
+            }, {
+                "id": "17209ac1-2d52-3155-8bff-3df18e266118",
+                "title": "Some Folks",
+                "length": 259000,
+                "position": 4,
+                "number": "1-4",
+                "recording": {
+                    "disambiguation": "",
+                    "length": 258093,
+                    "title": "Some Folks",
+                    "video": false,
+                    "id": "210e4658-9489-4337-b98a-2e60f094918a"
+                }
+            }, {
+                "recording": {
+                    "video": false,
+                    "title": "Only Women Bleed",
+                    "id": "64c0769a-3855-4745-815e-dc73d3f05e68",
+                    "length": 349106,
+                    "disambiguation": ""
+                },
+                "number": "1-5",
+                "position": 5,
+                "length": 359000,
+                "id": "00020f76-0f15-393c-84bb-ab963c944544",
+                "title": "Only Women Bleed"
+            }, {
+                "length": 198000,
+                "title": "Department of Youth",
+                "id": "7ae49700-196f-3e91-a948-b79914b0f6b3",
+                "recording": {
+                    "disambiguation": "",
+                    "id": "183fa269-ca2f-4ba3-b8ac-7dcf6941c2cc",
+                    "title": "Department of Youth",
+                    "video": false,
+                    "length": 199533
+                },
+                "number": "2-1",
+                "position": 6
+            }, {
+                "title": "Cold Ethyl",
+                "id": "65283a08-dc32-38fd-8793-0ec258ae5687",
+                "length": 231000,
+                "position": 7,
+                "number": "2-2",
+                "recording": {
+                    "length": 177000,
+                    "title": "Cold Ethyl",
+                    "video": false,
+                    "id": "bba08e32-77c6-46b0-b586-efd3a1dd2dd1",
+                    "disambiguation": ""
+                }
+            }, {
+                "recording": {
+                    "disambiguation": "",
+                    "length": 171306,
+                    "title": "Years Ago",
+                    "video": false,
+                    "id": "72a7bad9-40a5-4197-8b8f-503414ce8343"
+                },
+                "position": 8,
+                "number": "2-3",
+                "length": 171306,
+                "title": "Years Ago",
+                "id": "2cadbe54-1a9a-38a4-9ea3-2adbd13679e9"
+            }, {
+                "number": "2-4",
+                "position": 9,
+                "recording": {
+                    "length": 346533,
+                    "id": "c00452d6-90d7-40ab-9854-34eb8c8695a0",
+                    "video": false,
+                    "title": "Steven",
+                    "disambiguation": ""
+                },
+                "id": "28f53112-1851-3eb7-ae95-b7eb0b33f7ae",
+                "title": "Steven",
+                "length": 352000
+            }, {
+                "position": 10,
+                "number": "2-5",
+                "recording": {
+                    "video": false,
+                    "title": "The Awakening",
+                    "id": "a9d5527f-d4de-4c63-b216-70c2b9b94735",
+                    "length": 150760,
+                    "disambiguation": ""
+                },
+                "id": "5297d21a-3f05-320c-85d3-510d6479ba8d",
+                "title": "The Awakening",
+                "length": 145000
+            }, {
+                "position": 11,
+                "number": "2-6",
+                "recording": {
+                    "length": 196000,
+                    "video": false,
+                    "title": "Escape",
+                    "id": "c6a98e94-d23c-4534-8827-f2e05ccae092",
+                    "disambiguation": ""
+                },
+                "title": "Escape",
+                "id": "3b0a9faf-7758-35e2-acc0-f8642986849d",
+                "length": 200000
+            }],
+            "format": "12\" Vinyl",
+            "position": 1,
+            "track-count": 11,
+            "track-offset": 0
+        }]
+    },
+
+
+    {
+        "url-used": "https://musicbrainz.org/ws/2/recording/f78f87ed-e2a8-4e5c-a89d-3b0da8676cc2?inc=artist-rels&fmt=json",
+        "question": "artist rels for this track?",
+        "answer": "yep",
+        "title": "Poison",
+        "disambiguation": "",
+        "id": "f78f87ed-e2a8-4e5c-a89d-3b0da8676cc2",
+        "relations": [{
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["assistant"],
+            "direction": "backward",
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Cowan, George",
+                "id": "03254af4-18be-4889-8847-a5d5f6058995",
+                "name": "George Cowan"
+            },
+            "begin": null,
+            "source-credit": "",
+            "target-type": "artist",
+            "type": "engineer"
+        }, {
+            "type": "engineer",
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "artist": {
+                "name": "Ben Fowler",
+                "id": "bc45a35b-2984-4b85-807f-2b7149da5656",
+                "sort-name": "Fowler, Ben",
+                "disambiguation": ""
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "direction": "backward",
+            "attributes": ["assistant"],
+            "end": null,
+            "attribute-values": {}
+        }, {
+            "type": "engineer",
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "artist": {
+                "sort-name": "Grodner, Lolly",
+                "disambiguation": "",
+                "name": "Lolly Grodner",
+                "id": "d81572cf-7e8d-4b47-b13a-2b0f8c8aa98b"
+            },
+            "target-credit": "",
+            "ended": false,
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "direction": "backward",
+            "attributes": ["assistant"],
+            "end": null,
+            "attribute-values": {}
+        }, {
+            "attributes": ["assistant"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "artist": {
+                "id": "19354848-bcad-45bf-9090-572bd1d3cb9a",
+                "name": "Robert Hart",
+                "disambiguation": "engineer",
+                "sort-name": "Hart, Robert"
+            },
+            "type": "engineer",
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "target-credit": "",
+            "ended": false
+        }, {
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["assistant"],
+            "direction": "backward",
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "target-credit": "",
+            "ended": false,
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "artist": {
+                "sort-name": "Herman, John",
+                "disambiguation": "engineer",
+                "name": "John Herman",
+                "id": "d887f950-0de0-45d5-b6da-5d377c568fd6"
+            },
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "type": "engineer"
+        }, {
+            "attributes": ["assistant"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "artist",
+            "artist": {
+                "name": "Don Peterkofsky",
+                "id": "f9c7cf0a-d646-4c6b-8f0a-b21a46f480bf",
+                "sort-name": "Peterkofsky, Don",
+                "disambiguation": ""
+            },
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "type": "engineer",
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "target-credit": "",
+            "ended": false
+        }, {
+            "target-credit": "",
+            "ended": false,
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "type": "engineer",
+            "begin": null,
+            "source-credit": "",
+            "target-type": "artist",
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "artist": {
+                "sort-name": "Seykora, Duane",
+                "disambiguation": "",
+                "name": "Duane Seykora",
+                "id": "9f0da4cb-82bf-439e-8988-18104635bf58"
+            },
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": ["assistant"]
+        }, {
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "target-credit": "",
+            "ended": false,
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "artist": {
+                "sort-name": "Sterber, Brian",
+                "disambiguation": "",
+                "name": "Brian Sterber",
+                "id": "6eef9dd2-fdfb-40ce-a9a4-a8ee9d6cdbfc"
+            },
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "type": "engineer",
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["assistant"],
+            "direction": "backward"
+        }, {
+            "attribute-ids": {
+                "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+            },
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Tanzer, Mark",
+                "id": "9ad75d3a-6f5f-4020-b636-0943b92d8b51",
+                "name": "Mark Tanzer"
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "type": "engineer",
+            "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+            "ended": false,
+            "target-credit": "",
+            "attributes": ["assistant"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null
+        }, {
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": ["additional", "keyboard"],
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false,
+            "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+            "type": "instrument",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "artist": {
+                "sort-name": "Chiten, Paul",
+                "disambiguation": "",
+                "name": "Paul Chiten",
+                "id": "3ab1b1b2-fb76-4e63-ac50-e5756ae5682e"
+            },
+            "attribute-ids": {
+                "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+                "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+            }
+        }, {
+            "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+            "ended": false,
+            "attribute-credits": {},
+            "target-credit": "",
+            "artist": {
+                "sort-name": "Chouinard, Bobby",
+                "disambiguation": "",
+                "name": "Bobby Chouinard",
+                "id": "d4df3f23-72df-4541-bd20-02fc8cc76867"
+            },
+            "attribute-ids": {
+                "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+            },
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "type": "instrument",
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["drums (drum set)"],
+            "direction": "backward"
+        }, {
+            "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+            "ended": false,
+            "attribute-credits": {
+                "other instruments": "special effects"
+            },
+            "target-credit": "",
+            "attribute-ids": {
+                "other instruments": "0a06dd9a-92d6-4891-a699-2b116a3d3f37",
+                "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+            },
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Mangiafico, Gregg",
+                "id": "5f2672c1-7247-40b4-905d-6f7c5759920a",
+                "name": "Gregg Mangiafico"
+            },
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "type": "instrument",
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["additional", "other instruments"],
+            "direction": "backward"
+        }, {
+            "attributes": ["additional", "keyboard"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "artist",
+            "attribute-ids": {
+                "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+                "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+            },
+            "artist": {
+                "sort-name": "Mangiafico, Gregg",
+                "disambiguation": "",
+                "name": "Gregg Mangiafico",
+                "id": "5f2672c1-7247-40b4-905d-6f7c5759920a"
+            },
+            "type": "instrument",
+            "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+            "target-credit": "",
+            "ended": false,
+            "attribute-credits": {}
+        }, {
+            "direction": "backward",
+            "attributes": ["guitar"],
+            "end": null,
+            "attribute-values": {},
+            "type": "instrument",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "attribute-ids": {
+                "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+            },
+            "artist": {
+                "name": "John McCurry",
+                "id": "da41862c-b747-457a-bcc1-9a30e11d2323",
+                "sort-name": "McCurry, John",
+                "disambiguation": ""
+            },
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false,
+            "type-id": "59054b12-01ac-43ee-a618-285fd397e461"
+        }, {
+            "attributes": ["bass guitar"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "attribute-ids": {
+                "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+            },
+            "artist": {
+                "sort-name": "McDonald, Hugh",
+                "disambiguation": "bassist",
+                "name": "Hugh McDonald",
+                "id": "5285ae34-3461-4911-a1ce-108cba753260"
+            },
+            "type": "instrument",
+            "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false
+        }, {
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["keyboard"],
+            "direction": "backward",
+            "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "Alan St. John",
+            "artist": {
+                "name": "Alan St. Jon",
+                "id": "3e6d0292-e01c-4377-ae18-850158540977",
+                "sort-name": "St. Jon, Alan",
+                "disambiguation": ""
+            },
+            "attribute-ids": {
+                "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "type": "instrument"
+        }, {
+            "attributes": [],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "artist": {
+                "id": "f13951f1-5675-404e-b707-c31915ddc2d8",
+                "name": "Michael Barbiero",
+                "disambiguation": "",
+                "sort-name": "Barbiero, Michael"
+            },
+            "attribute-ids": {},
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "type": "mix",
+            "type-id": "3e3102e1-1896-4f50-b5b2-dd9824e46efe",
+            "ended": false,
+            "target-credit": ""
+        }, {
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "backward",
+            "type-id": "3e3102e1-1896-4f50-b5b2-dd9824e46efe",
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "artist",
+            "artist": {
+                "sort-name": "Thompson, Steve",
+                "disambiguation": "producer",
+                "name": "Steve Thompson",
+                "id": "589d55ec-8b64-49db-bd1a-a368a2e70eb4"
+            },
+            "attribute-ids": {},
+            "type": "mix"
+        }, {
+            "attributes": [],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "artist": {
+                "id": "c981b771-e3d8-4709-bf00-3b3ce479b675",
+                "name": "Desmond Child",
+                "disambiguation": "",
+                "sort-name": "Child, Desmond"
+            },
+            "attribute-ids": {},
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist",
+            "type": "producer",
+            "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+            "ended": false,
+            "target-credit": ""
+        }, {
+            "direction": "backward",
+            "attributes": ["synthesizer"],
+            "end": null,
+            "attribute-values": {},
+            "type": "programming",
+            "artist": {
+                "id": "e78948f3-7128-496a-bf69-3655c484474f",
+                "name": "Steve Deutsch",
+                "disambiguation": "",
+                "sort-name": "Deutsch, Steve"
+            },
+            "attribute-ids": {
+                "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "",
+            "type-id": "36c50022-44e0-488d-994b-33f11d20301e"
+        }, {
+            "direction": "backward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type": "recording",
+            "attribute-ids": {},
+            "artist": {
+                "name": "Arthur Payson",
+                "id": "37778f19-5f09-4bd8-84f1-71892fb4d471",
+                "sort-name": "Payson, Arthur",
+                "disambiguation": ""
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "ended": false,
+            "target-credit": "Sir Arthur Payson",
+            "type-id": "a01ee869-80a8-45ef-9447-c59e91aa7926"
+        }, {
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": ["background vocals"],
+            "target-credit": "",
+            "ended": false,
+            "attribute-credits": {},
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "type": "vocal",
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "artist": {
+                "id": "41fb02fd-b737-4616-8e84-0dc5636f46e3",
+                "name": "Michael Anthony",
+                "disambiguation": "US bassist, formerly of Van Halen",
+                "sort-name": "Anthony, Michael"
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            }
+        }, {
+            "direction": "backward",
+            "attributes": ["background vocals"],
+            "end": null,
+            "attribute-values": {},
+            "type": "vocal",
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Bators, Stiv",
+                "id": "7eb08313-010f-4f63-a2e1-09fe65eb966c",
+                "name": "Stiv Bators"
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "Stiv Bator",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa"
+        }, {
+            "type": "vocal",
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "artist": {
+                "name": "Desmond Child",
+                "id": "c981b771-e3d8-4709-bf00-3b3ce479b675",
+                "sort-name": "Child, Desmond",
+                "disambiguation": ""
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "direction": "backward",
+            "attributes": ["background vocals"],
+            "end": null,
+            "attribute-values": {}
+        }, {
+            "type": "vocal",
+            "artist": {
+                "sort-name": "Cooper, Alice",
+                "disambiguation": "the musician Vincent Damon Furnier",
+                "name": "Alice Cooper",
+                "id": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae"
+            },
+            "attribute-ids": {
+                "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "attribute-credits": {},
+            "target-credit": "",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "direction": "backward",
+            "attributes": ["lead vocals"],
+            "end": null,
+            "attribute-values": {}
+        }, {
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "artist": {
+                "sort-name": "Grasselli, Diana",
+                "disambiguation": "",
+                "name": "Diana Grasselli",
+                "id": "779d627f-74ca-4ac9-bf66-a864548ae29b"
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "type": "vocal",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "",
+            "attributes": ["background vocals"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null
+        }, {
+            "attributes": ["background vocals"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "artist": {
+                "name": "Jango",
+                "id": "361598fa-31a9-41b5-963a-992e387faa4f",
+                "sort-name": "Jango",
+                "disambiguation": "backing vocalist on “Trash” by Alice Cooper"
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "type": "vocal",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": ""
+        }, {
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["background vocals"],
+            "direction": "backward",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "artist": {
+                "name": "Hugh McDonald",
+                "id": "5285ae34-3461-4911-a1ce-108cba753260",
+                "sort-name": "McDonald, Hugh",
+                "disambiguation": "bassist"
+            },
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "type": "vocal"
+        }, {
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": ["background vocals"],
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "Louie Merlino",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "type": "vocal",
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "artist": {
+                "name": "Louis Merlino",
+                "id": "ed9baf78-bba6-4263-aaff-a2185eac3a46",
+                "sort-name": "Merlino, Louis",
+                "disambiguation": ""
+            },
+            "source-credit": "",
+            "begin": null,
+            "target-type": "artist"
+        }, {
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "artist": {
+                "name": "Jamie Sever",
+                "id": "8d5dd2ba-7f1a-4171-89e6-ef7d1d922c8b",
+                "sort-name": "Sever, Jamie",
+                "disambiguation": ""
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "type": "vocal",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false,
+            "attributes": ["background vocals"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null
+        }, {
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "ended": false,
+            "attribute-credits": {},
+            "target-credit": "",
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "Shanahan, Bernie",
+                "id": "37e354cb-ffa3-4ee3-a389-c82c392aef76",
+                "name": "Bernie Shanahan"
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "type": "vocal",
+            "attribute-values": {},
+            "end": null,
+            "attributes": ["background vocals"],
+            "direction": "backward"
+        }, {
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": ["background vocals"],
+            "target-credit": "Alan St. John",
+            "ended": false,
+            "attribute-credits": {},
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "type": "vocal",
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "artist": {
+                "disambiguation": "",
+                "sort-name": "St. Jon, Alan",
+                "id": "3e6d0292-e01c-4377-ae18-850158540977",
+                "name": "Alan St. Jon"
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            }
+        }, {
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "artist": {
+                "name": "Tom Teeley",
+                "id": "2cdf7c5d-0da2-42ee-92b2-d90c88034bcc",
+                "sort-name": "Teeley, Tom",
+                "disambiguation": ""
+            },
+            "target-type": "artist",
+            "source-credit": "",
+            "begin": null,
+            "type": "vocal",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": "",
+            "attributes": ["background vocals"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null
+        }, {
+            "begin": null,
+            "source-credit": "",
+            "target-type": "artist",
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "artist": {
+                "name": "Joe Turano",
+                "id": "0453fd72-2ff2-483a-9558-b577d6f6d788",
+                "sort-name": "Turano, Joe",
+                "disambiguation": ""
+            },
+            "type": "vocal",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false,
+            "attributes": ["background vocals"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null
+        }, {
+            "attributes": ["background vocals"],
+            "direction": "backward",
+            "attribute-values": {},
+            "end": null,
+            "artist": {
+                "name": "Myriam Valle",
+                "id": "aa4a2b89-babb-48d3-84b1-cb3ef1605840",
+                "sort-name": "Valle, Myriam",
+                "disambiguation": ""
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            },
+            "begin": null,
+            "source-credit": "",
+            "target-type": "artist",
+            "type": "vocal",
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "attribute-credits": {},
+            "ended": false,
+            "target-credit": ""
+        }, {
+            "end": null,
+            "attribute-values": {},
+            "direction": "backward",
+            "attributes": ["background vocals"],
+            "target-credit": "",
+            "attribute-credits": {},
+            "ended": false,
+            "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+            "type": "vocal",
+            "source-credit": "",
+            "target-type": "artist",
+            "begin": null,
+            "artist": {
+                "sort-name": "Vidal, Maria",
+                "disambiguation": "American singer-songwriter",
+                "name": "Maria Vidal",
+                "id": "9fb041a3-b06c-4ba8-9318-5c71e1804323"
+            },
+            "attribute-ids": {
+                "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+            }
+        }],
+        "video": false,
+        "length": 269200
+    }
+
+]

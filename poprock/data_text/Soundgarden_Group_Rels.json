@@ -1,0 +1,45 @@
+{
+    "name": "Soundgarden",
+    "mbid": "153c9281-268f-4cf3-8938-f5a4593e5df4",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "fb7687e9-067d-4b5b-ac66-0d7a184c6034",
+            "name": "Hiro Yamamoto",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "cbf9738d-8f81-4a92-bc64-ede09341652d",
+            "name": "Chris Cornell",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "dd676aae-658e-42f3-b3d9-8660ea29198d",
+            "name": "Kim Thayil",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "07e93890-46a1-4ebd-9a70-3988a2135d87",
+            "name": "Matt Cameron",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "797dc323-fc39-4597-98cc-d10493f67326",
+            "name": "Jason Everman",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "0bd73a25-9156-4c0a-aa17-90d06b9275ad",
+            "name": "Ben Shepherd",
+            "attributes": []
+        }
+    ]
+}

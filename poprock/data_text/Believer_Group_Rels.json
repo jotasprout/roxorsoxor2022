@@ -1,0 +1,49 @@
+{
+    "name": "Believer",
+    "mbid": "b0f8a148-c7cd-4cae-ac5d-b390ec34f4ef",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "31ab1697-5ac7-4f4c-a8e4-fde437b4b2f2",
+            "name": "Kurt Bachman",
+            "attributes": [
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "31ab1697-5ac7-4f4c-a8e4-fde437b4b2f2",
+            "name": "Kurt Bachman",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "31ab1697-5ac7-4f4c-a8e4-fde437b4b2f2",
+            "name": "Kurt Bachman",
+            "attributes": [
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "31ab1697-5ac7-4f4c-a8e4-fde437b4b2f2",
+            "name": "Kurt Bachman",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "31ab1697-5ac7-4f4c-a8e4-fde437b4b2f2",
+            "name": "Kurt Bachman",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "genres": [
+        "Dio", 
+        "Ronnie James Dio", 
+        "classic rock", 
+        "oldies", 
+        "rock"
+    ], 
+    "taskDuration": {
+        "Task Duration": 18.3674738407135, 
+        "Task End": 1570507474.898763, 
+        "Task Start": 1570507456.531289
+    }, 
+    "stats": {
+        "listeners": "2890", 
+        "playcount": "43757"
+    }, 
+    "name": "Ronnie Dio and the Prophets", 
+    "mbid": "9f6c4063-ce0a-4b71-a7b7-a32c91997260", 
+    "birthday": "1961", 
+    "date": "2019-10-08", 
+    "albums": [
+        {
+            "mbid": "42d0ce9d-cf48-39d3-a110-6c3b65a8e7e4", 
+            "releases": [
+                {
+                    "name": "Gonna Make It Alone", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "501", 
+                                "playcount": "1338"
+                            }, 
+                            "title": "Gonna Make It Alone", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "2f7e7ce1-d916-42d5-9333-45b8b2daa332", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "316", 
+                                "playcount": "742"
+                            }, 
+                            "title": "Swingin' Street", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "853fa084-9955-464a-ab5d-e602781f1d26", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "1b67d076-a71c-4378-b31b-dc40632b6304", 
+                    "packaging": null, 
+                    "listeners": "41", 
+                    "date": "", 
+                    "artistName": "Ronnie Dio and the Prophets", 
+                    "playcount": "176", 
+                    "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                }
+            ], 
+            "title": "Gonna Make It Alone"
+        }, 
+        {
+            "mbid": "515a580f-ba5d-46bf-98f9-fac41600d946", 
+            "releases": [], 
+            "title": "Walking in Different Circles"
+        }, 
+        {
+            "mbid": "5343806a-8168-308b-9e57-99baa7cbc10a", 
+            "releases": [
+                {
+                    "name": "Where You Gonna Run To, Girl", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "42"
+                            }, 
+                            "title": "Where You Gonna Run To, Girl", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "6669b361-9ce3-4ca3-a4cd-27b1ac08b192", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "246", 
+                                "playcount": "621"
+                            }, 
+                            "title": "Say You're Mine Again", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "bc8fdb9e-d5d1-43a5-b351-a0ddcb6216b7", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "0d6d77f7-3b70-4d91-ae23-c5ea5a9076ab", 
+                    "packaging": null, 
+                    "listeners": "11", 
+                    "date": "", 
+                    "artistName": "Ronnie Dio and the Prophets", 
+                    "playcount": "26", 
+                    "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                }
+            ], 
+            "title": "Where You Gonna Run To, Girl"
+        }, 
+        {
+            "mbid": "745de774-85c3-42a6-98c5-0481f8a4262c", 
+            "releases": [], 
+            "title": "Love Potion No. 9"
+        }, 
+        {
+            "mbid": "93153d5d-d178-3d35-a816-e5b42ad49929", 
+            "releases": [
+                {
+                    "name": "The Ooh-Poo-Pah-Doo", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "95", 
+                                "playcount": "292"
+                            }, 
+                            "title": "The Ooh-Poo-Pah-Doo", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "98240ded-efae-4f3e-903d-bbad47ed3038", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "bfc97e67-5003-4d2d-9f6d-5a0190aaf3e9", 
+                    "packaging": null, 
+                    "listeners": "27", 
+                    "date": "", 
+                    "artistName": "Ronnie Dio and the Prophets", 
+                    "playcount": "122", 
+                    "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                }
+            ], 
+            "title": "The Ooh-Poo-Pah-Doo"
+        }, 
+        {
+            "mbid": "ccc2870a-7190-4a06-9362-3563e7bb2d34", 
+            "releases": [], 
+            "title": "Bad Man in Town"
+        }, 
+        {
+            "mbid": "d730f6fd-f09b-4b51-b43d-4b8d3214bd59", 
+            "releases": [], 
+            "title": "The Early Years"
+        }, 
+        {
+            "mbid": "dc0a5cbe-0a85-35dc-ab03-edd6cd8b3ba2", 
+            "releases": [
+                {
+                    "name": "Dio at Domino's", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "930", 
+                                "playcount": "2651"
+                            }, 
+                            "title": "Follow Me", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "831e0a48-11db-4e85-84fa-82f65f89544e", 
+                            "trackNumber": "1", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "320"
+                            }, 
+                            "title": "Blue Days, Blue Nights", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "f341d419-80b1-4274-932b-e7fc4c84b4f2", 
+                            "trackNumber": "2", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "730", 
+                                "playcount": "1794"
+                            }, 
+                            "title": "I Left My Heart in San Francisco", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "dc05d112-99ad-4b7f-b594-228ba9dd36c4", 
+                            "trackNumber": "3", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "673", 
+                                "playcount": "1741"
+                            }, 
+                            "title": "Red Top", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "024ee663-4818-4d1d-8083-11b70aadbbf7", 
+                            "trackNumber": "4", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "762", 
+                                "playcount": "2207"
+                            }, 
+                            "title": "An Angel Is Missing", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "83a8f535-d628-49f6-b820-d25c32b53134", 
+                            "trackNumber": "5", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "672", 
+                                "playcount": "1866"
+                            }, 
+                            "title": "Irresistible You", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "9f079c36-831f-4716-8b7e-bd1edfe5d437", 
+                            "trackNumber": "6", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "709", 
+                                "playcount": "1844"
+                            }, 
+                            "title": "I Told You So", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "79111501-4c92-474b-8f7f-b1bb978b56d9", 
+                            "trackNumber": "7", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "679", 
+                                "playcount": "1787"
+                            }, 
+                            "title": "Everybody's Got a Dance", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "4394cfcf-7420-4147-acfd-5610d0701d68", 
+                            "trackNumber": "8", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "569", 
+                                "playcount": "1396"
+                            }, 
+                            "title": "Don't Take Your Love From Me", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "2eb53eb6-8e58-487b-b761-27c6b203c725", 
+                            "trackNumber": "9", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "111", 
+                                "playcount": "275"
+                            }, 
+                            "title": "Make Johnny Blue", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "bae83b46-c405-43c4-9ae8-25455b367b21", 
+                            "trackNumber": "10", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "747", 
+                                "playcount": "1987"
+                            }, 
+                            "title": "Great Balls of Fire", 
+                            "artistName": "Ronnie Dio and the Prophets", 
+                            "mbid": "b2bd235f-a5bc-4318-beab-a2f1301e8749", 
+                            "trackNumber": "11", 
+                            "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "5f88bd5a-9067-4c76-a768-9d6618ed4b47", 
+                    "packaging": null, 
+                    "listeners": "1103", 
+                    "date": "1963", 
+                    "artistName": "Ronnie Dio and the Prophets", 
+                    "playcount": "15573", 
+                    "artistMBID": "9f6c4063-ce0a-4b71-a7b7-a32c91997260"
+                }
+            ], 
+            "title": "Dio at Domino's"
+        }
+    ], 
+    "type": "Group"
+}

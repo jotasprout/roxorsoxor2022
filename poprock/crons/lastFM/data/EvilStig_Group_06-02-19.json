@@ -1,0 +1,344 @@
+{
+    "genres": [
+        "punk", 
+        "punk rock", 
+        "gits live", 
+        "rock", 
+        "female vocalists"
+    ], 
+    "taskDuration": {
+        "Task Duration": 11.664958000183105, 
+        "Task End": 1559449663.292766, 
+        "Task Start": 1559449651.627808
+    }, 
+    "stats": {
+        "listeners": "1409", 
+        "playcount": "21401"
+    }, 
+    "name": "Evil Stig", 
+    "mbid": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+    "birthday": "1995", 
+    "date": "2019-06-02", 
+    "albums": [
+        {
+            "mbid": "0751e889-51f4-4d64-8f85-a7905977d93c", 
+            "releases": [], 
+            "title": "Bob (Cousin O.)"
+        }, 
+        {
+            "mbid": "f3f9ee88-5548-3381-a89c-a2816e7b4e6c", 
+            "releases": [
+                {
+                    "name": "Evil Stig", 
+                    "tracks": [
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "ba769a22-9f74-43f6-875d-77281231d211", 
+                            "stats": {
+                                "listeners": "578", 
+                                "playcount": "1711"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Sign of the Crab"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "3404c9a3-3afa-4bd6-ab86-d033de23df06", 
+                            "stats": {
+                                "listeners": "514", 
+                                "playcount": "1597"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Bob (Cousin O.)"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "39d2ddc3-d118-416a-bb6b-d631e44313ad", 
+                            "stats": {
+                                "listeners": "414", 
+                                "playcount": "1303"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Drinking Song"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "074c9994-2771-4366-b7d0-cccd4e7ed6f9", 
+                            "stats": {
+                                "listeners": "451", 
+                                "playcount": "1262"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Spear & Magic Helmet"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "6c09304c-0754-4d49-a030-50ac0e4c2ec4", 
+                            "stats": {
+                                "listeners": "531", 
+                                "playcount": "1763"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Last to Know"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "a885e63d-5fcb-4f8c-90b5-f66621bc2de6", 
+                            "stats": {
+                                "listeners": "524", 
+                                "playcount": "1476"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Guilt Within Your Head"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "7922514a-64e0-4a9f-bd3d-9a8783ee4554", 
+                            "stats": {
+                                "listeners": "478", 
+                                "playcount": "1646"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Whirlwind"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "a9a6e036-c9e4-46bb-81de-8698e93b68d6", 
+                            "stats": {
+                                "listeners": "37", 
+                                "playcount": "94"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Another Shot of of Whiskey"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "b1ff30a1-e659-4982-beb1-6043822cc75d", 
+                            "stats": {
+                                "listeners": "570", 
+                                "playcount": "1798"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Second Skin"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "0032387a-3767-4d0f-9add-4da843134185", 
+                            "stats": {
+                                "listeners": "490", 
+                                "playcount": "1313"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Activity Grrrl"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "bde1f186-792a-424e-9776-eaf88a3e8a91", 
+                            "stats": {
+                                "listeners": "428", 
+                                "playcount": "1163"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "You Got a Problem"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "404dbb88-19b5-4621-ba87-e0b5cc43b4da", 
+                            "stats": {
+                                "listeners": "495", 
+                                "playcount": "1467"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Crimson & Clover"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "9bccdf05-44a1-45e7-91f6-7600330ce912", 
+                            "stats": {
+                                "listeners": "374", 
+                                "playcount": "849"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Drunks"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "e1ceb371-feb9-4b1b-9036-c683ab49e7b1", 
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "[untitled]"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "a1a7eb43-96b6-4b6a-9908-e07e0c21d71a", 
+                    "packaging": null, 
+                    "listeners": "1145", 
+                    "date": "", 
+                    "artistName": "Evil Stig", 
+                    "playcount": "18817", 
+                    "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec"
+                }, 
+                {
+                    "name": "Evil Stig", 
+                    "tracks": [
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "ba769a22-9f74-43f6-875d-77281231d211", 
+                            "stats": {
+                                "listeners": "578", 
+                                "playcount": "1711"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Sign of the Crab"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "3404c9a3-3afa-4bd6-ab86-d033de23df06", 
+                            "stats": {
+                                "listeners": "514", 
+                                "playcount": "1597"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Bob (Cousin O.)"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "39d2ddc3-d118-416a-bb6b-d631e44313ad", 
+                            "stats": {
+                                "listeners": "414", 
+                                "playcount": "1303"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Drinking Song"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "074c9994-2771-4366-b7d0-cccd4e7ed6f9", 
+                            "stats": {
+                                "listeners": "451", 
+                                "playcount": "1262"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Spear & Magic Helmet"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "6c09304c-0754-4d49-a030-50ac0e4c2ec4", 
+                            "stats": {
+                                "listeners": "531", 
+                                "playcount": "1763"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Last to Know"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "a885e63d-5fcb-4f8c-90b5-f66621bc2de6", 
+                            "stats": {
+                                "listeners": "524", 
+                                "playcount": "1476"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Guilt Within Your Head"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "7922514a-64e0-4a9f-bd3d-9a8783ee4554", 
+                            "stats": {
+                                "listeners": "478", 
+                                "playcount": "1646"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Whirlwind"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "a9a6e036-c9e4-46bb-81de-8698e93b68d6", 
+                            "stats": {
+                                "listeners": "37", 
+                                "playcount": "94"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Another Shot of of Whiskey"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "b1ff30a1-e659-4982-beb1-6043822cc75d", 
+                            "stats": {
+                                "listeners": "570", 
+                                "playcount": "1798"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Second Skin"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "0032387a-3767-4d0f-9add-4da843134185", 
+                            "stats": {
+                                "listeners": "490", 
+                                "playcount": "1313"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Activity Grrrl"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "bde1f186-792a-424e-9776-eaf88a3e8a91", 
+                            "stats": {
+                                "listeners": "428", 
+                                "playcount": "1163"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "You Got a Problem"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "404dbb88-19b5-4621-ba87-e0b5cc43b4da", 
+                            "stats": {
+                                "listeners": "495", 
+                                "playcount": "1467"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Crimson & Clover"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "9bccdf05-44a1-45e7-91f6-7600330ce912", 
+                            "stats": {
+                                "listeners": "374", 
+                                "playcount": "849"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "Drunks"
+                        }, 
+                        {
+                            "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec", 
+                            "mbid": "e1ceb371-feb9-4b1b-9036-c683ab49e7b1", 
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "artistName": "Evil Stig", 
+                            "title": "[untitled]"
+                        }
+                    ], 
+                    "country": "AU", 
+                    "disambiguation": "", 
+                    "mbid": "a1a7eb43-96b6-4b6a-9908-e07e0c21d71a", 
+                    "packaging": null, 
+                    "listeners": "1145", 
+                    "date": "1995", 
+                    "artistName": "Evil Stig", 
+                    "playcount": "18817", 
+                    "artistMBID": "66bf7876-3898-47fa-8bdd-dc200f946cec"
+                }
+            ], 
+            "title": "Evil Stig"
+        }
+    ], 
+    "type": "Group"
+}

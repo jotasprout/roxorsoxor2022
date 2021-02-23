@@ -1,0 +1,67 @@
+{
+    "name": "Def Leppard",
+    "mbid": "7249b899-8db8-43e7-9e6e-22f1e736024e",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "544eb865-b376-43ed-991b-863044ee5267",
+            "name": "Pete Willis",
+            "attributes": [
+                "electric guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7bc12c8f-8022-4942-af94-a83c7cd8af55",
+            "name": "Joe Elliott",
+            "attributes": [
+                "acoustic guitar",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "aa85e56c-856d-4381-91f2-074c426d93a8",
+            "name": "Rick Savage",
+            "attributes": [
+                "bass guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc555fbc-a441-47e5-8ee4-21af15c454dd",
+            "name": "Rick Allen",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "bf9249e1-cc5d-4154-866e-afb99c6a09cf",
+            "name": "Steve Clark",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1999f41e-058f-4221-8c4b-d7379b00cceb",
+            "name": "Phil Collen",
+            "attributes": [
+                "electric guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0832f927-9bc6-4bb2-b538-343b29bde2e9",
+            "name": "Vivian Campbell",
+            "attributes": [
+                "electric guitar"
+            ]
+        }
+    ]
+}

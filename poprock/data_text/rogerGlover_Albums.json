@@ -1,0 +1,1936 @@
+// Albums by Roger Glover
+
+{
+  "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV/albums?offset=0&limit=20&include_groups=album,single,compilation,appears_on",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NuneeBDaWZspG13LcsYuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV",
+          "id": "5NuneeBDaWZspG13LcsYuV",
+          "name": "Roger Glover",
+          "type": "artist",
+          "uri": "spotify:artist:5NuneeBDaWZspG13LcsYuV"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pguKguqQ7AFtfVXQ84qhA"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pguKguqQ7AFtfVXQ84qhA",
+      "id": "0pguKguqQ7AFtfVXQ84qhA",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/e3c9db67bf01a29b0f1801c1a66c78049fcfc20f",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/452253772f2da15dca6390839a74ed45b56c127e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8610d4999ea472e6690e6a35c235dfc4d6839c9f",
+          "width": 64
+        }
+      ],
+      "name": "If Life Was Easy",
+      "release_date": "2011-07-08",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0pguKguqQ7AFtfVXQ84qhA"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NuneeBDaWZspG13LcsYuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV",
+          "id": "5NuneeBDaWZspG13LcsYuV",
+          "name": "Roger Glover",
+          "type": "artist",
+          "uri": "spotify:artist:5NuneeBDaWZspG13LcsYuV"
+        }
+      ],
+      "available_markets": [
+        "CA",
+        "US"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Q0hQEAHevu82Dh18J2tkx"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Q0hQEAHevu82Dh18J2tkx",
+      "id": "4Q0hQEAHevu82Dh18J2tkx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8d85a44a23bdd65e567826ea47d4135880bc12ae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/74c9cdab58d944b02e5be4ce33283229bcaf2c5e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ba762f18fad5a5d027f5b057a96c311f26c56dd7",
+          "width": 64
+        }
+      ],
+      "name": "If Life Was Easy",
+      "release_date": "2011-07-08",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:4Q0hQEAHevu82Dh18J2tkx"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QCflfSOonkybNw5D7GqGk"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QCflfSOonkybNw5D7GqGk",
+          "id": "4QCflfSOonkybNw5D7GqGk",
+          "name": "Ian Gillan",
+          "type": "artist",
+          "uri": "spotify:artist:4QCflfSOonkybNw5D7GqGk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NuneeBDaWZspG13LcsYuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV",
+          "id": "5NuneeBDaWZspG13LcsYuV",
+          "name": "Roger Glover",
+          "type": "artist",
+          "uri": "spotify:artist:5NuneeBDaWZspG13LcsYuV"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/24i9zKIWnDGgjlZBbQsoxv"
+      },
+      "href": "https://api.spotify.com/v1/albums/24i9zKIWnDGgjlZBbQsoxv",
+      "id": "24i9zKIWnDGgjlZBbQsoxv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cc0b8e6360a7d6464a3c647aecfa2ca0da2f56db",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/821999e77367f2dcb2054d44e258e93e4a715017",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4dee626f3d987b1938e5adac7b847198c580b4d9",
+          "width": 64
+        }
+      ],
+      "name": "Accidentally On Purpose",
+      "release_date": "1988",
+      "release_date_precision": "year",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:24i9zKIWnDGgjlZBbQsoxv"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QCflfSOonkybNw5D7GqGk"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QCflfSOonkybNw5D7GqGk",
+          "id": "4QCflfSOonkybNw5D7GqGk",
+          "name": "Ian Gillan",
+          "type": "artist",
+          "uri": "spotify:artist:4QCflfSOonkybNw5D7GqGk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NuneeBDaWZspG13LcsYuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV",
+          "id": "5NuneeBDaWZspG13LcsYuV",
+          "name": "Roger Glover",
+          "type": "artist",
+          "uri": "spotify:artist:5NuneeBDaWZspG13LcsYuV"
+        }
+      ],
+      "available_markets": [
+        "AE",
+        "AR",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IL",
+        "IN",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LT",
+        "LV",
+        "MA",
+        "MX",
+        "MY",
+        "NI",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PS",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SG",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3aT82Ax4iodjBJq8XFznoh"
+      },
+      "href": "https://api.spotify.com/v1/albums/3aT82Ax4iodjBJq8XFznoh",
+      "id": "3aT82Ax4iodjBJq8XFznoh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b0266cdfbdb2f75f7d27b2d48e0b72b0ebd23fb8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b9f7c02da18d5ecb199300949c9a90c94cd7170b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3067857c6590fa3b10920161e2c4fbbf42a19882",
+          "width": 64
+        }
+      ],
+      "name": "Accidentally On Purpose",
+      "release_date": "1988",
+      "release_date_precision": "year",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3aT82Ax4iodjBJq8XFznoh"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4SZsrfkRu7ulmfSKWK5wZ0"
+          },
+          "href": "https://api.spotify.com/v1/artists/4SZsrfkRu7ulmfSKWK5wZ0",
+          "id": "4SZsrfkRu7ulmfSKWK5wZ0",
+          "name": "Roger Glover and Guests",
+          "type": "artist",
+          "uri": "spotify:artist:4SZsrfkRu7ulmfSKWK5wZ0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NuneeBDaWZspG13LcsYuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV",
+          "id": "5NuneeBDaWZspG13LcsYuV",
+          "name": "Roger Glover",
+          "type": "artist",
+          "uri": "spotify:artist:5NuneeBDaWZspG13LcsYuV"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2T0OraSus8GhD1FI0wYLcK"
+      },
+      "href": "https://api.spotify.com/v1/albums/2T0OraSus8GhD1FI0wYLcK",
+      "id": "2T0OraSus8GhD1FI0wYLcK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e6ba75928864330fe1b80f22c7980933a2af3956",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3aa963baa25a9c18737c6bd7895d6e18ace2dc88",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/22153437d80dbb99ed3097c84024f323a5ed3ed8",
+          "width": 64
+        }
+      ],
+      "name": "The Butterfly Ball and the Grasshopper's Feast",
+      "release_date": "1974-12-31",
+      "release_date_precision": "day",
+      "total_tracks": 29,
+      "type": "album",
+      "uri": "spotify:album:2T0OraSus8GhD1FI0wYLcK"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NuneeBDaWZspG13LcsYuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV",
+          "id": "5NuneeBDaWZspG13LcsYuV",
+          "name": "Roger Glover",
+          "type": "artist",
+          "uri": "spotify:artist:5NuneeBDaWZspG13LcsYuV"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5V6HUh8NneXrsGMcnNuLvP"
+      },
+      "href": "https://api.spotify.com/v1/albums/5V6HUh8NneXrsGMcnNuLvP",
+      "id": "5V6HUh8NneXrsGMcnNuLvP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bdc4627a003591f6754c35c2e9d6e3db49f1d98e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/903b61b5c8a291450836e6f386ae0461ee5bd741",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7cc3b5eea54189aefe1476546b5b8e42a8c84c7e",
+          "width": 64
+        }
+      ],
+      "name": "The Butterfly Ball and the Grasshopper's Feast (Deluxe Edition)",
+      "release_date": "1974-11-18",
+      "release_date_precision": "day",
+      "total_tracks": 40,
+      "type": "album",
+      "uri": "spotify:album:5V6HUh8NneXrsGMcnNuLvP"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NuneeBDaWZspG13LcsYuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV",
+          "id": "5NuneeBDaWZspG13LcsYuV",
+          "name": "Roger Glover",
+          "type": "artist",
+          "uri": "spotify:artist:5NuneeBDaWZspG13LcsYuV"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0qyBo8KTEcKMyXVgahZ1Ps"
+      },
+      "href": "https://api.spotify.com/v1/albums/0qyBo8KTEcKMyXVgahZ1Ps",
+      "id": "0qyBo8KTEcKMyXVgahZ1Ps",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4dfdf95cb7e28b8511be55e78956db3261134f95",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/da2add8148d7094a8fa649e2bac9e7bc54f9331e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/63c195010272a84ef1e4bd4e8ee9dc4f906f9996",
+          "width": 64
+        }
+      ],
+      "name": "The Butterfly Ball and the Grasshopper's Feast",
+      "release_date": "1974-05-27",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:0qyBo8KTEcKMyXVgahZ1Ps"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ff6Uen2n24VIpFt1l10ek"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ff6Uen2n24VIpFt1l10ek",
+          "id": "4ff6Uen2n24VIpFt1l10ek",
+          "name": "Jon Lord",
+          "type": "artist",
+          "uri": "spotify:artist:4ff6Uen2n24VIpFt1l10ek"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AT",
+        "BE",
+        "BG",
+        "BH",
+        "CH",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HK",
+        "HU",
+        "ID",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MY",
+        "NL",
+        "NO",
+        "OM",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "VN"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6A02hq4Y2iyH5lrRnTaccp"
+      },
+      "href": "https://api.spotify.com/v1/albums/6A02hq4Y2iyH5lrRnTaccp",
+      "id": "6A02hq4Y2iyH5lrRnTaccp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/badfa401fd7f5927ce63bccb1f91337d10148470",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/12db7ff9a845050545c0f3289a262ab88cb39a4c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/408c1f37e81fd69cf3a72b53636b727914b10e0e",
+          "width": 64
+        }
+      ],
+      "name": "Live",
+      "release_date": "2019-06-12",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6A02hq4Y2iyH5lrRnTaccp"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51bwpVtxTFWazTsJXhOWIP"
+          },
+          "href": "https://api.spotify.com/v1/artists/51bwpVtxTFWazTsJXhOWIP",
+          "id": "51bwpVtxTFWazTsJXhOWIP",
+          "name": "Stay Tuned",
+          "type": "artist",
+          "uri": "spotify:artist:51bwpVtxTFWazTsJXhOWIP"
+        }
+      ],
+      "available_markets": [
+        "CA",
+        "US"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5i30IjRH1JlWjJ4ADYQky2"
+      },
+      "href": "https://api.spotify.com/v1/albums/5i30IjRH1JlWjJ4ADYQky2",
+      "id": "5i30IjRH1JlWjJ4ADYQky2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bd4a1a59ad5444a8bd7c13990c605de8ad2307b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/935a12a4d20bd0ada122df5517876ec8bd32e26d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7ea45a24f2374de6bc943c06d320c4ac78dbc7e7",
+          "width": 64
+        }
+      ],
+      "name": "Stay Tuned",
+      "release_date": "2018-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5i30IjRH1JlWjJ4ADYQky2"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nEh2wdQWuA6dUIndpIMjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nEh2wdQWuA6dUIndpIMjA",
+          "id": "5nEh2wdQWuA6dUIndpIMjA",
+          "name": "Stay Tuned",
+          "type": "artist",
+          "uri": "spotify:artist:5nEh2wdQWuA6dUIndpIMjA"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "UY",
+        "VN"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/20N8jrZvl0cxyEgGuMT3MB"
+      },
+      "href": "https://api.spotify.com/v1/albums/20N8jrZvl0cxyEgGuMT3MB",
+      "id": "20N8jrZvl0cxyEgGuMT3MB",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/9b42b386ff3991d7783b1376e1a98b0a81085638",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/95361542ff27029a13d8f7f5b89ee3faf8f97e3f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/eea1e3af112d07868bbc8ac89c2dcf0d97be40c7",
+          "width": 64
+        }
+      ],
+      "name": "Stay Tuned",
+      "release_date": "2018-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:20N8jrZvl0cxyEgGuMT3MB"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3EhbVgyfGd7HkpsagwL9GS",
+          "id": "3EhbVgyfGd7HkpsagwL9GS",
+          "name": "Alice Cooper",
+          "type": "artist",
+          "uri": "spotify:artist:3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "available_markets": [
+        "CA",
+        "US"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3P2p1wEaLrAeuainTWeq7e"
+      },
+      "href": "https://api.spotify.com/v1/albums/3P2p1wEaLrAeuainTWeq7e",
+      "id": "3P2p1wEaLrAeuainTWeq7e",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bf3833d360dd4dbba2ba26f2f2195c9e88fc5a1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/de498c1c066384ef919d0e3be7dde6521f680ba6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d81a37665329f5a2feb2895ca519527c9c65878b",
+          "width": 64
+        }
+      ],
+      "name": "Paranormal",
+      "release_date": "2017-07-28",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:3P2p1wEaLrAeuainTWeq7e"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AoogKM8unk2mcKKqkaTyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AoogKM8unk2mcKKqkaTyr",
+          "id": "7AoogKM8unk2mcKKqkaTyr",
+          "name": "De Oln'zelse Köpperbloazers",
+          "type": "artist",
+          "uri": "spotify:artist:7AoogKM8unk2mcKKqkaTyr"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/60s4tFkoO19HpYmrK2nyyu"
+      },
+      "href": "https://api.spotify.com/v1/albums/60s4tFkoO19HpYmrK2nyyu",
+      "id": "60s4tFkoO19HpYmrK2nyyu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6069ce190e94f48fefed736d8b67d2a59bb1d12d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4aead0d1f2732c99e9d849b827dcb836634f95d9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b2bcb6e505da19e70f2abf512db8c253383a0595",
+          "width": 64
+        }
+      ],
+      "name": "Kopperbloazeritus",
+      "release_date": "2017-03-30",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:60s4tFkoO19HpYmrK2nyyu"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "available_markets": [
+        "AT",
+        "CH",
+        "DE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3SOriJXcWvsRoTztUFKpV5"
+      },
+      "href": "https://api.spotify.com/v1/albums/3SOriJXcWvsRoTztUFKpV5",
+      "id": "3SOriJXcWvsRoTztUFKpV5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6329a6eee9bdb34188ca01a099c89311683c642c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/75f7334109eabd3f547cc370e933f135ef52a703",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/208b08760954340e0a60a677c083cdb47021b816",
+          "width": 64
+        }
+      ],
+      "name": "Rock meets Classic - Rocksongs im Orchestersound",
+      "release_date": "2016-09-23",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:3SOriJXcWvsRoTztUFKpV5"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5CrAiuyPVMTXxgkByEVWaR"
+          },
+          "href": "https://api.spotify.com/v1/artists/5CrAiuyPVMTXxgkByEVWaR",
+          "id": "5CrAiuyPVMTXxgkByEVWaR",
+          "name": "Rudán Joe",
+          "type": "artist",
+          "uri": "spotify:artist:5CrAiuyPVMTXxgkByEVWaR"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2VhNsNzBCptXvYQh2DML20"
+      },
+      "href": "https://api.spotify.com/v1/albums/2VhNsNzBCptXvYQh2DML20",
+      "id": "2VhNsNzBCptXvYQh2DML20",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c1aba3d27b5a8fd662c2ca4417bc343ab63712a2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2f402eda9784d20d210e3534ebbe2adf2996a424",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9c5747e223129271477d9fd173981ee6d8d4381f",
+          "width": 64
+        }
+      ],
+      "name": "50 / 30 Jubileumi koncert CD1",
+      "release_date": "2015-12-10",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:2VhNsNzBCptXvYQh2DML20"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "available_markets": [
+        "AT",
+        "CH",
+        "DE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/194muUIarFolrLbEZRVvtk"
+      },
+      "href": "https://api.spotify.com/v1/albums/194muUIarFolrLbEZRVvtk",
+      "id": "194muUIarFolrLbEZRVvtk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ce959f5faf1040d2366cfd57a581a8bdd1482302",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7f9b35f9f0d0be8b9cb0f3a4d655963c411745db",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7515b9334d8d7b7adedc1ecf545a5ea15a653ee6",
+          "width": 64
+        }
+      ],
+      "name": "Rock Meets Classic 2",
+      "release_date": "2015-06-26",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:194muUIarFolrLbEZRVvtk"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7mwzxspoBjfNDorWB6gQ0t"
+          },
+          "href": "https://api.spotify.com/v1/artists/7mwzxspoBjfNDorWB6gQ0t",
+          "id": "7mwzxspoBjfNDorWB6gQ0t",
+          "name": "SINSKE",
+          "type": "artist",
+          "uri": "spotify:artist:7mwzxspoBjfNDorWB6gQ0t"
+        }
+      ],
+      "available_markets": [
+        "JP"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3MISJZQiaWh5djr8ieDIgn"
+      },
+      "href": "https://api.spotify.com/v1/albums/3MISJZQiaWh5djr8ieDIgn",
+      "id": "3MISJZQiaWh5djr8ieDIgn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/81234ffa504eb3bc5396511a60cc4d8c0c53cd89",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1e6f228b34a2502a670aa0ecde8db00746c0dae0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cd54ce4d9d16f75df8b4ab510eefc3b9951ffe48",
+          "width": 64
+        }
+      ],
+      "name": "MUSIC*TRAVELERS",
+      "release_date": "2015",
+      "release_date_precision": "year",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3MISJZQiaWh5djr8ieDIgn"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "available_markets": [
+        "BE",
+        "FR",
+        "LI",
+        "LU",
+        "MC"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/35k5yaXY2To8ysfSpoZyZm"
+      },
+      "href": "https://api.spotify.com/v1/albums/35k5yaXY2To8ysfSpoZyZm",
+      "id": "35k5yaXY2To8ysfSpoZyZm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/35575706b702de7cb5ec2f8e3f18e6b91f24bada",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a9e3a51dd0dc1ee1d8dec16a4aa915779717a766",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6d8097da5849cb9ac8c4e1abee50f119338b2aa7",
+          "width": 64
+        }
+      ],
+      "name": "2gether Fiesta (Les meilleurs hits pour faire la fête !)",
+      "release_date": "2014-12-20",
+      "release_date_precision": "day",
+      "total_tracks": 50,
+      "type": "album",
+      "uri": "spotify:album:35k5yaXY2To8ysfSpoZyZm"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0FDsoHcRHjVqo4c0W5Lqzy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0FDsoHcRHjVqo4c0W5Lqzy",
+          "id": "0FDsoHcRHjVqo4c0W5Lqzy",
+          "name": "Eddie Hardin",
+          "type": "artist",
+          "uri": "spotify:artist:0FDsoHcRHjVqo4c0W5Lqzy"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5G708BcdhX5EnXEq3Ar2ca"
+      },
+      "href": "https://api.spotify.com/v1/albums/5G708BcdhX5EnXEq3Ar2ca",
+      "id": "5G708BcdhX5EnXEq3Ar2ca",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7cf49809b998362088109a81d01b2d47c3e546ce",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d0f59424ef49fa5edba60e5ae70d9686e27b9ffe",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/07f53902f02eecd2c90d44d00d2cb421cbbacbd6",
+          "width": 64
+        }
+      ],
+      "name": "Wind in the Willows",
+      "release_date": "2014-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:5G708BcdhX5EnXEq3Ar2ca"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dqc0UFt4Qh53MsEfyb0ku"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dqc0UFt4Qh53MsEfyb0ku",
+          "id": "7Dqc0UFt4Qh53MsEfyb0ku",
+          "name": "Café Bertrand",
+          "type": "artist",
+          "uri": "spotify:artist:7Dqc0UFt4Qh53MsEfyb0ku"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EbQ8h8OtML6UmfmWGGTFD"
+      },
+      "href": "https://api.spotify.com/v1/albums/6EbQ8h8OtML6UmfmWGGTFD",
+      "id": "6EbQ8h8OtML6UmfmWGGTFD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b51b6d844b622266232b9b3141c9cf3c2ceacf13",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2bea86af4a9585db1c069cdb5c34fc1bd024848c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2efd6f28ebe293927beb70f52edeef82df34bfec",
+          "width": 64
+        }
+      ],
+      "name": "Sir John EP",
+      "release_date": "2012-12-16",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:6EbQ8h8OtML6UmfmWGGTFD"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1KQCWYfuxEe4RF07bCxnam"
+      },
+      "href": "https://api.spotify.com/v1/albums/1KQCWYfuxEe4RF07bCxnam",
+      "id": "1KQCWYfuxEe4RF07bCxnam",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/e129d2f1fb2b91d6c2fef470c8cd5a7cc36aa9c1",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a2f493824e6573502a42d176132633d8518a6544",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/13edf9638056790dabf55b5d7cb5a25753dc706c",
+          "width": 64
+        }
+      ],
+      "name": "Pure Rock, Vol. 1",
+      "release_date": "2012-12-07",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:1KQCWYfuxEe4RF07bCxnam"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/5NuneeBDaWZspG13LcsYuV/albums?offset=20&limit=20&include_groups=album,single,compilation,appears_on",
+  "offset": 0,
+  "previous": null,
+  "total": 25
+}

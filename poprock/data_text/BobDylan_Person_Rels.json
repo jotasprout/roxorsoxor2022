@@ -1,0 +1,13 @@
+{
+    "name": "Bob Dylan",
+    "mbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "48fb4dcb-bd67-4a9d-8afa-1fa173522f7a",
+            "name": "Golden Chords",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "MxPx",
+    "mbid": "3b221a54-54b9-435c-a7f3-5cf8e2ce9fb2",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "b0bd1e18-503d-4172-b6bd-937793fcc417",
+            "name": "Andy Husted",
+            "attributes": [
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "c0c7cb75-1124-4a15-b7e9-eb0fbec4566a",
+            "name": "Yuri Ruley",
+            "attributes": [
+                "membranophone",
+                "original",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e2bf48bd-cf01-46dd-ab43-2de25a762c30",
+            "name": "Mike Herrera",
+            "attributes": [
+                "bass guitar",
+                "keyboard",
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "f53c23ce-3320-4131-89f4-28a8148018a4",
+            "name": "Tom Wisniewski",
+            "attributes": [
+                "background vocals",
+                "guitar"
+            ]
+        }
+    ]
+}

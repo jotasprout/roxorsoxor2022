@@ -1,0 +1,19 @@
+{
+    "name": "Argyle Park",
+    "mbid": "e3f1f4e5-5be3-46b9-a11b-8580a7e09015",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "4f223e02-2198-4e64-895c-f81d03674d5e",
+            "name": "Scott Albert",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "cb09a1b8-afeb-4bf8-a3e7-e2ce20a19ba6",
+            "name": "Buka",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Rufus",
+    "mbid": "ec6b11b5-d6a6-4c77-af55-8076a160cc94",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "f53d54a3-c542-4c7c-9437-217d46f00619",
+            "name": "Dennis Belfield",
+            "attributes": [
+                "bass"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "1f549522-a416-4ad6-9282-3e1678f41e59",
+            "name": "Kevin Murphy",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "4bec913a-6f84-45b5-9008-fc939fe79320",
+            "name": "Al Ciner",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "900e9144-019d-4043-86cb-ec0e127c39d0",
+            "name": "Chaka Khan",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fe192a2d-fef8-4a4f-9402-a3ca4f8a4294",
+            "name": "Ron Stockert",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,569 @@
+{
+    "genres": [
+        "seen live", 
+        "rap", 
+        "christian", 
+        "scratch", 
+        "hardcore rap"
+    ], 
+    "taskDuration": {
+        "Task Duration": 17.018421173095703, 
+        "Task End": 1571978331.048011, 
+        "Task Start": 1571978314.02959
+    }, 
+    "stats": {
+        "listeners": "358", 
+        "playcount": "4945"
+    }, 
+    "name": "Dynamic Twins", 
+    "mbid": "43065953-0174-46c4-bb93-828fb170b95b", 
+    "birthday": null, 
+    "date": "2019-10-25", 
+    "albums": [
+        {
+            "mbid": "a18408d7-7562-4d22-8126-1eaba16ec084", 
+            "releases": [
+                {
+                    "name": "Word 2 The Wize", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "39", 
+                                "playcount": "95"
+                            }, 
+                            "title": "Mission", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "6723b09b-2287-4dca-9083-1430a3ebfed4", 
+                            "trackNumber": "1", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "87"
+                            }, 
+                            "title": "The Judge", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "faa867a7-9fd2-43a6-aa01-79d4ac9bada3", 
+                            "trackNumber": "2", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "45", 
+                                "playcount": "102"
+                            }, 
+                            "title": "Fantasy", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "bef24fe3-e0a5-4afa-9fa0-239372dfdf3b", 
+                            "trackNumber": "3", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "65"
+                            }, 
+                            "title": "Backbiter", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "596704f2-bdd7-4cb8-8249-c2724ffe60d9", 
+                            "trackNumber": "4", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "58"
+                            }, 
+                            "title": "He's All I Need", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "d0f70eff-8ac7-4ca7-b75c-032a4d9a4af1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28", 
+                                "playcount": "77"
+                            }, 
+                            "title": "Persuaded", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "070a2a62-0ee5-4237-b34a-a70dcd152750", 
+                            "trackNumber": "6", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28", 
+                                "playcount": "62"
+                            }, 
+                            "title": "Real Thing", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "db7b2ef0-f950-4992-86b7-86e64c71f097", 
+                            "trackNumber": "7", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "32", 
+                                "playcount": "58"
+                            }, 
+                            "title": "Word 2 The Wize", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "3137c4a9-b365-4b66-a10f-c4c6db3f13b7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "27", 
+                                "playcount": "59"
+                            }, 
+                            "title": "Uptown", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "292d5f5a-9933-4ea4-a977-c1525f137375", 
+                            "trackNumber": "9", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "48"
+                            }, 
+                            "title": "That's How I'm Livin'", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "cb4f11f2-f5b9-41eb-8c8f-ffe6d667cd9c", 
+                            "trackNumber": "10", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "40"
+                            }, 
+                            "title": "We Need Love", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "90ba65fb-74b6-451d-8c23-416737bb2e09", 
+                            "trackNumber": "11", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "2"
+                            }, 
+                            "title": "I Ain't Wit It", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "25813550-04f5-48ea-93bc-6ffce1775c82", 
+                            "trackNumber": "12", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "17", 
+                                "playcount": "46"
+                            }, 
+                            "title": "Shakin' Off dust", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "9142a344-9acf-407e-8db8-7efe4100f178", 
+                            "trackNumber": "13", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "2", 
+                                "playcount": "5"
+                            }, 
+                            "title": "Keep Goin'", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "cf691591-cf75-44b7-8479-e538d47273bd", 
+                            "trackNumber": "14", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "4", 
+                                "playcount": "8"
+                            }, 
+                            "title": "Talk On Your Record", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "639dcafe-358a-48c0-988b-1944e755c3b3", 
+                            "trackNumber": "15", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "14", 
+                                "playcount": "40"
+                            }, 
+                            "title": "The Judge (Instrumental)", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "aa9c81fc-797c-4248-8e1a-e0adabf62b0f", 
+                            "trackNumber": "16", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "c627101d-b961-4649-9de7-e00964c5b628", 
+                    "packaging": null, 
+                    "listeners": "67", 
+                    "date": "1991", 
+                    "artistName": "Dynamic Twins", 
+                    "playcount": "872", 
+                    "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                }
+            ], 
+            "title": "Word 2 The Wize"
+        }, 
+        {
+            "mbid": "2dd75278-57fb-3844-bef3-d6ed51f9d9ed", 
+            "releases": [
+                {
+                    "name": "No Room 2 Breathe", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "6", 
+                                "playcount": "12"
+                            }, 
+                            "title": "Intro", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "c42aa3d4-d018-4281-8fc1-2a52f36277b5", 
+                            "trackNumber": "1", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "190"
+                            }, 
+                            "title": "Get Up, Get Down", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "bec2b12b-054d-4a6a-99c7-f767bc0e6ec4", 
+                            "trackNumber": "2", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Interlude", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "cf760a06-d0ad-499e-bbbc-5b2ed44b795e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "34", 
+                                "playcount": "121"
+                            }, 
+                            "title": "Words We Speak", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "2342db91-861b-463c-9f3a-234ec08bac0c", 
+                            "trackNumber": "4", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "36", 
+                                "playcount": "117"
+                            }, 
+                            "title": "Tears of a Broken Heart", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "2510b474-ce96-4cf7-9167-3169a1acf533", 
+                            "trackNumber": "5", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "35", 
+                                "playcount": "148"
+                            }, 
+                            "title": "Getting Brighter", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "9bf10d3e-58db-43f0-a016-a12ca6ba77f4", 
+                            "trackNumber": "6", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "0", 
+                                "playcount": "0"
+                            }, 
+                            "title": "Interlude II", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "1e6bdffb-f322-4590-a96e-1228af81f397", 
+                            "trackNumber": "7", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "32", 
+                                "playcount": "143"
+                            }, 
+                            "title": "Can't Stand the Rain", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "fc0749fb-6dec-408f-b649-6d12e23a5245", 
+                            "trackNumber": "8", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "33", 
+                                "playcount": "114"
+                            }, 
+                            "title": "Something to Say", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "afb5b294-8aca-468b-a0a7-5f1bd54b5578", 
+                            "trackNumber": "9", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "84"
+                            }, 
+                            "title": "Psyched by Your Ignorance", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "3f3f0b45-84ff-4377-808c-bf3671884923", 
+                            "trackNumber": "10", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "55"
+                            }, 
+                            "title": "(Giving Them) No Room to Breathe", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "0996077e-9753-4be8-9d4a-ab194e99b6ba", 
+                            "trackNumber": "11", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "41", 
+                                "playcount": "119"
+                            }, 
+                            "title": "Against the Flow", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "ecb0f949-9d74-4258-b401-fa9343ce1df9", 
+                            "trackNumber": "12", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "42", 
+                                "playcount": "135"
+                            }, 
+                            "title": "Check Yourself", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "c7423d29-5dff-4791-90c1-87c16c2a9b2b", 
+                            "trackNumber": "13", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "72"
+                            }, 
+                            "title": "Flee From Babylon", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "327aca4c-5f5c-45d0-8003-9be37bec17fd", 
+                            "trackNumber": "14", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "43", 
+                                "playcount": "118"
+                            }, 
+                            "title": "Evil of Currency", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "54c50468-b9e2-43b2-bc3d-6ac696183662", 
+                            "trackNumber": "15", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "28", 
+                                "playcount": "101"
+                            }, 
+                            "title": "The Family Song", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "82eb090a-8ac5-4c51-b7ec-c67f799b6f07", 
+                            "trackNumber": "16", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }
+                    ], 
+                    "country": "US", 
+                    "disambiguation": "", 
+                    "mbid": "4c15ef3f-d8fe-49ee-8c84-9ee7ee0fb6e1", 
+                    "packaging": null, 
+                    "listeners": "68", 
+                    "date": "1993", 
+                    "artistName": "Dynamic Twins", 
+                    "playcount": "1243", 
+                    "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                }
+            ], 
+            "title": "No Room 2 Breathe"
+        }, 
+        {
+            "mbid": "ffc0bd2f-4e1f-38c6-a9d4-9d4ab1e6568b", 
+            "releases": [
+                {
+                    "name": "40 Days In The Wilderness", 
+                    "tracks": [
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "90"
+                            }, 
+                            "title": "Forget About Your Troubles", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "a69fb43b-c16a-4d35-a715-53b316e23fbd", 
+                            "trackNumber": "1", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "29", 
+                                "playcount": "78"
+                            }, 
+                            "title": "Who R U", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "abb4b9a5-3314-459c-ac1e-5f0b56f5bf70", 
+                            "trackNumber": "2", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "22", 
+                                "playcount": "76"
+                            }, 
+                            "title": "It's About Time", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "ad60e76e-dc3e-49ef-ad2e-6399b140b00e", 
+                            "trackNumber": "3", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "69"
+                            }, 
+                            "title": "Reap What You Sow", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "ebf5eeb1-fb38-4558-802d-709360e62129", 
+                            "trackNumber": "4", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "25", 
+                                "playcount": "65"
+                            }, 
+                            "title": "Global", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "011c55ff-9bb4-46ce-be73-4e3b8be18ea1", 
+                            "trackNumber": "5", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "26", 
+                                "playcount": "79"
+                            }, 
+                            "title": "The Story", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "934ae8b5-3107-4cb1-a89b-db7a9b3f8e02", 
+                            "trackNumber": "6", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "23", 
+                                "playcount": "82"
+                            }, 
+                            "title": "Get On Down", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "3ea411cb-964d-438f-97bd-003ecd4dea28", 
+                            "trackNumber": "7", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "57"
+                            }, 
+                            "title": "Will You Still?", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "b555075f-c9ba-4420-acb1-5d8a749980e7", 
+                            "trackNumber": "8", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "66"
+                            }, 
+                            "title": "Back To The Garden", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "2ffb0acb-624e-46b5-a7e8-5a92754e3f0c", 
+                            "trackNumber": "9", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "12", 
+                                "playcount": "45"
+                            }, 
+                            "title": "Ready", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "5a82a6e9-c63b-4274-8e1b-791d8ae00d8f", 
+                            "trackNumber": "10", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "11", 
+                                "playcount": "46"
+                            }, 
+                            "title": "Overcome", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "dc6a35fd-0231-4243-aec7-7c575be96df8", 
+                            "trackNumber": "11", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }, 
+                        {
+                            "stats": {
+                                "listeners": "21", 
+                                "playcount": "66"
+                            }, 
+                            "title": "Are You With Me?", 
+                            "artistName": "Dynamic Twins", 
+                            "mbid": "b71c0f72-8b32-4a3b-aee9-70053fb97765", 
+                            "trackNumber": "12", 
+                            "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                        }
+                    ], 
+                    "country": "", 
+                    "disambiguation": "", 
+                    "mbid": "52e9b11b-a2da-4c20-a5db-9289eee554c3", 
+                    "packaging": null, 
+                    "listeners": "52", 
+                    "date": "", 
+                    "artistName": "Dynamic Twins", 
+                    "playcount": "829", 
+                    "artistMBID": "43065953-0174-46c4-bb93-828fb170b95b"
+                }
+            ], 
+            "title": "40 Days In The Wilderness"
+        }
+    ], 
+    "type": "Group"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Ace Frehley",
+    "mbid": "33d700ce-064f-44f6-ab9e-60f9eed0fca1",
+    "type": "Person",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+            "name": "KISS",
+            "attributes": [
+                "background vocals",
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+            "name": "KISS",
+            "attributes": [
+                "background vocals",
+                "guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "77db7b1e-f3e2-47cf-a95a-b1ef364b9f1a",
+            "name": "Frehley\u2019s Comet",
+            "attributes": []
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "name": "Black Sabbath",
+    "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "attributes": [
+                "lead vocals",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9082aea0-ee30-4175-8795-6540a8fd3605",
+            "name": "Bill Ward",
+            "attributes": [
+                "background vocals",
+                "drums (drum set)",
+                "original",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "123814ce-f7f7-44c9-b84d-0088b1e230a4",
+            "name": "Geezer Butler",
+            "attributes": [
+                "bass guitar",
+                "original",
+                "synthesizer"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e5fa0175-2e93-4ca7-90c3-33f239381252",
+            "name": "Tony Iommi",
+            "attributes": [
+                "guitar",
+                "original"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ed02d3d7-5cf5-4c78-a35e-cda9e7b91581",
+            "name": "Dave Walker",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+            "name": "Ronnie James Dio",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9ba762c5-91b7-4f58-bb04-adc26644078b",
+            "name": "Geoff Nicholls",
+            "attributes": [
+                "keyboard"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40d1ad2f-e190-4d1e-9f9b-ba88144ac017",
+            "name": "Vinny Appice",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "ff2a0e30-aec1-44dd-ae06-dc78877f512d",
+            "name": "Ian Gillan",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9082aea0-ee30-4175-8795-6540a8fd3605",
+            "name": "Bill Ward",
+            "attributes": [
+                "background vocals",
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "83cf78c3-c802-4d7e-aed6-65a354dbfdb0",
+            "name": "Bev Bevan",
+            "attributes": [
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "8b03861e-468d-4694-a7c3-4d1cf5dfe2d2",
+            "name": "Ron Keel",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7acef841-a0f1-408e-967c-37d8a3fa6481",
+            "name": "David Donato",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "78692212-af57-402a-a291-3938ca356500",
+            "name": "Glenn Hughes",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "293c8348-b107-4c08-b7f5-eb2448b7610a",
+            "name": "Eric Singer",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "293c8348-b107-4c08-b7f5-eb2448b7610a",
+            "name": "Eric Singer",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "e5fad3fa-3956-4379-a73e-f7b0daceb587",
+            "name": "David Spitz",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "43e9db57-4ac3-4979-9234-220ce711628f",
+            "name": "Ray Gillen",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "af49ecbb-a0b9-4805-9cec-f97eac794c81",
+            "name": "Bob Daisley",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "899a92fe-7ee5-4bc4-9628-0eff26df09e5",
+            "name": "Terry Chimes",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "83cf78c3-c802-4d7e-aed6-65a354dbfdb0",
+            "name": "Bev Bevan",
+            "attributes": [
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "d5bf671c-79e3-4be4-bd2f-61871125d6b8",
+            "name": "Jo Burt",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "491470ea-797d-4d33-b14c-1a6a72827274",
+            "name": "Tony Martin",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7d0b58b5-88ca-4424-a6e5-21202ac19147",
+            "name": "Neil Murray",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0b406e6d-a81b-45ee-bef2-2df2a6c63859",
+            "name": "Cozy Powell",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "123814ce-f7f7-44c9-b84d-0088b1e230a4",
+            "name": "Geezer Butler",
+            "attributes": [
+                "bass guitar",
+                "synthesizer"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2",
+            "name": "Ronnie James Dio",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40d1ad2f-e190-4d1e-9f9b-ba88144ac017",
+            "name": "Vinny Appice",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "0b406e6d-a81b-45ee-bef2-2df2a6c63859",
+            "name": "Cozy Powell",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "491470ea-797d-4d33-b14c-1a6a72827274",
+            "name": "Tony Martin",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "a858b8c6-d0f7-413d-8b5e-511ea74013fc",
+            "name": "Bob Rondinelli",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "7d0b58b5-88ca-4424-a6e5-21202ac19147",
+            "name": "Neil Murray",
+            "attributes": [
+                "bass guitar"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9c2c5b32-ca3f-4280-a269-bf2430b5a16b",
+            "name": "Mike Bordin",
+            "attributes": [
+                "drums (drum set)"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "9082aea0-ee30-4175-8795-6540a8fd3605",
+            "name": "Bill Ward",
+            "attributes": [
+                "background vocals",
+                "drums (drum set)",
+                "percussion"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "123814ce-f7f7-44c9-b84d-0088b1e230a4",
+            "name": "Geezer Butler",
+            "attributes": [
+                "bass guitar",
+                "synthesizer"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "attributes": [
+                "lead vocals"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40d1ad2f-e190-4d1e-9f9b-ba88144ac017",
+            "name": "Vinny Appice",
+            "attributes": [
+                "membranophone"
+            ]
+        },
+        {
+            "type": "member of band",
+            "mbid": "40d1ad2f-e190-4d1e-9f9b-ba88144ac017",
+            "name": "Vinny Appice",
+            "attributes": [
+                "membranophone"
+            ]
+        }
+    ]
+}

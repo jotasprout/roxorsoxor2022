@@ -1,0 +1,43 @@
+{
+    "name": "L.S.U.",
+    "mbid": "f2b81310-d559-4fd7-957d-2555c3887ab6",
+    "type": "Group",
+    "relations": [
+        {
+            "type": "member of band",
+            "mbid": "32cbf582-842d-41e4-9e13-cf14f32dd49f",
+            "name": "Andrew Carter",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "027f261b-c3ad-4c1f-a82b-f41be92cce69",
+            "name": "Chuck Cummings",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "d9218fd7-dc80-4df7-8057-8ed407825109",
+            "name": "Brian Doidge",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "0983f9c1-d639-4fc2-8c80-bea3b2cdc1ff",
+            "name": "Michael Hawkins",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "9fc83599-0345-4f8b-bb72-e2c014c2d6d0",
+            "name": "Steve Hindalong",
+            "attributes": []
+        },
+        {
+            "type": "member of band",
+            "mbid": "c5136927-432f-4588-bd35-8248b6c9abe1",
+            "name": "Michael Knott",
+            "attributes": []
+        }
+    ]
+}

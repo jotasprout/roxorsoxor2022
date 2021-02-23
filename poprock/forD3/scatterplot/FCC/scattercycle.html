@@ -1,0 +1,310 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>FCC Data Viz Project #4: Scatterplot</title>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes"> 
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+	<style>
+		.axis path,
+		.axis line {
+			fill: none;
+			stroke: black;
+			shape-rendering: crispEdges;
+		}
+		
+		.axis text {
+			font-family: sans-serif;
+			fill: black;
+		}
+
+        .title {
+            font: 24px sans-serif;
+            font-weight: bold;
+        }
+
+        .subtitle {
+            font: 18px sans-serif;
+        }
+
+        #forChart {
+            position: absolute;
+            width: 850px;
+        }
+
+        div.legend {
+            position: absolute;
+            right: 0px;
+            top: 300px; 
+        }
+
+        div.legend-row {
+            display: block;
+            height: 20px;
+            /*
+            margin-bottom: 5px;
+            */
+        }
+
+        div.legend-box {
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            right: 0px;
+        }
+
+        .legend-text {
+            text-align: right;
+            margin-right: 30px;
+        }
+
+        #doper {
+            background-color: blue;
+        }
+
+        #straight {
+            background-color: orange;
+        }
+
+        div.tooltip {
+            position: absolute;
+            text-align: left;
+            width: 150px;
+            height: 42px;
+            padding: 8px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+        }
+	
+	</style>
+</head>
+
+<body>
+<!-- 
+https://roxorsoxor.com/poprock/forD3/scatterplot/FCC/scattercycle.html
+
+https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph 
+
+https://codepen.io/freeCodeCamp/full/bgpXyK
+-->
+
+<div id="forChart"></div>
+    
+<script>
+
+const datafile = 'data/cyclist-data.json';
+	
+const strToYear = d3.timeParse('%Y');
+
+const forTitle = "Doping in Professional Bicycle Racing";
+const forSubTitle = "35 Fastest times up Alpe d'Huez";
+    
+const w = 900;
+const h = 700;
+
+const margin = {
+	top: 75,
+	right: 50,
+	bottom: 50,
+	left: 50
+};
+
+d3.json(datafile, function(dataset) {
+
+    console.log(dataset); 
+
+    const svg = d3.select("#forChart")
+                        .append("svg")
+                        .attr("width", w)
+                        .attr("height", h); 
+
+    const div = d3.select("#forChart")
+                  .append("div")
+                  .attr("class", "tooltip")
+                  .style("opacity", 0);
+
+    svg.append("text")
+        .style("text-anchor", "middle")
+        .attr("id", "title")
+        .attr("x", w/2)
+        .attr("y", margin.top - 40)
+        .text(forTitle)
+        .attr("class", "title");
+
+    svg.append("text")
+        .style("text-anchor", "middle")
+        .attr("id", "subtitle")
+        .attr("x", w/2)
+        .attr("y", margin.top - 15)
+        .text(forSubTitle)
+        .attr("class", "subtitle");
+	
+	const doper = function (d) {
+		let doper = true;
+		if (d.Doping = '') {
+			doper = false;
+		};
+		if (d.Doping != '') {
+			console.log (d.Doping);
+			doper = true; 
+		};
+		return doper;
+	};
+
+	const firstYear = d3.min(dataset, function(d) { return d.Year; });		
+	const lastYear = d3.max(dataset, function(d) { return d.Year; });			  
+	
+	const xScale = d3.scaleLinear()
+					 .domain([
+					 firstYear - 1,
+					 lastYear + 1
+					 ])
+					 .range([margin.left, w - margin.right]);
+
+	const timeFormatting = "%M:%S";
+
+	const parseTimes = d3.timeParse(timeFormatting);
+
+	const timesParsing = dataset.map(function(d){
+		return parseTimes(d.Time);
+	});
+
+	const yScale = d3.scaleTime()
+					.domain([
+						d3.min(timesParsing),
+						d3.max(timesParsing)
+					])
+					.range([margin.top, h - margin.bottom]);
+
+	const formatYear = d3.format("d");
+	
+    const xAxis = d3.axisBottom()
+					.scale(xScale)
+					.tickFormat(formatYear);
+/**/
+    const myTicks = ['37:00', '37:15', '37:30', '37:45', '38:00', '38:15', '38:30', '38:45', '39:00', '39:15', '39:30', '39:45'];
+    
+    const tickParsing = myTicks.map(function(d){
+		return parseTimes(d);
+    });
+    
+    console.log(tickParsing);
+    
+	const yAxis = d3.axisLeft(yScale)
+                    //.tickValues(timesParsing)
+                    .tickValues(tickParsing)
+					.tickFormat(function(d){
+						return d3.timeFormat(timeFormatting)(d)
+                    });
+
+	svg.selectAll("circle")
+        .data(dataset)
+        .enter()
+        .append("circle")
+        .attr("cx", function (d) {
+            let raceYear = parseInt(d.Year);
+            return xScale(raceYear);
+        })
+        .attr("cy", function(d) {
+        //let raceTime = parseInt(d.Seconds);
+        let raceTime = parseTimes(d.Time);
+        return yScale(raceTime);			
+        })
+        .attr("r", 5)
+        .style("fill", function (d) {
+        if (d.Doping === '') {
+            return "orange";
+        } else {
+            return "blue";
+        };
+        })
+        .attr("data-xvalue", function(d){
+          return parseInt(d.Year);
+        })
+        .attr("data-yvalue", function(d){
+          //return parseInt(d.Seconds);
+            const formatRaceSeconds = d3.timeFormat("%M:%S");
+            const s = new Date (2019, 7, 18);
+            const u = +s;
+            const raceSeconds = d.Seconds;
+            const newU = u + (raceSeconds * 1000);
+            return formatRaceSeconds(new Date(newU));
+        })
+        .on("mouseover", function(d){
+            div.attr("data-year", d.Year);
+            div.transition()
+               .duration(200)
+               .style("opacity", .9);
+            div.html(
+                 "<a href='" + d.URL + "' target='_blank'>" + d.Name + "</a>" +
+                 "<br>" + d.Nationality + " (" + d.Year + ")" +
+                 "<br>" + d.Time)
+               .style("left", (d3.event.pageX) + "px")
+               .style("top", (d3.event.pageY - 28) + "px");
+        });
+
+        /*
+        .on("mouseout", function(d){
+            div.transition()
+               .duration(500)
+               .style("opacity", 0);
+        });
+        */
+        //.append("title")
+        //.text(function(d){
+        //  return d.Name;
+        //});
+
+
+
+	svg.append("g")
+		.attr("class", "axis")
+	   .attr("transform", "translate(0," + (h - margin.bottom) + ")")
+	   .call(xAxis);
+
+	svg.append("g")
+		.attr("id", "y-axis")
+		.attr("transform", "translate(" + margin.left + ",0)")
+		.call(yAxis);
+        /* */                
+    const legend = d3.select("#forChart")
+                     .append("div")
+                       .attr("class", "legend")
+                       .attr("id", "legend")
+                     .append("div")
+                       .attr("class", "col");
+
+    const legendDoper = legend.append("div")
+                              .attr("class", "legend-row");
+
+    legendDoper.append("div")
+                 .attr("class", "legend-box")
+                 .attr("id", "doper");
+
+    legendDoper.append("p")
+                .attr("class", "legend-text")
+                .text("Riders with doping allegations");
+
+    const legendStraight = legend.append("div")
+                                 .attr("class", "legend-row");
+
+    legendStraight.append("div")
+                    .attr("class", "legend-box")
+                    .attr("id", "straight");   
+                    
+    legendStraight.append("p")
+                  .attr("class", "legend-text")
+                  .text("No doping allegations");                    
+
+});		
+</script>	
+
+</body>
+
+</html>
