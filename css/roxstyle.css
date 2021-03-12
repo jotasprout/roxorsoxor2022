@@ -50,12 +50,12 @@
 td:nth-child(2) {
     font-style: italic;
 }
-
+/*
 a {
 	color: white;
 	text-decoration: none;
 }
-
+*/
 .item:hover {
 	background-color: hsl(240, 100%, 75%);
 }
