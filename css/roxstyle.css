@@ -50,12 +50,14 @@
 td:nth-child(2) {
     font-style: italic;
 }
+
 /*
 a {
 	color: white;
 	text-decoration: none;
 }
 */
+
 .item:hover {
 	background-color: hsl(240, 100%, 75%);
 }
@@ -71,6 +73,34 @@ a {
 
 .pointyHead { 
 	cursor: pointer; 
+}
+
+li {
+	display: inline;
+}
+
+.afterEffects {
+	display: inline-block;
+}
+
+.camtasia {
+	display: inline-block;
+}
+
+.illustrator {
+	display: inline-block;
+}
+
+.photoshop {
+	display: inline-block;
+}
+
+.storyline {
+	display: inline-block;
+}
+
+.vyond {
+	display: inline-block;
 }
 
 /* First color in comment is html spec named color */
