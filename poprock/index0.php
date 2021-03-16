@@ -52,6 +52,7 @@ if(!$getit){
 
 	<div class='container-fluid'>
 	
+
 	<div id="fluidCon">
 			<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 
@@ -64,12 +65,12 @@ if(!$getit){
 				<div class="collapse navbar-collapse" id="navbarColor01">
 
 					<ul class="navbar-nav mr-auto">
-						<li class="nav-item active">
+						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/index.php'>Artists<br>Spotify
 							<span class="sr-only">(current)</span>
 							</a>
 						</li>
-						<li class="nav-item">
+						<li class="nav-item active">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/indexLastFM.php'>Artists<br>LastFM</a>
 						</li>
 						<li class="nav-item">
@@ -89,20 +90,17 @@ if(!$getit){
 						</li>		
 						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/dragdrop/dragDropArtists.php'>Drag Drop</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href='https://roxorsoxor.com/poprock/scattercovers.php'>Scatter</a>
-						</li>				
+						</li>			
 						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/rels.php'>Network</a>
 						</li>
 													
 						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+							<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Scatter</a>
 							<div class="dropdown-menu">
-								<a class="dropdown-item" href="#">Action</a>
-								<a class="dropdown-item" href="#">Another action</a>
-								<a class="dropdown-item" href="#">Something else here</a>
+								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers.php'>Black Sabbath</a>
+								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers2.php'>Ronnie James Dio</a>
+								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers3.php'>Dio</a>
 								<div class="dropdown-divider"></div>
 								<a class="dropdown-item" href="#">Separated link</a>
 							</div>

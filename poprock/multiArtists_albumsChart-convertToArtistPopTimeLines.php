@@ -18,7 +18,7 @@
 
  <div class="container">
 	
- <div id="fluidCon">
+<div id="fluidCon">
 			<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 
 				<a class="navbar-brand" href="#">PopRock</a>
@@ -55,20 +55,17 @@
 						</li>		
 						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/dragdrop/dragDropArtists.php'>Drag Drop</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href='https://roxorsoxor.com/poprock/scattercovers.php'>Scatter</a>
-						</li>				
+						</li>			
 						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/rels.php'>Network</a>
 						</li>
 													
 						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+							<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Scatter</a>
 							<div class="dropdown-menu">
-								<a class="dropdown-item" href="#">Action</a>
-								<a class="dropdown-item" href="#">Another action</a>
-								<a class="dropdown-item" href="#">Something else here</a>
+								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers.php'>Black Sabbath</a>
+								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers2.php'>Ronnie James Dio</a>
+								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers3.php'>Dio</a>
 								<div class="dropdown-divider"></div>
 								<a class="dropdown-item" href="#">Separated link</a>
 							</div>
