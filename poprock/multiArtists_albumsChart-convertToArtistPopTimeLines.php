@@ -35,7 +35,7 @@
 							<span class="sr-only">(current)</span>
 							</a>
 						</li>
-						<li class="nav-item active">
+						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/indexLastFM.php'>Artists<br>LastFM</a>
 						</li>
 						<li class="nav-item">

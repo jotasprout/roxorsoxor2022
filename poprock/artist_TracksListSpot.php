@@ -80,7 +80,7 @@ if ( !$getit ) {
 						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/artist_AlbumsListLastFM.php?artistSpotID=" + artistSpotID + "&artistMBID=" + artistMBID + "&source=musicbrainz'>Albums<br>LastFM</a>
 						</li>                                                
-						<li class="nav-item">
+						<li class="nav-item active">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/artist_TracksListSpot.php?artistSpotID=" + artistSpotID + "&artistMBID=" + artistMBID + "&source=spotify'>Tracks<br>Spotify</a>
 						</li>  
 						<li class="nav-item">

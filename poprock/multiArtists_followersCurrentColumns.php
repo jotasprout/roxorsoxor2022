@@ -32,7 +32,7 @@ require_once 'page_pieces/stylesAndScripts.php';
 							<span class="sr-only">(current)</span>
 							</a>
 						</li>
-						<li class="nav-item active">
+						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/indexLastFM.php'>Artists<br>LastFM</a>
 						</li>
 						<li class="nav-item">
@@ -44,7 +44,7 @@ require_once 'page_pieces/stylesAndScripts.php';
 						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/multiArtists_popCurrentColumns.php'>Current<br>Popularity</a>
 						</li>				
-						<li class="nav-item">
+						<li class="nav-item active">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/multiArtists_followersCurrentColumns.php'>Current<br>Followers</a>
 						</li>
 						<li class="nav-item">

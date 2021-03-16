@@ -64,7 +64,7 @@
 							<span class="sr-only">(current)</span>
 							</a>
 						</li>
-						<li class="nav-item active">
+						<li class="nav-item">
 							<a class="nav-link" href='https://roxorsoxor.com/poprock/indexLastFM.php'>Artists<br>LastFM</a>
 						</li>
 						<li class="nav-item">
@@ -94,7 +94,7 @@
 							<div class="dropdown-menu">
 								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers.php'>Black Sabbath</a>
 								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers2.php'>Ronnie James Dio</a>
-								<a class="dropdown-item" href='https://roxorsoxor.com/poprock/scattercovers3.php'>Dio</a>
+								<a class="dropdown-item active" href='https://roxorsoxor.com/poprock/scattercovers3.php'>Dio</a>
 								<div class="dropdown-divider"></div>
 								<a class="dropdown-item" href="#">Separated link</a>
 							</div>
