@@ -14,8 +14,67 @@ require_once 'page_pieces/stylesAndScripts.php';
 <body>
 
  <div class="container">
+	
  <div id="fluidCon">
-</div> <!-- end of fluidCon -->
+			<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+
+				<a class="navbar-brand" href="#">PopRock</a>
+
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="navbarColor01">
+
+					<ul class="navbar-nav mr-auto">
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/index.php'>Artists<br>Spotify
+							<span class="sr-only">(current)</span>
+							</a>
+						</li>
+						<li class="nav-item active">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/indexLastFM.php'>Artists<br>LastFM</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/multiArtists_albumsChart.php'>Related<br>Artists</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/multiArtists_popTimeLines.php'>Over Time<br>Popularity</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/multiArtists_popCurrentColumns.php'>Current<br>Popularity</a>
+						</li>				
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/multiArtists_followersCurrentColumns.php'>Current<br>Followers</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/genres/artistsGenres.php'>Genres</a>
+						</li>		
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/dragdrop/dragDropArtists.php'>Drag Drop</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/scattercovers.php'>Scatter</a>
+						</li>				
+						<li class="nav-item">
+							<a class="nav-link" href='https://roxorsoxor.com/poprock/rels.php'>Network</a>
+						</li>
+													
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+							<div class="dropdown-menu">
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Another action</a>
+								<a class="dropdown-item" href="#">Something else here</a>
+								<div class="dropdown-divider"></div>
+								<a class="dropdown-item" href="#">Separated link</a>
+							</div>
+						</li>
+					</ul>
+
+				</div> <!-- end of collapse -->
+			</nav> <!-- end of navbar -->		
+		</div> <!-- end of fluidCon -->
 	<div class="panel panel-primary">
 		<div class="panel-heading">
 			<h3 class="panel-title">These Artists' Current Followers On Spotify</h3>
@@ -120,7 +179,7 @@ require_once 'page_pieces/stylesAndScripts.php';
 
 
 		<?php echo $scriptsAndSuch; ?>	
-        <script src="https://www.roxorsoxor.com/poprock/page_pieces/navbarIndex.js"></script>
+
 </body>
 
 </html>
