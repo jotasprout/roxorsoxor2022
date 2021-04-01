@@ -3,8 +3,13 @@
 $(document).ready(function(){
     $('li').on('click', function() {
         // const $software = $('#'+$(this).data('content-id'));
-       $('.'+$(this).data('content-id')).fadeToggle();
-       // $software.hide();
-       // console.log($software);
+        $software = $(this).data('content-id');
+        $notSoftware = $('div').not('.'+$software);
+           // $('.'+$(this).data('content-id'))
+           $notSoftware.fadeToggle();
+
+       // $('.'+$(this).data('content-id')).fadeToggle();
+       // $software.fadeToggle();
+       console.log($software);
     });
 });
