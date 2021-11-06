@@ -34,8 +34,8 @@
 	color: white;
 	border-style: solid;
 	border-width: 0.125px;
-	border-color: hsl(240, 100%, 25%);
-	background-color: hsl(240, 100%, 50%);
+	border-color: hsl(179, 0%, 25%);
+	background-color: rgb(150, 150, 150);
 	margin: 0px;
 	display: flex;
 	align-items: center;
