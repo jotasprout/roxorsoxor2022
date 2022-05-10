@@ -5,6 +5,6 @@ $(document).ready(function(){
         $software = $(this).data('content-id');
         $notSoftware = $('div#container2 > div').not('.'+$software);
         $notSoftware.fadeToggle();
-        //console.log($software);
+        console.log($software);
     });
 });
