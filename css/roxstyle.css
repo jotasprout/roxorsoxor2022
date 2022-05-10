@@ -75,12 +75,12 @@ a {
 .pointyHead { 
 	cursor: pointer; 
 }
-
+/*
 li {
 	display: inline;
 	margin-right: 20px;
 }
-
+*/
 .afterEffects {
 	display: inline-block;
 }
