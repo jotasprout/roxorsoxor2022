@@ -1,6 +1,6 @@
 .DS_Store
 blog
-dbcreds.txt
+.gitignore
 imgs/PSD
 imgs/id/lc/large
 imgs/add-to-portfolio
