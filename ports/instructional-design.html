@@ -21,26 +21,6 @@
       <h1>Articulate Storyline Samples</h1>
     </header>
 
-
-    <div class="container">
-      <h3>Popover Options</h3>
-      <p>The <strong>animation</strong> option specifies whether to add a CSS fade transition effect when opening and closing the popover.</p>
-      <div>
-        <button class="btn btn-success btn-md">Click me (animation: true)</button>
-        <button class="btn btn-warning btn-md">Click me (animation: false)</button>
-      </div>
-    </div>
-    
-    <script>
-    $(document).ready(function(){
-      $('.btn-success').popover({title: "Header", content: "Blabla", animation: true}); 
-      $('.btn-warning').popover({title: "Header", content: "Blabla", animation: false}); 
-      $('.btn').popover({title: "Header", content: "Blabla", container: ".parent"}); 
-    });
-    </script>
-
-
-
     <section>
 
 
@@ -123,11 +103,7 @@
       
       
     </section>
-    <div class="container">
-      <h3>Popover Options</h3>
-      <p>The <strong>html</strong> option specifies whether to accept HTML tags in the popover.</p>
-      <button class="btn btn-success btn-md">Click me</button>
-    </div>
+
 
     <div class="container">
       <h3>Popover Example</h3>
@@ -139,6 +115,25 @@
       </ul>
     </div>
     
+
+    <div class="container">
+        <h3>Popover Options</h3>
+        <p>The trigger option specifies how the popover is triggered.</p>
+        <div>
+          <button class="btn btn-success btn-md">Click me</button>
+          <button class="btn btn-warning btn-md">Hover over me</button>
+          <button class="btn btn-danger btn-md">Focus (tab or click)</button>
+        </div>
+      </div>
+      
+      <script>
+      $(document).ready(function(){
+        $('.btn-success').popover({title: "Header", content: "Blabla", trigger: "click"}); 
+        $('.btn-warning').popover({title: "Header", content: "Blabla", trigger: "hover"}); 
+        $('.btn-danger').popover({title: "Header", content: "Blabla", trigger: "focus"}); 
+      });
+      </script>
+
     <script>
     $(document).ready(function(){
         $('[data-toggle="popover"]').popover();   
@@ -146,10 +141,10 @@
     </script>
 
 <script>
-  $(document).ready(function(){
-    $('.btn').popover({title: "<h1><strong>HTML</strong> inside <code>the</code> <em>popover</em></h1>", content: "Blabla <br> <h2>Cool stuff!</h2>", html: true, placement: "right"}); 
-  });
-  </script>
+    $(document).ready(function(){
+    $('.btn').popover({title: "Header", content: "Blabla", container: ".parent"}); 
+    });
+</script>
 
   </body>
 </html>
