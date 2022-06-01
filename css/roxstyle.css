@@ -49,10 +49,24 @@
 	justify-content: center;
 	transition-property: background-color;
 	transition-duration: 0.35s;
-	/* 
-	vertical-align: middle;
-	transform: translate (-50%, -50%);
-	*/
+}
+/*
+.inlineTop {
+	margin-right: 5px; 
+	font-size: 20px; 
+	line-height: 22px;
+	height: 30px; 
+	width: 30px;
+	background-color: yellow;
+	vertical-align: top; 
+}
+*/
+img {
+	display: inline-block; 
+	vertical-align: top; 
+	width: 175px;
+	height: auto;
+	margin-bottom: 5px;
 }
 
 td:nth-child(2) {
